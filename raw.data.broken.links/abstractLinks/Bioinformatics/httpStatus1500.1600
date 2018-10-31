@@ -1,0 +1,100 @@
+27307647 2016 null circadiomics.igb.uci.edu/ -1 
+24903420 2014 available https://github.com/dphansti/Sushi 301 package http://bioconductor.org/packages/release/bioc/html/Sushi.html 200 
+24903418 2014 available http://gofid.biologie.hu-berlin.de/ 200 code https://bitbucket.org/floettma/sensa/ 301 
+24907369 2014 available https://github.com/mozack/abra 301 
+25964630 2015 available http://www.psygenet.org/ 302 null http://opendatacommons.org/licenses/odbl/1.0/ 301 
+27153586 2016 null https://github.com/metagenomics/MeCorS 301 
+24845652 2014 download http://bioinformatics.ustc.edu.cn/CLImAT/ 200 
+24872426 2014 available http://modpepint.informatik.uni-freiburg.de/ 200 
+24894503 2014 null http://bioconductor.org 200 
+24833804 2014 available http://www.bioinf.uni-freiburg.de/Software/ 200 
+24876377 2014 available http://bioinformaticstools.mayo.edu/research/patterncnv/ 200 package https://github.com/topsoil/patternCNV/ 301 
+24849578 2014 software http://www.cbrg.ox.ac.uk/data/pivotviewer/ 302 
+24794932 2014 available https://github.com/s312569/clj-biosequence 301 
+25161252 2014 available http://bio-nets.doc.ic.ac.uk/GO-Reconstruction/ 301 
+24813542 2014 null http://broadinstitute.org/mpg/snpsea 301 
+24753486 2014 null http://www.cran.r-project.org 200 
+24825612 2014 null http://pycorrfit.craban.de 301 
+24812336 2014 available http://thielelab.eu 302 
+24894501 2014 null http://genome.sph.umich.edu/wiki/RAREMETAL 302 
+24947751 2014 software http://www2.warwick.ac.uk/fac/sci/systemsbiology/research/software 301 
+25900919 2015 package http://cran.r-project.org/web/packages/edgeRun 301 
+25161218 2014 abstractNotFound
+25161219 2014 available http://www.seqan.de/projects/lambda 301 
+25161220 2014 available http://www.seqan.de/projects/fiona 301 
+25161221 2014 null http://EvryRNA.ibisc.univ-evry.fr 301 
+25161222 2014 NoLink
+25161223 2014 code https://github.com/kuleshov/ProbHap 301 
+25161224 2014 NoLink
+25161225 2014 null http://broad-enrich.med.umich.edu 200 
+25161226 2014 
+25161227 2014 code www.kostkalab.net/software -1 
+25161228 2014 available https://sourceforge.net/projects/dacoalgorithm/ 301 
+25161229 2014 available http://bibs.snu.ac.kr/ipas 200 
+25161230 2014 available http://www.stats.ox.ac.uk/research/proteins/resources 301 
+25161231 2014 
+25161232 2014 NoLink
+25161233 2014 available http://sbm.postech.ac.kr/tempi/sources.zip -1 
+25161251 2014 pipeline http://bcfind.dinfo.unifi.it/ 200 
+25161234 2014 software http://research.ics.aalto.fi/mi/software/peakANOVA/ 301 
+25161239 2014 software http://research.ics.aalto.fi/mi/software/GFAsparse 301 
+25161243 2014 code http://algbio.cs.uni-duesseldorf.de/software/RidgeRace.tar.gz -1 
+25161238 2014 available http://rna.informatik.uni-freiburg.de/CRISPRmap 302 
+25161256 2014 null http://protonet.cs.huji.ac.il/bestFront/ 200 
+25161240 2014 
+25161241 2014 null http://lcb.infotech.monash.edu.au/I-value 301 available http://lcb.infotech.monash.edu.au/I-value/suppl.html 200 
+25161242 2014 software http://www-ens.iro.umontreal.ca/~lafonman/software.php 302 
+25161258 2014 available http://sourceforge.net/p/cnvoffseq/ 302 
+25161244 2014 null https://github.com/pbenner/tfbayes 301 null https://github.com/bacak/TrAP 301 
+25161245 2014 available https://github.com/smirarab/ASTRAL/ 301 available http://www.cs.utexas.edu/users/phylo/datasets/astral 301 
+25161246 2014 available http://bg.upf.edu/oncodrive-role 301 available http://bg.upf.edu/oncodrive-role 301 null nuria.lopez@upf.edu -1 
+25161247 2014 available https://github.com/mehmetgonen/kbmtl 301 
+25161248 2014 NoLink
+25161249 2014 
+25161255 2014 available http://www.bioconductor.org/packages/2.13/bioc/html/BiRewire.html 200 
+25161235 2014 
+25236458 2015 NoLink
+25161253 2014 available http://bionerds.sourceforge.net/networks/ 200 
+25161254 2014 
+25161237 2014 available https://www.github.com/ElofssonLab/pcons-fold 301 available http://c.pcons.net/ 200 
+25161257 2014 null http://www.nanocan.org/miracle/ -1 
+26769317 2016 available http://groups.csail.mit.edu/cb/DiffPriv/ 301 
+25161236 2014 null http://www.biosys.uni-jena.de/Services.html 200 
+NA 2014 abstractNotFound
+24771516 2014 code https://code.google.com/p/thunder-storm/ 405 
+25016581 2014 null http://oncocnv.curie.fr/ 302 
+25123898 2014 null http://mindthegap.genouest.org 200 
+25165095 2014 available http://atgc.lirmm.fr/lordec 301 
+25286921 2014 
+25172923 2014 null http://www.naked-mole-rat.org 200 null http://www.naked-mole-rat.org 200 code https://github.com/maglab/naked-mole-rat-portal 301 
+25189782 2015 null http://mygoblet.org/training-portal 302 
+25488929 2015 NoLink
+25236461 2015 code http://rest.ensembl.org 200 null http://github.com/Ensembl/ensembl-rest 301 
+25192741 2015 tool http://balestra.csb.pitt.edu/ 200 
+25189778 2015 null http://pcingola.github.io/BigDataScript 301 
+25183487 2015 null http://www.rcsb.org 200 
+19910308 2010 null http://bioconductor.org 200 
+25143291 2014 available https://www.github.com/arq5x/poretools 301 available http://poretools.readthedocs.org 301 
+25189781 2014 available http://github.com/StoreyLab/subSeq/ 301 
+25170027 2014 available http://bioinformaticstools.mayo.edu/research/rvboost/ 200 
+25614471 2015 available https://github.com/handetopa/BBGP 301 
+25637556 2015 null https://github.com/TGAC/RAMPART 301 available http://rampart.readthedocs.org/en/latest 301 
+25262154 2015 null http://joey711.github.io/shiny-phyloseq/ 200 
+25273102 2015 available http://bitbucket.org/hgvs/hgvs/ 301 available https://pypi.python.org/pypi/hgvs 301 
+25260700 2015 available http://www-huber.embl.de/HTSeq 301 null https://pypi.python.org/pypi/HTSeq 301 
+25266224 2015 available http://sigma.omicsbio.org 200 
+25319962 2015 available http://avigailtaylor.github.io/gntat14 301 
+25273103 2015 null http://bibiserv.cebitec.uni-bielefeld.de/rnashapesstudio 301 
+25304777 2015 null http://www.biocomputing.it/tabhu 302 
+25294920 2015 available www.bioinf.manchester.ac.uk/dupliphy/ -1 
+25294921 2015 available https://elbe.hki-jena.de/fungifun/ 302 
+25399028 2015 available http://www.theosysbio.bio.ic.ac.uk/resources/sysbions/ 200 
+25342065 2015 available http://bowhan.github.io/piPipes/ 200 
+25336500 2015 NoLink
+25152231 2015 code http://bhanot.biomaps.rutgers.edu/wiki/codes_SC3_Predicting_GeneSets.zip 301 code http://bhanot.biomaps.rutgers.edu/wiki/codes_SC3_Predicting_GeneSets.zip 301 
+24994890 2015 code www.sbvimprover.com -1 null http://github.com/uci-igb/improver2013 301 code http://bhanot.biomaps.rutgers.edu/wiki/AMG-sc2-code.zip 301 
+25236459 2015 
+25332377 2015 available https://github.com/danlbek/Seed 301 
+25294919 2015 
+25359895 2015 available http://bioinf.eva.mpg.de/deml/ 302 
+25432166 2015 available http://www.bi.cs.titech.ac.jp/ghostz/ 200 

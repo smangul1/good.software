@@ -1,0 +1,100 @@
+15676075 2005 null http://cascad.niob.knaw.nl -1 
+15357875 2004 method http://www.microarray.org/mufu 301 
+15598342 2004 NoLink
+24564223 2013 here http://www.cbs.dtu.dk/services/NetMHC/ 200 here http://www.cbs.dtu.dk/services/NetMHC/ 200 null NC_000962 -1 
+15762987 2005 null http://cgap.nci.nih.gov/SAGE/ 301 tool http://spi.mdacc.tmc.edu/bitools/about/sage_lib_tool.html -1 available http://sciencepark.mdanderson.org/ggeg/sage_Proj_9.htm 404 null http://david.niaid.nih.gov/david -1 available http://mapageweb.umontreal.ca/maders/eredatabase/ 200 null http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v415/n6871/abs/415530a_fs.html 303 null http://www.pnas.org/cgi/content/abstract/100/18/10393 301 
+16336651 2005 null CP000086 -1 null CP000085 -1 
+15836779 2005 NoLink
+15804358 2005 null http://www.genome.ucsc.edu 200 
+15804357 2005 null http://www.affymetric.com -1 
+15842729 2005 NoLink
+15847692 2005 here http://asthmagenomics.ucsf.edu -1 software http://stat-www.berkeley.edu/~bolstad/RMAExpress/RMAExpress.html -1 
+15854223 2005 available http://www.nematode.net 302 null http://www.wormbase.org 200 null http://www.wormbase.org 200 available http://www.nematode.net 302 available http://www.nematode.net 302 null http://www.wormbase.org 200 null ftp://ftp.ebi.ac.uk/pub/software/unix/iprscan 301 available http://www.godatabase.org/cgi-bin/go.cgi -1 available http://www.nematode.net 302 null http://us.expasy.org/sprot/ 302 null http://us.expasy.org/sprot/ 302 
+15854232 2005 null http://www.ncbi.nih.nlm/LocusLink -1 available http://www.bioconductor.org 200 null http://www.ncbi.nlm.nih.gov 301 null http://www.ensembl.org 302 null http://www.ncbi.nlm.nih.gov 301 algorithm http://www.appliedbiosystems.com/ 301 
+15804363 2005 NoLink
+15807896 2005 NoLink
+15807902 2005 null http://www.biomedcentral.com/imedia/6962194924713244/sup1.xls 302 
+15811185 2005 tool https://www.affymetrix.com/analysis/netaffx/index.affx 302 null http://www.kbioscience.co.uk/ 301 
+16091152 2005 null http://www.ncbi.nlm.nih.gov/pubmed/ 301 null Q8I943 -1 null Q8ISJ9 -1 null Q9V858 -1 null Q9V9K3 -1 null Q8SWR3 -1 null Q9V5T1 -1 null Q9VDC4 -1 null Q9VT27 -1 null Q9W025 -1 null Q9W027 -1 null GRHRII_Dro -1 null Q8SX01 -1 null Q9NDI1 -1 null Q9VBP0 -1 null Q9VYG0 -1 null Q8MKU0 -1 null Q9VWQ9 -1 null Q9VWR3 -1 null Q8SZ35 -1 null Q9VRM0 -1 null Q9VW75 -1 null Q9W189 -1 null Q9VTU7 -1 null Q9VVJ1 -1 null Q9VCZ3 -1 null Q9VG54 -1 null O77269 -1 null O77270 -1 null Q9VEG1 -1 null Q9VEG2 -1 null Q9VAA2 -1 null Q9VHW1 -1 null Q9VMI4 -1 null Q9VBG4 -1 null Q9VE32 -1 null Q9W3V5 -1 null Q9NEF7 -1 null Q9V6C7 -1 null Q9V6N4 -1 null Q9V716 -1 null Q8INM0 -1 null Q8IPD0 -1 null Q8SZ78 -1 null Q8T4B2 -1 null Q9V4V8 -1 null STAN_DROME -1 null Q9V4U4 -1 null BOSS_DROME -1 null Q9VKA4 -1 null Q9VNZ5 -1 null Q9VR40 -1 
+16095544 2005 null AC148723 -1 null AC149099 -1 null AC148779 -1 null AC148618 -1 null AC148617 -1 null AC148616 -1 null AY880883 -1 null AY880888 -1 null CAB51372 -1 null AF091779 -1 null AF091780 -1 null AF141605 -1 null AF278717 -1 null AJ295231 -1 null AY463929 -1 null AB162342.1 -1 null AB162343.1 -1 null CAB51372 -1 null DAA01561 -1 null NP_741053 -1 
+16098230 2005 NoLink
+16107210 2005 NoLink
+16107220 2005 null DQ017407,6 -1 null DQ017409,8 -1 null DQ017395,4 -1 null DQ017400,1 -1 null DQ017398,9 -1 null DQ017397,6 -1 null DQ017403,2 -1 null DQ017405,4 -1 null DQ017410,1 -1 null DQ017412,3 -1 null DQ017414,5 -1 null DQ017416,7 -1 null DQ017418,9 -1 null DQ017420,1 -1 null DQ017422,3 -1 null DQ017424,5 -1 null DQ017426,7 -1 null DQ017428,9 -1 null DQ017430,1 -1 null DQ017432,3 -1 null DQ017434,5 -1 null DQ017436,7 -1 null DQ017438,9 -1 null DQ017440,1 -1 null DQ017442,3 -1 null DQ017444,5 -1 null DQ017446,7 -1 null DQ017448,9 -1 null DQ017450,1 -1 null DQ017455,4 -1 null DQ017456,7 -1 null DQ017453,2 -1 null DQ017458,9 -1 null DQ017460,1 -1 
+16129025 2005 NoLink
+16131397 2005 null AACY01501371 -1 null 1R30 -1 null 1KTB -1 null 1R46 -1 null 1UAS -1 null 1I6N -1 
+16083503 2005 available http://hugheslab.med.utoronto.ca/Babak/ncRNA/ 302 null AY954743 -1 null AY954751 -1 
+16091132 2005 null AY639936 -1 null NC_006281 -1 null NC_011243 -1 null AY699271 -1 null AY659990 -1 null NC_003058 -1 null NC_004251 -1 null NC_002184 -1 null NC_005037 -1 null AY562127 -1 null NC_006081 -1 
+16343346 2005 software http://www.gti.ed.ac.uk/GPX 404 available http://www.gti.ed.ac.uk/GPX/software 404 null http://www.gti.ed.ac.uk 200 null http://bioinf.man.ac.uk/microarray/maxd/ 404 available http://www.gti.ed.ac.uk/GPX/software 404 software http://www.gti.ed.ac.uk/GPX 404 
+16343347 2005 null http://www.ToxoDB.org 301 null http://www.PlasmoDB.org 301 null http://www.CryptoDB.org 301 null http://www.ToxoDB.org 301 null http://www.PlasmoDB.org 301 null http://www.CryptoDB.org 301 
+16351727 2005 NoLink
+16359543 2005 NoLink
+16321156 2005 null CK877169 -1 null CK879929 -1 null CK884015 -1 null CK886537 -1 null CN181112 -1 null CN181464 -1 null http://www.salmongenome.no/ 403 
+16368011 2005 NoLink
+16329762 2005 NoLink
+16332259 2005 null ftp://ftp.ensembl.org/pub/assembly/zebrafish/ 200 null ftp://ftp.ebi.ac.uk/pub/software/unix/wise2/ 200 null http://genome.jgi-psf.org/fugu6/ 302 method http://www.genoscope.cns.fr/externe/tetranew/ 200 null ftp://ftp.ensembl.org/pub/assembly/zebrafish/ 200 null http://www.biophys.kyoto-u.ac.jp/~katoh/programs/align/xced/ 404 null http://pfaat.sourceforge.net/ 200 null http://pbil.univ-lyon1.fr/software/njplot.html 301 null http://atgc.lirmm.fr/phyml/ 200 null http://www.genetics.wustl.edu/eddy/atv/ 301 null AY072961 -1 null AY074256 -1 null AAC82383 -1 null AAC82384 -1 null AAC82385 -1 null CAA10135 -1 null CAA10136 -1 null NP_851301.1 -1 null NP_851302.1 -1 null NP_851303.1 -1 null NP_775385.1 -1 null NP_775386.1 -1 null NP_775387.1 -1 null http://www.gpcr.org/ 200 method http://www.datamonkey.org 200 null DQ305986 -1 null DQ306145 -1 null DQ306146 -1 null DQ306202 -1 null DQ306203 -1 null DQ306259 -1 available http://weblogo.berkeley.edu/ 200 
+16669996 2006 null AB181537 -1 null AB181538 -1 
+16336638 2005 null AJ969069 -1 null AJ969070 -1 null AJ969071 -1 null AJ969072 -1 null AJ969073 -1 null AJ969074 -1 null AJ297706 -1 null AJ972409 -1 null AM040506 -1 null AM040505 -1 null AJ297706 -1 null AJ297706 -1 null AJ297706 -1 
+16336644 2005 null NC_003119 -1 null NC_007144 -1 null NC_001879 -1 null NC_000932 -1 null NC_004561 -1 null NC_002202 -1 null NC_006290 -1 
+16336669 2005 NoLink
+15710041 2005 NoLink
+15710039 2005 null http://qge.fhcrc.org/probeplus 301 
+15715905 2005 NoLink
+15717931 2005 NoLink
+15717932 2005 null http://www.genomesonline.org 301 null http://www.ncbi.nlm.nih.gov/BLAST 301 null http://npsa-pbil.ibcp.fr 301 null http://www.sbg.bio.ic.ac.uk 200 null http://npsa-pbil.ibcp.fr 301 null http://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi 301 null http://www.sanger.ac.uk/Software/Pfam 301 null http://www.sbc.su.se/~miklos/DAS/maindas.html; 404 null http://www.sbc.su.se/~miklos/DAS/maindas.html; 404 null http://afmb.cnrs-mrs.fr/CAZY/ -1 
+15717927 2005 NoLink
+22050702 2011 null http://mirbase.org/ 200 available http://www.interna-technologies.com 200 
+15790428 2005 null http://cgsigma.cshl.org/CEPDB/ 200 null http://rulai.cshl.org/software/index1.htm 200 available http://www.OPD.tau.ac.il. -1 null http://sgd.nia.nih.gov/ -1 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM 301 null http://www.futuresoft.org/modules/MarFinder/ 302 
+15720707 2005 null http://wheat.pw.usda.gov/ITMI/EST-SSR/LaRota/ 302 null http://wheat.pw.usda.gov/ITMI/EST-SSR/LaRota/ 302 null http://wheat.pw.usda.gov/ITMI/EST-SSR/LaRota/ 302 
+15723697 2005 null http://corg.molgen.mpg.de 200 null http://corg.molgen.mpg.de 200 null http://tomcat.molgen.mpg.de:8080/das -1 available http://corg.molgen.mpg.de/DAS_tutorial.htm 404 
+15733318 2005 NoLink
+15733327 2005 NoLink
+15693999 2005 available http://www.ensembl.org/Gallus_gallus/ 302 available http://www.ensembl.org/Gallus_gallus/ 302 null http://chickrh.toulouse.inra.fr/ -1 null http://www.thearkdb.org/browser?species=chicken 404 null https://acedb.asg.wur.nl/ -1 available http://genopole.toulouse.inra.fr/bioinfo/Iccare/ -1 null http://www.inra.fr/bia/T/CarthaGene/ 301 available http://www.ensembl.org/ 302 available http://www.ensembl.org/Gallus_gallus/ 302 
+15694003 2005 NoLink
+15698474 2005 null http://www.genomesonline.org 301 null http://genolist.pasteur.fr 200 null http://www.mysql.com/ 301 null http://www.ncbi.nlm.nih.gov/projects/collab/FT/index.html 301 null http://www.infobiogen.fr/services/Teraprot/ -1 code http://www.biosapiens.info/ 200 library http://www.boutell.com/gd/ 302 application http://dbi.perl.org/about/ 302 null http://www.expasy.org/sprot/hamap/slides/hamap.html 302 null http://www.infobiogen.fr/services/Teraprot/ -1 null http://bioinfo.hku.hk/GenoList/index.pl?database=leptolist -1 null http://bioinfo.hku.hk/genochore.html -1 
+15647114 2005 here http://www.ncbi.nlm.nih.gov 301 null http://taxonomy.zoology.gla.ac.uk/rod/treeview.html 200 software http://www.cbs.dtu.dk/services/NetNGlyc/ 200 
+15656902 2005 NoLink
+15667661 2005 null http://www.ncbi.nlm.nih.gov/ 301 
+15676076 2005 null http://www.ncbi.nlm.nih.gov/BLAST/ 301 null http://www.ensembl.org/ 302 null http://genome.jgi-psf.org/ciona4/ciona4.home.html 302 null http://aluminum.jgi-psf.org/prod/bin/blast.fugu3.cgi -1 null http://www.softberry.com/berry.phtml 200 null http://genes.mit.edu/GENSCAN.html 200 null http://smart.embl-heidelberg.de/ 200 null http://hits.isb-sib.ch/cgi-bin/PFSCAN 301 null http://www.cbs.dtu.dk/services/SignalP/ 200 
+15720711 2005 available ftp://genesilico.pl/iamb/models/COG4636/ 404 code http://sourceforge.net/projects/pyxml 301 null http://genesilico.pl/meta/ 302 available ftp://genesilico.pl/iamb/models/COG4636/ 404 
+15676066 2005 available ftp://ftp.dcs.warwick.ac.uk/people/Stephen.Jarvis/ 200 null http://www.molbiol.ox.ac.uk/~saunders/ 302 
+15720717 2005 NoLink
+15760469 2005 available http://www.medsci.uu.se/molmed/software.htm 404 software http://www.bioinfo.helsinki.fi/SNPSnapper/ -1 
+17201911 2007 null BC072457 -1 
+17212814 2007 null http://agd.vital-it.ch/ 301 here http://agd.unibas.ch/Ashbya_gossypii/geneview?gene=[NAME] 200 
+17204139 2007 NoLink
+16011810 2005 available http://pepr.cnmcresearch.org -1 available http://pepr.cnmcresearch.org -1 null http://www.ncbi.nlm.nih.gov 301 
+16042783 2005 package http://www.r-project.org 200 software http://www.bioconductor.org 200 
+16042788 2005 null http://www.plasmodb.org 301 null http://www.toxodb.org 301 
+16042794 2005 NoLink
+16042802 2005 NoLink
+16042811 2005 NoLink
+16000168 2005 null http://medgen.ugent.be/arrayCGHbase 301 null http://www.ensembl.org 302 null http://genome.ucsc.edu 200 null http://gdbwww.gdb.org -1 null http://medgen.UGent.be/rtprimerdb/ 403 
+15949038 2005 NoLink
+15955238 2005 NoLink
+15955240 2005 null http://drnelson.utmem.edu/cytochromeP450.html -1 null http://genome.jgi-psf.org/whiterot1/whiterot1.home.html 302 null http://drnelson.utmem.edu/whiterot.html -1 null http://www.ebi.ac.uk/clustalw/ 301 software http://www.megasoftware.net 200 null http://drnelson.utmem.edu/cytochromeP450.html -1 null http://132.192.64.52/blast/P450.html -1 null http://drnelson.utmem.edu/53clan2.pdf -1 null http://drnelson.utmem.edu/53clan2.pdf -1 
+16303057 2005 null CK990464 -1 null AY785949 -1 null CK990464 -1 null AY785950 -1 null CK990464 -1 null AY785950 -1 null AY785949 -1 library BX649275 -1 null CR848737.2 -1 null CA591505 -1 null CA588342 -1 here CA588225 -1 null AI984139 -1 null AI983786 -1 null AI983612 -1 null XP422715.1 -1 null AY398374 -1 null AF029250 -1 null CK990464 -1 null CK990464 -1 null NP035871.1 -1 null Q28983 -1 null Q9Y493 -1 null L21998.1 -1 null P04275 -1 null Q62635 -1 null NP003881.1 -1 null XP422715.1 -1 
+15960851 2005 null http://www.ncbi.nlm.nih.gov/genomes/MICROBES/Complete.html 301 tool http://www.bacterialphylogeny.com 302 
+15963225 2005 NoLink
+15929794 2005 null GSE2697 -1 null GSE2698 -1 null GSE2694 -1 null GSE2695 -1 download http://gia.umn.edu/index.cgi?DownloadPage. -1 
+15978131 2005 NoLink
+15932642 2005 null http://www.ncbi.nlm.nih.gov/mapview/ 301 null http://arabidopsis.org/ 301 null http://www.tigr.org/tdb/e2k1/ath1/ 301 null http://www.tigr.org/tdb/e2k1/plant.repeats/ 301 null http://nucleus.cshl.org/protarab/AtRepBase.htm 404 
+15935094 2005 null http://www.ncbi.nlm.nih.gov/LocusLink/ 301 null http://www.genome.ucsc.edu/cgi-bin/hgBlat 200 null http://members.aol.com/johnp71/javastat.html 301 
+15938745 2005 null http://genome-www5.stanford.edu/MicroArray/SMD/ 301 null http://www.genome.jp/dbget-bin/get_htext?Exp_DB+-e+L+C+-s+F+-f+F+C 200 null http://www.cbs.dtu.dk/~steen/Bacillus.html 403 null http://www.genome.ad.jp/dbget-bin/get_htext?Exp_DB+-e+L+C+-s+F+-f+F+C 301 null http://www.stat.wisc.edu/~newton/papers/abstracts/btr139a.html 200 
+15938755 2005 NoLink
+15938759 2005 NoLink
+17199895 2007 null BN000837 -1 null BN000846 -1 null BN000842 -1 null BN001004 -1 null BN000843 -1 null BN000844 -1 null BN000839 -1 null BN000838 -1 null BN001003 -1 null BN000840 -1 null BN000836 -1 null BN000841 -1 null BN001007 -1 null BN000845 -1 null BN001008 -1 null BN001013 -1 null BN001005 -1 null BN001006 -1 null BN001010 -1 null BN001011 -1 null BN001012 -1 null BN001009 -1 null BN000848 -1 null BN000993 -1 null BN000992 -1 null BN000994 -1 null BN000995 -1 null BN000996 -1 null BN000849 -1 null BN000886 -1 null BN001002 -1 null BN000997 -1 null BN001001 -1 null BN000998 -1 null BN001000 -1 null BN000999 -1 null BN000889 -1 null BN000991 -1 null BN000887 -1 null NW_140397 -1 null BC040198 -1 null BC056484 -1 null U67922 -1 null AY184242 -1 null AY017311 -1 null AY659987 -1 null CAG34288 -1 null CAG34289 -1 null CAG34290 -1 null CAD35503 -1 null CAG34291 -1 null CAG30521 -1 null CAG34293 -1 null CAG34294 -1 null CAG34292 -1 null CAG34295 -1 null BAC01166 -1 null NP_991149 -1 null AAR99478 -1 null CAG30664 -1 null AAQ76701 -1 null CAG28803 -1 null AAN38988 -1 null AAW33660 -1 null AAW33661 -1 null AAN38989 -1 null AAO62075 -1 null ABB90540 -1 null CAG28804 -1 null DAA05687 -1 null AAA61833 -1 null AAT68002 -1 null NP_990796 -1 null AAF73436 -1 null AAF82604 -1 null AAD47049 -1 null AAD47045 -1 null AAD47050 -1 null BAC66701 -1 null CAB81568 -1 null CAC86159 -1 null XP_525256 -1 null NP_075530 -1 null XP_230542 -1 null NP_776583 -1 null NP_001009261 -1 null AAM94875 -1 null AAM94877 -1 null XP_542905 -1 null AAM94876 -1 null AAM94872 -1 null AAM94873 -1 null BN000995 -1 null BN000890 -1 null BN000891 -1 null BN000892 -1 null CAD20691 -1 
+16162286 2005 NoLink
+16412254 2006 null DQ208194 -1 null DU135285 -1 null DU135346 -1 
+15946383 2005 tool http://hcgs.unh.edu/cichlid/ 302 null http://hcgs.unh.edu/ 302 null http://www.agcol.arizona.edu/software/fpc/faq.html 200 null http://hcgs.unh.edu/fpc/image.php 302 null http://hcgs.unh.edu/BAC/ 302 
+15760464 2005 null http://www.mathworks.com/products/matlab/ 301 null http://www.postgresql.org 301 null http://www.redhat.com 301 download http://www.marinegenomics.org/~mckilldj/MIAME.xls 404 download http://www.marinegenomics.org 200 available http://www.marinegenomics.org/mgma_get.m 404 
+15757516 2005 NoLink
+15780142 2005 null http://www.textpresso.org 200 null http://www.wormbase.org 200 available http://www.affymetrix.com 301 null http://www.wormbase.org 200 null http://www.wormbase.org 200 null http://www.textpresso.org 200 null http://vidal.dfci.harvard.edu/promoteromedb 404 null http://www.wormbase.org 200 null http://www.wormbase.org 200 null http://www.wormbase.org 200 
+16854234 2006 NoLink
+15774015 2005 NoLink
+15877817 2005 null http://www.wormbase.org 200 null http://www.genelynx.org -1 null http://www.wormbase.org 200 null http://genome-www.stanford.edu/group/fire/ 404 null http://www.wormbase.org 200 null http://www.wormbase.org 200 null http://www.wormbase.org 200 null http://www.wormbase.org 200 null http://www.wormbase.org 200 
+15777472 2005 null http://neibank.nei.nih.gov/index.shtml 301 null http://www.umich.edu/~igene/ 403 null ftp://ftp.ncbi.nih.gov/refseq/ 301 null http://repeatmasker.genome.washington.edu/cgi-bin/RepeatMasker 403 null http://cran.us.r-project.org 200 
+15777476 2005 NoLink
+15740627 2005 NoLink
+15740615 2005 null http://dictybase.org 200 
+15762992 2005 null http://dir.niehs.nih.gov/microarray/methods.htm -1 null http://dir.niehs.nih.gov/microarray/chips.htm -1 
+15784153 2005 null http://www.cosmoss.org 200 

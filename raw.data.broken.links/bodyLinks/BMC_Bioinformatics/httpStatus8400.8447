@@ -1,0 +1,47 @@
+29072136 2017 NoLink
+29072138 2017 NoLink
+29065872 2017 NoLink
+29072140 2017 NoLink
+29072143 2017 NoLink
+29072144 2017 null http://enhan-cer.lbl.gov/ -1 null https://enhancer.lbl.gov/ 301 download http://hgdownload.soe.ucsc.edu/downloads.html#human 200 null http://www.roadmapepigenomics.org/ 200 null http://genome.ucsc.edu/cgi-bin/hgTables 200 
+29072142 2017 NoLink
+29072141 2017 null http://bergmanlab.ls.manchester.ac.uk/ -1 available http://bioputer.mimuw.edu.pl/transcendence 301 
+29072147 2017 NoLink
+29065853 2017 null Bowtie2 -1 null GSnap -1 
+29072135 2017 null http://mendel.gene.cwru.edu/laframboiselab/ 200 
+29070028 2017 available https://riboviz.org/ 301 null http://jquery.com 200 null http://getbootstrap.com 200 null https://github.com/shahpr/RiboViz 301 
+29072139 2017 NoLink
+29084508 2017 NoLink
+28859631 2017 package https://cran.rstudio.com/web/packages/QNB/ 301 
+29100493 2017 software http://www.scalemp.com 200 software http://www.scalemp.com 200 null http://evomics.org/learning/genomics/trinity 301 software http://www.scalemp.com 200 
+29100492 2017 package https://github.com/rehbergT/zeroSum 301 null https://tcga-data.nci.nih.gov/docs/publications/tcga/ 301 
+29110632 2017 NoLink
+29110634 2017 null github.com/optimusmoose/jsms -1 
+29121868 2017 software http://codonw.sourceforge.net 200 null ftp://ftp.ncbi.nih.gov/genomes/ 301 null http://phylot.biobyte.de/index.html 200 
+29126390 2017 pipeline https://bitbucket.org/HeidiLischer/refguideddenovoassembly_pipelines 301 
+29132318 2017 download https://ora.ox.ac.uk/objects/uuid:82ce6500-fa71-496a-8ba5-ba822b6cbb50 301 
+29132296 2017 NoLink
+29132292 2017 available http://biology.mcgill.ca/faculty/harrison/flps.html 200 null https://github.com/pmharrison/flps 301 null https://zenodo.org/record/891004 301 available http://biology.mcgill.ca/faculty/harrison/flps.html 200 available http://biology.mcgill.ca/faculty/harrison/flps.html 200 null https://github.com/pmharrison/flps 301 null https://zenodo.org/record/891004 301 
+29137603 2017 NoLink
+29137601 2017 NoLink
+29137598 2017 null https://github.com/billzt/gff3sort 301 
+29137596 2017 publicly https://tcga-data.nci.nih.gov/docs/publications/brca_2012/ 301 available http://ascopubs.org/doi/suppl/10.1200/jco.2008.18.1370 302 here http://www.genecards.org 200 
+NA 2017 NoLink
+29141584 2017 null https://github.com/lucian-ilie/SPRINT 301 available https://www.marcottelab.org/differentialGeneralization/ 200 null www.csd.uwo.ca/faculty/ilie/SPRINT/ -1 null www.marcottelab.org/differentialGeneralization -1 null https://thebiogrid.org 301 null www.hprd.org -1 null www.innatedb.com -1 null www.innatedb.com -1 null www.ebi.ac.uk/intact -1 null mint.bio.uniroma2.it -1 
+29141589 2017 code https://github.com/Shamir-Lab/Karyotype-reconstruction 301 
+29141580 2017 null http://www.novocraft.com 403 null http://support.illumina.com/array/array_kits/infinium-methylationepic-beadchip-kit/downloads.html 301 here http://www.ensembl.org/info/data/ftp/index.html/ 302 null ftp://ftp-mouse.sanger.ac.uk/REL-1504-Assembly/ 403 null https://genome.ucsc.edu/cgi-bin/hgTables 200 download http://fantom.gsc.riken.jp/5/datafiles/latest/extra/Enhancers/ 200 null http://support.illumina.com/array/array_kits/infinium-methylationepic-beadchip-kit/downloads.html 301 null http://togows.org/api/ucsc/mm10/TargetSite_GenomicCoordinates.fasta 400 
+29141608 2017 null http://www.rna.icmb.utexas.edu/ 200 null https://github.com/davidhoksza/traveler 301 available http://github.com/davidhoksza/traveler 301 null https://github.com/davidhoksza/traveler 301 null https://github.com/davidhoksza/traveler 301 
+29145805 2017 here http://www.cs.tau.ac.il/~bnet/ANAT/ 200 here http://www.cs.tau.ac.il/~bnet/ANAT/ 200 
+29145826 2017 null www.ebi.ac.uk/pdbsum/ -1 null https://sourceforge.net/projects/gaussianfinder 301 available https://github.com/gyaikhom/dbscan 301 null www.ebi.ac.uk/pdbsum/ -1 null www.rcsb.org -1 null http://www.rcsb.org 200 
+29145823 2017 null http://www.ncbi.nlm.nih.gov/gds 301 null https://dbmdega.shinyapps.io/dbMDEGA/ 301 null http://www.ncbi.nlm.nih.gov/gds 301 
+29151019 2017 package http://cran.r-project.org 200 available http://CRAN.R-project.org/package=bcROCsurface 303 available http://khanhtoduc.shinyapps.io/bcROCsurface_shiny/ 301 
+29157218 2017 download http://adni.loni.usc.edu 200 download www.adni-info.org -1 
+29157200 2017 NoLink
+29157215 2017 available https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=S.NAME 301 
+29162031 2017 null ncbi.nlm.nih.gov/sra -1 null https://www.ncbi.nlm.nih.gov/sra 301 null https://bitbucket.org/kosaidtu/norgal 301 download https://github.com/kosaidtu/norgal/releases/download/v1.0/norgal.tar 301 
+29162056 2017 code https://github.com/rhysf/Synima 301 null https://micans.org/mcl/ 200 null https://sourceforge.net/p/slclust/ 302 
+29162030 2017 NoLink
+29166852 2017 null http://www.geneontology.org/ 200 null http://www.geneontology.org/ 200 null http://www.geneontology.org/ 200 download http://www.geneontology.org/page/download-ontology 200 null http://arep.med.harvard.edu/ 200 null http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi 200 null http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi 200 null http://www.geneontology.org/ 200 download http://www.geneontology.org/page/download-ontology 200 null http://go.princeton.edu/cgi-bin/GOTermMapper 200 null http://www.geneontology.org/ 200 
+29166858 2017 available https://github.com/greenelab/SignatureAnalysis-CaseStudy 301 null https://github.com/greenelab/adage-server 301 available https://github.com/greenelab/ADAGEpath 301 package https://github.com/greenelab/ADAGEpath/blob/master/vignettes/RNAseq-example.Rmd 301 
+29169317 2017 tool http://imgt.org 200 null http:/tanto.unito.it/WebVisual/ -1 software http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 algorithm http://blast.ncbi.nlm.nih.gov 301 download http://www.imgt.org/download/GENE-DB/ 200 null http://tanto.unito.it/WebVisual/ 200 null http:/tanto.unito.it/WebVisual/ -1 
+29169342 2017 algorithm https://github.com/tongchf/mvqtlcim 301 null http://www.boost.org 200 algorithm https://github.com/tongchf/mvqtlcim 301 package http://www.stanford.edu/~hastie/Papers/glmnet.pdf 301 algorithm https://github.com/tongchf/mvqtlcim 301 null https://phytozome.jgi.doe.gov 302 null https://www.blast2go.com 301 

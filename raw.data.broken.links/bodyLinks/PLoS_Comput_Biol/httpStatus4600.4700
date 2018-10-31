@@ -1,0 +1,100 @@
+27096600 2016 software http://bis.ifc.unam.mx/en/software/dcf 200 null www.alglib.net -1 null www.dlib.net -1 null http://www.imtech.res.in/raghava/cellppd/dataset.php 301 null https://github.com/cdiener/dcf 301 software http://bis.ifc.unam.mx/software/dcf 404 null 10.5281/zenodo.30278 -1 software http://bis.ifc.unam.mx/software/dcf 404 null https://github.com/cdiener/dcf 301 null 10.5281/zenodo.30278 -1 null http://fiji.sc 200 software http://bis.ifc.unam.mx/software/dcf 404 available www.r-project.org -1 available http://github.com/cdiener/dcf 301 null www.fiji.sc -1 null http://fiji.sc/Downloads#Fiji 301 
+27096735 2016 null www.celldesigner.org -1 
+27100869 2016 null https://tcga-data.nci.nih.gov/tcga/ 301 null http://www.r-project.org/ 200 
+27100738 2016 code https://github.com/etal/cnvkit 301 null http://www.apache.org/licenses/LICENSE-2.0 200 available http://cnvkit.readthedocs.org/ 301 here http://github.com/etal/cnvkit-examples 301 null http://www.reportlab.com/opensource/ 200 null http://matplotlib.org 200 tool http://picard.sourceforge.net/ 200 pipeline https://bcbio-nextgen.readthedocs.org/en/latest/ 301 null http://genome.ucsc.edu/ 200 null http://repeatmasker.org 200 available http://cnvkit.readthedocs.org/ 301 
+27105344 2016 null http://dx.doi.org/10.5061/dryad.hf93c 303 
+27104615 2016 null ftp://ftp.ncbi.nih.gov/pub/COG/COG2014/data 301 available https://sourceforge.net/projects/brasolia 301 
+27104350 2016 NoLink
+27517461 2016 NoLink
+27092780 2016 NoLink
+27115535 2016 NoLink
+27115287 2016 NoLink
+27115429 2016 NoLink
+27124699 2016 available https://osf.io/jf42a 301 available http://wiki.cnbc.cmu.edu/images/SVLO.zip 200 available http://geon.usc.edu/~ori/ 200 null http://www.tarrlab.org/ 301 null http://www.robots.ox.ac.uk/~vgg/research/caltech/phog.html 200 null http://web.engr.illinois.edu/~slazebni/research/SpatialPyramid.zip 200 null http://cbcl.mit.edu/jmutch/hmin/ 200 software http://cbcl.mit.edu/software-datasets/pnas07/index.html 200 
+27124390 2016 NoLink
+27124774 2016 NoLink
+27812115 2016 NoLink
+27124577 2016 NoLink
+27138333 2016 NoLink
+27124275 2016 null L2Molecule.com -1 
+27120189 2016 available www.medyan.org -1 available www.medyan.org -1 available www.medyan.org -1 
+26650721 2015 NoLink
+27119953 2016 NoLink
+27128163 2016 NoLink
+27120081 2016 NoLink
+27148968 2016 null http://greenbrain.group.shef.ac.uk/research/vision/ 200 
+27153118 2016 NoLink
+27187545 2016 NoLink
+27128344 2016 NoLink
+27120344 2016 NoLink
+27152856 2016 NoLink
+27168458 2016 code https://github.com/yosoykit/BE_Clock_Model 301 
+27177244 2016 NoLink
+27159884 2016 NoLink
+27163669 2016 NoLink
+27163612 2016 null http://oss-lab.github.io/biojazz/ 200 null http://oss-lab.github.io/biojazz/ 200 null http://github.com/OSS-Lab/anc 301 null http://github.com/OSS-Lab/facile 301 
+27171182 2016 null www.pahdb.mcgill.ca -1 
+27177270 2016 NoLink
+27177143 2016 download http://schlieplab.org/Supplements/HaMMLET/ 301 download https://zenodo.org/record/46263 301 null 10.5281/zenodo.46263 -1 download https://zenodo.org/record/46263 301 download https://zenodo.org/record/46263 301 download https://zenodo.org/record/46263 301 download https://zenodo.org/record/46263 301 download https://zenodo.org/record/46263 301 null 10.5281/zenodo.46263 -1 download http://schlieplab.org/Supplements/HaMMLET/ 301 available https://github.com/wiedenhoeft/HaMMLET/tree/biorxiv 301 null https://zenodo.org/record/46262 301 null 10.5281/zenodo.46262 -1 available http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE23949 301 available http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE16 301 null http://www.cbs.dtu.dk/~hanni/aCGH/ 403 
+27175778 2016 application https://lgatto.shinyapps.io/christoforou2015 301 
+27175486 2016 NoLink
+27175900 2016 algorithm http://ftmap.bu.edu 302 algorithm http://agadir.crg.es 200 
+27175996 2016 null www.lifetrain.eu -1 
+27213566 2016 null http://www.yasara.org 200 null www.yasara.org -1 null http://www.ebi.ac.uk/Tools/phylogeny/clustalw2_phylogeny/ 301 
+27224906 2016 null http://loschmidt.chemi.muni.cz/predictsnp2 302 null http://eutils.ncbi.nlm.nih.gov 301 
+27203685 2016 available http://plantreactome.gramene.org/ 200 null arrayanalysis.org -1 null arrayanalysis.org -1 null arrayanalysis.org -1 null arrayanalysis.org -1 null http://www.reactome.org/PathwayBrowser/#DIAGRAM=500792 301 null http://wikipathways.org/instance/WP1825 301 null arrayanalysis.org -1 
+27788129 2016 software http://www.math.fsu.edu/~bertram/software/islet 302 
+27636358 2016 software https://sites.google.com/site/scimemilab2013/software 302 null https://github.com/scimemia/M-Track 301 software https://sites.google.com/site/scimemilab2013/software 302 null https://github.com/scimemia/M-Track 301 download https://www.python.org/download/releases/2.7/ 301 download http://opencv.org/downloads.html 301 download https://download.qt.io/archive/qt/4.8/4.8.5/ 200 
+27606684 2016 null http://www.wormatlas.org/neuronalwiring.html 200 null http://www.wormatlas.org/neurons/Individual%20Neurons/Neuronframeset.html 200 available http://AzulEye.github.io/HomogeneousSetsFinder 301 download http://snap.stanford.edu/data/egonets-Facebook.html 200 null http://www.wormatlas.org/neurons/Individual%20Neurons/Neuronframeset.html 200 
+27224735 2016 NoLink
+27203237 2016 null https://github.com/aloysius-lim/bigrf 301 package http://www.bioconductor.org/packages//2.11/bioc/html/HiTC.html 200 null https://github.com/taoliu/MACS 301 null http://flybase.org/ 200 null http://motifmap.ics.uci.edu/ 200 null https://sites.google.com/site/raphaelmouradeng/home/programs 302 
+27427963 2016 null http://www.micro-manager.org 301 
+25569227 2015 null http://afni.nimh.nih.gov 302 
+25569335 2015 null http://waltz.switchlab.org/ 200 null http://waltz.switchlab.org/ 200 download http://bioinf.uab.es/pWALTZ/ 200 
+27203712 2016 NoLink
+27224861 2016 null www.r-project.org -1 available http://bioinfo.noble.org/PolyGenic_QTL/ 200 null http://plantgrn.noble.org/GPLEXUS/ 200 null www.mathworks.com -1 null http://www.robertnz.net/nm_intro.htm 200 code http://arma.sourceforge.net/ 200 null http://www.netlib.org/blas/ 200 null http://www.netlib.org/lapack 301 code http://users.iems.northwestern.edu/~nocedal/lbfgsb.html 200 
+27203839 2016 NoLink
+27213810 2016 NoLink
+27203563 2016 available https://www.zi-mannheim.de/index.php?id=626 301 available http://senselab.med.yale.edu/ModelDB/ 302 
+27203421 2016 NoLink
+27196696 2016 code http://github.com/sidh0/BEMtoolbox 301 available http://github.com/sidh0/hcr16_ploscb 301 
+27213681 2016 null http://www.clinicaltrials.gov 301 
+27105427 2016 NoLink
+27253373 2016 NoLink
+27254668 2016 download https://github.com/reynoldsk/pySCA 301 null http://reynoldsk.github.io/pySCA 301 download https://github.com/reynoldsk/pySCA 301 null http://reynoldsk.github.io/pySCA 301 download https://github.com/reynoldsk/pySCA 301 
+27253437 2016 NoLink
+27253209 2016 NoLink
+27253381 2016 null satellitemeetings,SIGs -1 null AKEs -1 null 3DSig:StructuralBioinformaticsandComputationalBiophysics -1 null threedataanalysischallenges -1 null COSIs -1 
+27253329 2016 NoLink
+27248429 2016 NoLink
+27253392 2016 null http://swift.cmbi.ru.nl/gv/select/index.html 200 
+27232631 2016 NoLink
+27517607 2016 NoLink
+27517297 2016 available http://carbocation.jacobsonlab.org:8080/ 200 
+27532298 2016 null https://github.com/RabadanLab/TARGet 301 software http://www.mrzv.org/software/dionysus 301 tool http://picard.sourceforge.net/ 200 
+27538250 2016 NoLink
+27760135 2016 NoLink
+27257684 2016 NoLink
+27257812 2016 NoLink
+27271528 2016 null http://1.usa.gov/1NjrDNJ 301 available http://p4b.muralab.org 200 available http://p4b.muralab.org 200 
+27276390 2016 NoLink
+27271768 2016 NoLink
+27271939 2016 NoLink
+27272119 2016 null http://fampipe.sourceforge.net/generateCommand.html 200 null http://fampipe.sourceforge.net 200 
+27271698 2016 null http://index.baidu.com/ 200 tool http://tool.chinaz.com/baidu/words.aspx 302 null http://www.sssampling.org/B-shade/ 200 
+27286251 2016 NoLink
+27280881 2016 NoLink
+27310184 2016 NoLink
+27281180 2016 NoLink
+27285999 2016 NoLink
+27281025 2016 null http://bioinformatics.ca/past-workshops 302 null http://mygoblet.org/about-us/goblet-events/sebgoblet-bioinformatics-workshop 302 null https://r-dir.com/community/forums.html 301 
+27286441 2016 NoLink
+27295277 2016 NoLink
+27295404 2016 NoLink
+27295501 2016 null http://lammps.sandia.gov 200 
+27295348 2016 NoLink
+27310288 2016 null http://nipy.org/ 200 algorithm http://scikit-learn.org 200 null http://github.com/nilearn/nilearn 301 null http://pysurfer.github.io/ 200 null http://github.com/banilo/taskrest2016 301 null www.humanconnectomeproject.org -1 
+27304526 2016 NoLink
+27309381 2016 NoLink
+27310017 2016 null www.fil.ion.ucl.ac.uk/spm -1 
+27309738 2016 available http://bioinformatics.upsc.se/htmr 200 software http://software-carpentry.org/lessons/ 301 null https://about.gitlab.com/press/ 301 null https://bioinformatics.upsc.se 301 null http://www.bioplatforms.com/current-training-courses/ 403 null https://www.bits.vib.be/training 301 null https://csc.fi/web/training 301 null http://chipster.csc.fi/ 200 null http://elixir.ut.ee/Main/Courses 302 here http://bioinformaticstraining.pythonanywhere.com/ 404 null https://www.ebi.ac.uk/training 301 null http://hpcbio.illinois.edu/content/hpcbio-workshops 301 null http://www.scilifelab.se 200 null http://edu.isb-sib.ch/ 302 null http://bioinfotraining.bio.cam.ac.uk/ 301 download http://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-56138/ 301 

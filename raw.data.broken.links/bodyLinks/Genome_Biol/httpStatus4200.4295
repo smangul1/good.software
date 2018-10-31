@@ -1,0 +1,95 @@
+28679434 2017 NoLink
+28679399 2017 NoLink
+28683804 2017 null http://liulab.dfci.harvard.edu/MACS/ 200 null http://bips.u-strasbg.fr/seqminer/ 200 
+28683755 2017 NoLink
+28687088 2017 NoLink
+28687080 2017 null http://rgp.dna.affrc.go.jp/E/IRGSP/Build5/build5.html 403 software https://www.broadinstitute.org/igv/ 301 
+28724393 2017 tool http://www.sanger.ac.uk/science/tools/smalt-0 200 null http://github.com/sanger-pathogens/Gubbins 301 software http://tree.bio.ed.ac.uk/software/tempest/ 200 
+28728561 2017 NoLink
+28732520 2017 NoLink
+28732548 2017 null http://maizetedb.org 302 null http://www.imagenix.com 200 null ftp://ftp.gramene.org/pub/gramene/CURRENT_RELEASE/data/gff3/zea_mays/repeat_annotation/ 404 null http://maizetedb.org/cgi-bin/cgiwrap/maize/TE_show_family.cgi?do_table 200 
+28738873 2017 NoLink
+28750660 2017 NoLink
+28750650 2017 NoLink
+28754146 2017 null http://www.ebi.ac.uk/Tools/geuvadis-das/ 301 
+28750683 2017 code https://www.encodeproject.org/experiments/ENCSR000EPU/ 301 null http://cancer.sanger.ac.uk/census/ 200 null https://dcc.icgc.org/projects/PRAD-CA 302 null http://regulatorycircuits.org 200 code https://www.encodeproject.org/experiments/ENCSR000EPU/ 301 
+28754144 2017 NoLink
+28760139 2017 NoLink
+28764798 2017 package https://cran.r-project.org/web/packages/meta/index.html 200 software https://www.cog-genomics.org/plink2 200 
+28778180 2017 available https://github.com/Oshlack/Lace/wiki 301 available https://github.com/Oshlack/Lace/wiki 301 code https://github.com/Oshlack/superTranscript_paper_code 301 code https://github.com/Oshlack/superTranscript_paper_code 301 software https://software.broadinstitute.org/gatk/best-practices/rnaseq.php 302 download http://genome.ucsc.edu/ 200 code https://github.com/Oshlack/superTranscript_paper_code 301 code https://github.com/Oshlack/superTranscript_paper_code 301 null https://github.com/markrobinsonuzh/diff_splice_paper 301 code https://github.com/Oshlack/superTranscript_paper_code 301 
+28768521 2017 software https://software.broadinstitute.org/firecloud/ 302 
+28784160 2017 null https://bacpacresources.org 200 null http://htsstation.epfl.ch 200 null http://htsstation.epfl.ch 200 code http://hannonlab.cshl.edu/fastx_toolkit/ 200 null https://github.com/lh3/seqtk 301 null http://htsstation.epfl.ch 200 
+28784151 2017 NoLink
+28784146 2017 available https://github.com/statOmics/stageR 301 available https://github.com/statOmics/stageR 301 null http://bowtie-bio.sourceforge.net/recount/ 200 null http://bowtie-bio.sourceforge.net/recount/ 200 null http://www.ebi.ac.uk/ena/data/view/SRR1501444 301 null http://www.ebi.ac.uk/ena/data/view/SRR493366 301 null http://pachterlab.github.io/lair/ 200 
+28800781 2017 NoLink
+28810898 2017 available http://www.ebi.ac.uk/arrayexpress/ 301 
+28806977 2017 tool https://github.com/vcflib/vcflib 301 
+28830561 2017 null ftp://ftp.ensemblgenomes.org/pub/plants/release-24/ -1 
+28814314 2017 NoLink
+28814343 2017 NoLink
+28836999 2017 NoLink
+28835265 2017 null http://www.mirbase.org 200 null https://phytozome.jgi.doe.gov 302 null https://github.com/XMaBio/TarHunter 301 download http://pfam.xfam.org 200 null http://www.mirbase.org/ 200 
+28837001 2017 NoLink
+28838319 2017 null http://www.berrygenomics.com/ 200 null http://www.phytozome.net/soybean 302 package http://broadinstitute.github.io/picard/ 200 method http://202.127.18.228/fimg/intr.php 200 
+28760140 2017 NoLink
+28854954 2017 null http://www.genomics.agilent.com/primerDesignProgram.jsp 301 null https://media.addgene.org/cms/filer_public/e6/5a/e65a9ef8-c8ac-4f88-98da-3b7d7960394c/zhang-lab-general-cloning-protocol.pdf 200 null https://chopchop.rc.fas.harvard.edu/ 301 
+28859663 2017 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 
+28874170 2017 tool http://victorian-bioinformatics-consortium.github.io/degust/ 200 tool http://victorian-bioinformatics-consortium.github.io/degust/ 200 
+28886744 2017 null http://RNAtarget.ncrnalab.org/RBPgroup 301 null http://www.genecards.org/ 200 code https://www.encodeproject.org 301 null http://RNAtarget.ncrnalab.org/RBPgroup 301 null http://RNAtarget.ncrnalab.org/RBPgroup 301 here https://www.ncbi.nlm.nih.gov/gene/10642 301 code https://www.encodeproject.org 301 null http://RNAtarget.ncrnalab.org/RBPgroup 301 
+28870226 2017 null https://github.com/mgschiavon/BayFish 301 null http://doi.org/10.5281/zenodo.830056 303 null https://github.com/mgschiavon/BayFish/tree/master/DATA 301 
+28877740 2017 available http://www.ncbi.nlm.nih.gov/geo/ 301 
+28870212 2017 null https://www.immunobase.org 200 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 null http://fantom.gsc.riken.jp/5/datafiles/latest/basic/human.primary_cell.hCAGE/ 200 null http://www.nature.com/cr/journal/v22/n3/extref/cr201215x1.xlsx 303 null https://github.com/chr1swallace/cd4-pchic/blob/master/analyses/chepelev-comparison.R 301 null https://github.com/chr1swallace/genomic.autocorr 301 null ftp://ftp.ncbi.nlm.nih.gov/hapmap/recombination/2011-01_phaseII_B37/ 301 null https://github.com/ollyburren/CHIGP 301 null https://github.com/chr1swallace/GUESSFM 301 null ftp://ftp.ncbi.nlm.nih.gov/hapmap/recombination/2011-01_phaseII_B37/ 301 null https://github.com/ollyburren/CHIGP 301 null http://bioinfo.ut.ee/primer3-0.4.0/primer3/ 200 package https://github.com/ollyburren/Methpup 301 null https://github.com/chr1swallace/snphap 301 null https://github.com/chr1swallace/cd4-pchic/blob/master/ASE/IL2RA-ASE.R 301 null https://www.chicp.org 301 null https://www.immunobase.org 200 
+28877710 2017 NoLink
+28893305 2017 NoLink
+28899397 2017 available https://github.com/jdblischak/singleCellSeq 301 null http://imlspenticton.uzh.ch:3838/conquer/ 200 available https://github.com/Oshlack/splatter-paper 301 
+28903782 2017 null http://www.geneimprint.com/site/genes-by-species.Homo+sapiens 200 
+28911330 2017 null https://jbrowse.latrobe.edu.au/germination_epigenome 302 null https://abrc.osu.edu/seed-handling 302 null http://geneontology.org/ 200 null http://signal.salk.edu/cgi-bin/tdnaexpress 200 null http://geneontology.org/ 200 null https://github.com/bhofmei/jbplugin-smallrna 301 null https://github.com/bhofmei/jbplugin-methylation 301 null http://www.annoj.org/ 200 null https://github.com/Akanksha2511/HOME 301 
+28911331 2017 null http://neomorph.salk.edu/Arabidopsis_seed_methylomes.php 200 null https://bitbucket.org/schultzmattd/methylpy 301 tool https://david.ncifcrf.gov 301 
+28911336 2017 NoLink
+28927436 2017 NoLink
+28927434 2017 library http://www.r-project.org 200 
+28923089 2017 NoLink
+28931413 2017 null https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 null http://gtrnadb.ucsc.edu/genomes/eukaryota/Hsapi19/ 200 tool http://broadinstitute.github.io/picard 301 tool http://broadinstitute.github.io/picard 301 null http://jaspar.genereg.net 200 
+28934976 2017 available https://github.com/chrisquince/DESMAN 301 null https://github.com/BinPro/CONCOCT 301 null https://github.com/chrisquince/StrainMetaSim 301 null https://github.com/chrisquince/DESMAN 301 
+28934964 2017 available http://ftp-private.ncbi.nlm.nih.gov/nist-immsa/IMMSA/ 301 software http://ccb.jhu.edu/software/kraken/MANUAL.html 200 available https://github.com/alexandrutomescu/metaflow/blob/master/TUTORIAL.md 301 null http://nbc.ece.drexel.edu/FAQ.php 200 
+28942733 2017 null www.arabidopsis.org -1 null http://www.cmbi.ru.nl/cdd/biovenn/ 301 null http://nemates.org/MA/progs/overlap_stats.html -1 null www.bar.utoronto.ca/efp/cgi-bin/efpWeb.cgi -1 
+28950880 2017 tool https://cutadapt.readthedocs.io/en/stable/ 200 null ftp://ftp.bioinformatics.ksu.edu/pub/BeetleBase/4.0_draft/tcas.superscaffolds.fasta 404 
+28950915 2017 tool https://bitbucket.org/liulab/trust/ 301 pipeline https://github.com/kaizhang/Taiji 301 null https://www.4dnucleome.org/ 301 null http://yunliweb.its.unc.edu/HUGIn/ 200 tool https://github.com/genome/pindel 301 
+28969707 2017 NoLink
+28974235 2017 tool http://www.combio.pl/alfree 301 tool http://www.combio.pl/alfree/tools/ 302 tool http://www.combio.pl/alfree/tools/ 302 null https://pachterlab.github.io/kallisto/ 200 software http://www.cs.cmu.edu/~ckingsf/software/sailfish/ 200 null https://combine-lab.github.io/salmon/ 200 null http://www.csbio.unc.edu/rs/ 200 null https://github.com/ChimeRScope/ChimeRScope/wiki 301 null https://github.com/bioinfo-ut/GenomeTester4/ 301 null https://github.com/danielnavarrogomez/phy-mer 301 null http://lava.csail.mit.edu/ 301 null http://github.com/cbib/MICADo 301 null https://github.com/lh3/minimap 301 null https://github.com/marbl/MHAP 301 null https://github.com/lh3/miniasm 301 null https://github.com/warrenlr/LINKS/ 301 null https://github.com/luscinius/afcluster 301 null http://www.dei.unipd.it/~ciompin/main/qcluster.html 200 null https://github.com/mourisl/Lighter 301 null https://github.com/gmarcais/Quorum 301 null https://sourceforge.net/projects/trowel-ec/ 301 null https://github.com/fanhuan/AAF 301 null https://sourceforge.net/projects/ksnp/files/ 301 null http://www-rcf.usc.edu/~fsun/Programs/NGS-MC/NGS-MC.html 200 null http://clark.cs.ucr.edu/ 200 null http://edwards.sdsu.edu/FOCUS/ 200 null https://github.com/pdtrang/GSM 301 null https://github.com/marbl/mash 301 software https://ccb.jhu.edu/software/kraken/ 200 null https://sourceforge.net/projects/lmat/ 301 software http://jordan.biology.gatech.edu/page/software/stringMLST 301 null http://taxonomer.iobio.io/ 200 code https://code.google.com/p/d2-tools/ 405 null https://github.com/jessieren/VirHostMatcher 301 null https://github.com/ctlab/metafast 301 null https://github.com/seqan/seqan/tree/master/apps/alf 301 tool http://www.combio.pl/alfree 301 tool http://bioinformatics.org.au/tools/decaf+py/ 200 null http://www-rcf.usc.edu/~fsun/Programs/multiAlignFree/ 200 null http://web.ist.utl.pt/susanavinga/NASC/ 200 null http://alurulab.cc.gatech.edu/phylo 200 null https://github.com/evolbioinf/andi/ 301 null https://github.com/younglululu/CAFE 301 null http://tlife.fudan.edu.cn/cvtree3 302 null http://dltree.xtu.edu.cn 302 null https://sourceforge.net/projects/ffp-phylogeny/ 301 tool http://bioinformatics.org.au/tools/jD2Stat/ 200 null http://guanine.evolbio.mpg.de/cgi-bin/kr2/kr.cgi.pl 200 download http://prodata.swmed.edu/download/pub/slopetree_v1/ 200 null http://www.dei.unipd.it/~ciompin/main/underlying.html 200 null https://sourceforge.net/projects/rafts3/ 301 null https://github.com/tderrien/FEELnc 301 null https://github.com/WGLab/lncScore 301 null http://guanine.evolbio.mpg.de/alfy/ 200 null http://guanine.evolbio.mpg.de/rush/ 200 software http://bioinformatics.ua.pt/software/smash/ 200 null https://github.com/congyingnan/TF-IDF 301 null http://veda.cs.uiuc.edu/d2z/ 200 null https://systemsbiology.columbia.edu/matrixreduce 302 null http://goo.gl/7gW578 301 null https://github.com/shaze/wcdest/ 301 code https://d2vlmc.codeplex.com/ 200 null https://github.com/Huiyang520/DMk-BKmeans 301 null https://github.com/soedinglab/kClust 301 null https://comet.lih.lu/ 302 null https://github.com/cyinbox/PPI 301 null http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html 200 
+28974263 2017 available https://github.com/BioAlgs/MetaGen 301 null https://github.com/umerijaz/TAXAassign 301 
+28985744 2017 NoLink
+29020979 2017 NoLink
+29017520 2017 null https://github.com/brentp/poverlap 301 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 software https://support.illumina.com/sequencing/sequencing_software/igenome.html 301 null http://www.ebi.ac.uk/arrayexpress 301 software https://imagej.net 301 null www.ingenuity.com -1 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 tool https://broadinstitute.github.io/picard 301 null https://github.com/brentp/poverlap 301 null http://www.ebi.ac.uk/arrayexpress 301 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 null http://www.ebi.ac.uk/arrayexpress 301 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 code http://www.gencodegenes.org/ 200 
+29041960 2017 NoLink
+29058599 2017 NoLink
+29061142 2017 null http://www.genome.gov/gwastudies/ 301 software http://sequencing.roche.com/products/software/nimbledesign-software.html 301 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ 200 tool http://www.3dgenome.org 302 tool http://crispr.mit.edu/ 200 
+29061143 2017 NoLink
+29061157 2017 NoLink
+29061182 2017 NoLink
+29070071 2017 null http://broadinstitute.github.io/picard 301 
+29065907 2017 software http://smithlabresearch.org/software/methpipe/ 200 null https://github.com/glennhickey/progressiveCactus 301 
+29073931 2017 NoLink
+29078818 2017 null https://cancergenome.nih.gov/ 301 null https://www.qiagenbioinformatics.com/products/ingenuity-pathway-analysis -1 null https://cancergenome.nih.gov/ 301 null https://www.qiagenbioinformatics.com/products/ingenuity-pathway-analysis 302 
+29078784 2017 tool http://genecodis.cnb.csic.es/ 200 tool http://shiny.chemgrid.org/boxplotr/ 200 
+29084572 2017 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 null http://broadinstitute.github.io/picard/ 200 code https://github.com/plantformatics/phaseLD 301 null http://www.girinst.org 200 
+29084609 2017 null https://github.com/marcelm/cutadapt 301 available https://github.com/GrosseLab/iCLIP 301 null https://github.com/najoshi/sickle 301 null https://github.com/mikelove/tximport/blob/master/vignettes/tximport.md 301 
+29084582 2017 null http://www.genomicus.biologie.ens.fr/genomicus-plants-24.01/ 301 
+29084568 2017 null http://paramecium.cgm.cnrs-gif.fr/ 200 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ 200 
+29089033 2017 software https://www.biosearchtech.com/support/tools/design-software/stellaris-probe-designer 301 null crispr.mit.edu -1 
+29089032 2017 null http://soap.genomics.org.cn/down/GapCloser_release_2011.tar.gz 200 null http://www.repeatmasker.org/RepeatModeler/ 200 null http://rice.plantbiology.msu.edu/ 200 download http://solanaceae.plantbiology.msu.edu/pgsc_download.shtml 200 
+29089021 2017 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 
+29084573 2017 NoLink
+29084589 2017 NoLink
+29115968 2017 NoLink
+29115978 2017 code http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeSydhNsome/ 200 download http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/knownCanonical.txt.gz 200 null http://cancer.sanger.ac.uk/census/ 200 code ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeMapability/wgEncodeCrgMapabilityAlign100mer.bigWig 200 
+29117868 2017 NoLink
+29132403 2017 tool http://broadinstitute.github.io/picard 301 software http://lh3lh3.users.sourceforge.net/snpable.shtml 200 null https://github.com/johnomics/Martin_Davey_Jiggins_evaluating_introgression_statistics 301 available https://doi.org/10.7946/P2WS60 303 
+29141655 2017 null http://1001genomes.org/ 200 tool http://broadinstitute.github.io/picard/ 200 null http://1001genomes.org/projects/MPICao2010/index.html 200 
+29141659 2017 NoLink
+29141660 2017 tool http://xCell.ucsf.edu/ 200 tool http://xCell.ucsf.edu/ 200 null https://cibersort.stanford.edu 302 download https://toil.xenahubs.net -1 
+29141666 2017 software http://www.broadinstitute.org/cancer/software/GENE-E/ 301 
+29141654 2017 NoLink
+29149906 2017 NoLink
+29151363 2017 null http://broadinstitute.github.io/picard/ 200 software http://fureylab.web.unc.edu/software/fseq/ 200 
+29169371 2017 NoLink

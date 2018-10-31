@@ -1,0 +1,100 @@
+17215294 2007 NoLink
+17182627 2007 NoLink
+17169982 2007 null ftp://ftp.ncbi.nlm.nih.gov/genbank 301 
+17251196 2007 NoLink
+17169998 2007 null https://rnaidesigner.invitrogen.com/rnaiexpress/ 301 
+17204484 2007 NoLink
+17175532 2007 method www.sanger.ac.uk/humgen/cnv/data -1 
+17178751 2007 null http://www.ensembl.org/Homo_sapiens/cytoview 301 null http://cc.ucsf.edu/microarray -1 
+17234679 2007 NoLink
+17179179 2007 NoLink
+17182631 2007 NoLink
+17272295 2007 NoLink
+17272297 2007 NoLink
+17259221 2007 NoLink
+17185295 2007 null http://proline.bic.nus.edu.sg/spdb/ 200 
+17855398 2007 null http://symatlas.gnf.org -1 
+17215295 2007 NoLink
+17182629 2007 NoLink
+17251193 2007 NoLink
+17251199 2007 NoLink
+17189297 2007 method http://www.ccrnp.ncifcrf.gov/~toms/paper/flexrbs/ -1 null http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html 404 null http://www.ccrnp.ncifcrf.gov/~toms/paper/schneider1986/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/rfs/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/fisinfo/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/lrp/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/baseflip/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/malign -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/edmm/ -1 here http://www.ccrnp.ncifcrf.gov/~toms/paper/ri/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/walker/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/logopaper/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/papers/zen -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/oxyr/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/repan3/ -1 here http://www.ccrnp.ncifcrf.gov/~toms/paper/ev/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/paper/splice/ -1 null http://www.ccrnp.ncifcrf.gov/~toms/papers/t7island/ -1 
+17189298 2007 here http://Lamondlab.com/NOPdb/ 404 here http://Lamondlab.com/NOPdb/ 404 
+NA 2007 NoLink
+17259223 2007 NoLink
+17251197 2007 NoLink
+17251190 2007 NoLink
+17175538 2007 NoLink
+17182628 2007 NoLink
+17251195 2007 null http://panomics.com/MA5011.cfm 301 null http://panomics.com/TF_TF1.cfm 301 null http://panomics.com/TF_TF2.cfm 301 
+17175541 2007 software ftp://ftp.isrec.isb-sib.ch/pub/software/unix/pftools/ -1 
+17251191 2007 null http://www.chromdb.org 200 null http://genome.jgi-psf.org/Chlre3/Chlre3.home.html 302 null http://www.psc.edu/biomed/genedoc 301 null http://genome.jgi-psf.org/Chlre3/Chlre3.home.html 302 null http://genome.jgi-psf.org/Chlre3/Chlre3.home.html 302 
+17264132 2007 NoLink
+17264133 2007 NoLink
+17259211 2007 NoLink
+17251198 2007 NoLink
+17259222 2007 null http://rsb.info.nih.gov/nih-image/ 301 null http://genolist.pasteur.fr/ListiList/ 200 available http://www.ncbi.nih.gov/BLAST/ -1 tool http://tools.neb.com/NEBcutter2/index.php 301 null http://www.sanger.ac.uk/Software/Rfam/index.shtml 301 
+17164287 2007 null www.ecocyc.org -1 null http://atlas.med.harvard.edu -1 null http://weblogo.berkeley.edu 200 
+17259218 2007 NoLink
+17259214 2007 software http://rsb.info.nih.gov/ij/ 301 
+17267413 2007 NoLink
+17259220 2007 NoLink
+17259217 2007 method http://www.owcsarzy.net/emethod.htm -1 method http://www.owcsarzy.net/emethod.htm -1 
+17259216 2007 null http://rna.chem.t.u-tokyo.ac.jp/siexplorer.htm 301 
+17259215 2007 NoLink
+17264113 2007 null http://ecocyc.org/ 302 null www.ifr.ac.uk/safety/microarrays/protocols.html -1 
+17251194 2007 null http://www.shigen.nig.ac.jp/ecoli/pec/index.jsp 301 null http://www.sanger.ac.uk/Software/Rfam/ 301 
+17267412 2007 NoLink
+17264131 2007 NoLink
+17267410 2007 available http://www.projects.mfpl.ac.at/rnachaperones/index.html 200 
+17264128 2007 NoLink
+17932053 2007 NoLink
+17617646 2007 NoLink
+17389650 2007 NoLink
+17264124 2007 NoLink
+17264118 2007 NoLink
+17264120 2007 NoLink
+17284464 2007 NoLink
+17264119 2007 NoLink
+17267406 2007 null http://www.ncbi.nlm.nih.gov/BLAST/ 301 null http://bioweb.pasteur.fr/seqanal/interfaces/genscan.html 302 null http://dylan.embl-heidelberg.de 200 null http://psort.nibb.ac.jp 302 null http://www.cbs.dtu.dk/databases/NESbase-1.0/ 200 null http://www.ebi.ac.uk/clustalw/ 301 null http://igs-server.cnrs-mrs.fr/Tcoffee/ -1 
+17264116 2007 null http://cgsc.biology.yale.edu/ 302 application http://www.bioinfo.rpi.edu/applications/mfold/old/dna/ 404 
+17264115 2007 NoLink
+17267411 2007 NoLink
+17264130 2007 NoLink
+17264123 2007 NoLink
+17267409 2007 NoLink
+17267407 2007 null http://www.ncbi.nlm.nih.gov/BLAST 301 
+17272299 2007 tool www.matrixscience.com -1 null ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_coli_K12/ 301 
+17267405 2007 NoLink
+17264117 2007 NoLink
+17267404 2007 NoLink
+17264121 2007 download http://rarge.gsc.riken.go.jp/rartf/tf_info/fasta_p1/TF_9_P1.fasta 200 
+17272298 2007 NoLink
+17202157 2007 NoLink
+17202156 2007 NoLink
+17202155 2007 NoLink
+17169993 2007 null http://www.affymetrix.com 301 download http://cgap.nci.nih.gov/Info/2002.1 301 
+17179177 2007 available http://bioinformatics.ist.unomaha.edu:8080/x/PLMM_DPSS.html -1 available http://bioinformatics.ist.unomaha.edu:8080/x/PLMM_DPSS.html -1 
+24957607 2014 null http://imagej.nih.gov/ij/ 302 null http://newville.github.io/lmfit-py/index.html 404 package http://www.scipy.org 301 package http://www.python.org 301 
+17020921 2006 NoLink
+17099226 2007 null http://www.ncbi.nlm.nih.gov/projects/geo/info/qqtutorial.html 301 download ftp://ftp.ncbi.nih.gov/pub/geo/DATA/ 301 package http://bioconductor.org/packages/release/bioc/html/GEOquery.html 200 
+17098937 2007 NoLink
+17142234 2006 null http://www-p53.iarc.fr 301 
+17108359 2006 NoLink
+17098931 2007 null http://ndg.sfn.org/eavObList.aspx?cl=81 -1 null http://syndb.cbi.pku.edu.cn -1 null http://syndb.cbi.pku.edu.cn/download/SynO.obo -1 null http://syndb.cbi.pku.edu.cn/sdb_pro.php?id=HIP1_HUMAN -1 null http://syndb.cbi.pku.edu.cn/help/sdb_help.php -1 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene 301 null ftp://ftp.ncbi.nih.gov/pub/taxonomy/ 301 null http://www.ncbi.nlm.nih.gov/ 301 null http://hgdownload.cse.ucsc.edu/goldenPath/ 200 null http://www.ebi.ac.uk/GOA/ 301 null http://www.ebi.ac.uk/interpro/ 405 null http://www.rcsb.org/pdb/ 302 null http://salilab.org/modbase 302 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://bodymap.jp -1 null http://natsdb.cbi.pku.edu.cn/ -1 null http://dbptm.mbc.nctu.edu.tw/ 200 null http://www.ensembl.org/Homo_sapiens/familyview 301 null http://www.genome.jp/kegg/ 200 null http://www.anc.ed.ac.uk/mscs/PPID/ 404 null http://dip.doe-mbi.ucla.edu/dip/Download.cgi 200 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM 301 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi 301 
+17090588 2007 null http://www.kew.org/genomesize/homepage.html 302 null www.genomesize.com -1 null www.zbi.ee/fungal-genomesize -1 null http://www.cbs.dtu.dk/databases/DOGS/ 200 here http://www.unipv.it/webbio/dbagsdb.htm 302 null www.indexfungorum.org -1 null www.broad.mit.edu/annotation/fungi/fgi/FGI_01_whitepaper_2002.pdf -1 
+17088281 2007 NoLink
+17142240 2007 null http://www.ncbi.nlm.nih.gov/blast/fasta.shtml 301 null http://www.rcsb.org/static.do?p=file_formats/pdb/index.html 404 null http://www.pdb.org/ 301 null http://hydra.icgeb.trieste.it/benchmark/ 301 
+17099228 2007 available http://www.microbial-ecology.net/probebase/ 301 
+17099227 2007 NoLink
+17099230 2007 null http://hmmer.wustl.edu/ -1 null http://www.everest.cs.huji.ac.il/ 200 
+17202161 2007 null www.ncbi.nlm.nih.gov/Genomes/index.html -1 null www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html -1 null www.ncbi.nlm.nih.gov/collab/FT/index.html -1 null www.ncbi.nlm.nih.gov/Genbank/index.html -1 null www.ncbi.nlm.nih.gov/Sequin/table.html -1 null www.ncbi.nlm.nih.gov/Entrez/ -1 null www.ncbi.nlm.nih.gov/BLAST/ -1 available ftp.ncbi.nih.gov -1 available ftp://bio-mirror.net/biomirror/genbank/ 302 null www.ncbi.nlm.nih.gov/dbEST/index.html -1 null www.ncbi.nlm.nih.gov/UniGene/ -1 null www.ncbi.nlm.nih.gov/dbSTS/index.html -1 null www.ncbi.nlm.nih.gov/dbGSS/index.html -1 null www.ncbi.nlm.nih.gov/genome/clone -1 null www.ncbi.nlm.nih.gov/HTGS/ -1 null www.ncbi.nlm.nih.gov/projects/WGS/WGSprojectlist.cgi -1 null www.ncbi.nlm.nih.gov/Genbank/TPA.html -1 tool www.ncbi.nlm.nih.gov/BankIt -1 null www.ncbi.nlm.nih.gov/Sequin/index.html -1 available ftp.ncbi.nih.gov -1 code barcoding.si.edu/index\s\do5(d)etail.htm -1 code www.ncbi.nlm.nih.gov/BankIt/barcode/ -1 
+17099233 2007 null http://www.gmod.org/schema/ 404 null http://obo.sourceforge.net/ 301 null http://www.fruitfly.org/ 200 null http://www.fruitfly.org/sequence/release5genomic.shtml 200 null http://flybase.bio.indiana.edu/.data/docs/CommunityWhitePapers/DrosBoardWP2001.html] -1 null http://flybase.bio.indiana.edu/.data/docs/CommunityWhitePapers/ -1 null http://flybase.bio.indiana.edu/.data/docs/CommunityWhitePapers/GenomesWP2003.html -1 null http://rana.lbl.gov/drosophila/ -1 null http://www.gmod.org/?q=node/71 301 
+17099231 2007 NoLink
+17099235 2007 NoLink
+17099229 2007 null http://genome.uiowa.edu/pseudogenes/ 404 
+17099234 2007 null http://www.genome.gov/ 301 null http://www.acedb.org/ 200 available http://www.wormbase.org/wiki/index.php/WormBase_Consortium 301 available http://www.wormbase.org/wiki/index.php/Downloads 301 null http://www.wormbase.org/wiki/index.php/Acceptable_use_policy 301 here http://www.wormbase.org/wiki/index.php/WormBaseWiki:Copyrights 301 here http://www.its.caltech.edu/~wormbase/userguide/ 404 null http://www.wormbase.org/wiki 301 null http://www.wormbase.org/db/misc/2005_survey 302 null http://www.wormbase.org/announcements/newsletters/pdf/2006-01.pdf 404 null http://www.wormbase.org/wiki 301 null http://www.wormbase.org/ 200 null http://wormbase.sanger.ac.uk/ 503 null http://crfb-3.univ-mrs.fr/ -1 null http://caltech.wormbase.org/ 200 here http://imbb.wormbase.org/ -1 null http://www.wormbook.org/ 200 null www.wormbase.org -1 null http://targetdb.pdb.org/ 200 null http://inparanoid.cgb.ki.se/ 302 null http://www.treefam.org/ 200 null http://www.geneontology.org/external2go/interpro2go 200 null http://www.ebi.ac.uk/ 301 available http://www.chem.agilent.com/scripts/pds.asp?lPage=29452 301 null http://www.genome.wustl.edu/genome/celegans/microarray/ma_gen_info.cgi 301 tool http://www.wormbase.org/biomart/martview 404 available http://www.wormbase.org/presentations/2005/2005-intellectual_lineage.html 404 available http://wormbase.org/db/seq/gbrowse/remanei/ 301 null ftp://ftp.wormbase.org/pub/wormbase -1 
+17098935 2007 NoLink
+17099232 2007 null http://www.pathoplant.de 200 null http://www.athamap.de/search_colocalization.php 200 
+17164285 2007 NoLink
+17264126 2007 null http://wiki.epfl.ch/naeflab 301 null http://www.isrec.isb-sib.ch/ssa/ -1 null http://genereg.ornl.gov/gotm -1 download http://licr-renlab.ucsd.edu/download.html 404 null www.gnf.org -1 software http://cran.r-project.org 200 null http://wiki.epfl.ch/naeflab 301 

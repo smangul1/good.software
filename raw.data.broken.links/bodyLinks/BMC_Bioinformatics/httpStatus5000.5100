@@ -1,0 +1,100 @@
+22537008 2012 NoLink
+22537009 2012 NoLink
+22537010 2012 code AP004597.1/11894-11904 -1 available http://sourceforge.net/projects/rnabormea/ 301 null http://bioinformatics.bc.edu/clotelab/RNAborMEA/. 200 code AP004597.1/118941-119041 -1 
+22537011 2012 null http://merops.sanger.ac.uk 301 null http://bioputer.mimuw.edu.pl/papers/proteolysis/ 200 
+22537012 2012 NoLink
+22507266 2012 null http://bioinf.eva.mpg.de/masking/test/pmwiki.php/Site/MaskingMicroarraysProbesWithBindingAffinityDifferences 302 package http://bioconductor.org/packages/2.10/bioc/html/maskBAD.html 200 package http://bioconductor.org/packages/2.10/bioc/html/maskBAD.html 200 null http://bioinf.eva.mpg.de/masking/test/pmwiki.php/Site/MaskingMicroarraysProbesWithBindingAffinityDifferences 302 null http://www.broadinstitute.org/mpr/lung/ 301 
+22537038 2012 null http://rgp.dna.affrc.go.jp/J/IRGSP/Build3/build3.html 403 download ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/working/20101201_cg_NA12878/NA12878.hiseq.wgs.bwa.raw.bam 200 code http://sites.google.com/site/sparseassembler/ 302 download http://gage.cbcb.umd.edu/data/index.html 200 
+22759420 2012 NoLink
+19192285 2009 NoLink
+27717304 2016 tool http://samtools.github.io/htsjdk/ 200 
+22537041 2012 NoLink
+22537042 2012 NoLink
+22537043 2012 null http://www.ncbi.nlm.nih.gov/Traces/sra 301 
+22537044 2012 available http://alcovna.genouest.org/kissplice/ 301 
+22537047 2012 NoLink
+22537046 2012 NoLink
+22537045 2012 null ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/technical/working/20110719_merged_sv_calls/ 301 download http://www.engr.uconn.edu/~jiz08001/ 200 tool https://github.com/lh3/wgsim 301 tool https://github.com/lh3/wgsim 301 
+22537006 2012 null http://www.algolab.eu/PIntron 301 null http://www.algolab.eu/PIntron 301 
+22524245 2012 null https://sourceforge.net/projects/f2c2/files/ 301 
+22524279 2012 NoLink
+22524302 2012 available http://www.r-project.org 200 
+22530800 2012 NoLink
+22533924 2012 NoLink
+22793366 2012 NoLink
+22540951 2012 null AE004439 -1 null http://webdocs.cs.ualberta.ca/~bioinfo/PA/ 200 tool http://toolkit.genzentrum.lmu.de/blastclust# 301 null http://www.ncbi.nlm.nih.gov/pubmed 301 null http://www.uniprot.org/ 200 tool http://toolkit.tuebingen.mpg.de/hhpred 301 null http://string-db.org/ 301 tool http://expasy.org/tools/protparam.html 302 null http://webdocs.cs.ualberta.ca/~bioinfo/PA/ 200 null http://www.psort.org/psortb/ 200 null http://cello.life.nctu.edu.tw/ 200 null http://bp.nuap.nagoya-u.ac.jp/sosui/sosuigramn/sosuigramn_submit.html -1 null http://bmbpcu36.leeds.ac.uk/~andy/betaBarrel/AACompPred/aaTMB_Hunt.cgi -1 null http://rbf.bioinfo.tw/~sachen/OMPpredict/TMBETADISC-RBF.php 302 tool http://services.cbu.uib.no/tools/bomp 200 null http://athina.biol.uoa.gr/bioinformatics/mcmbb/ 200 tool http://services.cbu.uib.no/tools/lipo 200 null http://www.cbs.dtu.dk/services/LipoP/ 200 
+22540977 2012 code http://ekhidna.biocenter.helsinki.fi/MMSA 200 
+22471599 2012 NoLink
+22545707 2012 tool http://sysbio.rnet.missouri.edu/multicom_toolbox/ 200 tool http://sysbio.rnet.missouri.edu/multicom_toolbox/ 200 
+22545727 2012 null http://3base.bham.ac.uk -1 null http://biocomputer.bio.cuhk.edu.hk/T3DB/browse 301 null http://biocomputer.bio.cuhk.edu.hk/T3DB/browse 301 null http://biocomputer.bio.cuhk.edu.hk/T3DB/search 301 download http://biocomputer.bio.cuhk.edu.hk/T3DB/download 301 software http://biocomputer.bio.cuhk.edu.hk/T3DB/softwares 301 null http://biocomputer.bio.cuhk.edu.hk/T3DB 301 
+22475802 2012 NoLink
+22480135 2012 available http://www-bioinf.uni-regensburg.de/ -1 null 1A53 -1 null 1A53 -1 null 1A53 -1 
+22883815 2012 NoLink
+22883957 2012 available http://www.r-project.org 200 
+22888776 2012 null http://aws.amazon.com/ec2/ 301 null http://cloudgene.uibk.ac.at 200 null http://cloudgene.uibk.ac.at/usecases 404 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 null http://www.sencha.com 301 null http://www.restlet.org/ 301 null http://json.org 200 pipeline http://www.yaml.org 200 null http://www.h2database.com 200 tool http://nebc.nerc.ac.uk/tools/bio-linux 301 null http://gridengine.org 301 null http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data/HG00096/sequence_read 404 
+22892030 2012 null http://lorentz.sourceforge.net/ 200 null http://www.slac.stanford.edu/grp/ek/hippodraw/index.html 200 null http://home.gna.org/veusz/ -1 null http://www.paraview.org/ 302 null http://www.gnuplot.info 200 null http://www.R-project.org 200 null http://plasma-gate.weizmann.ac.il/Grace/ 200 algorithm http://math.nist.gov/javanumerics/jama/ 200 null http://www.ee.ucl.ac.uk/~mflanaga/java/ 200 software http://en.wikipedia.org/wiki/List_of_numerical_analysis_software 301 null http://jwork.org/jhepwork/ 200 method http://scribblethink.org/index.html 200 library http://www.ee.ucl.ac.uk/~mflanaga/java/Regression.html 200 tool http://xmlgraphics.apache.org/batik/index.html 301 software http://www.gnuplot.info/ 200 null http://www.structuralchemistry.org/pcsb/ 200 
+22897887 2012 NoLink
+22897900 2012 NoLink
+22897913 2012 tool http://sailing.cs.cmu.edu/tvnviewer 302 tool http://sailing.cs.cmu.edu/tvnviewer 302 
+22897923 2012 NoLink
+22901030 2012 available https://github.com/capsid/capsid 301 available https://github.com/capsid/capsid/wiki 301 
+22901054 2012 available http://bionlp-corpora.sourceforge.net/CRAFT/index.shtml 200 available http://bionlp-corpora.sourceforge.net/CRAFT/index.shtml 200 null http://compbio.ucdenver.edu/ccp/corpora/obtaining.shtml 200 publicly http://bionlp.sourceforge.net 200 code http://code.google.com/p/clearparser/,classDepEvaluate 405 code http://code.google.com/p/clearparser/,classPennToDep 405 
+22852583 2012 null http://phytozome.net/ 302 
+22906155 2012 null http://sydney.edu.au/science/molecular_bioscience/downard/flushuffle.html 404 
+22909249 2012 null http://testing.open-bio.org/biopython/ -1 available http://biopython.org/ 200 null http://biopython.org/wiki/Phylo_cookbook 200 available http://biopython.org/ 200 available http://biopython.org/DIST/docs/api/ 200 null http://phylosoft.org/ 200 
+22909268 2012 software http://cophylogeny.net/SVM.php 200 
+22913485 2012 null http://namefinding.ubio.org -1 null http://ubio.org/netinetifiles 301 null http://www.livescience.com/environment/top-10-new-species-1.html 301 null http://news.mongabay.com/2010/0419-hance_microbes.html 301 null http://species.asu.edu/2009_species05 -1 null http://species.asu.edu/2010_species09 -1 null http://species.asu.edu/2010_species03 -1 null http://species.asu.edu/2010_species02 -1 null http://species.asu.edu/2010_species01 -1 null http://species.asu.edu/2009_species06 -1 null http://species.asu.edu/2010_species06 -1 
+22994508 2012 available https://github.com/misshie/bioruby-ucsc-api/ 301 null http://rubyucscapi.userecho.com/ 404 available https://github.com/misshie/bioruby-ucsc-api 301 null http://rubyucscapi.userecho.com/ 404 
+22694311 2012 null http://www.inf.ethz.ch/personal/sadam/ProGraphMSA 302 
+23320794 2012 null http://llmpp.nih.gov/FL/ 302 null http://cmgm.stanford.edu/pbrown/ 200 
+23320818 2012 NoLink
+23320832 2012 null http://genboree.org/java-bin/workbench.jsp 302 null http://genboree.org/microbiome 301 
+23320851 2012 null http://metamap.nlm.nih.gov 301 code http://code.google.com/p/semanticvectors/ 405 software https://github.com/drh-uth/MEDRank 301 
+23075381 2012 NoLink
+23320896 2012 null http://cmgm.stanford.edu/pbrown/sporulation/index.html 200 null http://faculty.washington.edu/kayee/cluster 301 null http://homes.esat.kuleuven.be/~sistawww/bioi/thijs/Work/Clustering.html 200 null http://faculty.washington.edu/kayee/cluster 301 
+23320920 2012 NoLink
+23320938 2012 tool http://www.illumina.com 301 tool http://www.illumina.com 301 null http://www.bioinformatics.org/sms/iupac.html 200 available http://odin.mdacc.tmc.edu/~yuanj/soft.html 404 
+23320390 2012 null http://tcga-data.nci.nih.gov/tcga/tcgaHome2.jsp 301 available http://odin.mdacc.tmc.edu/~pqiu/projects/TCGAMethData/index.htm 403 
+23320449 2012 NoLink
+23320474 2012 null http://carnot.utmb.edu/flavitrack -1 
+22920415 2012 null http://www.ebi.ac.uk/metabolights/MTBLS21 301 
+23244338 2012 NoLink
+22928840 2012 null http://genome.crg.es/cgi-bin/phylo_mod_sel/Empar.pl 404 null http://genome.crg.es/cgi-bin/phylo_mod_sel/AlgGenNonH.pl 500 null http://genome.crg.es/cgi-bin/phylo_mod_sel/AlgGenNonH.pl 500 available https://sourceforge.net/projects/gennonh/ 301 library http://www.boost.org/ 200 
+22928880 2012 NoLink
+22856649 2012 null http://bl210.caspur.it/MODEL-DB/MODEL-DB_web/MODindex.php -1 
+22856673 2012 NoLink
+22856879 2012 null http://www.php.net 200 null http://www.mysql.com 301 null http://jquery.com 200 null http://raphaeljs.com/ -1 tool http://genomevolution.org/CoGe/GEvo.pl 302 available http://cas-bioinfo.cas.unt.edu/mgsv -1 null http://www.gnu.org/licenses/gpl.html 200 available http://cas-bioinfo.cas.unt.edu/mgsv/tutorial.php -1 null http://www.circos.ca 200 application http://www.w3.org/TR/soap/ 200 null http://www.w3.org/TR/wsdl 301 null http://gmod.org/wiki/GFF3#GFF3 200 
+22935054 2012 null https://sites.google.com/site/agentbasedtumormodeling/home 302 method http://www.methodisthealth.com/Software 302 null http://csysbio.org/Released%20Software.html 200 null https://sites.google.com/site/agentbasedtumormodeling/home 302 
+22870920 2012 NoLink
+22870940 2012 available http://web.bioinformatics.cicbiogune.es/cnagen 301 
+22873695 2012 NoLink
+23216858 2012 null http://www.r-project.org/ 200 null http://www.graphviz.org/Credits.php 404 null http://www.psi.toronto.edu/affinitypropagation/webapp/ 200 null http://cs.joensuu.fi/sipu/datasets/ 200 null http://www.physics.csbsju.edu/cgi-bin/stats/exact 200 null http://cs.joensuu.fi/sipu/datasets/DIM128.txt 404 
+22873729 2012 NoLink
+22876807 2012 null http://www.spec.org/cpu2006/results/cpu2006.html 200 null http://www.pacificbiosciences.com 301 null http://www.mail-archive.com/linux-kernel@vger.kernel.org/msg91605.html 301 
+23735126 2013 null http://genome.ucsc.edu/ENCODE/ 200 null http://www.roadmapepigenomics.org/ 200 null http://www.blueprint-epigenome.eu/ 200 
+23231059 2012 null http://www.bioconductor.org 200 
+23234608 2012 NoLink
+23237380 2012 code http://lncrscan.googlecode.com/svn/trunk/ 404 code http://code.google.com/p/lncrscan/ 405 
+NA 2012 null http://www.nicta.com.au 301 null http://www.ebi.ac.uk 301 null http://www.embo.org 200 null http://symposium.iscbsc.org/content/booklet 404 null http://www.iscbsc.org 200 
+NA 2012 NoLink
+NA 2012 NoLink
+NA 2012 NoLink
+NA 2012 NoLink
+NA 2012 null http://www.bioguo.org/miRNASNP/ 200 
+26482438 2015 NoLink
+NA 2012 NoLink
+NA 2012 NoLink
+NA 2012 NoLink
+NA 2012 NoLink
+NA 2012 tool http://homes.esat.kuleuven.be/~bioiuser/ReLianceDB 301 
+NA 2012 NoLink
+NA 2012 NoLink
+23282410 2012 NoLink
+23282463 2012 download http://alcovna.genouest.org/compareads/ 301 null http://burtleburtle.net/bob/c/lookup3.c 200 
+20070885 2010 tool http://bmnh.org/~pf/p4.html 404 null http://ete.cgenomics.org 302 null http://ete.cgenomics.org 302 null http://ete.cgenomics.org 302 null http://ete.cgenomics.org 302 null http://phylomedb.org 200 
+23281614 2012 NoLink
+NA 2012 NoLink
+23281630 2012 NoLink
+23281654 2012 NoLink
+23281701 2012 NoLink
+23281769 2012 NoLink

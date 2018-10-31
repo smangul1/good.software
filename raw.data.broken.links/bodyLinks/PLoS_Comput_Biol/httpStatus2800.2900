@@ -1,0 +1,100 @@
+23935467 2013 available http://bioinformatics.ai.sri.com/CCO/ 200 available http://biocyc.org/registry.html 302 available http://neurosporacyc.broadinstitute.org -1 null http://www.dartmouth.edu/~neurosporagenome/knockouts_completed.html 301 null http://www.broadinstitute.org/annotation/genome/neurospora/Phenotypes.html 301 method http://www.fgsc.net/methods/vogels.html 200 method http://www.cs.technion.ac.il/~tomersh/methods.html 200 code http://code.google.com/p/fast-automated-recon-metabolism 405 available http://neurosporacyc.broadinstitute.org -1 null www.r-project.org -1 code https://code.google.com/p/fast-automated-recon-metabolism/ 405 
+23874176 2013 NoLink
+23874177 2013 NoLink
+23874180 2013 null www.neuron.yale.edu -1 null www.python.org -1 
+23874191 2013 null https://github.com/arq5x/gemini 301 available http://gemini.readthedocs.org/ 301 available http://quinlanlab.cs.virginia.edu/ -1 null http://www.sqlite.org/ 200 library http://ipython.org/ipython-doc/dev/parallel/ 200 null http://www.ncbi.nlm.nih.gov/clinvar/ 301 null https://github.com/arq5x/gemini/tree/master/gemini/annotation_provenance 301 
+23874181 2013 NoLink
+23874192 2013 null http://vienna-ptm.univie.ac.at 200 
+23874186 2013 tool www.r-project.org -1 tool http://www.pymol.org/ 302 
+23874187 2013 NoLink
+23874185 2013 available http://www.di.ens.fr/~mschmidt/ 404 available http://www.clfs.umd.edu/biology/ntlab/NIM/ 301 
+23874179 2013 download http://www.broadinstitute.org/scientific-community/science/projects/fungal-genome-initiative/fungal-genome-initiative 301 null http://www.candidagenome.org/ 200 
+23935473 2013 null http://rfam.sanger.ac.uk/family/RF00167 301 
+23874189 2013 NoLink
+23874193 2013 NoLink
+23874194 2013 tool http://barongroup.medchem.utah.edu/tools -1 
+23935465 2013 NoLink
+23935466 2013 null http://www.scaiview.com/scaiview-academia.html 301 
+23935468 2013 null http://mouse.brain-map.org 200 null http://addiction.brainarchitecture.org/ 405 
+23935469 2013 NoLink
+23935470 2013 NoLink
+23935471 2013 download http://price.systemsbiology.net/downloads 301 download http://price.systemsbiology.net/downloads 301 null http://www.ncbi.nlm.nih.gov/gene 301 
+23935472 2013 NoLink
+23935475 2013 NoLink
+23935474 2013 NoLink
+NA 2013 null http://www.iscb.org 200 null http://www.iscb.org/ismbeccb2013 200 
+23946717 2013 NoLink
+23935476 2013 null http://openwetware.org/wiki/Maheshri:Internal 301 
+23861664 2013 NoLink
+23861661 2013 code http://atcg.googlecode.com 404 
+23861662 2013 null http://openbabel.org/wiki/Main_Page 200 null http://openbabel.org/wiki/Main_Page 200 
+23861663 2013 NoLink
+23861660 2013 NoLink
+23825938 2013 null http://www.ncbi.nlm.nih.gov/genomes/leuks.cgi 301 
+27783622 2016 NoLink
+23785265 2013 null http://www.moseslab.csb.utoronto.ca/louis-f/unsupervised/ 200 null http://www.moseslab.csb.utoronto.ca/louis-f/unsupervised/ 200 
+23785266 2013 available www.embl.org/ells/llab261112 -1 
+23785267 2013 NoLink
+23785268 2013 NoLink
+23785269 2013 NoLink
+23785270 2013 NoLink
+23785271 2013 NoLink
+23762020 2013 NoLink
+23785273 2013 available http://www.arduino.cc 301 available http://networkx.lanl.gov/ 302 code http://code.google.com/p/swn-neuronal-networks/ 405 
+23785272 2013 NoLink
+23990771 2013 NoLink
+23818839 2013 available http://csbi.ltdk.helsinki.fi/spinlong/mcf7/ 200 available http://csblsynergy.fimm.fi/ 200 available http://csbi.ltdk.helsinki.fi/spinlong/mcf7/ 200 available http://csbi.ltdk.helsinki.fi/spinlong 301 available http://csblsynergy.fimm.fi/ 200 code http://code.google.com/p/jahmm/ 405 null http://cancergenome.nih.gov 301 
+23825935 2013 NoLink
+23818840 2013 null www.data-archive.ac.uk -1 available http://evolution.genetics.washington.edu/phylip.html 200 
+23840181 2013 null http://lgt.igs.umaryland.edu/1000genomes 301 null http://lgt.igs.umaryland.edu/tcga 301 null http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP001293 301 null http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=samples 301 software http://tree.bio.ed.ac.uk/software/figtree/ 200 
+23825934 2013 NoLink
+23843751 2013 NoLink
+23825939 2013 NoLink
+23825936 2013 software http://mezeylab.cb.bscb.cornell.edu/Software.aspx 200 
+23843752 2013 null hemoglobin -1 null MaxPerutz -1 null ChristianBohr -1 null hemoglobin -1 null oxygen -1 null partialpressure -1 null CO2 -1 null Bohreffect -1 null homotropic -1 null heterotropic -1 null A.V.Hill -1 null namedafterhim -1 null G.S.Adair -1 null LinusPauling -1 null DanielKoshland -1 null Monod-Wyman-Changeux(MWC)model -1 null ultrasensitivity -1 null allostericmodulators -1 null enzymes -1 null regulated -1 null Threoninedeaminase -1 null aspartatetrans-carbamylase -1 null WilliamLipscomb -1 null ionchannels -1 null nicotinicacetylcholinereceptors -1 null acetylcholine -1 null Inositoltriphosphate(IP3)receptors -1 null calmodulin -1 null EF-handdomains -1 null lambdaphage -1 null Pseudomonasputida -1 null cytochromeP450cam -1 null PDB -1 null PDB -1 
+23825937 2013 NoLink
+23874183 2013 null http://consurf.tau.ac.il 200 
+23825940 2013 NoLink
+23874190 2013 NoLink
+23754938 2013 available http://fias.uni-frankfurt.de/~bornschein/NonLinSC 301 
+NA 2013 NoLink
+24785005 2014 package http://physiology.med.cornell.edu/faculty/hweinstein/resources.html 200 
+23785274 2013 NoLink
+23762021 2013 NoLink
+23754939 2013 NoLink
+24039568 2013 null http://dx.doi.org/10.5061/dryad.v6st3 303 
+23762022 2013 NoLink
+23754941 2013 NoLink
+23516345 2013 NoLink
+23516343 2013 available www.glycanstructure.org -1 package http://www.r-project.org 200 null www.glycanstructure.org/fragment-db -1 
+NA 2011 NoLink
+22496629 2012 software http://www.r-project.org/ 200 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg18/encodeDCC/wgEncodeUwDnaseSeq/ 200 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg18/encodeDCC/wgEncodeChromatinMap 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18199 301 download http://perso.ens-lyon.fr/benjamin.audit/ReplicationDomainsPLoSComputBiol2012/ 200 
+23516342 2013 NoLink
+23516340 2013 available http://sites.google.com/site/chainsmodel/ 302 
+23516344 2013 NoLink
+23516352 2013 download http://www.cs.ox.ac.uk/chaste/download 200 null https://chaste.cs.ox.ac.uk/trac/wiki/PaperTutorials/Plos2013 -1 download http://www.cs.ox.ac.uk/chaste 301 null http://www.ohloh.net/p/Chaste -1 null https://chaste.cs.ox.ac.uk/trac/wiki/ChasteGuides/ExternalDeveloperGuide -1 null https://chaste.cs.ox.ac.uk/trac/wiki/GettingStarted -1 null http://www.cmiss.org/cmgui 200 
+23516346 2013 null http://krasnow.gmu.edu/CENlab/ 403 null http://senselab.med.yale.edu/ModelDB/ 302 
+23516347 2013 null http://imp.princeton.edu 200 null http://imp.princeton.edu 200 available http://libsleipnir.bitbucket.org 301 
+23516348 2013 NoLink
+23526890 2013 null http://galaxy.informatik.uni-halle.de 200 null http://jstacs.de/index.php/TALgetter 200 available https://boglab.plp.iastate.edu/node/add/talef-off 301 null https://github.com/njbooher/boglab_talesf 301 null http://galaxy.informatik.uni-halle.de 200 null http://jstacs.de/index.php/TALgetter 200 null ftp://ftp.plantbiology.msu.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/version_7.0/all.dir/all.chrs.con -1 null ftp://ftp.plantbiology.msu.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/version_7.0/all.dir/all.gff3 -1 null ftp://ftp.jgi-psf.org/pub/JGI_data/phytozome/v6.0/Csinensis 404 null http://www.jgi.doe.gov/ 301 null http://galaxy.informatik.uni-halle.de 200 null https://tale-nt.cac.cornell.edu/node/add/talef-off 302 null http://bioinfo-prod.mpl.ird.fr/xantho/tales/ -1 null http://bioinfo.mpl.ird.fr/cgi-bin/talvez/talvez.cgi 200 null https://tale-nt.cac.cornell.edu/node/add/talef-off-paired 302 null http://idtale.kaust.edu.sa 504 
+23533370 2013 null patternsofinteraction -1 null coevolution -1 null naturalselection -1 null foodwebs -1 null mutualisticnetworks -1 here hostparasitecommunities -1 null theoretically -1 null mathematicalmodeling -1 null evolutionaryhistory -1 null microorganisms -1 null hostphage -1 null statisticalpower -1 null stochastic -1 null replication -1 null biodiversity -1 null naturalecosystems -1 null fossilrecords -1 null coevolutionarydynamics -1 null historicallycontingent -1 null geneticconstraints -1 null evolutionaryhistory -1 null computerviruses -1 null SteenRasmussen -1 here CoreWar -1 null geneticprograming -1 null ThomasS.Ray -1 null Tierra -1 null artificiallife -1 null memoryspace -1 null selectivepressure -1 code code -1 null cheaters -1 null ChristophAdami -1 null CharlesOfria -1 null Avida -1 available http://avida.devosoft.org/download/ 404 null theCaliforniaInstituteofTechnology -1 null CPUcycles -1 null http://devolab.msu.edu/ 200 null BEACONCenter -1 null registers -1 null stacks -1 null controlflow -1 null virtualhardware -1 null memory -1 null noisychannel -1 null mutations -1 here mutants -1 null naturalselection -1 null Darwinianevolution -1 null binarynumbers -1 null NAND -1 null logictask -1 null phenotype -1 null Darwin -1 null Angraecumsesquipedale -1 null Madagascar -1 here nectary -1 null pollinator -1 null moth -1 null proboscis -1 null spur -1 null pollen -1 null Xanthopanmorgani -1 null prediction -1 null pairwisecoevolution -1 null hostparasiteinteractions -1 method hosts -1 null threads -1 null Infection -1 null gene-for-gene -1 null community -1 here hostparasite -1 null mutualistic -1 null predatorprey -1 null Selection -1 null spatiallystructuredpopulations -1 null insertions -1 null deletions -1 null pointers -1 null offspring -1 null executionflow -1 null CPUcycles -1 available Avida-ED -1 null GNULesserGeneralPublicLicense -1 null http://avida-ed.msu.edu/ 302 null infections -1 null GNUGeneralPublicLicense -1 null http://pajek.imfm.si/doku.php 302 null insertions -1 null deletions -1 null pointers -1 null executionflow -1 null CPUcycles -1 available Avida-ED -1 null GNULesserGeneralPublicLicense -1 null http://avida-ed.msu.edu/ 302 null binarynumbers -1 null genomes -1 null logicfunction -1 null logicaloperators -1 null host -1 null parasite -1 null coevolutionaryprocess -1 null modular -1 null nested -1 null infections -1 null GNUGeneralPublicLicense -1 null http://pajek.imfm.si/doku.php 302 
+23516350 2013 pipeline http://proteinspire.org 301 null http://moped.proteinspire.org 301 null http://scholar.google.com 302 null http://www.genome.jp/kegg-bin/show_pathway?map04350 200 null http://www.genome.jp/kegg-bin/show_pathway?map04350 200 null http://moped.proteinspire.org 301 null http://www.proteinspire.org 301 
+23526891 2013 null http://www.genboree.org/epigenomeatlas/multiGridViewerPublic.rhtml 200 code http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeUwDnase/ 200 download http://genome.ucsc.edu/ENCODE/downloads.html 200 download http://enhancer.ucsd.edu/renlab/RFECS_enhancer_prediction/ 200 
+24278001 2013 null http://www.iscbsc.org/content/regional-student-groups 403 
+23516339 2013 NoLink
+23516353 2013 NoLink
+23555231 2013 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE36490 301 download https://github.com/jstjohn/SeqPrep 301 code http://code.google.com/p/cutadapt/ 405 
+23555204 2013 NoLink
+23555206 2013 NoLink
+23555207 2013 null http://www.python.org 301 null http://cython.org 200 
+23555224 2013 NoLink
+23555211 2013 NoLink
+23555218 2013 NoLink
+23555214 2013 null http://structure.bioinf.mpi-inf.mpg.de/ 200 
+23555215 2013 null http://www.sysbio.se/BioMet 404 null http://www.sysbio.se/BioMet 404 null http://www.ebi.ac.uk/embl/ 301 null http://www.broadinstitute.org/annotation/genome/aspergillus_group 301 null http://www.bio.nite.go.jp/dogan/project/view/AO 200 null http://genome.jgi-psf.org/Aspni5/Aspni5.home.html 302 null http://media.affymetrix.com/support/technical/technotes/plier_technote.pdf 301 null http://www.sysbio.se/BioMet 404 
+23555216 2013 code http://omics.informatics.indiana.edu/mg/MetaNetSam/ 200 
+23555223 2013 null http://ahandel.myweb.uga.edu/resources.htm -1 
+23555220 2013 NoLink
+23555222 2013 NoLink
+23555213 2013 available http://www.stanford.edu/~nweiler 301 null http://fiji.sc/ 200 code http://code.google.com/p/smithlabsoftware/ 405 
+23658507 2013 null http://pl.wikipedia.org/wiki/Bioinformatyka 301 

@@ -1,0 +1,100 @@
+28521741 2017 null ftp://ftp.sanger.ac.uk/pub/cancer/AlexandrovEtAl/ -1 null https://hyperbrowser.uio.no/rainfall 302 
+28521770 2017 null https://github.com/uio-cels/genomicgraphcoords 301 available https://github.com/uio-cels/offsetbasedgraph 301 null https://github.com/uio-cels/genomicgraphcoords 301 
+28525968 2017 NoLink
+28532394 2017 application https://www.nginx.com/ 301 null https://pypi.python.org/pypi/uWSGI 301 null http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2060/ 301 null https://sourceforge.net/projects/circularlogo/files/test/ 301 null https://correlogo.ncifcrf.gov/ccrnp/trnafull.html 301 null https://sourceforge.net/projects/circularlogo/files/test/ 301 null https://sourceforge.net/projects/circularlogo/files/test/ 301 null http://www.benoslab.pitt.edu/cgi-bin/enologos/enologos.cgi 200 
+28532442 2017 NoLink
+28532384 2017 null ftp://ftp.ebi.ac.uk/pub/databases/Pfam/ 200 null ftp://ftp.jcvi.org/pub/data/TIGRFAMs/ -1 
+28535748 2017 NoLink
+27809781 2016 download http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/data/NA18507/alignment/ 200 null http://dgv.tcag.ca/dgv/ 200 
+28545393 2017 application http://quantgenius.nib.si 302 code http://quantGenius.nib.si 302 tool https://bio.tools 302 
+28545397 2017 download https://github.com/charlesdavid/JED 301 package https://github.com/decamp/kde 301 
+28545391 2017 NoLink
+28545524 2017 NoLink
+28545462 2017 null http://www.csbio.sjtu.edu.cn/bioinf/LR_PPI/Data.htm 200 null http://cic.scu.edu.cn/bioinformatics/predict_ppi/default.html 200 download https://github.com/rasmusbergpalm/DeepLearnToolbox 301 null http://www.csbio.sjtu.edu.cn/bioinf/LR_PPI 301 
+28545448 2017 download www.phi-base.org -1 null ftp://ftp.genome.jp/pub/kegg/xml/kgml/metabolic/organisms/ -1 here www.R-project.org -1 null www.genome.jp/kegg/catalog/org_list.html -1 
+28545390 2017 null http://www.predictioncenter.org/casp12 301 null http://www.predictioncenter.org/casp11/index.cgi 200 null http://dase.ecnu.edu.cn/qwdong/MQAPRankWebServer/server 200 software http://dase.ecnu.edu.cn/qwdong/MQAPRankWebServer/software 200 
+28545394 2017 null http://enzymefunction.org/ 301 null ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxcat.zip 301 download http://www.cytoscape.org/ 200 null http://efi.igb.illinois.edu/efi-est/ 200 
+28549411 2017 null www.fluorender.org -1 null https://youtu.be/okp_zijKu5U 302 
+28549446 2017 null https://github.com/GlobalNamesArchitecture/gnparser 301 available https://github.com/GlobalNamesArchitecture/gnparser-paper 301 
+28549410 2017 NoLink
+28558664 2017 NoLink
+28558684 2017 NoLink
+28558647 2017 NoLink
+28569135 2017 null https://seaborn.pydata.org/ 200 code https://bitbucket.org/CBGR/intervene 301 available http://intervene.readthedocs.io 302 code https://bitbucket.org/CBGR/intervene 301 available http://intervene.readthedocs.io 302 null https://asntech.shinyapps.io/intervene/ 301 available https://gehlenborglab.shinyapps.io/upsetr/ 301 available http://vcg.github.io/upset 301 available https://asntech.shinyapps.io/intervene 301 
+28558674 2017 software http://www.adaa.polsl.pl/software.html 200 
+28569140 2017 null https://cghub.ucsc.edu/index.html 200 null https://portal.gdc.cancer.gov/projects/TCGA-BRCA 301 null http://adtex.sourceforge.net 200 null https://sourceforge.net/projects/contra-cnv/ 301 software http://www.bioinf.jku.at/software/cnmops/cnmops.html 200 null https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide -1 null http://varscan.sourceforge.net/ 200 
+28578660 2017 null ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.5.0/ 301 available http://csas.cbrc.jp/Ssearch/benchmark/ 200 null ftp://ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/ 404 null http://www.supfam.org/SUPERFAMILY/ruleset.html 200 
+28578661 2017 null http://traco.sourceforge.net 200 null https://www.ncbi.nlm.nih.gov/ 301 
+28578698 2017 null https://github.com/django/django 301 null https://www.djangoproject.com 301 null https://github.com/postgres/postgres 301 null https://www.postgresql.org 301 null https://github.com/mongodb/mongo 301 null https://www.mongodb.com 301 null http://dictybase.org 200 null https://angularjs.org/ 301 null http://getbootstrap.com/ 200 null http://c3js.org/ 200 null https://d3js.org/ 301 null http://www.flotcharts.org/ 200 available https://github.com/genialis/resolwe 301 null https://www.youtube.com/watch?v=9ayBgHdJMqY 301 
+28578658 2017 available https://github.com/yamada-kd/nTAcPredictor 301 null http://www.uniprot.org/ 200 
+28583090 2017 null http://www.inforstation.com/PredBLP/ 200 
+28583091 2017 software http://www.cs.hmc.edu/~yjw/software/plct 301 
+28583067 2017 NoLink
+28587632 2017 available https://github.com/Thakar-Lab/FIGS 301 available https://github.com/Thakar-Lab/FIGS 301 available https://github.com/Thakar-Lab/FIGS 301 package https://github.com/Thakar-Lab/FIGS-Influenza 301 
+28587674 2017 NoLink
+28587636 2017 null https://github.com/ship561/hts-exploration 301 
+28610557 2017 null http://www.ebi.ac.uk/biosamples 301 null http://www.ebi.ac.uk/ena/data/view/PRJEB19199 301 download https://github.com/lh3/seqtk 301 null ftp://ftp.ensembl.org/pub/release-86/fasta/ovis_aries/cdna/Ovis_aries.Oar_v3.1.cdna.all.fa.gz 200 download ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz 301 null http://lilab.research.bcm.edu/cpat/index.php 200 
+28587596 2017 software http://www.ams.sunysb.edu/~pfkuan/softwares.html#predictsgrna 200 
+28606054 2017 method https://github.com/iontorrent/TS 301 null https://github.com/gitvarhmm/varhmm 301 null https://figshare.com/s/6101b0605da5e9a6f72e 301 
+28606086 2017 null www.uniprot.org -1 null www.rcsb.org/pdb/ -1 null http://dunbrack.fccc.edu/Guoli/PISCES.php 200 null www.uniprot.org -1 null www.uniprot.org -1 null www.rcsb.org/pdb/ -1 
+28617223 2017 NoLink
+28617224 2017 NoLink
+28617219 2017 null http://www.drugbank.ca/releases/latest 301 null http://www.python.org/ 301 tool www.rdkit.org/ -1 null http://www.colorbrewer2.org/ 301 
+28617226 2017 software http://biocomputing.tgen.org/software/EDDY/CTRP 301 software http://biocomputing.tgen.org/software/EDDY/CTRP 301 software http://biocomputing.tgen.org/software/EDDY/CTRP 301 software http://biocomputing.tgen.org/software/EDDY/CTRP 301 
+28617229 2017 NoLink
+28617225 2017 software http://alurulab.cc.gatech.edu/phylo 301 software http://alurulab.cc.gatech.edu/phylo 301 available http://www.geneious.com 301 software http://alurulab.cc.gatech.edu/phylo 301 
+28617220 2017 NoLink
+28617221 2017 NoLink
+28617217 2017 NoLink
+28617230 2017 NoLink
+28617231 2017 NoLink
+28617222 2017 NoLink
+28615003 2017 NoLink
+28617228 2017 null ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem_fingerprints.pdf 301 
+28617218 2017 NoLink
+28617227 2017 null http://geneontology.org 200 null http://david.abcc.ncifcrf.gov 301 
+28617232 2017 NoLink
+28623888 2017 tool http://seqmap.compbio.iupui.edu 200 tool http://bedtools.readthedocs.io/en/latest/ 200 null https://visa.pharmacy.wsu.edu/bioinformatics/ 200 
+28623886 2017 null http://predictioncenter.org/casp11/domains_summary.cgi 200 
+28623901 2017 NoLink
+28629316 2017 NoLink
+28629325 2017 NoLink
+28629355 2017 null http://imagej.nih.gov/ij/ 302 
+28637426 2017 NoLink
+28637422 2017 NoLink
+28633662 2017 NoLink
+28637421 2017 NoLink
+28645323 2017 NoLink
+28646874 2017 null http://www.ncbi.nlm.nih.gov/pubmed 301 null http://www.lbgi.fr/balibase/ 200 
+28646877 2017 null https://cancergenome.nih.gov 301 null http://bigg.ucsd.edu/ 405 null https://www.ebi.ac.uk/biomodels-main/MODEL1310160000 200 null https://cancergenome.nih.gov 301 null http://sbmlmod.uit.no 302 null https://github.com/MolecularBioinformatics/sbml-mod-ws 301 null http://sbmlmod.uit.no 302 download http://sbmlmod.uit.no/SBMLmod.wsdl 200 null https://github.com/MolecularBioinformatics/sbml-mod-ws 301 null https://github.com/MolecularBioinformatics/sbml-mod-ws 301 available https://github.com/MolecularBioinformatics/PyCopasi 301 null https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE7905 301 null https://cancergenome.nih.gov 301 null http://sbmlmod.uit.no 302 null http://sbmlmod.uit.no 302 
+28659129 2017 available https://sourceforge.net/projects/slmsuite 301 download ftp://ftp.sra.ebi.ac.uk/vol1/ERA172/ERA172924 301 null http://picard.sourceforge.net 200 
+28659123 2017 software http://life.bio.sunysb.edu/ee/rohlf/software.html 200 software http://www.hockerley.plus.com/ 200 null http://evolgen.biol.se.tmu.ac.jp/fly/wing/ 200 
+28659141 2017 download http://pvaas.sourceforge.net 200 
+28651562 2017 NoLink
+28666416 2017 NoLink
+28666410 2017 NoLink
+28655296 2017 null https://github.com/sparkblastproject/v2 301 null https://wiki.apache.org/hadoop/PoweredByYarn 302 
+28651569 2017 software http://www2.warwick.ac.uk/fac/sci/systemsbiology/research/software/ 301 software https://github.com/giorgosminas/ReTrOS 301 tool https://www.gnu.org/licenses/gpl-3.0.en.html 200 null https://uk.mathworks.com/support/sysreq.html 301 
+28676075 2017 available https://github.com/shaileshtripathi/sgnesR 301 
+28673253 2017 NoLink
+28683752 2017 package https://CRAN.R-project.org/package=Tnseq 303 
+28693478 2017 software https://sites.google.com/a/tamu.edu/mustafa/software/reglrsd 302 software https://sites.google.com/a/tamu.edu/mustafa/software/reglrsd 302 
+28697740 2017 NoLink
+28697800 2017 null https://portal.gdc.cancer.gov/projects/TCGA-BLCA 301 method https://genome-cancer.ucsc.edu/ 302 
+28693470 2017 NoLink
+28697761 2017 null https://github.com/mclegrand/HLA-check/ 301 null https://www.niddkrepository.org/niddk/home.do 301 null http://hla.alleles.org/ 200 null http://hla.alleles.org 200 null http://hla.alleles.org 200 
+28693417 2017 software http://genome.zju.edu.cn/software/ace/ 200 
+28697757 2017 NoLink
+28697753 2017 package https://cran.r-project.org/ 200 null http://cancergenome.nih.gov/ 301 
+28701218 2017 null Centre -1 available https://github.com/skanwal/GATK-CaseStudy 301 
+28701187 2017 NoLink
+28693421 2017 available http://secim.ufl.edu/secim-tools/ 200 null https://creativecommons.org/licenses/by/4.0/ 301 available http://secim.ufl.edu/secim-tools/ 200 
+28693471 2017 NoLink
+28797229 2017 null https://github.com/jguhlin/odg 301 
+28797226 2017 NoLink
+28797233 2017 NoLink
+28810826 2017 NoLink
+28728542 2017 null http://bioinf.wehi.edu.au/clove/ 200 null http://www.ncbi.nlm.nih.gov/sra/SRX803011 301 
+28716001 2017 null https://david.ncifcrf.gov 301 null http://paschou-lab.mbg.duth.gr/html5up/Examples.html 200 available http://paschou-lab.mbg.duth.gr/Software.html 200 null http://paschou-lab.mbg.duth.gr/html5up/Examples.html 200 
+28715997 2017 NoLink
+28724417 2017 available https://github.com/SharonLutz/Umediation 301 

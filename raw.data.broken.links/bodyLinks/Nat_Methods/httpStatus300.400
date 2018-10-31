@@ -1,0 +1,100 @@
+24270603 2013 available http://lilab.stanford.edu/mmPCR/ 200 null http://www.ncbi.nlm.nih.gov/SNP/ 301 null http://evs.gs.washington.edu/EVS/ 200 null http://www.ncbi.nlm.nih.gov/sra 301 software http://www.bios.unc.edu/~weisun/software/asSeq.htm 200 
+24317252 2014 NoLink
+24727653 2014 NoLink
+24727651 2014 available http://www.addgene.org/1649/ 200 download http://people.umass.edu/kilfoil/downloads.html 200 software http://lccb.hms.harvard.edu/software.html 301 
+24820376 2014 null www.wormbuilder.org -1 available http://www.biology.utah.edu/jorgensen/wayned/ape/ 301 null www.wormbase.org -1 
+24747813 2014 NoLink
+24776634 2014 NoLink
+24809628 2014 NoLink
+24363022 2014 software http://www.sci.utah.edu/software/13-software/127-fluorender.html 302 null http://rsbweb.nih.gov/ij/ 301 
+25262205 2014 tool http://david.abcc.ncifcrf.gov/ 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+25437436 2014 tool http://www.nimblegen.com/products/nimbledesign/index.html 301 null http://enhancer.lbl.gov 301 null http://www.wicell.org 301 null http://www.sigmaaldrich.com 301 null http://www.bd.com 200 null http://www.invitrogen.com 301 code http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/fdrPeaks 301 download http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/faire_fseq_peaks 301 code http://hgdownload-test.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeRegTfbsClustered 301 
+24509632 2014 null https://tale-nt.cac.cornell.edu/tutorials/talentargeterupdated 302 null http://zifit.partners.org/ZiFiT/ChoiceMenu.aspx 200 null http://www.addgene.org/TALeffector/goldengateV2/ 302 null http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 null http://www.addgene.org/crispr/church/ 200 null http://rsbweb.nih.gov/ij/ 301 
+24509633 2014 null www.onekp.com -1 null www.cellprofiler.org -1 
+25128977 2014 null www.well.ox.ac.uk/platypus -1 null http://www.ncbi.nlm.nih.gov/sra 301 null http://primer3.sourceforge.net 200 null http://www.ncbi.nlm.nih.gov/sra 301 null http://sfari.org 301 null http://scalpel.sourceforge.net 200 
+26436482 2015 NoLink
+24813625 2014 null http://www.gimp.org 301 
+24658141 2014 null genome.ucsc.edu -1 
+24681694 2014 NoLink
+24705474 2014 NoLink
+20526346 2010 NoLink
+26752769 2015 code https://github.com/PMBio/scMT-seq 301 null http://www.bioinformatics.babraham.ac.uk/projects/seqmonk/ 200 
+24836920 2014 NoLink
+24952909 2014 here www.maxquant.org -1 download http://proteomecommons.org 404 
+24880876 2014 null http://rsbweb.nih.gov/ij/ 301 null http://www.r-project.org 200 null http://fiji.sc/Fiji 301 software http://icy.bioimageanalysis.org 200 
+26344045 2015 NoLink
+24973948 2014 null http://www.mathworks.com/matlabcentral/fileexchange/28851-alpha-shapes 200 
+25730490 2015 NoLink
+24930130 2014 NoLink
+24836921 2014 null http://pklab.med.harvard.edu/scde/ 302 
+24952910 2014 NoLink
+23023597 2012 available http://www.genome.duke.edu/labs/ohler/research/image_analysis/rootarray/nature_methods-supp/rootarray-software.tgz 302 available http://www.fiji.sc 301 available http://rootarray.biology.duke.edu/experiments-wb-2010 301 available http://labs.genome.duke.edu/ohler/research/image_analysis/rootarray -1 
+25799441 2015 available https://github.com/Danko-Lab/dREG 301 
+25028895 2014 software http://yost.genetics.utah.edu/software.php 200 null http://bacpac.chori.org/ 200 null http://www.R-project.org/ 200 package http://CRAN.R-project.org/package=binom 303 
+25028896 2014 null www.python.org -1 null http://rna.ucsc.edu/rnacenter/xrna/ 200 
+23314171 2014 NoLink
+25437435 2014 null http://3dvcell.org 302 null http://biochem.web.utah.edu/iwasa/projects/HIV.html 200 null http://autopack.cgsociety.org -1 code http://cellPACK.org 301 available https://github.com/gj210/autoPACK 301 null http://www.autopack.org/documentation/-apr-autopack-result-file-anatomy 200 null http://nbcr.ucsd.edu/data/sw/hosted/lipidwrapper 301 null http://www.panda3d.org 200 null http://gamma.cs.unc.edu/OBB 301 null http://www.scipy.org 301 null http://mgldev.scripps.edu/projects/autoPACK/web/scripts/testTiling.py 200 null http://www.scipy.org 301 null http://www.autopack.org/documentation/-apr-autopack-result-file-anatomy 200 null http://matplotlib.org 200 software http://etd.lsu.edu/docs/available/etd-08022006-140010/unrestricted/Zhang_dis.pdf -1 null http://www.youtube.com/watch?v=S94GUmFQ7yM 301 
+21131969 2010 NoLink
+25152083 2014 null http://www.R-project.org/ 200 software http://yuanlab.org/software/QP/ 200 
+27043882 2016 null http://orthology.benchmarkservice.org 200 null https://github.com/qfo/benchmark-webservice 301 available ftp://ftp.ebi.ac.uk/pub/databases/reference_proteomes/QfO 301 null http://swisstree.vital-it.ch/species_tree 301 null http://eggnogdb.embl.de 200 null http://orthology.phylomedb.org/ 200 available http://omabrowser.org/ 301 null http://lbgi.fr/orthoinspector/ 200 null http://pantherdb.org 200 available http://phylomedb.org/ 200 code https://github.com/todddeluca/reciprocal_smallest_distance/ 301 null http://swisstree.vital-it.ch/ 301 null http://www.treefam.org/ 200 
+26167641 2015 NoLink
+20512143 2010 null www.wormbase.org -1 null http://rsb.info.nih.gov/ij/ 301 
+25262207 2014 null http://r-project.org 301 available http://rnbeads.mpi-inf.mpg.de/examples.php 200 null http://rnbeads.mpi-inf.mpg.de/methylomes.php 200 available http://www.r-project.org 200 null http://rnbeads.mpi-inf.mpg.de/webservice.php 200 available http://toolshed.g2.bx.psu.edu 307 package http://rnbeads.mpi-inf.mpg.de/data/RnBeads.pdf 200 available http://rnbeads.mpi-inf.mpg.de/examples.php 200 available http://rnbeads.mpi-inf.mpg.de 200 package http://www.bioconductor.org/packages/release/bioc/html/methyAnalysis.html 200 package http://bioconductor.org/packages/release/bioc/html/methylumi.html 200 null http://shinymethyl.com/ -1 package http://cran.r-project.org/web/packages/ff/index.html 200 null http://rnbeads.mpi-inf.mpg.de/methylomes.php 200 available http://rnbeads.mpi-inf.mpg.de 200 
+25194847 2014 NoLink
+25282611 2014 NoLink
+25326662 2014 NoLink
+25306544 2014 code https://cplc.illinois.edu/ 301 software http://bio.physics.illinois.edu/HaMMy.asp 404 
+25622108 2015 null www.cdna.org -1 null http://imagej.nih.gov/ij/ 302 
+25306545 2014 NoLink
+25362362 2014 pipeline http://www.llamamagic.org 200 pipeline http://www.llamamagic.org 200 null http://www.ebi.ac.uk/pdbe/prot_int/pistart.html 200 
+25344639 2014 NoLink
+19412169 2009 software http://www.dickinson.caltech.edu/ctrax 301 
+19448641 2009 null http://www.abrf.org/ResearchGroups/ProteomicsStandardsResearchGroup/EPosters/ABRFsPRGStudy2006poster.pdf 301 null http://psidev.info/index.php?q=node/317 200 library http://www.invitrogen.com/etc/medialib/en/filelibrary/pdf.Par.72904.File.dat/HumanProteinStandardsforMassSpectrometry.pdf 301 null www.dhl-usa.com/ -1 null http://fedex.com/us/ 301 null http://portal.proteomics.mcgill.ca:8080/hupo-standards/nr_human_20061127_v2.fasta -1 null http://tranche.proteomecommons.org/ -1 library http://www.invitrogen.com/etc/medialib/en/filelibrary/pdf.Par.72904.File.dat/HumanProteinStandardsforMassSpectrometry.pdf 301 null http://www.ncbi.nim.nih.gov/BLAST/ -1 null http://www.waters.com 403 null http://www.proteomecommons.org/dev/dfs/examples/hupo-2007/Tranche-HUPO.jsp 404 null www.ebi.ac.uk/IPI/ -1 null ftp://ftp.ncifcrf.gov/pub/nonredun/ -1 null http://www.thegpm.org/cRAP/index.html 200 available http://www.peptideatlas.org/tmp/HsIPI3.50_Ec_cRAP_20_TargetDecoy.fasta 200 
+25686390 2015 NoLink
+25419960 2014 NoLink
+23892898 2013 available http://www.addgene.org/crispr-cas 302 
+25506720 2015 NoLink
+25486062 2014 null http://rsb.info.nih.gov/ij/plugins/linearize-gel-data.html 301 
+25707029 2015 download https://www.dropbox.com/s/5jngzlivdtz4zn0/Wang_etal_TRPV1.tar.gz?dl=0 301 
+25362363 2014 null http://www.roadmapepigenomics.org/protocols 200 null www.python.org -1 code http://aryee.mgh.harvard.edu/publications/bsdepth 404 null http://www.roadmapepigenomics.org/ 200 
+25643149 2015 null http://gateway.psb.ugent.be/ 301 
+25240437 2014 NoLink
+25599551 2014 NoLink
+22056676 2011 method http://www.nature.com/naturemethods/ 303 
+25599549 2014 null http://www.R-project.org/ 200 
+25581800 2014 null http://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=7227 200 
+25559584 2014 NoLink
+25581799 2014 null http://janelia.org/lab/looger-lab 302 
+25581801 2016 null http://seek.princeton.edu 200 
+25707028 2015 download http://fusion.vueinnovations.com 302 
+25730491 2015 available https://www.ibp.ucla.edu/research/xiao/GIREMI.html 302 null http://genome.ucsc.edu/ENCODE/ 200 null http://www.geuvadis.org 301 
+25730493 2015 null http://rana.lbl.gov/EisenSoftware.htm -1 null www.mirnabodymap.org -1 
+25867850 2015 available http://www.cytokinetics.com/pdf/AACR_2002_Poster_1335.pdf 301 null http://lccb.hms.harvard.edu/doc/InvivoCytometer_v2.0.zip 301 
+25707030 2015 NoLink
+26214130 2015 code http://gtrnadb.ucsc.edu/Hsapi19/ 200 
+26237225 2015 null http://github.com/jstjohn/SeqPrep 301 software http://lowelab.ucsc.edu/software/ 200 
+25775043 2015 null www.r-project.org -1 null http://3DG.umassmed.edu 302 
+25938370 2015 publicly www.copurification.org -1 null http://www.ncdir.org/public-resources/protocols/ 301 tool http://www.massmatrix.net/mm-cgi/downloads.py 301 code https://github.com/FenyoLab/copurification 301 available ftp://ftp.thegpm.org 200 available http://salilab.org/npc/ 301 null http://maxquant.org/ 301 null http://www.yeastgenome.org/ 302 null http://www.R-project.org 200 
+24658142 2014 null http://cisbp2.ccbr.utoronto.ca/ 200 null http://cisbp2.ccbr.utoronto.ca/ 200 
+25915120 2015 NoLink
+25938372 2015 download http://prime.psc.riken.jp/ 200 download http://prime.psc.riken.jp/ 200 null http://www.chemaxon.com 200 download http://prime.psc.riken.jp/ 200 download http://prime.psc.riken.jp/ 200 package http://www.R-project.org 200 package http://CRAN.R-project.org/package=amap 303 
+26005812 2015 null http://bigwww.epfl.ch/thevenaz/turboreg/ 200 
+26030447 2015 null http://viceroy.eeb.uconn.edu/estimates/ 200 download http://plasmodb.org/common/downloads/release-9.2/Pfalciparum3D7/fasta/data/ 200 null http://picard.sourceforge.net/ 200 
+26030446 2015 software http://lccb.hms.harvard.edu/software.html 301 
+25984697 2015 NoLink
+26030448 2015 NoLink
+26053889 2015 software http://spin.niddk.nih.gov/bax/software/POMONA 302 software http://spin.niddk.nih.gov/bax/software/POMONA 302 null http://spin.niddk.nih.gov/bax/nmrserver/pomona 302 software http://www.rosettacommons.org/software 302 
+26121403 2015 NoLink
+27018580 2016 NoLink
+26098020 2015 NoLink
+26121406 2015 here evfold.org -1 available http://ec-nmr.nesg.org/ 200 available http://ec-nmr.nesg.org/ 200 available http://ec-nmr.nesg.org/tutorial.html 200 available http://nmr.cabm.rutgers.edu/rpf/ 200 null http://psvs-1_5-dev.nesg.org/ 200 available http://www.nmr2.buffalo.edu/nesg.wiki/PSVS 200 available http://ec-nmr.nesg.org/ 200 available http://evfold.org/ 302 software http://www-nmr.cabm.rutgers.edu/NMRsoftware/asdp/Quick_Starts.html 200 null http://www.nmr2.buffalo.edu/nesg.wiki/AutoStructure_Structure_Determination_Program 200 available http://www.nmr2.buffalo.edu/nesg.wiki/Rosetta_High_Resolution_Protein_Structure_Refinement_Protocol 200 available http://psvs-1_4-dev.nesg.org/consRosetta.html 200 
+26098019 2015 NoLink
+26053890 2015 null www.jpt.com -1 null www.igbmc.fr -1 null www.scipy.org -1 null www.python.org -1 null http://www.clustal.org/ 200 available http://www.jalview.org/ 200 null www.scipy.org -1 null www.python.org -1 null www.pymol.org -1 null http://cancer.sanger.ac.uk/cancergenome/projects/census/ 301 
+26098021 2015 available http://1drv.ms/1ztXI1a 405 
+25822800 2015 null http://cibersort.stanford.edu 302 null http://brainarray.mbni.med.umich.edu/Brainarray/ 200 null http://cibersort.stanford.edu 302 null http://xavierlab2.mgh.harvard.edu/EnrichmentProfiler/ 200 null http://cibersort.stanford.edu 302 
+26167640 2015 NoLink
+26258293 2015 NoLink
+26258292 2015 code http://github.com/btownshend/TwoColor 301 
+26280328 2015 null https://github.com/fraser-lab/EMRinger 301 
+26322839 2015 NoLink
+26214128 2015 software http://bitbucket.org/young_computation/rose 301 

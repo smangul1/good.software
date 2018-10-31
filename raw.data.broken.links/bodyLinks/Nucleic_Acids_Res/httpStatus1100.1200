@@ -1,0 +1,100 @@
+16254074 2005 null http://flytrap.med.yale.edu 301 null http://nematode.lab.nig.ac.jp 200 null http://bgypc059.leeds.ac.uk/~web 302 method http://elegans.bcgsc.ca 200 here http://www.wormbase.org 200 null http://www.genome.washington.edu/UWGC/protocols/Gapture.cfm -1 null http://www.ciwemb.edu/pages/firelab.html 301 null http://www.umanitoba.ca/faculties/medicine/biochem/gietz 302 null http://www.chin-sang.ca 302 null http://www.genome.washington.edu/UWGC/protocols/Gapture.cfm -1 here http://www.wormbase.org 200 null http://nematode.lab.nig.ac.jp 200 null http://nematode.lab.nig.ac.jp 200 here http://www.wormbase.org 200 
+16260472 2005 here http://www.ncbi.nlm.nih.gov/ICTVdb/Ictv 301 available http://www.ccrnp.ncifcrf.gov/~toms/ -1 null http://www.ncbi.nlm.nih.gov/blast/bl2seq/bl2.html 301 null http://evolution.gs.washington.edu/phylip.html 200 null NP_041960 -1 null NP_523301 -1 null AAL86891 -1 null NP_848264 -1 null NP_052071 -1 null NP_853568 -1 null NP_813747 -1 null CAA37330 -1 null NP_877465 -1 null NP_570316 -1 null NP_858979 -1 null NP_744415 -1 null NP_531879 -1 null NP_947869 -1 
+16257980 2005 null ftp://ftp.ncbi.nlm.nih.gov/genomes/Bacteria/ 301 
+16257981 2005 NoLink
+16257982 2005 NoLink
+16257983 2005 null AY262125 -1 null AY262139 -1 null AY262142 -1 null AY262144 -1 null AY262145 -1 null DQ178119 -1 null DQ178121 -1 
+16257979 2005 NoLink
+16257978 2005 NoLink
+16257977 2005 null http://www.psc.edu/biomed/genedoc 301 
+16260475 2005 null http://www.isrec.isb-sib.ch/ftp-server/pftools/ -1 
+16260473 2005 null http://www.genome.washington.edu/UWGC/analysistools/phrap.htm -1 null http://www.ncbi.nlm.nih.gov/projects/gorf/ 301 
+16397297 2006 null http://www.treeview.net/ 200 null http://www.geneontology.org/ 200 
+16284199 2005 NoLink
+16260476 2005 NoLink
+16260471 2005 null AF038047 -1 null AF038047 -1 null L27824 -1 
+16204447 2005 null http://www.ncbi.nlm.nih.gov/projects/geo/ 301 null http://sagemap.wr.usgs.gov/index.asp 301 null http://www.ebi.ac.uk/arrayexpress/ 301 method http://cibex.nig.ac.jp/index.jsp 404 null http://www.statslab.cam.ac.uk/~mcmc/ 403 available http://www.nr.no/pages/samba/area_emr_smbi_transcount 302 
+16204454 2005 null ftp://ftp.informatics.jax.org/pub/reports/HMD_HumanSequence.rpt -1 null http://www.ensembl.org/Multi/martview 404 null http://www.ncbi.nlm.nih.gov/projects/geo/query/acc.cgi?acc=GPL4 301 null http://www.ncbi.nlm.nih.gov/projects/geo/query/acc.cgi?acc=GPL11 301 
+16204459 2005 NoLink
+16204456 2005 NoLink
+16381908 2006 available www.yeastract.com -1 
+16204449 2005 NoLink
+16204455 2005 NoLink
+16269824 2005 NoLink
+16204460 2005 NoLink
+16204453 2005 NoLink
+16204448 2005 null http://www.bio-rad.com 200 null http://www.amershambiosciences.com 301 null http://www.piercenet.com 301 
+16204458 2005 null http://hgdownload.cse.ucsc.edu/goldenPath/hg17/database/refGene.txt.gz 200 package http://hmmer.wustl.edu/ -1 null ftp://ftp.sanger.ac.uk/pub/databases/Pfam/current_release/Pfam_fs.gz -1 download ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/est_human.gz 301 null http://www.ensembl.org/ 301 algorithm http://www.hgmp.mrc.ac.uk/Software/EMBOSS/ -1 available http://www.sanger.ac.uk/Software/Pfam/ 301 
+16204450 2005 NoLink
+16214805 2005 NoLink
+16204451 2005 null http://apps1.niaid.nih.gov/David -1 null http://www.ncbi.nlm.nih.gov/projects/geo 301 
+16214801 2005 NoLink
+NA 2005 NoLink
+16394021 2006 download http://www.geneontology.org/ontology/function.ontology 404 download http://hgdownload.cse.ucsc.edu/goldenPath/hg17/vsMm5 301 null http://rulai.cshl.edu/tools/ESE/ESEmatrix.html 404 null http://genes.mit.edu/burgelab/rescue-ese/ 200 
+16214807 2005 NoLink
+16394022 2006 NoLink
+16214802 2005 null http://www.pymol.org 302 
+16214803 2005 null http://www-unix.mcs.anl.gov/SEEDWiki/moin.cgi/MoinMoin 301 null http://www.theseed.org/wiki/moin.cgi/SubsystemBulletinBoard 301 null http://www.vbulletin.com/ 301 null http://www.subsys.info -1 null http://clearinghouse.theseed.org/ 403 null http://clearinghouse.theseed.org/clearinghouse_browser.cgi 403 null ftp://ftp.theseed.org/SEED -1 software http://www.theseed.org/Release1_Subsystems/index.html 200 null ftp://ftp.theseed.org/SEED -1 null http://www.genome.jp/kegg/kegg2.html 200 null http://www.geneontology.org/ 200 null http://metacyc.org/ 302 null ftp://ftp.theseed.org/SEED -1 null http://www.ncbi.nlm.nih.gov/COG/old/palox.cgi?COG0237 301 software http://www.theseed.org/Release1_Subsystems/index.html 200 null http://www.theseed.org/SubsystemStories/Ribosomal_proteins/abstract.htm 200 null http://www.ebi.ac.uk/swissprot/Publications/dagstuhl.html 301 null http://torvalds.cs.mtsu.edu/cgi-bin/starts/starts.cgi -1 
+16214808 2005 null http://ndbserver.rutgers.edu 200 
+16214804 2005 NoLink
+16221968 2005 NoLink
+16243786 2005 NoLink
+16157863 2005 NoLink
+16155187 2005 null www.genepalette.org -1 
+16381963 2006 NoLink
+16157866 2005 null http://bite-it.helsinki.fi 200 
+16157867 2005 NoLink
+16155183 2005 NoLink
+16157861 2005 NoLink
+16157864 2005 null http://www.pdg.cnb.uam.es/cursos/Complutense2001/pages/GenomAna/GOLD0.htm 404 download ftp.ncbi.nih.gov/genomes/Bacteria/ -1 null http://csbl.bmb.uab.edu/~zhx/nitrogen/ntca/ -1 
+16166655 2005 NoLink
+16170156 2005 null http://medstat.med.utah.edu/RNAmods/ -1 code http://www.rcsb.com 200 
+16166657 2005 NoLink
+16166656 2005 NoLink
+16166654 2005 NoLink
+16170154 2005 NoLink
+16170155 2005 null http://www.phylofoot.org/ 200 algorithm http://www.alibaba2.com/ -1 tool http://clustalw.genome.ad.jp/ 301 algorithm http://www.alibaba2.com/ -1 tool http://clustalw.genome.ad.jp/ 301 
+16170153 2005 NoLink
+16155182 2005 NoLink
+16407332 2006 NoLink
+16284194 2005 available http://dragon.bio.purdue.edu/pmotif/ 200 
+16177182 2005 NoLink
+16381859 2006 null http://smart.embl.de 200 available http://smart.embl.de/smart/list_genomes.pl 200 null http://dis.embl.de 200 
+16192568 2005 method http://www.affymetrix.com/support/technical/byproduct.affx?cat=arrays 200 
+16199750 2005 null http://www.perl.org 200 null http://www.r-project.org 200 null http://www.perl.org 200 available http://www.bioinformatics.csiro.au/publications.shtml 301 
+16174844 2005 null http://rsb.info.nih.gov/nih-image/ 301 
+16174845 2005 null http://www.ncbi.nih.gov/Structure/VAST/nrpdb.html -1 algorithm ftp://ftp.ncbi.nih.gov/pub/pkb/ 301 
+16174846 2005 NoLink
+16147984 2005 NoLink
+16177181 2005 NoLink
+16186134 2005 NoLink
+16177183 2005 NoLink
+16179646 2005 null http://www.arabidopsis.org/cgi-bin/patmatch/nph-patmatch.pl 200 tool http://mips.gsf.de/proj/thal/db/index.html 404 
+16179647 2005 NoLink
+16179648 2005 null http://www.sanger.ac.uk/Projects/D_rerio/ 301 available http://www.sciencemag.org/cgi/content/full/1098119/DC1 301 
+16421274 2006 null http://www.roche-applied-science.com/sis/rtpcr/upl/adc.jsp 301 null http://biowww.net/detail-574.html 302 here DQ008445 -1 
+16186129 2005 NoLink
+16186130 2005 NoLink
+16186131 2005 NoLink
+16186128 2005 NoLink
+16186133 2005 null www.ncbi.nlm.nih.gov/SNP -1 
+16186132 2005 null www.itb.cnr.it/webgene -1 available ftp://ftp.ncbi.nih.gov/pub/koonin/uAUG/ 301 null ftp://genome-ftp.stanford.edu/pub/yeast/data_download/sequence/fungal_genomes -1 
+16192572 2005 NoLink
+16192569 2005 NoLink
+16192570 2005 NoLink
+16192571 2005 NoLink
+16192575 2005 NoLink
+16192573 2005 null http://www.ncbi.nlm.nih.gov/RefSeq/ 301 null http://www.tau.ac.il/~gilast/sup_mat2.htm 404 null http://www.ncbi.nlm.nih.gov/RefSeq/ 301 null www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=homologene -1 null http://hgdownload.cse.ucsc.edu/downloads.html 200 null http://genome.ucsc.edu/cgi-bin/hgGateway 200 null http://www.soe.ucsc.edu/~sugnet/psb2004/altGraphXCon.html 301 null http://www.tau.ac.il/~gilast/sup_mat2.htm 404 null http://www.sciencedirect.com/science/MiamiMultiMediaURL/B6TCY-4B9558H-1/B6TCY-4B9558H-1-C/5183/f9bdffb6d98512adebc2e545a0151900/Application_1.xls 200 
+16192574 2005 null http://ccdc.cam.ac.uk 301 
+16199754 2005 NoLink
+16397300 2006 NoLink
+16195578 2005 NoLink
+16145054 2005 NoLink
+16147990 2005 null DQ092488 -1 null DQ092489 -1 null DQ092490 -1 null DQ092491 -1 null DQ092492 -1 
+16147988 2005 algorithm http://www.ncbi.nlm.nih.gov/BLAST 301 null http://www.rcsb.org/pdb/ 302 
+16199751 2005 NoLink
+16147982 2005 null www.bioinfo.rpi.edu/applications/mfold/old/rna/form6.cgi -1 
+16377780 2005 NoLink
+16199752 2005 null http://rna.tbi.univie.ac.at 200 
+16199753 2005 NoLink
+16221977 2005 null AB185148 -1 

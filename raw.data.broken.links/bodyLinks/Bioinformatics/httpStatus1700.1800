@@ -1,0 +1,100 @@
+26072490 2015 null ftp://ftp.ncbi.nlm.nih.gov/pub/FISHtrees 301 
+26072509 2015 
+26072512 2015 null http://pinegenome.org/pinerefseq 301 null http://rice.plantbiology.msu.edu/annotation_pseudo_current.shtml 200 
+26072502 2015 available http://www.geonames.org/ 200 null https://opendata.socrata.com/dataset/Country-List-ISO-3166-Codes-Latitude-Longitude/mnkm-8ram 301 available http://diego.asu.edu/downloads 301 pipeline https://gate.ac.uk/ 301 null http://www.nactem.ac.uk/tsujii/GENIA/tagger/ 200 null http://www.ncbi.nlm.nih.gov/nuccore/?term=txid197911[Organism:exp] 301 tool http://www.foolabs.com/xpdf/download.html 301 null http://brat.nlplab.org/ 200 available http://diego.asu.edu/downloads 301 
+26072487 2015 null S4 -1 null S7 -1 
+26072481 2015 NoLink
+26072510 2015 
+26072504 2015 null www.bd2k.nih.gov -1 null http://morrislab.med.utoronto.ca/Data/GB08/ -1 
+26072483 2015 null http://www.the-dream-project.org/ -1 
+26072484 2015 NoLink
+25943471 2015 tool http://www.chemaxon.com 200 null http://www.angularjs.org 301 null http://www.php.net 200 tool http://www.chemaxon.com 200 null www.lipidomes.org -1 null www.swisslipids.org -1 null http://www.swisslipids.org/#/browse 200 null http://www.swisslipids.org/#/mapper 200 null http://www.expasy.org 302 
+25957352 2015 software https://tcgadata.nci.nih.gov-/tcga/ -1 package http://bioconductor.org/packages/release-/bioc/html/cghMCR.html 404 package www.rstudio.com/shiny -1 null www.shinyapps.io -1 
+25910696 2015 software http://www.gnu.org/software/gzip/ 200 null http://www.bzip.org 200 null http://www.nongnu.org/lzip/lzip.html 200 null S3 -1 
+25910694 2015 library sectionS1.2 -1 null Fig.S1 -1 null TableS1 -1 null sectionS1.2.2 -1 null sectionS1.2.3 -1 null Fig.S3 -1 null SectionS1.2.2 -1 code SectionS1.2.4 -1 code SectionS1.2.4 -1 library SectionS3 -1 null https://github.com/PRIDE-Utilities/ms-data-core-api 301 
+27559158 2016 tool www.bioinformatics.babraham.ac.uk/projects/fastqc -1 null www.bioinformatics.babraham.ac.uk/projects/fastq_screen -1 available http://www.compbio.dundee.ac.uk/almostSignificant 503 
+25957353 2015 NoLink
+27559157 2016 NoLink
+25931517 2015 null http://www.path.cam.ac.uk/pawefish/BreastCellLineDescriptions/HCC1187.html 301 
+25940563 2015 null http://treebase.org/treebase-web/home.html 302 null http://dat-data.com/ 403 null http://git-scm.com/ 301 library https://github.com/OpenTreeOfLife/peyotl 301 null http://vimeo.com/44458223 301 null https://github.com/TreeBASE/supertreebase 301 null http://badgerfish.ning.com/badgerfish 302 null https://github.com/OpenTreeOfLife/phylesystem-api/wiki/NexSON 301 null https://github.com/OpenTreeOfLife/taxomachine 301 null https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-Taxonomy 301 
+26072489 2015 available http://www.genome.gov/27530687 301 null http://discovery.informatics.iupui.edu/PAGER/ 302 null http://www.proteinlounge.com/Pathway 301 null http://discovery.informatics.iupui.edu/PAGER/ 302 library http://js.cytoscape.org 200 null http://d3js.org/ 301 
+26072473 2015 null http://www.predictioncenter.org/casp11/index.cgi 200 
+26072493 2015 NoLink
+26072488 2015 null S3 -1 null S6 -1 
+25979472 2015 null S8A -1 null S6B -1 
+26002885 2015 null www.novocraft.com -1 null http://fames.jgi-psf.org/description.html -1 null supplementatydiscussion -1 
+25979476 2015 
+25138169 2014 NoLink
+26002881 2015 null S3 -1 null S12 -1 
+25123903 2014 download https://cghub.ucsc.edu/datasets/benchmark_download.html 404 null S5 -1 null S9 -1 null S5 -1 
+22829624 2012 null http://bioinformatics.bc.edu/marthlab/Mosaik 404 
+26034064 2015 null http://www.novocraft.com 403 
+26026167 2015 null SupplementMaterial -1 
+26059716 2015 null http://www.haplotype-reference-consortium.org 200 
+26019240 2015 null S4 -1 null S6 -1 
+26026169 2015 download https://github.com/haddocking/disvis 301 null S4 -1 
+26023105 2015 null supplementmaterial -1 
+26330601 2015 NoLink
+26093150 2015 library http://d3js.org/ 301 null www.IRIDA.ca -1 null www.pathogenomics.sfu.ca/islandviewer/demo -1 null http://bl.ocks.org/lairdm/6a770c94c6793eee660d 302 
+26104745 2015 
+26227146 2015 NoLink
+20937596 2010 software http://en.wikipedia.org/wiki/Structural_alignment_software 301 null http://www.renci.org/publications/techreports/TR-09-03.pdf 302 
+26099264 2015 null http://www.vital-it.ch 200 
+26112289 2015 null http://www.hscic.gov.uk 301 null www.cartagene.qc.ca/en/researcher-access -1 null www.ncbi.nlm.nih.gov/gap -1 null https://www.ebi.ac.uk/ega/ 301 null https://dcc.icgc.org/ 302 null www.data-archive.ac.uk -1 null http://ukdataservice.ac.uk/use-data/secure-lab.aspx 301 null http://www.adls.ac.uk/nhs-scotland/nhs-scotland-national-safe-haven/ 200 
+26069263 2015 
+26076724 2015 null S3 -1 
+26093149 2015 
+26076725 2015 
+26076722 2015 NoLink
+26079347 2015 
+26099263 2015 null S1.7 -1 null S1.6 -1 null S1.6 -1 
+26428290 2016 null http://www.cloudera.com/content/cloudera/en/products-and-services/cloudera-enterprise/cloudera-manager.html 301 null http://ambari.apache.org/ 200 null http://aws.amazon.com/ 301 library http://boto.readthedocs.org 301 
+26112291 2015 null TableS2 -1 
+25064571 2014 software http://omabrowser.org/standalone 301 null http://orthology.benchmarkservice.org/ 200 null http://orthoxml.org 200 null http://www.w3.org/RDF 301 null http://www.w3.org/TR/rdf-sparql-query/ 200 null http://questfororthologs.org/orthology_databases 302 available http://www.ebi.ac.uk/reference_proteomes 301 null http://swisstree.vital-it.ch/species_tree 301 null http://questfororthologs.org 302 
+26142184 2015 null http://linux1.softberry.com/berry 404 null http://www.dna.affrc.go.jp/PLACE/info.html 302 tool http://bioinformatics.psb.ugent.be/webtools/plantcare/html/ 200 null http://softberry.com/scan.html 301 null www.softberry.com -1 null www.molquest.kaust.edu.sa -1 null http://www.dna.affrc.go.jp/sigscan/signal.html 502 tool http://bioinformatics.psb.ugent.be/webtools/ 302 null http://www.bio.net/bionet/mm/bionews/ 200 
+26115986 2015 NoLink
+26139634 2015 null https://github.com/idoerg/CAFA2-results 301 here http://www.cathdb.info/search/by_funfhmmer 302 
+26249810 2015 null http://bcb.med.usherbrooke.ca/flexaid 404 
+26249815 2015 
+26254488 2015 null S9 -1 
+26272981 2015 null www.neo4j.com -1 
+26243018 2015 
+26249809 2015 code www.python.org -1 
+26272982 2015 algorithm supplementsvariant -1 available http://dna2.leeds.ac.uk:8080/OVA/index.jsp 200 null B -1 available http://dna2.leeds.ac.uk:8080/OVA/index.jsp 200 null http://www.omim.org/ 403 
+26231426 2015 
+26249811 2015 null https://www.ebi.ac.uk/thornton-srv/databases/SurvCurv/ 301 null http://creativecommons.org/licenses/by/3.0/ 301 
+26272984 2015 NoLink
+26283699 2015 
+26249813 2015 null S2 -1 null S5 -1 null S2 -1 null supplements,Section3.1 -1 null S2 -1 
+26249814 2015 available www.biocomputing.it/looping -1 
+26254433 2015 download http://chembank.broadinstitute.org/assays/view-project.htm?id=1001118 500 
+26338770 2015 here http://bioinf.itmat.upenn.edu/BEERS/bp2 301 here https://github.com/khayer/benchmarking_scripts 301 
+27153677 2016 
+27153653 2016 null https://github.com/SchulzLab/KREATION 301 download http://www.ncbi.nlm.nih.gov/sra 301 code http://genome.ucsc.edu/cgi-bin/hgFileUi?g=wgEncodeCshlLongRnaSeq 200 
+26323718 2015 
+26319221 2015 
+26323716 2015 null www.bioperl.org -1 null www.biopython.org -1 null www.bioruby.org -1 null www.biojava.org -1 software www.bioinf.org.uk/software/profit -1 null www.bioinf.org.uk/bioplib/libraries/ -1 null www.rcsb.org/pdb/static.do?p=general_information/whats_new.jsp?b=1412 -1 software www.bioinf.org.uk/software/bioplib -1 software www.bioinf.org.uk/software/bioptools -1 software www.bioinf.org.uk/software/bioplib/doc/html -1 
+26315906 2015 
+26315907 2015 here S8 -1 
+26353839 2016 null http://github.com/nh13/dwgsim 301 null http://github.com/lh3/wgsim 301 
+26363178 2016 null www.evs.gs.washington.edu/EVS/ -1 null www.exac.broadinstitute.org -1 null www.ebi.ac.uk/eva/ -1 
+26382196 2016 null SupplementSectionS1.3 -1 null http://broadinstitute.github.io/picard 301 
+26351271 2016 null Section2.3 -1 null b -1 here d -1 null TableS15 -1 
+26382195 2016 library www.getbootstrap.com -1 null https://angularjs.org/ 301 null http://symfony.com/ 200 null http://www.mysql.com/ 301 null https://github.com/carringtonlab/TargetFinder 301 
+26342231 2016 
+26363029 2016 
+22689749 2012 NoLink
+26338771 2016 null http://thebiogrid.org/ 301 null http://www.hprd.org/ 200 null http://dip.doe-mbi.ucla.edu 302 null http://amp.pharm.mssm.edu/chea/chipchip.php 503 
+26353838 2016 available http://rna.tbi.univie.ac.at 200 
+26382197 2016 null http://minotour.nottingham.ac.uk 200 
+26454280 2016 null ftp://ftp.ncbi.nih.gov/genomes/Bacteria 301 null S8 -1 
+26415722 2016 available http://js.cytoscape.org 200 package http://www.bioconductor.org/packages/ 301 null https://idekerlab.github.io/cy-net-share/ 200 null http://www.ndex -1 null http://www.elsevier.com/books-and-journals/content-innovation/cytoscape 301 null http://js.cytoscape.org/ 200 
+26099265 2015 library http://www.ogdf.net/ 302 
+26424857 2016 NoLink
+26395770 2016 
+26424858 2016 NoLink
+26428294 2016 null http://web.expasy.org/cellosaurus/ 200 apply http://nersuite.nlplab.org/ 200 software http://www.chokkan.org/software/crfsuite/ 200 
+26411870 2016 null S2.3 -1 null S7 -1 
+26428292 2016 
+26428293 2016 null www.ingenuity.com -1 null http://www.haplotype-reference-consortium.org 200 
+26428288 2016 

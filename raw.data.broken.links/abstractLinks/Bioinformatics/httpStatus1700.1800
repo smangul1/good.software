@@ -1,0 +1,100 @@
+26072490 2015 null ftp://ftp.ncbi.nlm.nih.gov/pub/FISHtrees 301 
+26072509 2015 code http://bioinf.spbau.ru/igtools 200 
+26072512 2015 available http://www.cs.colostate.edu/seq/ 200 
+26072502 2015 NoLink
+26072487 2015 code https://github.com/marinkaz/fusenet 301 
+26072481 2015 available https://github.com/dpark27/adapt_mix 301 
+26072510 2015 software http://compbio.cs.brown.edu/software 200 
+26072504 2015 null https://github.com/wangshenguiuc/clusDCA 301 
+26072483 2015 software http://research.mssm.edu/tulab/software/irafnet.html 200 
+26072484 2015 NoLink
+25943471 2015 available http://www.swisslipids.org/ 200 
+25957352 2015 code https://sourceforge.net/projects/copynumberexplorer/ 301 
+25910696 2015 
+25910694 2015 software https://github.com/PRIDE-Utilities/ms-data-core-api 301 
+27559158 2016 available https://github.com/bartongroup/AlmostSignificant 301 
+25957353 2015 download http://www.cosbi.eu/research/prototypes/gener 200 
+27559157 2016 available https://github.com/soulj/PhenomeScape 301 
+25931517 2015 null http://genomics.wpi.edu/rvd2/ 200 
+25940563 2015 null http://github.com/ 301 available https://github.com/OpenTreeOfLife/phylesystem-api 301 available https://github.com/OpenTreeOfLife/phylesystem 301 tool http://tree.opentreeoflife.org/curator 301 available https://github.com/OpenTreeOfLife/opentree 301 
+26072489 2015 null http://discovery.informatics.iupui.edu/PAGER/ 302 
+26072473 2015 available http://sysbio.rnet.missouri.edu/multicom_cluster/human/ 200 
+26072493 2015 NoLink
+26072488 2015 code http://www.bsse.ethz.ch/mlcb/research/bioinformatics-and-computational-biology/sis.html 302 
+25979472 2015 available http://www.bioconductor.org/packages/release/bioc/html/seq2pathway.html 200 
+26002885 2015 available http://cran.r-project.org/web/packages/metaMix 301 
+25979476 2015 available http://bioconductor.org/packages/CoRegNet 301 
+25138169 2014 null http://apps.cytoscape.org/apps/pepper 200 
+26002881 2015 
+25123903 2014 code http://github.com/usuyama/hapmuc 301 
+22829624 2012 available http://faculty.virginia.edu/irahall/YAHA 302 
+26034064 2015 available www.bioconductor.org -1 
+26026167 2015 available http://bioinformatics.ustc.edu.cn/rpdb 301 
+26059716 2015 code http://code.google.com/p/distmix 405 
+26019240 2015 
+26026169 2015 available https://github.com/haddocking/disvis 301 
+26023105 2015 null http://www.bioinf.uni-freiburg.de/Software/antaRNA 301 
+26330601 2015 abstractNotFound
+26093150 2015 null www.pathogenomics.sfu.ca/islandviewer/ -1 null https://github.com/brinkmanlab/GenomeD3Plot/ 301 
+26104745 2015 null http://metaquery.docpollard.org 200 
+26227146 2015 available http://clicofs.codoncloud.com 302 
+20937596 2010 available http://www.rcsb.org/pdb/workbench/workbench.do 200 null http://www.biojava.org 301 available http://source.rcsb.org 200 
+26099264 2015 available http://bioconductor.org/packages/sincell 301 
+26112289 2015 NoLink
+26069263 2015 available http://ibs.biocuckoo.org 200 
+26076724 2015 
+26093149 2015 here http://www.ebi.ac.uk/research/enright/software/chimira 301 
+26076725 2015 available http://github.com/hallamlab/metapathways2 301 
+26076722 2015 tool http://www.cabsel.ethz.ch/tools/redemption 302 
+26079347 2015 null http://sbml.org/Software/JSBML 200 null http://sbml.org/Software/JSBML/docs/ 301 
+26099263 2015 code http://rna.tbi.univie.ac.at/forna 301 available www.github.com/pkerpedjiev/forna -1 
+26428290 2016 code https://bitbucket.org/booz-allen-sci-comp-team/cl-dash.git 301 
+26112291 2015 code https://github.com/bene51/ 301 
+25064571 2014 available http://questfororthologs.org 302 
+26142184 2015 download http://www.molquest.kaust.edu.sa 404 null http://www.softberry.com 200 
+26115986 2015 code https://github.com/blab/nextflu 301 application http://nextflu.org 200 
+26139634 2015 null http://www.cathdb.info 200 null http://www.cathdb.info/search/by_funfhmmer 302 
+26249810 2015 null http://bcb.med.usherbrooke.ca/flexaid 404 
+26249815 2015 available https://github.com/cgmisc-team/cgmisc 301 
+26254488 2015 code http://bioinformatics.intec.ugent.be/blsspeller 301 
+26272981 2015 null http://apps.cytoscape.org/apps/cyneo4j 200 null www.github.com/gsummer/cyneo4j-parent -1 null http://www.neo4j.com 301 
+26243018 2015 package http://proteowizard.sourceforge.net/ 200 
+26249809 2015 available http://compbiotoolbox.fmach.it/assist/ 200 
+26272982 2015 null http://dna2.leeds.ac.uk:8080/OVA/index.jsp 200 
+26231426 2015 null http://bioinfo.au.tsinghua.edu.cn/member/xwwang/MICCusage 301 
+26249811 2015 available https://www.ebi.ac.uk/thornton-srv/databases/SurvCurv/ 301 
+26272984 2015 null https://github.com/Simon-Coetzee/MotifBreakR 301 null www.bioconductor.org -1 
+26283699 2015 null https://github.com/adam-sam-brown/aRrayLasso 301 
+26249813 2015 
+26249814 2015 null www.biocomputing.it/looping -1 
+26254433 2015 
+26338770 2015 null http://bioinf.itmat.upenn.edu/BEERS/bp2 301 
+27153677 2016 
+27153653 2016 null https://github.com/SchulzLab/KREATION 301 
+26323718 2015 software www.popgen.dk/software -1 
+26319221 2015 available https://github.com/hellbelly/BS-Snper 301 
+26323716 2015 NoLink
+26315906 2015 code http://www.uk10k.org/dalliance.html 200 null http://github.com/dasmoth/dalliance 301 null http://github.com/dasmoth/ldserv 301 
+26315907 2015 
+26353839 2016 tool http://karel-brinda.github.io/rnftools 301 null http://karel-brinda.github.io/rnf-spec 301 
+26363178 2016 null https://rvs.u.hpc.mssm.edu/divas 302 
+26382196 2016 null https://github.com/rgcgithub/clamms 301 
+26351271 2016 
+26382195 2016 available http://p-sams.carringtonlab.org 200 
+26342231 2016 software http://www.recamo.cz/en/software/hammock-cluster-peptides/ 200 tool https://toolshed.g2.bx.psu.edu/view/hammock/hammock 307 code https://github.com/hammock-dev/hammock/releases 301 
+26363029 2016 available https://github.com/iVis-at-Bilkent/chilay 301 
+22689749 2012 NoLink
+26338771 2016 code https://github.com/edoughty/deepdive_genegene_app 301 
+26353838 2016 available http://www.tbi.univie.ac.at/RNA 302 
+26382197 2016 download https://github.com/TGAC/NanoOK 301 available http://opendata.tgac.ac.uk/nanook/ 302 null https://documentation.tgac.ac.uk/display/NANOOK 302 
+26454280 2016 available https://edwards.sdsu.edu/SUPERFOCUS 301 
+26415722 2016 code http://js.cytoscape.org 200 
+26099265 2015 available https://github.com/rrwick/Bandage 301 available http://rrwick.github.io/Bandage 301 
+26424857 2016 NoLink
+26395770 2016 available http://www.cs.ox.ac.uk/mosaics/ 200 
+26424858 2016 available http://www.bioconductor.org/packages/regioneR 301 
+26428294 2016 available http://turkunlp.github.io/Cell-line-recognition/ 200 
+26411870 2016 
+26428292 2016 available http://www.qualimap.org 200 
+26428293 2016 available http://dleelab.github.io/jepegmix/ 200 
+26428288 2016 download Supplementalmaterial -1 download http://www.tbi.univie.ac.at/bhg.html 302 

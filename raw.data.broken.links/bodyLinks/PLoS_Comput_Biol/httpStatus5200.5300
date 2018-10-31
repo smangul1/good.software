@@ -1,0 +1,100 @@
+28369076 2017 NoLink
+28394890 2017 available http://www.kiharalab.org/proteindocking/lzerd.php 200 available http://www.kiharalab.org/proteindocking/idp_lzerd.tar.bz2 302 
+28410433 2017 NoLink
+28403139 2017 NoLink
+28406896 2017 available https://github.com/cbg-ethz/epiNEM 301 package https://bioconductor.org/packages/epiNEM/ 301 null http://www.holstegelab.nl/publications/sv/signaling_redundancy/ 200 null http://www.holstegelab.nl/publications/GSTF_geneticinteractions/ 200 
+28410418 2017 NoLink
+28410363 2017 null https://github.com/simras/CLAP 301 null http://revigo.irb.hr/ 200 download microRNA.org -1 null http://www.microRNA.org 302 
+28394888 2017 NoLink
+28486472 2017 available http://github.com/fenderglass/Nano-Align 301 
+28426660 2017 null http://thebiogrid.org 301 null www.proteinatlas.org -1 null www.uniprot.org -1 null http://mint.bio.uniroma2.it 200 null www.rcsb.org -1 null http://michnick.bcm.umontreal.ca/dalel/Server 301 
+28426669 2017 NoLink
+28459814 2017 code http://ptmcode.embl.de 200 null http://www.phosphosite.org 301 
+28459860 2017 NoLink
+28459850 2017 available https://github.com/ymatts/phyC 301 download https://github.com/ymatts/phyC/tree/master/misc 301 
+28459813 2017 NoLink
+28467408 2017 null https://sourceforge.net/projects/cyclops-simulations/ 301 null https://sourceforge.net/projects/cyclops-simulations/ 301 null https://sourceforge.net/projects/cyclops-simulations/ 301 
+28475588 2017 null ftp://ftp.biochem.ucl.ac.uk/pub/gene3d_data/CURRENT_RELEASE/ 302 
+28475631 2017 code https://github.com/cjakobson/pduMCPmodel 301 
+28472057 2017 NoLink
+28472054 2017 NoLink
+28542168 2017 NoLink
+28545083 2017 available www.github.com/donkeyshot/phybreak -1 available cran.r-project.org/web/packages/phybreak/index.html -1 
+28545146 2017 null humanbrain -1 null disease -1 null tissues -1 null cells -1 null ESTs -1 null hybridisation -1 null high-resolution -1 null featuredetection -1 null intron -1 null exon -1 null referencegenomes -1 null Denovoassemblyofreads -1 null sequencegraphs -1 algorithm parallelisedcomputation -1 null SequenceReadArchive -1 null publicdatabases -1 null transcripts -1 library Libraries -1 null silkmoth -1 null complementaryDNA -1 null reversetranscriptase -1 null Sangersequencing -1 null expressedsequencetags -1 null Sangermethodofsequencing -1 method high-throughputmethods -1 null sequencingbysynthesis -1 null genecontent -1 null sequencing -1 null genome -1 null northernblotting -1 null nylonmembranearrays -1 null reversetranscriptasequantitativePCR -1 null serialanalysisofgeneexpression -1 null Sangersequencing -1 null splicevariants -1 null microarrays -1 null RNA-Seq -1 null hybridisation -1 null complementary -1 null probes -1 null spottedoligonucleotidearrays -1 null Affymetrix -1 null model -1 null fluorescencedetection -1 null cDNAs -1 method high-throughputsequencingtechnologies -1 null Massivelyparallelsignaturesequencing -1 null bp -1 null http://en.wikipedia.org/w/index.php?title=Arabidopsis_thaliana 301 null 454technology -1 null Solexa/Illuminatechnologies -1 null quantitation -1 null RNAextraction -1 null disruptionofcells -1 null RNase -1 null chaotropicsalts -1 null biomolecules -1 null precipitation -1 null elutionfromasolidmatrix -1 null DNase -1 null ribosomalRNA -1 method poly-A -1 null Snap-freezing -1 null EST -1 null cDNA -1 null reversetranscriptase -1 null Sangermethodofsequencing -1 method high-throughputmethods -1 null sequencingbysynthesis -1 library ESTlibraries -1 null barley -1 null SAGE -1 null restrictionenzymes -1 null concatenated -1 null Sangersequencing -1 null deconvoluted -1 available referencegenome -1 null differentiallyexpressed -1 null Capanalysisofgeneexpression -1 null transcriptionalstartsite -1 null promoter -1 method cloning -1 null imageprocessing -1 null regulargrid -1 null intensity -1 null Imageartefacts -1 null Roche -1 method Pyrosequencing -1 software bioinformaticssoftware -1 null command-lineinterface -1 null Unix -1 null R -1 null Bioconductor -1 null quantitativePCR -1 null control -1 null amplicons -1 null primers -1 null phenotype -1 null knock-down -1 null rescue -1 null diagnosis -1 method profiling -1 null transcriptionalstartsites -1 null promoter -1 null splicingalterations -1 here regulatoryelements -1 null disease-associationstudies -1 null singlenucleotidepolymorphisms -1 null genefusions -1 null Retrotransposons -1 null transposableelements -1 null reversetranscription -1 null epigeneticmechanisms -1 null immune-relateddisease -1 null Tcell -1 null Bcellreceptor -1 method pathogens -1 null virulencefactors -1 null antibioticresistance -1 null host-pathogenimmuneinteractions -1 null infectioncontrol -1 null individualisedtreatment -1 null generegulatorynetworks -1 null pathways -1 null biotic -1 null abioticenvironmentalstresses -1 null chickpea -1 null drought -1 null salinity -1 null transcriptisoforms -1 null Apetela2 -1 null Ethylene-ResponsiveElementBindingProtein -1 null biofilm -1 null fungal -1 null http://en.wikipedia.org/w/index.php?title=Candida_albicans 301 null drugresistance -1 null http://en.wikipedia.org/w/index.php?title=Plasmodium_falciparum 301 null unfoldedproteinresponse -1 null developmentalcycle -1 null artemisininresistance -1 null SoutheastAsia -1 null identifyingthefunctionsofgenes -1 null ecotypes -1 null hyperaccumulatemetals -1 null metaluptake -1 null homeostasis -1 null cucumber -1 null koala -1 available referencegenome -1 null Douglasfir -1 null sequencedgenome -1 null proteincodingregions -1 null proteintranslation -1 null DNAreplication -1 null RNAsplicing -1 null transcriptionalregulation -1 null Microarrays -1 null oligomers -1 null probes -1 null fluorescently -1 null fluorescenceintensity -1 null annotated -1 null genome -1 null library -1 null micro -1 null nanofabrication -1 null picolitre -1 null cDNAs -1 null fluorophores -1 null Affymetrix -1 null -mer -1 null assay -1 method maskless-photochemistry -1 null RNA-Seq -1 null high-throughputsequencing -1 null deepsampling -1 null aligning -1 null denovoassembly -1 null ordersofmagnitude -1 null genome -1 here insitu -1 null fixed -1 null poly-Atails -1 null ribosomalRNAs -1 null taxon's -1 null microRNAs -1 null gelelectrophoresis -1 null hydrolysis -1 null nebulisation -1 null sonication -1 null fragmentation -1 null transposaseenzymes -1 null PCR -1 application pg -1 null guanine-cytosinecontent -1 null Uniquemolecularidentifiers -1 null isoform -1 null strand -1 null genesthatoverlap -1 null nanoporesequencing -1 null betatesting -1 null modifiedbases -1 null amplification -1 null numberofreads -1 here numberofgenes -1 null biologicalreplicates -1 null EncyclopediaofDNAElements -1 null k-mers -1 available aligned -1 available denovoaligned -1 software alignmentsoftware -1 null EBI -1 null primarytranscriptmRNA -1 null eukaryotes -1 null intron -1 null splicejunctions -1 null generegulation -1 null mRNAisoform -1 null N50 -1 null generalfeatureformat -1 null differentialgeneexpression -1 null binaryalignmentmap -1 null SAGE -1 null transcribed -1 null spliced -1 null eukaryotes -1 null mRNA -1 null reversetranscriptase -1 null double-s -1 null cDNA -1 null restrictionenzymes -1 null Sangersequencing -1 null deconvoluted -1 null transcription -1 null DNAmicroarrays -1 null measurementoffluorescentintensity -1 method RNAsequencing -1 method high-throughput -1 available aligned -1 null Heatmap -1 null ng -1 null probes -1 null Quantitation -1 null SNPs -1 null GeneExpressionOmnibus -1 null NCBI -1 null MIAME -1 null MINSEQE -1 null repeatability -1 null ENA -1 null ExpressionAtlas -1 null EBI -1 null GeneOntology -1 null InterPro -1 null Genevestigator -1 null DDBJ -1 null heatmaps -1 null 3Drepresentations -1 null NONCODE -1 null 454 -1 null Illumina -1 null SOLiD -1 null IonTorrent -1 null PacBio -1 
+28545068 2017 null 10.21227/H2901H -1 code http://dx.doi.org/10.21227/H2901H 303 pipeline https://github.com/leiferlab/NeRVEclustering 301 
+28481887 2017 NoLink
+28486504 2017 null http://www.fil.ion.ucl.ac.uk/spm/ 200 
+28481891 2017 NoLink
+28481885 2017 NoLink
+28489896 2017 NoLink
+28493880 2017 available https://github.com/ManchesterBioinference/GPosc 301 
+28505152 2017 software http://www.fil.ion.ucl.ac.uk/spm/software/spm8 301 tool http://www.translationalneuromodeling.org/hgf-toolbox-v3-0/ 200 software http://www.fil.ion.ucl.ac.uk/spm/software/spm12/ 200 
+28493862 2017 null http://qcustomplot.com/ 200 package http://fim.uni-muenster.de 302 null https://github.com/i-git/FIMTrack 301 package http://fim.uni-muenster.de 302 
+28505183 2017 package https://harmslab.github.com/epistasis 301 
+28505184 2017 null https://github.com/maranasgroup/SteadyCom 301 
+28505156 2017 package https://github.com/jinhyunju/confeti 301 available ftp://ftp.ncbi.nih.gov/gene/DATA/gene_group.gz 301 
+28505151 2017 download https://www.lexogen.com/mix-square-scientific-license 301 
+28520713 2017 null http://yeast.sf.net/ 301 
+28542193 2017 NoLink
+28542231 2017 NoLink
+28542180 2017 null https://www.docker.com 301 null http://bit.ly/gxyStats 301 null http://bit.ly/ie-hiv 301 null http://bit.ly/rnaseq-jupyter 301 null http://bit.ly/jupyter-mt 301 
+28549069 2017 NoLink
+28570565 2017 null http://h3africa.org/ 200 null http://h3abionet.org/ 200 available http://h3abionet.org/tools-and-resources/sops 200 null https://github.com/zstephens/neat-genreads 301 null https://www.wits.ac.za/research/sbimb/research/awi-gen/ 200 null http://www.trypanogen.net/ 200 tool https://slack.com 302 
+28570661 2017 NoLink
+28574992 2017 NoLink
+28570660 2017 NoLink
+28570593 2017 NoLink
+28531184 2017 NoLink
+28531219 2017 download www.github.com/gadorlhiac/pyldm -1 
+28531187 2017 NoLink
+28531225 2017 NoLink
+28542191 2017 method http://chronux.org 200 
+28594838 2017 null www.novocraft.com -1 null https://github.com/linatbeishan/circRNA_detection_review 301 
+28594829 2017 code https://www.github.com/raonyguimaraes/mendelmd 301 
+28594845 2017 null http://www.tandfonline.com/doi/abs/10.4161/cc.6.23.5041 302 
+28558033 2017 null food.dtu.dk -1 null foodsafety.govt.nz -1 code http://fhm-chicas-code.lancs.ac.uk/millerp/sourceR 200 
+28542178 2017 null https://github.com/taoliu/MACS 301 null http://motifmap.ics.uci.edu/ 200 
+28542200 2017 NoLink
+28574981 2017 code https://goo.gl/Frmw8w 301 
+28574982 2017 null http://mmcif.wwpdb.org/ 200 null http://mmtf.rcsb.org/ 200 null http://mmtf.rcsb.org 200 null http://msgpack.org 301 pipeline http://semver.org 301 download http://mmtf.rcsb.org/download.html 200 null https://wiki.apache.org/hadoop/SequenceFile 302 null http://hadoop.apache.org/ 200 null http://spark.apache.org/ 200 null http://mmtf.rcsb.org/ 200 null http://biopython.org/ 200 null https://github.com/arose/ngl 301 null http://biojava.org/ 200 null http://mmtf.rcsb.org 200 null http://3dmol.csb.pitt.edu/ 200 null http://biojava.org/ 200 null http://biopython.org/ 200 null http://www.molsoft.com/icm_browser.html 200 null https://www.ncbi.nlm.nih.gov/Structure/icn3d/icn3d.html 301 null http://www.jmol.org/ 302 null http://www.mdanalysis.org/ 301 null https://github.com/arose/ngl 301 null https://www.pymol.org/ 302 
+28557998 2017 null http://www.rtxi.org 301 
+28549064 2017 NoLink
+28542205 2017 available https://www.bioconductor.org/packages/ROTS 301 available https://www.bioconductor.org/packages/ROTS 301 
+28558053 2017 null http://go.princeton.edu/cgi-bin/GOTermFinder 200 
+28558039 2017 NoLink
+28557985 2017 NoLink
+28557990 2017 download http://medicalgenomics.org/rna_seq_atlas/download 200 
+28640803 2017 NoLink
+28640825 2017 NoLink
+28640806 2017 null http://doi.org/doi:10.1371/journal.pone.0065848 303 null https://github.com/weecology/retriever 301 null https://github.com/dib-lab/khmer 301 
+28640804 2017 NoLink
+28582469 2017 NoLink
+28582395 2017 NoLink
+28591219 2017 NoLink
+28586362 2017 software https://github.com/mfranberg/besiq 301 
+28591182 2017 null https://github.com/zebrain-lab/Toolbox-Romano-et-al 301 download https://crcns.org/data-sets/ssc/ssc-1 200 null https://crcns.org/data-sets/vc/pvc-10 200 pipeline https://crcns.org/data-sets/methods/cai-1 200 
+28598967 2017 NoLink
+28594827 2017 available github.com/rrwick/Unicycler -1 null www.illumina.com/systems/miseq/scientific_data.html -1 null www.ncbi.nlm.nih.gov/sra/?term=ERR637419 -1 null lab.loman.net/2016/07/30/nanopore-r9-data-release/ -1 null lab.loman.net/2016/07/30/nanopore-r9-data-release/ -1 null github.com/PacificBiosciences/DevNet/wiki/E-coli-K12-MG1655-Resequencing -1 null www.ncbi.nlm.nih.gov/sra/SRX669475 -1 null www.ncbi.nlm.nih.gov/sra/SRX533603 -1 
+28594818 2017 available https://github.com/yiminghu/AnnoPred 301 null https://github.com/bvilhjal/ldpred 301 available https://github.com/yiminghu/AnnoPred 301 
+28574983 2017 NoLink
+28598965 2017 NoLink
+28582397 2017 NoLink
+28598992 2017 available https://github.com/marvinboe/reTASEP 301 
+28609483 2017 download https://www.ncbi.nlm.nih.gov/geo/ 301 download https://www.ncbi.nlm.nih.gov/geo/ 301 pipeline https://github.com/itmat/Normalization 301 
+28609477 2017 NoLink
+28683103 2017 NoLink
+28604768 2017 NoLink
+28683116 2017 software https://github.com/mikessh/migec 301 null https://github.com/milaboratory/mixcr/ 301 null https://github.com/imminfo/tcr 301 download https://bitbucket.org/yuvalel/repgenhmm/downloads 301 
+28604771 2017 NoLink
+28683138 2017 NoLink
+28662117 2017 NoLink
+28665945 2017 NoLink
+28617812 2017 available https://github.com/proteinphysiologylab/2017_Espadaetal 301 
+28628647 2017 NoLink
+28617798 2017 available https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=229279 302 tool http://chronux.org/ 200 null https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=136175 302 
+28665936 2017 null https://www.hhmi.org/scientists/aviv-regev 200 
+28617797 2017 NoLink
+28628618 2017 NoLink
+28665934 2017 NoLink
+28617850 2017 NoLink
+28665935 2017 NoLink

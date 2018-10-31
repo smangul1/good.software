@@ -1,0 +1,100 @@
+27309962 2016 NoLink
+27310442 2016 null http://www.esf.org/ 200 null www.kuleuven.be -1 null www.fnrs.be -1 null www.tubitak.gov.tr/en -1 
+27308864 2016 null https://github.com/b-brankovics/grabb 301 null https://hub.docker.com/r/brankovics/grabb/ 301 null https://github.com/lh3/seqtk 301 null https://github.com/b-brankovics/grabb 301 null https://github.com/chrishah/MITObim.git 301 null http://isolate.fusariumdb.org 200 
+27309543 2016 NoLink
+27314840 2016 NoLink
+27322528 2016 NoLink
+27327495 2016 here http://www-ab.informatik.uni-tuebingen.de/software 302 here https://github.com/danielhuson/megan-ce 301 null http://megan.informatik.uni-tuebingen.de 200 download http://www.ebi.ac.uk/interpro 302 null http://www.uniprot.org 200 
+27332861 2016 null http://ardb.cbcb.umd.edu/ 200 null http://www.blad.co.in -1 software http://www.bioinf.org.uk/software/profit/ 200 software http://microbiology.se/software/petkit/ 200 null https://www.ebi.ac.uk/thornton-srv/databases/MACiE/ 301 here http://www.swissdock.ch/ 403 null http://zinc.docking.org/ 200 
+NA 2009 NoLink
+27337695 2016 NoLink
+27336457 2016 null http://identifiers.org/chebi/CHEBI:4167 302 null http://identifiers.org/chebi/CHEBI:4167 302 null http://identifiers.org/chebi/CHEBI:4167 302 null http://identifiers.org/chebi/CHEBI:4167 302 null http://sparql.wikipathways.org 200 null http://ncbi.org/biosystems 404 null https://dev.openphacts.org/docs 301 null http://www.w3.org/2000/01/rdf-schema# 200 null http://identifiers.org/wikipathways/ 302 null http://www.w3.org/2004/02/skos/core# 303 null http://identifiers.org/chebi/CHEBI: 400 null https://creativecommons.org/licenses/by/3.0/ 301 null http://jena.apache.org/ 200 available https://github.com/wikipathways/wp2lod 301 null http://neologism.deri.ie/ 200 available http://rdf.wikipathways.org 302 available http://virtuoso.openlinksw.com/ 301 null http://sparql.wikipathways.org 200 here https://dev.openphacts.org/docs/1.5 301 null http://www.disgenet.org/ 200 null http://vocabularies.wikipathways.org/gpml 301 null http://vocabularies.wikipathways.org/wp 301 null http://sparql.wikipathways.org 200 here https://dev.openphacts.org/docs/ 301 available http://rdf.wikipathways.org 302 available https://github.com/wikipathways/wp2lod 301 null http://identifiers.org/ensembl/ 302 null http://rdf.ebi.ac.uk/resource/atlas/ 303 null http://www.ebi.ac.uk/efo/ 301 null http://semanticscience.org/resource/ 200 null http://www.w3.org/2004/02/skos/core# 303 null http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl# 302 null http://rdf.disgenet.org/sparql/ 200 null http://rdf.disgenet.org 200 null http://identifiers.org/ensembl/ 302 null http://rdf.ebi.ac.uk/resource/atlas/ 303 null http://rdf.ebi.ac.uk/terms/atlas/ 303 null http://www.ebi.ac.uk/efo/ 301 null https://www.ebi.ac.uk/rdf/services/atlas/sparql 301 
+27336403 2016 available http://prodata.swmed.edu/download/pub/slopetree_v1/slopetree.tar.gz 200 null ftp://ftp.ncbi.nih.gov/genomes/Bacteria/ 301 null ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/ 301 available http://prodata.swmed.edu/download/pub/slopetree_v1/slopetree.tar.gz 200 
+27337644 2016 null ensembler.readthedocs.org -1 null http://www.rcsb.org/pdb 302 null www.ebi.ac.uk/pdbe/docs/sifts -1 null 10.5061/dryad.7fg32 -1 null github.com/choderalab/ensembler -1 null ensembler.readthedocs.org -1 null 10.5061/dryad.7fg32 -1 null https://conda.anaconda.org/omnia 301 null https://conda.anaconda.org/salilab 301 
+27336310 2016 available https://github.com/wsklug/UCLA_CMG 301 
+27336171 2016 null http://quin.jax.org 302 available https://github.com/UcarLab/QuIN/ 301 null http://quin.jax.org 302 null http://js.cytoscape.org/ 200 null https://jquery.com/ 200 package https://rforge.net/Rserve/ 200 
+27322574 2016 null www.mathworks.com -1 null www.r-project.org -1 code https://code.google.com/p/mbb-vb-toolbox/ 405 
+27351741 2016 NoLink
+16848638 2006 null http://www.cocomac.org -1 software http://brainmap.wustl.edu/caret 404 available http://www.biological-networks.org 200 available http://www.biological-networks.org 200 available http://www.biological-networks.org 200 
+27471851 2016 NoLink
+27351836 2016 null Synapseonlinerepository -1 
+27341686 2016 NoLink
+27341100 2016 code https://github.com/jbrea/prospectiveCoding 301 
+27351952 2016 null www.proteomaps.net -1 null www.proteomaps.net -1 
+27341199 2016 NoLink
+27300722 2016 NoLink
+27359334 2016 NoLink
+27355325 2016 NoLink
+27362949 2016 null https://www.malariagen.net/projects/parasite/pf3k 302 null www.malariagen.net/projects/parasite/pf -1 code https://github.com/jacobian1980/pfmix/ 301 null https://github.com/jacobian1980/pfmix/s 301 
+27348631 2016 NoLink
+27355347 2016 available https://github.com/zjdaye/AFNC 301 software http://sites.google.com/site/zhongyindaye/software 302 null http://www.broadinstitute.org/~sfs/cosi 301 
+27348548 2016 NoLink
+27367445 2016 null http://microchem.com/pdf/SU-82000DataSheet2025thru2075Ver4.pdf 200 null https://microfluidics.hms.harvard.edu/protocols.html 301 null http://valelab.ucsf.edu/~MM/MMwiki/index.php/Micro-Manager_Reader_as_ImageJ_plugin 301 null http://www.mathworks.com/matlabcentral/fileexchange/27429-background-correction 200 null http://terpconnect.umd.edu/~toh/spectrum/PeakFindingandMeasurement.htm 200 
+27367541 2016 NoLink
+27359102 2016 null http://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi 301 null http://flybase.org/blast/species_tree.png 200 
+27362260 2016 NoLink
+27171220 2016 null here -1 
+27380177 2016 NoLink
+27384915 2016 NoLink
+27384712 2016 NoLink
+27322612 2016 NoLink
+19543383 2009 null http://function.princeton.edu/worm_tissue 301 null http://function.princeton.edu/worm_tissue 301 
+19593372 2009 NoLink
+19132080 2009 null http://www.cslu.ogi.edu/people/sonmezk/hormone -1 null http://www.cslu.ogi.edu/people/sonmezk/hormone -1 
+27820829 2016 NoLink
+27171259 2016 NoLink
+27716823 2016 null http://epd.vital-it.ch/promoter_elements/init-dpe.php 200 
+27389780 2016 NoLink
+27403523 2016 null http://www.biocarta.com 200 null http://www.bu.edu/nf-kb/gene-resources/target-genes 301 null http://www.biocarta.com 200 null http://cytoscape.github.io/cytoscape.js 301 null http://pages.discovery.wisc.edu/~sroy/integrative_influenza/ 200 available https://bitbucket.org/roygroup/integrative_networks 301 
+27409243 2016 null http://www.blender.org 301 tool http://nbcr.ucsd.edu/?page_id=1131 200 software http://nbcr.ucsd.edu/?page_id=495 200 
+27427948 2016 NoLink
+27404800 2016 NoLink
+27404731 2016 application commonancestors -1 null phylogenetics -1 null evolutionary -1 null species -1 null biology -1 null geneticsequence -1 null aminoacidsequence -1 null protein -1 null genome -1 null geographicrange -1 null ancientlanguages -1 null modelofevolution -1 null exponentialgrowthofcomputingpower -1 null computationalalgorithms -1 algorithm dynamicprogramming -1 null maximumlikelihood -1 null phylogenetictree -1 null Bayesian -1 null EmileZuckerkandl -1 null LinusPauling -1 null primary(aminoacid)sequence -1 null FrederickSanger -1 null cladistics -1 null TheodoseusDobzhansky -1 null AlfredSturtevant -1 null chromosomalinversions -1 null https://en.wikipedia.org/wiki/Drosophila_pseudoobscura 301 null phylogeography -1 null phylogeny -1 null hypothesis -1 null taxa -1 null mostrecentcommonancestor -1 null Parsimony -1 null maximumparsimony -1 null Fitch'smethod -1 null rootedbinarytree -1 null postordertraversal -1 null setintersection -1 null setunion -1 null preordertraversal -1 null geneticsequenceevolution -1 null Markovprocess -1 null subtree -1 null Bayesianinference -1 null priordistribution -1 null posteriordistribution -1 null Bayes'theorem -1 algorithm Felsenstein'spruningalgorithm -1 null bacteriophageT7 -1 null plaquesize -1 null https://en.wikipedia.org/wiki/Caniformia 301 method Markovchain -1 null brainsize -1 null Brownianmotion -1 null ML -1 null Bayesianinference -1 here next-generationsequencing -1 null "deep"snapshot -1 algorithm greedyalgorithm -1 null modernoptimizationmethodsandheuristics -1 algorithm computationallycomplex -1 null heterotachy -1 method empiricalBayesmethod -1 method MarkovchainMonteCarlo -1 null lichenization -1 algorithm Metropolis-Hastingsalgorithm -1 application allpossibletrees -1 null chainsamples -1 software freesoftwarelicenses -1 null HyPhy -1 null Mesquite -1 null MEGA -1 null transitions -1 null transversions -1 available finches -1 null GalapagosIslands -1 available Galapagosfinches -1 null granivores -1 null insectivores -1 null folivores -1 null https://en.wikipedia.org/wiki/Camarhynchus 301 null https://en.wikipedia.org/wiki/Geospiza 301 null placentalmammal -1 null Rodentia -1 method Comparativemethods -1 algorithm Felsenstein -1 null aminoacidresidues -1 null three-dimensionalstructureofaprotein -1 null unweightedpairgroupmethodwitharithmeticmean -1 null coevolving -1 null HIV -1 null epidemic -1 null vaccine -1 null permutations -1 null deletion -1 null transposition -1 null NP-hard -1 null AvianinfluenzaA-H5N1 -1 null rabiesvirus -1 null Guangdong -1 null HongKong -1 null WestAfrica -1 null biogeographic -1 null https://en.wikipedia.org/wiki/Cyrtandra 301 null dispersal-vicarianceanalysis -1 method https://en.wikipedia.org/wiki/Upland_chorus_frog 301 null protolanguages -1 null Proto-Indo-European -1 null cognates -1 null orthologous -1 null sequencealignment -1 null nasalandnon-nasalvowels -1 null http://www.inside-r.org/packages/cran/ape/docs/ace 302 null phylogeography -1 null continuoustimeMarkovmodel -1 null comparativegenomics -1 null syntenic -1 null indel -1 null stableprocess -1 null stabledistributions -1 
+27403659 2016 NoLink
+21909252 2011 download http://www.bcgsc.ca/downloads/yli/ 200 
+27447287 2016 NoLink
+27447491 2016 NoLink
+27447730 2016 NoLink
+27415832 2016 NoLink
+27415801 2016 NoLink
+27415615 2016 NoLink
+27415752 2016 null www.grantcentral.com -1 
+27416034 2016 NoLink
+27464342 2016 download http://www.mpi-magdeburg.mpg.de/projects/cna/cna.html 301 
+27415786 2016 null SourceForge -1 null Bitbucket -1 null GitLab -1 null GitHub -1 null Gitcommunity -1 null https://github.com/ypriverol/github-paper 301 available https://www.git-scm.com/downloads/guis 301 null RStudio -1 null https://help.github.com/articles/fork-a-repo/ 301 null https://github.com/ypriverol/github-paper/network/members 301 null https://github.com/OpenMS/OpenMS/branches 301 null http://semver.org/ 301 null TravisCI -1 code Codecov -1 null http://bioconductor.org/developers/unitTesting-guidelines/ 302 code https://codecov.io/github/Bioconductor-mirror/ 301 null sphinx -1 null ReadtheDocs -1 null https://help.github.com/articles/helping-people-contribute-to-your-project/ 301 null https://github.com/OpenMS/OpenMS/issues/1095 301 application https://github.com/ypriverol/github-paper/issues 301 null https://github.com/ropensci/RNeXML/issues/121 301 null Zenodo -1 code Figshare -1 code https://guides.github.com/activities/citable-code/ 301 software OpenSourceInitiative(OSI)-approvedlicense -1 null http://choosealicense.com 301 null Jekyll -1 null Bootstrap -1 null Disqus -1 null Gitter -1 null Slack -1 code Gist -1 null Discover -1 null https://github.com/ 301 code https://help.github.com/articles/searching-code/ 301 null LargeFileStorage -1 null https://help.github.com/categories/managing-large-files/ 301 null https://github.com/bigdatagenomics/adam 301 null https://github.com/biopython/biopython/graphs/contributors 301 null https://github.com/ComputationalProteomicsUnit 301 null https://github.com/galaxyproject/galaxy 301 null https://github.com/ypriverol/github-paper 301 null https://github.com/lgatto/MSnbase/ 301 null https://github.com/OpenMS/OpenMS/issues/1095 301 null https://github.com/PRIDE-Toolsuite 301 null https://github.com/sje30/waverepo 301 tool https://github.com/samtools 301 null https://github.com/ropensci 301 null https://github.com/ga4gh 301 null http://kbroman.org/github_tutorial/ 200 null http://swcarpentry.github.io/git-novice/ 200 null http://git-scm.com/book/ch1-3.html 301 null https://training.github.com/ 301 null https://guides.github.com/ 301 null https://help.github.com/articles/good-resources-for-learning-git-and-github/ 301 null http://swcarpentry.github.io/git-novice/ 200 
+27420734 2016 null http://neuralensemble.org/elephant/ 200 
+18085818 2007 NoLink
+19730674 2009 null http://www.ccbb.pitt.edu/People/lezon/research/npc/index.html 404 
+27454812 2016 NoLink
+27438777 2016 code https://bitbucket.org/leslielab/chimiric 301 tool http://www.numpy.org 200 tool http://www.shogun-toolbox.org 200 download http://www.targetscan.org 200 method http://www.microrna.org 302 tool http://www.clipz.unibas.ch/index.php?r=tools/sub/mirza_g 404 tool http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=microT_CDS/index 200 method http://mirdb.org 200 null http://cisbp-rna.ccbr.utoronto.ca 200 null http://www.cs.toronto.edu/~taehyung/gr_ago.html 200 null http://cisbp-rna.ccbr.utoronto.ca 200 
+27441642 2016 null storify.com -1 null http://sketchnotearmy.com/about/ 400 null http://www.gogamestorm.com/ 301 null http://en.wikipedia.org/wiki/PechaKucha 301 null http://beyond.wallviz.dk/ 400 null https://vimeo.com/102527731 301 null http://www.flickr.com/photos/francisrowland/6944419112/lightbox/ 200 
+27438888 2016 NoLink
+27438699 2016 NoLink
+27467583 2016 null http://bigg.ucsd.edu/models/iAB_RBC_283 405 
+27472806 2016 available http://www.phylobot.com 200 null http://www.phylobot.com/cmgc 200 null http://www.phylobot.com/mcm1 302 method http://www.phylobot.com/VATPase 200 available http://www.phylobot.com 200 code https://github.com/vhsvhs/phylobot-django 301 null http://www.djangoproject.com 301 null http://aws.amazon.com 301 
+27472895 2016 download http://pfam.sanger.ac.uk 301 null http://PlasmoDB.org 302 download ftp://ftp.ebi.ac.uk/pub/databases/Pfam/releases/Pfam27.0/swisspfam.gz 200 null http://www.ncbi.nlm.nih.gov/taxonomy 301 download http://scop.berkeley.edu/astral/subsets/ver=1.75 200 software http://hmmer.janelia.org/software 404 download https://github.com/soedinglab/hh-suite 301 available http://www.lcqb.upmc.fr/CLADE 301 software http://www.csie.ntu.edu.tw/~cjlin/libsvm 301 
+27479082 2016 NoLink
+27490197 2016 NoLink
+27479074 2016 NoLink
+27490108 2016 null https://figshare.com/ 301 null http://datadryad.org/ 200 
+27490251 2016 NoLink
+27482704 2016 available http://cran.r-project.org/web/packages/G 404 available http://cran.r-project.org/web/packages/G 404 
+20628620 2010 NoLink
+21931544 2011 NoLink
+27494737 2016 NoLink
+27494252 2016 NoLink
+27494133 2016 null www.genomatix.de -1 available www.data2dynamics.org -1 
+27494700 2016 NoLink
+27494763 2016 NoLink
+27494025 2016 NoLink
+27494178 2016 null www.wormatlas.org/neuronalwiring.html -1 null www.wormatlas.org/neuronalwiring.html -1 null github.com/michaelschaub/PartitionStability -1 package https://cran.r-project.org/web/packages/BSquare/index.html 200 
+27509368 2016 NoLink
+27509209 2016 NoLink
+27509295 2016 NoLink
+NA 2014 NoLink
+27741249 2016 NoLink
+27536771 2016 NoLink
+27626798 2016 available http://www.imsb.ethz.ch/research/zamboni/resources.html 200 code https://code.google.com/archive/p/randomforest-matlab/ 200 
+27536867 2016 NoLink
+27611328 2016 null dsi-studio.labsolver.org -1 
+27589606 2016 NoLink

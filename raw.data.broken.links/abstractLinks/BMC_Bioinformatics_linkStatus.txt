@@ -1,0 +1,5576 @@
+15304201 2004 NoLink
+11001586 2000 
+11545673 2001 NoLink
+11504559 2001 NoLink
+11472630 2001 NoLink
+11483157 2001 NoLink
+11265061 2001 NoLink
+11667947 2001 null http://www.biodas.org/ 301 
+11801179 2001 NoLink
+11707150 2001 NoLink
+11591214 2001 null http://genetics.hpi.uni-hamburg.de/FOUNTAIN.html -1 
+11972320 2002 NoLink
+11972896 2002 available http://pumpkins.ib3.gmu.edu:8080/CoreGenes -1 null http://www.bif.atcc.org/CoreGenes -1 
+11929612 2002 NoLink
+12194703 2002 NoLink
+12204100 2002 NoLink
+12162795 2002 NoLink
+12482327 2002 NoLink
+12487631 2002 available http://genome.mshri.on.ca -1 
+12493080 2002 available http://www.proteinstrukturfabrik.de/orfer 301 
+11876822 2002 NoLink
+11879526 2002 NoLink
+11895567 2002 tool http://bioinformatics.musc.edu/~jonas/usm/ -1 
+11818024 2002 NoLink
+11869452 2002 null http://www.rna.icmb.utexas.edu 200 
+11835687 2002 NoLink
+11936955 2002 NoLink
+12095421 2002 NoLink
+12019022 2002 NoLink
+12150718 2002 code http://bioinfo.mshri.on.ca/kangaroo/ -1 code http://sourceforge.net/projects/slritools/ 301 
+12095422 2002 NoLink
+12067419 2002 NoLink
+11882250 2002 NoLink
+11882251 2002 NoLink
+12028595 2002 available http://www.genetics.wustl.edu/eddy/forester/ 301 null http://www.rio.wustl.edu/ -1 
+NA 2002 abstractNotFound
+12149135 2002 NoLink
+12431279 2002 available http://funspec.med.utoronto.ca 200 
+12456269 2002 NoLink
+12398795 2002 download http://www.nematodes.org/CLOBB 404 
+15307895 2004 NoLink
+26911985 2016 NoLink
+12387731 2002 NoLink
+12390683 2002 download http://www.molgen.mpg.de/~lh_bioinf/projects/simulation/biotech/ 302 
+12398796 2002 available http://uqbar.rockefeller.edu/~siggia/ 301 
+12413400 2002 NoLink
+12401134 2002 tool http://sourceforge.net/projects/slritools/ 301 
+12445336 2002 NoLink
+12366869 2002 available http://www.utmem.edu/pharmacology/otherlinks/oliz.html -1 
+12225620 2002 available http://www.sbc.su.se/svmhc/ 301 
+12356337 2002 NoLink
+12220483 2002 null http://cancer.stanford.edu/mut-paper/ 301 
+12697066 2003 NoLink
+12709267 2003 NoLink
+12720549 2003 available http://tagc.univ-mrs.fr/bioinformatics/trixy.html 200 
+12697067 2003 NoLink
+12930545 2003 available http://www.longhornarraydatabase.org 200 
+14633289 2003 NoLink
+14667254 2003 NoLink
+14678565 2003 null http://malawimonas.bcm.umontreal.ca:8091/anabench -1 
+12689350 2003 available http://bind.ca -1 
+14690551 2003 NoLink
+14693042 2003 NoLink
+14651757 2003 NoLink
+14687415 2003 NoLink
+12600280 2003 NoLink
+12689348 2003 NoLink
+12525261 2003 available ftp://ftp.mshri.on.ca/pub/BIND/Tools/MCODE -1 
+12529185 2003 NoLink
+12553886 2003 NoLink
+12689347 2003 NoLink
+12513700 2003 available http://zlab.bu.edu/SeqVISTA 301 
+12854978 2003 NoLink
+12875658 2003 available http://snp-magma.sourceforge.net 200 
+12892571 2003 NoLink
+12846935 2003 NoLink
+12820902 2003 null http://arabidopsis.med.ohio-state.edu 301 
+12823867 2003 NoLink
+12823866 2003 NoLink
+12783628 2003 null http://www.cbs.dtu.dk/services/EasyGene 301 
+18460173 2008 NoLink
+27716030 2016 NoLink
+12795817 2003 NoLink
+12769821 2003 NoLink
+12659637 2003 NoLink
+12689349 2003 available http://www.home.duq.edu/~youngnd/GapCoder 404 
+12749771 2003 null http://www.physics.rockefeller.edu/~mwangi/ 404 
+12775220 2003 NoLink
+12950995 2003 NoLink
+12734020 2003 null http://calcium.uhnres.utoronto.ca/pi 301 
+12740029 2003 NoLink
+14629780 2003 NoLink
+14629779 2003 available http://bioinf.charite.de/equifreq/ 404 
+14667255 2003 null http://pubmatrix.grc.nia.nih.gov/ -1 
+14604446 2003 NoLink
+14604445 2003 NoLink
+14604444 2003 NoLink
+14536023 2003 NoLink
+14552658 2003 available http://www.compbio.dundee.ac.uk 200 
+14531933 2003 NoLink
+16774677 2006 NoLink
+16774678 2006 NoLink
+16774679 2006 NoLink
+16774686 2006 null http://wishart.biology.ualberta.ca/proteus 301 
+16776819 2006 NoLink
+16776821 2006 NoLink
+16776838 2006 NoLink
+16756676 2006 NoLink
+16749920 2006 NoLink
+16780584 2006 available http://array2bio.dcode.org. 301 
+16780591 2006 NoLink
+16772023 2006 NoLink
+16753058 2006 null http://bovineqtl.tamu.edu -1 
+16790041 2006 NoLink
+16790046 2006 null https://www.genevestigator.ethz.ch 301 
+16790052 2006 NoLink
+16716228 2006 NoLink
+16545131 2006 NoLink
+16792795 2006 available http://cgi-www.daimi.au.dk/cgi-chili/phyfi/go 200 
+16792811 2006 available http://loschmidt.chemi.muni.cz/caver/ 302 
+16792813 2006 available http://bioinformatics.med.yale.edu/PSMIX 301 
+16792820 2006 code http://bips.u-strasbg.fr/MACSIMS/ 404 
+16796745 2006 NoLink
+16796748 2006 NoLink
+16796754 2006 NoLink
+16836750 2006 NoLink
+16800897 2006 NoLink
+16803615 2006 NoLink
+16803617 2006 NoLink
+16808841 2006 NoLink
+16749918 2006 NoLink
+16780582 2006 NoLink
+16749925 2006 available http://protinfo.compbio.washington.edu/fssa -1 
+16749929 2006 NoLink
+16749936 2006 NoLink
+16753052 2006 software http://dbkgroup.org/memo/ 200 
+16753055 2006 NoLink
+16672074 2006 null http://www.arb-home.de 200 
+16753070 2006 NoLink
+16756672 2006 NoLink
+16780580 2006 NoLink
+16756683 2006 NoLink
+16677385 2006 NoLink
+16762054 2006 null http://genesis.UGent.be/cell_motility 404 
+16869963 2006 NoLink
+16762065 2006 NoLink
+16824223 2006 null http://www.genopolis.it/ 200 
+16764718 2006 NoLink
+16542424 2006 NoLink
+16539707 2006 NoLink
+16533392 2006 NoLink
+16539732 2006 NoLink
+16533403 2006 null http://bioinformatics.org/project/?group_id=546 302 
+16533389 2006 NoLink
+16533401 2006 NoLink
+16533395 2006 NoLink
+16677393 2006 NoLink
+16519805 2006 NoLink
+16472402 2006 NoLink
+16536879 2006 NoLink
+16533385 2006 NoLink
+16539724 2006 NoLink
+16529652 2006 NoLink
+16539745 2006 NoLink
+16539742 2006 NoLink
+16542435 2006 NoLink
+16707006 2006 NoLink
+16542452 2006 available http://dkfz.de/mga2/3of5/3of5.html -1 
+16542417 2006 NoLink
+16549006 2006 NoLink
+16542449 2006 NoLink
+16597342 2006 null http://www.cs.cmu.edu/~jernst/stem 301 
+16526956 2006 NoLink
+16545116 2006 NoLink
+16526949 2006 NoLink
+16545112 2006 available http://smid.blueprint.org 404 
+16545123 2006 available http://epitope.liai.org:8080/tools/population -1 
+16952317 2006 NoLink
+16509971 2006 NoLink
+16519817 2006 available http://vanted.ipk-gatersleben.de 200 
+16509966 2006 available http://www.flychip.org.uk/SimArray/ 200 
+16723002 2006 NoLink
+17266771 2007 NoLink
+16723004 2006 NoLink
+16723005 2006 NoLink
+16723006 2006 null http://www.pepdist.cs.huji.ac.il -1 
+16723007 2006 NoLink
+16723008 2006 available http://www.cs.columbia.edu/compbio/robust-geneclass 404 
+16723009 2006 NoLink
+16723010 2006 NoLink
+16723011 2006 NoLink
+16723012 2006 NoLink
+16542421 2006 available http://bioverse.compbio.washington.edu/integrator -1 
+16573812 2006 NoLink
+16725034 2006 NoLink
+16549013 2006 NoLink
+16549014 2006 available http://www.ogic.ca/p2g 301 
+16549017 2006 NoLink
+16503973 2006 NoLink
+16549025 2006 NoLink
+14563212 2003 NoLink
+14565849 2003 null http://genes.cse.wustl.edu/ 301 
+14583100 2003 available http://www.bcgsc.ca/bioinfo/software 301 
+14583099 2003 NoLink
+14594459 2003 NoLink
+14552657 2003 NoLink
+12964951 2003 NoLink
+12967349 2003 NoLink
+12969510 2003 NoLink
+13678422 2003 NoLink
+14499005 2003 NoLink
+14499004 2003 NoLink
+14706121 2004 download http://cbis.anu.edu.au/software -1 
+12959646 2003 NoLink
+12952558 2003 software http://www.tc.umn.edu/~cann0010/ 404 
+12962546 2003 NoLink
+12962547 2003 NoLink
+14715089 2004 tool http://minisatellites.u-psud.fr 200 
+15090078 2004 NoLink
+15096277 2004 null http://www.moltalk.org 301 
+15339346 2004 NoLink
+22536901 2012 NoLink
+15099405 2004 NoLink
+15096276 2004 available http://bioinformatics.ubc.ca/pegasys/ 301 
+15115544 2004 NoLink
+15115543 2004 NoLink
+15117422 2004 available http://prostategenomics.org 302 
+15117421 2004 NoLink
+15147579 2004 NoLink
+15059245 2004 null http://www.ncbs.res.in/~faculty/mini/campass/pass2.html 302 
+15061867 2004 NoLink
+15119966 2004 NoLink
+15119965 2004 NoLink
+15061866 2004 NoLink
+25411051 2014 NoLink
+15333146 2004 available ftp://genome.dkfz-heidelberg.de/pub/agd/gene_association.agd_Xenopus 302 
+15307894 2004 NoLink
+15345032 2004 NoLink
+15312235 2004 download http://genome.gbf.de/bioinformatics/index.html -1 
+15318951 2004 available http://www.drive5.com/muscle 301 
+15324460 2004 NoLink
+15331023 2004 NoLink
+15339345 2004 NoLink
+15333145 2004 available http://www.bioinfo.no/tools/xhm/ 301 
+15339344 2004 NoLink
+15350198 2004 NoLink
+15294028 2004 NoLink
+15296519 2004 NoLink
+15296518 2004 NoLink
+15301693 2004 NoLink
+15571634 2004 NoLink
+15596019 2004 NoLink
+15598351 2004 NoLink
+15601465 2004 NoLink
+15603590 2004 NoLink
+15603591 2004 NoLink
+15603585 2004 NoLink
+15603586 2004 NoLink
+15606915 2004 NoLink
+20849574 2010 NoLink
+15613242 2004 NoLink
+15667658 2005 NoLink
+15574202 2004 NoLink
+15626348 2004 NoLink
+15617578 2004 NoLink
+15619328 2004 null http://bioinformatics.biol.uoa.gr/gpDB 302 
+15644130 2005 NoLink
+15581431 2004 null http://proline.bic.nus.edu.sg/dedb/index.html 200 
+15585059 2004 NoLink
+15585062 2004 NoLink
+15511298 2004 NoLink
+15588298 2004 available http://bioinfo.thep.lu.se/Catmap -1 
+15588297 2004 NoLink
+15053846 2004 NoLink
+15113413 2004 NoLink
+14975175 2004 available http://genereg.ornl.gov/gotm/ -1 
+15028117 2004 available http://visant.bu.edu 200 
+15053845 2004 NoLink
+15040818 2004 NoLink
+15018655 2004 NoLink
+15018654 2004 NoLink
+15040819 2004 NoLink
+15005801 2004 available http://bioinformatics.musc.edu/agml -1 
+14718068 2004 NoLink
+14736341 2004 NoLink
+14736340 2004 null http://logos.molgen.mpg.de 200 
+15005802 2004 NoLink
+15222901 2004 NoLink
+15053844 2004 tool http://www.transcriptome.ens.fr/micovito/ 302 
+14715090 2004 null http://vkcdb.biology.ualberta.ca 200 
+14715091 2004 code http://www.molmovdb.org/geometry/3dHMM 301 
+15046636 2004 NoLink
+15248903 2004 NoLink
+15248902 2004 abstractNotFound
+15251040 2004 NoLink
+15251039 2004 NoLink
+15239844 2004 NoLink
+15189571 2004 NoLink
+15268767 2004 NoLink
+15271224 2004 download http://ffas.ljcrf.edu/darman/results/ -1 
+16549034 2006 NoLink
+16551354 2006 NoLink
+16551355 2006 NoLink
+16674828 2006 NoLink
+16553946 2006 NoLink
+16553966 2006 NoLink
+16556303 2006 null http://www.ebi.ac.uk/atd/ 301 
+16556315 2006 NoLink
+16716215 2006 available http://bioinfo.curie.fr/projects/manor 301 null http://www.bioconductor.org 200 null http://bioinfo.curie.fr/CAPweb 301 
+16515700 2006 NoLink
+16566836 2006 NoLink
+16569227 2006 NoLink
+16584572 2006 NoLink
+16569235 2006 null http://gaggle.systemsbiology.net 302 
+16571130 2006 NoLink
+16509994 2006 NoLink
+16512892 2006 available http://www.scowlp.org 200 
+16512908 2006 NoLink
+16512900 2006 NoLink
+16549008 2006 NoLink
+16571141 2006 NoLink
+16573808 2006 available http://distill.ucd.ie 200 
+16704727 2006 NoLink
+16712732 2006 NoLink
+16566824 2006 NoLink
+16515683 2006 NoLink
+16519800 2006 NoLink
+16526950 2006 NoLink
+16519803 2006 NoLink
+16526963 2006 NoLink
+16522208 2006 NoLink
+16522199 2006 NoLink
+16522212 2006 NoLink
+16524483 2006 NoLink
+24299043 2013 NoLink
+16524469 2006 NoLink
+16524470 2006 NoLink
+16524462 2006 NoLink
+16542461 2006 NoLink
+16533412 2006 NoLink
+16712726 2006 NoLink
+16608523 2006 NoLink
+16700920 2006 null http://genie.dartmouth.edu/prism -1 
+16948864 2006 NoLink
+16672042 2006 NoLink
+16709240 2006 NoLink
+16709248 2006 available http://www.eecs.case.edu/~jxl175/HapMiner.html -1 
+16709259 2006 NoLink
+16684357 2006 NoLink
+16842618 2006 NoLink
+17199892 2007 NoLink
+16712739 2006 NoLink
+16729895 2006 software http://www.pathogenomics.ca/ortholuge/ 200 
+16716226 2006 NoLink
+16737545 2006 NoLink
+16725019 2006 NoLink
+16725050 2006 NoLink
+16611354 2006 NoLink
+16953874 2006 null http://distill.ucd.ie/distill/ 200 
+16729898 2006 NoLink
+16914048 2006 NoLink
+16670008 2006 NoLink
+16670020 2006 NoLink
+16734902 2006 NoLink
+16734914 2006 NoLink
+16351741 2005 NoLink
+16640774 2006 NoLink
+16684345 2006 NoLink
+16790056 2006 NoLink
+17316423 2007 available http://www.bioclipse.net 200 
+16677390 2006 NoLink
+16677374 2006 NoLink
+16677380 2006 NoLink
+16790057 2006 NoLink
+17005048 2006 NoLink
+17002805 2006 NoLink
+16571137 2006 NoLink
+16681847 2006 NoLink
+16681860 2006 NoLink
+16759376 2006 NoLink
+16684350 2006 NoLink
+16549007 2006 NoLink
+17101041 2006 NoLink
+17101042 2006 null http://4sale.bioapps.biozentrum.uni-wuerzburg.de 200 
+17105653 2006 NoLink
+17105657 2006 NoLink
+17105666 2006 NoLink
+17107624 2006 NoLink
+16978423 2006 NoLink
+17109755 2006 NoLink
+17109764 2006 NoLink
+17109765 2006 available http://www.mpi-magdeburg.mpg.de/projects/promot/ 301 
+17112372 2006 NoLink
+17112386 2006 null http://hanlab.genetics.ac.cn/IntNetDB.htm -1 
+17078886 2006 NoLink
+17116249 2006 NoLink
+17118190 2006 NoLink
+17118209 2006 NoLink
+17123434 2006 NoLink
+17123449 2006 download http://genoma.unab.cl/juice_system/ -1 null http://www.genomavegetal.cl/juice_system/ 404 
+NA 2006 NoLink
+17134475 2006 NoLink
+17134476 2006 NoLink
+17134478 2006 NoLink
+17134479 2006 NoLink
+17254295 2006 NoLink
+17125514 2006 NoLink
+17129367 2006 NoLink
+17129386 2006 NoLink
+17132165 2006 available http://www.cmbi.ru.nl/biometa/ 200 
+17081284 2006 NoLink
+17081313 2006 NoLink
+17090325 2006 NoLink
+17570843 2007 available http://distill.ucd.ie 200 
+17137490 2006 NoLink
+17137497 2006 available http://cbio.ensmp.fr/dsir 404 
+17137502 2006 NoLink
+17137509 2006 NoLink
+17147812 2006 available http://www.cs.wisc.edu/~noto/crm 301 
+17147817 2006 NoLink
+17083731 2006 available http://www.imtech.res.in/raghava/rbpred/ 301 
+17083740 2006 NoLink
+17083742 2006 NoLink
+17087821 2006 NoLink
+17087822 2006 NoLink
+17087823 2006 available http://bioschemas.sourceforge.net 500 library http://biodom.sourceforge.net 302 
+17090318 2006 available http://array.bioengr.uic.edu/subnuclear.htm 301 
+17067382 2006 NoLink
+17090331 2006 NoLink
+17094799 2006 NoLink
+17094801 2006 NoLink
+17094804 2006 available http://medgen.ugent.be/methprimerdb 301 null http://medgen.ugent.be/methblast 301 
+17032440 2006 NoLink
+17032441 2006 NoLink
+17032452 2006 NoLink
+17032455 2006 NoLink
+17032457 2006 application http://function.princeton.edu/GOLEM 301 
+17038163 2006 NoLink
+17038164 2006 NoLink
+17038168 2006 NoLink
+17038171 2006 NoLink
+17038174 2006 NoLink
+16970830 2006 NoLink
+17062155 2006 NoLink
+17038191 2006 available http://web.kuicr.kyoto-u.ac.jp/~hjian/mimox 403 
+17038193 2006 null http://polaris.imt.uwm.edu:7777/fisheye/ -1 
+17067389 2006 NoLink
+17042942 2006 NoLink
+17042943 2006 NoLink
+17042958 2006 available http://www.eecs.umich.edu/periscope/procc 302 
+17044912 2006 NoLink
+17044919 2006 null http://www.bioinfo.tsinghua.edu.cn/NBA-Palm -1 
+17038181 2006 NoLink
+17022825 2006 NoLink
+17054788 2006 NoLink
+17054794 2006 NoLink
+17059589 2006 NoLink
+17059591 2006 NoLink
+17059592 2006 available http://bic-gh.de/meta-all 301 
+16984652 2006 NoLink
+17059595 2006 available http://transcriptome.ens.fr/goulphar/ 200 
+17059604 2006 available http://bfgl.anri.barc.usda.gov/ML/snp-phage/ -1 
+17059609 2006 NoLink
+17062145 2006 NoLink
+17062146 2006 NoLink
+17044936 2006 available http://manndb.llnl.gov/ -1 
+17064411 2006 NoLink
+17064419 2006 null http://www.girinst.org/repbase/submission.html 200 null http://www.girinst.org/censor/index.php 200 
+17067368 2006 NoLink
+27793084 2016 NoLink
+17042935 2006 available http://telethon.bio.unipd.it/bioinfo/reef/ -1 
+17069658 2006 NoLink
+17069662 2006 NoLink
+17014715 2006 NoLink
+17014720 2006 NoLink
+17076887 2006 software http://www.riboclub.org/ribosubstrates 301 
+17014735 2006 NoLink
+17018143 2006 NoLink
+17018144 2006 NoLink
+17018148 2006 NoLink
+17018151 2006 NoLink
+17018156 2006 NoLink
+17109752 2006 available http://www.ces.clemson.edu/compbio/recon 301 
+17022808 2006 NoLink
+17022809 2006 null http://alggen.lsi.upc.es/recerca/align/mgcat/intro-mgcat.html 200 
+17022824 2006 NoLink
+16026594 2005 NoLink
+17026747 2006 NoLink
+17026775 2006 available http://pprowler.itee.uq.edu.au/star -1 
+17029635 2006 available http://www.bioinformatics.nl/tools/snpweb/ 200 
+16968531 2006 NoLink
+17038176 2006 NoLink
+16981993 2006 NoLink
+17081289 2006 NoLink
+17603910 2007 NoLink
+17118130 2006 abstractNotFound
+17118140 2006 NoLink
+17118134 2006 available http://www.gene-regulation.com 301 
+17118133 2006 NoLink
+17118137 2006 NoLink
+17118135 2006 NoLink
+17118136 2006 NoLink
+17118147 2006 NoLink
+17118138 2006 NoLink
+17118139 2006 NoLink
+17118131 2006 NoLink
+17118141 2006 NoLink
+17118142 2006 NoLink
+17118143 2006 NoLink
+17686183 2007 NoLink
+17118145 2006 software http://edkb.fda.gov/webstart/arraytrack/ 302 
+17118146 2006 NoLink
+17118132 2006 NoLink
+17118148 2006 NoLink
+17118149 2006 available http://mfgn.usm.edu/ebl/riboapt/ -1 
+17118150 2006 null http://egenbio.lsu.edu -1 
+17118151 2006 NoLink
+17118152 2006 NoLink
+16961919 2006 NoLink
+17052359 2006 NoLink
+17212828 2007 NoLink
+19397803 2009 package http://www.cmp.uea.ac.uk/~vlm/visrd 302 
+25887410 2015 NoLink
+16959042 2006 NoLink
+17244370 2007 NoLink
+16952323 2006 NoLink
+17207284 2007 NoLink
+16978421 2006 NoLink
+16956412 2006 NoLink
+16995941 2006 NoLink
+16956416 2006 NoLink
+16953879 2006 NoLink
+17224057 2007 NoLink
+17425803 2007 available http://bioinformatics.org/branchclust 301 
+17425808 2007 NoLink
+17428323 2007 null http://repseq.gugbe.com -1 
+17428344 2007 available http://www.mcb.ucdavis.edu/faculty-labs/lagarias/homolmapper_home/homolmapper%20web%20page.htm 302 
+17498304 2007 NoLink
+17442102 2007 NoLink
+17442109 2007 available http://ubiprot.org.ru 200 
+17442113 2007 NoLink
+17442117 2007 available http://biocomp.bioen.uiuc.edu/tagsmart 301 
+17445280 2007 NoLink
+17445273 2007 NoLink
+17477871 2007 NoLink
+17448222 2007 NoLink
+17448237 2007 NoLink
+17448242 2007 NoLink
+17451607 2007 NoLink
+17451609 2007 NoLink
+17462086 2007 NoLink
+17456238 2007 NoLink
+17472750 2007 NoLink
+17407573 2007 NoLink
+17683567 2007 NoLink
+17470296 2007 NoLink
+17407596 2007 null http://www.babelomics.org 200 
+17407601 2007 NoLink
+17407606 2007 available http://www.pdbj.org/ASH/ 302 
+17408490 2007 NoLink
+17411443 2007 NoLink
+17480226 2007 NoLink
+19422723 2009 null http://bioinfo.au.tsinghua.edu.cn/pure -1 
+17725821 2007 NoLink
+17672913 2007 NoLink
+17663765 2007 NoLink
+17678526 2007 NoLink
+17678535 2007 code http://pepbank.mgh.harvard.edu/ 200 null http://www.cpan.org/ 301 
+17708757 2007 NoLink
+17708758 2007 NoLink
+17711568 2007 NoLink
+17711571 2007 here http://meta.bioinfo.pl/ -1 available http://meta.bioinfo.pl/compare_your_model_example.pl -1 
+17645800 2007 null http://www.imtech.res.in/raghava/antibp/ 301 
+17714583 2007 NoLink
+17716377 2007 NoLink
+17718914 2007 NoLink
+17718915 2007 null http://proteomics.gersteinlab.org 200 
+17718923 2007 available http://cimlcsext.cim.sld.cu:8080/screeningbrowser/ -1 
+17723146 2007 NoLink
+17705863 2007 NoLink
+17725829 2007 NoLink
+17725841 2007 code ftp://iole.swmed.edu/pub/evaluation/ -1 
+17956603 2007 NoLink
+17727718 2007 available http://polyview.cchmc.org/polyview3d.html 200 
+17883836 2007 NoLink
+17683520 2007 software http://wdcm.nig.ac.jp/inforbio/ -1 
+17683533 2007 NoLink
+17760957 2007 NoLink
+17760969 2007 NoLink
+17760972 2007 available ftp://ftpmips.gsf.de/plants/apollo_webservice -1 
+17760982 2007 NoLink
+17760983 2007 NoLink
+17761002 2007 NoLink
+17764552 2007 NoLink
+17683565 2007 NoLink
+17996106 2007 NoLink
+17683571 2007 NoLink
+17683581 2007 NoLink
+17683589 2007 NoLink
+17683598 2007 NoLink
+17683601 2007 NoLink
+17903290 2007 NoLink
+17631686 2007 available http://bioingegneria.unicz.it/~veltri/projects/eipeptidi/ 404 
+17683637 2007 available http://bioinformatics.louisville.edu/brg/rMotifGen/ 404 
+17683642 2007 NoLink
+17686158 2007 NoLink
+17686169 2007 NoLink
+18426549 2008 NoLink
+17688687 2007 NoLink
+17688688 2007 NoLink
+18070356 2007 NoLink
+17727715 2007 NoLink
+18072965 2007 NoLink
+18076765 2007 NoLink
+18088431 2007 NoLink
+18088438 2007 available http://bioinfo.cgrb.oregonstate.edu/psd/ 200 
+18093293 2007 null http://openwetware.org/wiki/TABASCO 301 
+18093302 2007 NoLink
+18093306 2007 NoLink
+18093328 2007 NoLink
+18093342 2007 NoLink
+18096047 2007 NoLink
+18096081 2007 NoLink
+NA 2007 abstractNotFound
+18269696 2007 NoLink
+18269697 2007 NoLink
+18269698 2007 NoLink
+18269699 2007 NoLink
+18269700 2007 NoLink
+18269701 2007 available http://www.fml.mpg.de/raetsch/projects/splice 302 
+18269702 2007 NoLink
+18154664 2007 NoLink
+18162129 2007 NoLink
+17937822 2007 software http://intelligent.eic.osaka-sandai.ac.jp/chenen/MDCinfer.htm -1 null http://zhangroup.aporc.org/bioinfo/MDCinfer 200 
+18053244 2007 NoLink
+18067669 2007 NoLink
+17302974 2007 NoLink
+17309789 2007 NoLink
+17270037 2007 NoLink
+17506883 2007 tool http://deuterator.florida.scripps.edu -1 
+17324286 2007 NoLink
+17270052 2007 NoLink
+17311682 2007 NoLink
+17313665 2007 NoLink
+16723003 2006 NoLink
+17316436 2007 NoLink
+17319944 2007 NoLink
+17319945 2007 NoLink
+17319966 2007 null http://biocomp.iis.sinica.edu.tw/phylomlogo 404 
+17331242 2007 NoLink
+17324296 2007 null http://bioinf.uab.es/aggrescan/ 200 
+17326819 2007 null http://ehco.iis.sinica.edu.tw -1 
+17328811 2007 NoLink
+17280606 2007 available http://zincfinder.dsi.unifi.it 200 
+17280615 2007 NoLink
+17284313 2007 NoLink
+17286856 2007 available http://plntfdb.bio.uni-potsdam.de 200 
+17286857 2007 NoLink
+17286861 2007 NoLink
+17286863 2007 NoLink
+17286865 2007 NoLink
+17286872 2007 NoLink
+17288599 2007 NoLink
+17288608 2007 available http://bioinformatics.org/mqtl 301 
+17291334 2007 available http://www.it.utu.fi/BioInfer 301 
+17291342 2007 available http://proteomics.ucd.ie/msmseval -1 
+17291344 2007 NoLink
+17291345 2007 code http://bioinfo.noble.org/plan/ 404 
+17291351 2007 NoLink
+17214898 2007 NoLink
+17212835 2007 NoLink
+17214880 2007 NoLink
+17222344 2007 NoLink
+17224043 2007 NoLink
+17233916 2007 NoLink
+17233900 2007 NoLink
+17270038 2007 NoLink
+17263870 2007 NoLink
+17239245 2007 NoLink
+17239253 2007 available http://www.drive5.com/pilercr 301 
+17263881 2007 NoLink
+17244365 2007 NoLink
+17241466 2007 NoLink
+17250769 2007 NoLink
+17254344 2007 NoLink
+17254351 2007 NoLink
+17254353 2007 NoLink
+17254358 2007 NoLink
+17261182 2007 NoLink
+17257426 2007 NoLink
+17257435 2007 NoLink
+17263882 2007 NoLink
+17474999 2007 NoLink
+17270045 2007 NoLink
+17349043 2007 NoLink
+17349060 2007 available http://bioinfoserver.rsbs.anu.edu.au/utils/GeneBins/ -1 
+17875212 2007 NoLink
+17199898 2007 available http://tprpred.tuebingen.mpg.de -1 download ftp://ftp.tuebingen.mpg.de/ebio/protevo/TPRpred/ 200 
+17207271 2007 available http://www.jenner.ac.uk/VaxiJen 404 
+17217513 2006 NoLink
+17343765 2007 available http://cinteny.cchmc.org -1 
+17212819 2007 NoLink
+17367530 2007 available http://tpdb.medchem.ku.edu/tpdb.html -1 
+17620146 2007 NoLink
+17623104 2007 NoLink
+17623108 2007 NoLink
+17625017 2007 available http://xerad.systemsbiology.net/simcluster 502 
+17626621 2007 code http://cege.vub.ac.be/hoxpred/ -1 
+NA 2007 abstractNotFound
+17598909 2007 NoLink
+17626636 2007 NoLink
+17626641 2007 NoLink
+17629909 2007 NoLink
+17629922 2007 NoLink
+17631683 2007 NoLink
+17854489 2007 NoLink
+17634089 2007 NoLink
+17640336 2007 NoLink
+17650344 2007 available http://cmb.bnu.edu.cn/BPhyOG 301 
+27117841 2016 NoLink
+17662141 2007 null http://www.planet-lisa.net -1 
+17659089 2007 NoLink
+17645798 2007 NoLink
+17711581 2007 NoLink
+17650333 2007 NoLink
+17650343 2007 NoLink
+17640351 2007 NoLink
+17651507 2007 NoLink
+17655753 2007 pipeline http://msbayes.sourceforge.net/ 200 
+17655769 2007 NoLink
+17662112 2007 NoLink
+17663786 2007 available http://www.binf.gmu.edu/weller/BMC_bioinformatics/AffyMapsDetector/index.html 403 
+17662143 2007 NoLink
+17601351 2007 NoLink
+17605777 2007 NoLink
+17605789 2007 NoLink
+17605807 2007 NoLink
+17605818 2007 NoLink
+17663764 2007 NoLink
+17672919 2007 NoLink
+17663766 2007 NoLink
+17683603 2007 NoLink
+17608939 2007 NoLink
+17608956 2007 NoLink
+17615067 2007 NoLink
+17615071 2007 NoLink
+NA 2007 abstractNotFound
+17612399 2007 NoLink
+17559689 2007 NoLink
+17562008 2007 NoLink
+17565685 2007 NoLink
+17567892 2007 available http://genome.tugraz.at/maspectras 301 
+17567908 2007 NoLink
+17555590 2007 NoLink
+17567919 2007 NoLink
+18485222 2008 NoLink
+17570844 2007 here http://www.egr.msu.edu/tips 404 
+17570850 2007 NoLink
+17570856 2007 NoLink
+17573965 2007 NoLink
+17588266 2007 NoLink
+17577396 2007 NoLink
+17577405 2007 NoLink
+17577412 2007 NoLink
+17578580 2007 NoLink
+17578581 2007 NoLink
+17584497 2007 NoLink
+17584922 2007 NoLink
+17584939 2007 available http://www.protein-ms.de 403 null http://sourceforge.net/projects/protms/ 301 
+17587456 2007 NoLink
+17587460 2007 available http://promex.mpimp-golm.mpg.de/ 403 
+17594507 2007 NoLink
+17588268 2007 NoLink
+17592629 2007 NoLink
+17592643 2007 NoLink
+17594472 2007 NoLink
+17594490 2007 NoLink
+17598914 2007 NoLink
+17597514 2007 NoLink
+17597547 2007 NoLink
+17626633 2007 available http://genie.dartmouth.edu/scope -1 
+17559640 2007 available http://ekhidna.biocenter.helsinki.fi/poxo/matlign 200 
+17603872 2007 NoLink
+17603882 2007 NoLink
+17603887 2007 NoLink
+17543125 2007 null http://gepat.sourceforge.net 200 null http://gepat.bioapps.biozentrum.uni-wuerzburg.de 302 
+17519033 2007 null http://tsb.mssm.edu/pathwayPublisher/broadcast/ 404 
+17484781 2007 available http://prime.sbc.su.se/primetv 301 
+17550582 2007 NoLink
+17553157 2007 null ftp://scitoolsftp.idtdna.com/SEQ2SVM/ 404 
+17553167 2007 NoLink
+17640387 2007 NoLink
+17555593 2007 NoLink
+17555595 2007 available http://tiling.gersteinlab.org/pseudomedian/ 200 
+17555597 2007 NoLink
+17559637 2007 NoLink
+17764579 2007 NoLink
+17559658 2007 NoLink
+17559666 2007 NoLink
+18721472 2008 null http://140.113.166.178/safast/ -1 
+17535434 2007 NoLink
+17338826 2007 null http://mllab.csa.iisc.ernet.in/mp2/runprog.html 404 
+17352833 2007 NoLink
+17355634 2007 NoLink
+17355623 2007 NoLink
+17359522 2007 NoLink
+17359537 2007 NoLink
+17362505 2007 NoLink
+17362514 2007 null http://cell.rutgers.edu/ncsrs/ 200 
+17376221 2007 NoLink
+17367536 2007 NoLink
+17367537 2007 NoLink
+18047702 2007 NoLink
+17331257 2007 NoLink
+19208196 2009 download http://www.phenogo.org 302 
+17376229 2007 NoLink
+17378935 2007 NoLink
+17386085 2007 NoLink
+17338813 2007 NoLink
+17389034 2007 available http://www.narrator-tool.org 200 
+17389042 2007 NoLink
+17391531 2007 NoLink
+17389049 2007 NoLink
+17389044 2007 NoLink
+17394657 2007 NoLink
+17394658 2007 NoLink
+17335566 2007 NoLink
+17335576 2007 NoLink
+17394669 2007 NoLink
+17397530 2007 NoLink
+17397552 2007 NoLink
+17335588 2007 NoLink
+17386090 2007 NoLink
+17338815 2007 NoLink
+17338820 2007 tool http://discover.nci.nih.gov/spliceminer 302 
+17338825 2007 NoLink
+17346331 2007 available http://www.cmbi.ru.nl/LOFT 301 
+17338828 2007 NoLink
+17341299 2007 NoLink
+17419878 2007 null http://pfweb.chem.neu.edu/thematics/submit.html -1 
+17547750 2007 tool http://www.fast-db.com 301 
+NA 2007 abstractNotFound
+17430554 2007 NoLink
+17430555 2007 null http://www.itb.cnr.it/procmd/ 200 
+17430556 2007 NoLink
+17430557 2007 null http://www.itb.cnr.it/estuber 301 
+17430558 2007 NoLink
+17430560 2007 NoLink
+17430559 2007 NoLink
+17430561 2007 NoLink
+17430562 2007 null http://www.symbiomatics.org 301 
+17430563 2007 NoLink
+17430564 2007 available http://litbio.unicam.it:8080/biowms -1 
+17430565 2007 available http://www2.ba.itb.cnr.it/p53FamTaG/ 404 
+17430566 2007 NoLink
+17430567 2007 NoLink
+17430568 2007 NoLink
+17430569 2007 NoLink
+17430570 2007 available http://gpcr.biocomp.unibo.it/cgi/predictors/hippie/pred_hippie.cgi 200 
+17430571 2007 NoLink
+17430572 2007 NoLink
+17430574 2007 NoLink
+17430573 2007 available http://www.caspur.it/meps 302 
+17430575 2007 NoLink
+17430576 2007 NoLink
+17346349 2007 NoLink
+17349040 2007 NoLink
+17570145 2007 null http://svm-fold.c2b2.columbia.edu -1 
+17343745 2007 NoLink
+20576157 2010 NoLink
+17493278 2007 NoLink
+17439644 2007 NoLink
+17504516 2007 NoLink
+17504537 2007 available http://protein.cribi.unipd.it/tap/ 200 
+17519012 2007 NoLink
+17519038 2007 NoLink
+17480235 2007 NoLink
+17490475 2007 NoLink
+17517127 2007 NoLink
+17517132 2007 null http://ipe.cbmeg.unicamp.br/pub/TISs-ST 404 
+17517134 2007 NoLink
+17517139 2007 NoLink
+17517140 2007 NoLink
+17570143 2007 abstractNotFound
+17570147 2007 tool http://salilab.org/DBAli/ 301 
+17493248 2007 NoLink
+17570144 2007 NoLink
+17570866 2007 null http://www.medicago.org/genome/assembly_table.php?chr=1 301 
+17570148 2007 NoLink
+17570149 2007 available http://www.synteny.net/ -1 
+17570150 2007 NoLink
+17570151 2007 NoLink
+17570152 2007 NoLink
+17518996 2007 NoLink
+17490482 2007 software http://www.plantgdb.org/tool/tracembler/ 200 
+17519018 2007 NoLink
+17519025 2007 NoLink
+17493287 2007 NoLink
+17521438 2007 null http://crispr.u-psud.fr/crispr 403 
+17519041 2007 NoLink
+17521423 2007 NoLink
+17493250 2007 software http://www.inf.ethz.ch/personal/vroth/KernelHMM/ 302 
+17521444 2007 NoLink
+NA 2007 abstractNotFound
+17570862 2007 NoLink
+17570861 2007 NoLink
+17570863 2007 NoLink
+17570864 2007 NoLink
+17493285 2007 NoLink
+17570146 2007 available http://www.genomes.org/services/corrie/ 302 
+NA 2010 abstractNotFound
+17493286 2007 NoLink
+17524148 2007 NoLink
+17524134 2007 NoLink
+17540034 2007 NoLink
+17573973 2007 NoLink
+17474977 2007 available http://www.vsgdb.org/ 200 
+18047721 2007 NoLink
+17537266 2007 null http://www.gpcr-okb.org 301 
+17559676 2007 NoLink
+NA 2007 NoLink
+17903286 2007 NoLink
+17493249 2007 NoLink
+17493253 2007 NoLink
+17493251 2007 NoLink
+17493252 2007 NoLink
+17493256 2007 NoLink
+17493254 2007 NoLink
+17493255 2007 NoLink
+17493258 2007 NoLink
+17493257 2007 NoLink
+17570867 2007 NoLink
+17511869 2007 available http://linnaeus.zoology.gla.ac.uk/~rpage/tbmap 301 
+17509157 2007 NoLink
+17570865 2007 NoLink
+17888146 2007 NoLink
+17488495 2007 NoLink
+NA 2007 NoLink
+17493288 2007 NoLink
+17854506 2007 available http://smd.stanford.edu/ontologyWidget/ -1 
+17883866 2007 NoLink
+21044360 2010 NoLink
+17877839 2007 null http://www.medclue.com/padb -1 
+17850653 2007 available http://www.dasregistry.org 301 
+17493289 2007 NoLink
+17343750 2007 null http://genome.tugraz.at/Software/TAMEE 301 
+17997843 2007 NoLink
+17999749 2007 NoLink
+17999775 2007 NoLink
+NA 2010 abstractNotFound
+17988389 2007 NoLink
+NA 2010 abstractNotFound
+18005425 2007 NoLink
+18005433 2007 NoLink
+18005434 2007 available http://www.xlab.unimo.it/GA_CDF 301 
+18005444 2007 NoLink
+18005446 2007 NoLink
+18047663 2007 available http://sat.cirad.fr/sat -1 
+18005451 2007 NoLink
+18005454 2007 NoLink
+18021409 2007 NoLink
+18021416 2007 NoLink
+18021423 2007 NoLink
+18021437 2007 available http://www.ifr.ac.uk/safety/ArrayLeaRNA/ 301 
+18021453 2007 NoLink
+18021455 2007 NoLink
+18047708 2007 abstractNotFound
+18047729 2007 NoLink
+18047710 2007 NoLink
+18047711 2007 NoLink
+18047712 2007 NoLink
+18047713 2007 NoLink
+18047714 2007 NoLink
+18047715 2007 NoLink
+18047716 2007 NoLink
+18047717 2007 NoLink
+18047732 2007 NoLink
+18047719 2007 NoLink
+18047720 2007 NoLink
+17854501 2007 NoLink
+18047722 2007 NoLink
+18047725 2007 NoLink
+18047724 2007 NoLink
+18047723 2007 NoLink
+18047726 2007 NoLink
+18047727 2007 NoLink
+17935633 2007 NoLink
+18047709 2007 NoLink
+18047730 2007 null EH669363 -1 null EH672369 -1 null EL515444 -1 null EL515580 -1 publicly http://mcbc.usm.edu/estmd/ -1 
+18047731 2007 NoLink
+18047718 2007 NoLink
+19007430 2008 NoLink
+18028540 2007 available http://darwin.uvigo.es/ 200 
+18031584 2007 NoLink
+18034891 2007 NoLink
+18039370 2007 NoLink
+18039375 2007 NoLink
+22373375 2012 available http://www.ontotoolkit.mines-ales.fr/ObirsClient/ 200 
+18047704 2007 NoLink
+18047703 2007 NoLink
+18047705 2007 NoLink
+18047706 2007 null http://gauss.dbb.georgetown.edu/liblab/SFThesaurus -1 
+18047707 2007 NoLink
+18042272 2007 null http://www.imtech.res.in/raghava/dnabinder/ 301 
+18053134 2007 available http://sfold.wadsworth.org 200 
+18005448 2007 NoLink
+17980028 2007 download http://david.abcc.ncifcrf.gov/knowledgebase/ 301 
+17937785 2007 available http://bioinformatics.org.au/deme/ 404 
+17980034 2007 NoLink
+18047679 2007 available http://sunflower.kuicr.kyoto-u.ac.jp/~tamura/slpfa.html 200 
+18053130 2007 NoLink
+18053132 2007 NoLink
+18045491 2007 NoLink
+18053142 2007 NoLink
+17956631 2007 download http://www.niehs.nih.gov/research/resources/software/pcranalyzer/ 301 
+17939873 2007 NoLink
+17988400 2007 available http://www.ualberta.ca/~yyasui/homepage.html 301 
+17996040 2007 NoLink
+17996051 2007 NoLink
+17996079 2007 NoLink
+17999748 2007 NoLink
+17996092 2007 NoLink
+17996093 2007 NoLink
+18179718 2008 NoLink
+17980031 2007 NoLink
+18005402 2007 available http://www.uv.es/~genomica/treetracker 301 
+17931421 2007 NoLink
+17931424 2007 NoLink
+17935624 2007 available http://xerad.systemsbiology.net/ProbCD/ 502 
+17897448 2007 NoLink
+17973982 2007 available http://www.cbs.dtu.dk/services/NetCTL 301 available http://www.cbs.dtu.dk/suppl/immunology/CTL-1.2.php 200 
+17937790 2007 NoLink
+17937807 2007 NoLink
+17937816 2007 NoLink
+17937818 2007 null http://sig.biostr.washington.edu/projects/MindSeer 301 
+17937820 2007 NoLink
+18053160 2007 available http://pbil.kaist.ac.kr/forecast -1 
+17939863 2007 method http://toppgene.cchmc.org 302 
+17939871 2007 available http://kdbio.inesc-id.pt/~svinga/ep/ 301 
+17877794 2007 NoLink
+NA 2007 abstractNotFound
+17941985 2007 available http://gi.cebitec.uni-bielefeld.de/comet/force/ 302 
+17941992 2007 NoLink
+17941997 2007 NoLink
+17941998 2007 NoLink
+17945016 2007 NoLink
+17945017 2007 code http://www.ebi.ac.uk/Tools/picr 302 
+17949484 2007 NoLink
+17945026 2007 NoLink
+17908318 2007 NoLink
+17953741 2007 NoLink
+17953748 2007 NoLink
+17953757 2007 available http://www.megx.net/metalook 503 
+17953763 2007 NoLink
+18070366 2007 code http://zhangroup.aporc.org/bioinfo/PSN/ 200 
+17986320 2007 available http://www.CoryneRegNet.DE 302 
+17958908 2007 NoLink
+17961219 2007 NoLink
+17961233 2007 NoLink
+17961242 2007 NoLink
+17963500 2007 NoLink
+17963508 2007 NoLink
+17963510 2007 available http://www.procksi.net 200 
+17963514 2007 NoLink
+17764577 2007 NoLink
+17919331 2007 NoLink
+17967180 2007 NoLink
+17910766 2007 null http://www.bndb.org -1 
+17910767 2007 NoLink
+17697349 2007 NoLink
+17971227 2007 NoLink
+17971238 2007 NoLink
+17963529 2007 NoLink
+17974011 2007 null http://www.fkp.tu-darmstadt.de/sabertooth/ 404 
+17910777 2007 null http://cgi-www.daimi.au.dk/cgi-chili/primique/front.py 200 
+17915022 2007 NoLink
+17915030 2007 NoLink
+17916244 2007 NoLink
+17919319 2007 NoLink
+17897463 2007 NoLink
+17922925 2007 NoLink
+17925009 2007 NoLink
+17925014 2007 NoLink
+17925033 2007 NoLink
+17848185 2007 NoLink
+17848190 2007 NoLink
+17767709 2007 code http://genesrf2.bioinfo.cnio.es 302 
+17850657 2007 NoLink
+18460181 2008 NoLink
+17854494 2007 NoLink
+18387200 2008 NoLink
+18218092 2008 NoLink
+17868445 2007 NoLink
+17868449 2007 NoLink
+17868480 2007 available http://www.bioinformatics.org/mirfinder/ 200 
+18366790 2008 NoLink
+17875221 2007 NoLink
+19426459 2009 NoLink
+17877795 2007 NoLink
+17877799 2007 NoLink
+17877806 2007 NoLink
+17825110 2007 NoLink
+17880681 2007 available http://xat.sourceforge.net/ 200 
+17880708 2007 NoLink
+18190718 2008 NoLink
+17727721 2007 NoLink
+17880728 2007 NoLink
+17897474 2007 NoLink
+17883842 2007 NoLink
+17888163 2007 NoLink
+17963524 2007 NoLink
+17764570 2007 NoLink
+17888165 2007 NoLink
+17892592 2007 NoLink
+17927830 2007 NoLink
+17897458 2007 null http://tools.immuneepitope.org/tools/conservancy 302 
+17971203 2007 NoLink
+NA 2007 abstractNotFound
+17903283 2007 NoLink
+17903285 2007 NoLink
+17903288 2007 NoLink
+17767718 2007 NoLink
+17903287 2007 NoLink
+17903289 2007 NoLink
+18315852 2008 available http://synechocystis.org/ -1 null http://bioportal.kobic.kr/SynechoNET/ -1 
+18047728 2007 NoLink
+17903261 2007 NoLink
+17900369 2007 null http://www.bioconductor.org/ 200 
+17880712 2007 NoLink
+17931407 2007 NoLink
+18205924 2008 NoLink
+23198735 2012 NoLink
+18230174 2008 NoLink
+18215273 2008 NoLink
+18402661 2008 NoLink
+18402669 2008 NoLink
+18402673 2008 NoLink
+18402678 2008 NoLink
+18402679 2008 NoLink
+18637174 2008 NoLink
+18298817 2008 NoLink
+NA 2010 abstractNotFound
+18541044 2008 NoLink
+18793466 2008 null http://www.geneontology.org 200 
+18426546 2008 NoLink
+18426547 2008 NoLink
+18426545 2008 NoLink
+18937856 2008 NoLink
+18426550 2008 NoLink
+18426551 2008 software http://mars.cs.utu.fi/PPICorpora 301 
+18426552 2008 NoLink
+18426553 2008 NoLink
+18426554 2008 NoLink
+18402706 2008 NoLink
+18412966 2008 NoLink
+18405366 2008 NoLink
+18405373 2008 NoLink
+18405375 2008 NoLink
+18298814 2008 NoLink
+18371216 2008 null http://www.cmbi.ru.nl/locatep-db 200 
+18442400 2008 NoLink
+18505562 2008 NoLink
+18412963 2008 NoLink
+18405361 2008 NoLink
+18416814 2008 NoLink
+18416829 2008 NoLink
+18416838 2008 NoLink
+18423022 2008 NoLink
+18380896 2008 NoLink
+18426580 2008 NoLink
+18426588 2008 NoLink
+18430222 2008 NoLink
+18430251 2008 NoLink
+18433469 2008 NoLink
+18433471 2008 NoLink
+18447924 2008 NoLink
+18433478 2008 NoLink
+NA 2008 abstractNotFound
+18460170 2008 abstractNotFound
+18541050 2008 NoLink
+18541048 2008 NoLink
+18541053 2008 available http://www.bio-miblab.org/arraywiki 302 
+18460174 2008 NoLink
+18460175 2008 null http://gopubmed4.biotec.tu-dresden.de/IdavollWebService/services/CandidateTermGeneratorService?wsdl -1 
+18460176 2008 NoLink
+18460177 2008 NoLink
+18460171 2008 NoLink
+18460179 2008 NoLink
+18460180 2008 NoLink
+18460207 2008 NoLink
+18460182 2008 NoLink
+18439255 2008 NoLink
+18439277 2008 NoLink
+18439292 2008 NoLink
+18442374 2008 NoLink
+18442385 2008 NoLink
+18442389 2008 NoLink
+18410693 2008 NoLink
+18442401 2008 NoLink
+18460183 2008 null http://odps.sourceforge.net/ 302 
+18460184 2008 NoLink
+18460185 2008 available http://research.isb-sib.ch/unimed -1 
+18460186 2008 NoLink
+18460187 2008 NoLink
+18442418 2008 NoLink
+18445269 2008 NoLink
+18445289 2008 NoLink
+18384676 2008 code http://recode.ucc.ie/oaf/ 200 null http://recode.genetics.utah.edu/oaf/ -1 
+18433477 2008 NoLink
+18447951 2008 available http://logos.cs.uno.edu/~achurban -1 
+18394154 2008 NoLink
+18400082 2008 NoLink
+18793464 2008 NoLink
+18793455 2008 NoLink
+18793463 2008 NoLink
+18793454 2008 abstractNotFound
+18793459 2008 NoLink
+18793458 2008 available http://logos.cs.uno.edu/~achurban -1 
+18793465 2008 NoLink
+18793460 2008 NoLink
+18793461 2008 available http://digbio.missouri.edu/ddan/DDAN.htm -1 
+18793462 2008 NoLink
+18793470 2008 download http://biobase.ist.unomaha.edu/ -1 
+18793468 2008 NoLink
+18793469 2008 NoLink
+19814811 2009 NoLink
+18793467 2008 NoLink
+18789148 2008 NoLink
+18721468 2008 NoLink
+18721485 2008 null http://www.bioinf.uni-leipzig.de/Software/SynBlast/ 200 
+18793471 2008 available http://www.asidb.com -1 
+18793457 2008 NoLink
+18793473 2008 NoLink
+18694523 2008 NoLink
+18662388 2008 NoLink
+18700982 2008 available http://www.rnasoft.ca/strand 301 
+18702831 2008 NoLink
+18706080 2008 NoLink
+18706106 2008 NoLink
+18710565 2008 algorithm http://db.cse.ohio-state.edu/EPO 404 
+18710569 2008 null http://girinst.org/repbase/update/visualrepbase.html 301 
+18713453 2008 NoLink
+18713471 2008 NoLink
+18764941 2008 download http://www-rcf.usc.edu/~fsun 301 
+18939967 2008 NoLink
+18721473 2008 NoLink
+18759993 2008 null http://fatcat.burnham.org/TOPS/ 200 
+18727838 2008 NoLink
+18752676 2008 NoLink
+18755028 2008 NoLink
+18840286 2008 available http://web.abo.fi/fak/mnf//mate/jc/software/brat.html 404 
+18205957 2008 NoLink
+18851737 2008 NoLink
+18759992 2008 NoLink
+18761740 2008 NoLink
+18680592 2008 NoLink
+18680597 2008 NoLink
+18680607 2008 NoLink
+18681957 2008 NoLink
+18681963 2008 NoLink
+18687111 2008 NoLink
+18687122 2008 available http://www.bi.up.ac.za/SeqWord/mhhapplet.php 200 
+18687127 2008 NoLink
+18687147 2008 NoLink
+18691400 2008 NoLink
+18691414 2008 NoLink
+19077204 2008 null http://www.replicationdomain.org 302 
+19091008 2008 NoLink
+19091009 2008 tool http://fans.ngc.sinica.edu.tw/ -1 
+19091010 2008 available http://point.bioinformatics.tw/ -1 method http://poinet.bioinformatics.tw/ -1 
+19091013 2008 NoLink
+19091012 2008 NoLink
+19134182 2009 NoLink
+19091014 2008 NoLink
+19091020 2008 
+19091016 2008 NoLink
+19091017 2008 NoLink
+19091018 2008 available http://diseasome.kobic.re.kr/ -1 
+19091019 2008 NoLink
+19091024 2008 null http://www.naris.go.kr -1 
+19091021 2008 NoLink
+19091022 2008 NoLink
+19091023 2008 NoLink
+19091015 2008 NoLink
+19091025 2008 null http://biolinfo.org/cmkb 301 
+19091026 2008 NoLink
+19091032 2008 available http://www.biotec.or.th/GI/tools/vardetect 302 
+19091030 2008 NoLink
+23627667 2013 package http://www.r-project.org 200 
+19091029 2008 NoLink
+19134199 2009 NoLink
+19091031 2008 NoLink
+19159484 2009 available https://engineering.purdue.edu/PRECISE/LMSfit 301 
+19077267 2008 download http://cssb.biology.gatech.edu/skolnick/files/FrTMalign/ 404 
+15355552 2004 available http://linus.nci.nih.gov/supplement.html 301 
+15563371 2004 NoLink
+15274750 2004 NoLink
+15279682 2004 NoLink
+15283861 2004 NoLink
+15236648 2004 null http://galaxie.cgb.ki.se/galaxieEST.html -1 
+15238163 2004 NoLink
+15238162 2004 available http://cognia.cu-genome.org/cgi-bin/genome/snpIndex.cgi/ -1 
+15239845 2004 NoLink
+15253776 2004 NoLink
+15202953 2004 NoLink
+15207009 2004 NoLink
+15212693 2004 null http://phospho.elm.eu.org 200 
+15357877 2004 null http://www.genome.clemson.edu/gdr/ 404 
+15217521 2004 NoLink
+NA 2004 abstractNotFound
+15222903 2004 NoLink
+15222902 2004 NoLink
+15018656 2004 NoLink
+15175116 2004 null http://sege.ntu.edu.sg/wester/intronless -1 
+15176974 2004 NoLink
+15189572 2004 null http://www.ensembl.org 302 available http://www.uio.no/~junbaiw/mcgh 404 
+15180908 2004 NoLink
+15180907 2004 NoLink
+15180906 2004 null http://www.cbs.dtu.dk/services/NetCorona/ 200 
+15186509 2004 abstractNotFound
+15189570 2004 NoLink
+15230973 2004 NoLink
+15137914 2004 NoLink
+15113410 2004 NoLink
+15113409 2004 NoLink
+15113408 2004 NoLink
+15113412 2004 NoLink
+15070403 2004 available http://bioinformatics.biol.uoa.gr/PRED-TMBB 302 
+15113406 2004 NoLink
+15113405 2004 download http://bussemaker.bio.columbia.edu/papers/MA-Networker/ -1 
+15043761 2004 NoLink
+15099404 2004 null http://www.hprd.org 200 
+15050037 2004 NoLink
+15070404 2004 NoLink
+15272935 2004 NoLink
+15214961 2004 NoLink
+15113411 2004 download http://www.biospice.org 200 null http://x.amath.unc.edu/BioNetS -1 
+15117420 2004 NoLink
+15137915 2004 NoLink
+15140270 2004 NoLink
+15357879 2004 NoLink
+15144565 2004 NoLink
+12549981 2003 NoLink
+15151695 2004 NoLink
+15149555 2004 NoLink
+15147578 2004 NoLink
+15119964 2004 NoLink
+15154966 2004 NoLink
+15161495 2004 NoLink
+15163352 2004 NoLink
+15128433 2004 null http://binf.gmu.edu/genometools.html 200 tool http://pasteur.atcc.org:8050/GeneOrder3.0 -1 
+15128432 2004 NoLink
+15128431 2004 NoLink
+15132760 2004 null http://atgc.lirmm.fr/eldasionator.html 404 
+15541170 2004 available http://www.maths.lth.se/bioinformatics/ 302 
+15550167 2004 NoLink
+15550177 2004 NoLink
+15555060 2004 NoLink
+15518589 2004 null http://www.dopanet.org 200 
+15555081 2004 NoLink
+15511296 2004 NoLink
+15563734 2004 NoLink
+15566564 2004 NoLink
+15504234 2004 NoLink
+15588317 2004 software http://sourceforge.net/projects/geckoe 301 
+15571632 2004 available http://www.nematodes.org/PartiGene 404 
+15527509 2004 NoLink
+15527510 2004 null http://titan.biotec.uiuc.edu/ESTIMA/ 301 
+15476558 2004 NoLink
+15485572 2004 software http://www.loria.fr/projects/YASS/ 301 
+15488147 2004 software http://www.uni-wh.de/pcogr 301 
+15488149 2004 NoLink
+15491492 2004 NoLink
+15491497 2004 NoLink
+15504239 2004 NoLink
+15569388 2004 NoLink
+15494071 2004 NoLink
+15458579 2004 available http://search.cpan.org/dist/Microarray-GeneXplorer/ 200 
+15606920 2004 NoLink
+15471547 2004 NoLink
+15694009 2005 application http://mbt.sdsc.edu -1 
+15504240 2004 NoLink
+15504241 2004 NoLink
+15507135 2004 available http://www.protein-ms.de 403 available http://sourceforge.net/projects/protms/ 301 
+15507136 2004 null http://www.megx.net/tetra 503 
+15507138 2004 NoLink
+15507140 2004 NoLink
+15507142 2004 NoLink
+15509307 2004 available http://caps.ncbs.res.in/FMALIGN/Home.html 200 
+15588288 2004 available http://mendel.stanford.edu/sidowlab/downloads.html 404 
+15511290 2004 NoLink
+15511292 2004 NoLink
+15686593 2005 available http://bayes.fas.harvard.edu/genenotes/ -1 
+15511294 2004 available http://database.cs.wayne.edu/proj/FGKA/index.htm. -1 
+19077301 2008 NoLink
+19077303 2008 NoLink
+19087280 2008 null http://bioinfo.lifl.fr/reblosum 301 
+19087282 2008 NoLink
+19087285 2008 null http://www.synteview.u-psud.fr 200 
+19087293 2008 NoLink
+19087303 2008 null http://kyc.nenu.edu.cn/Pep3DSearch/ 404 
+19087322 2008 null http://web.abo.fi/fak/mnf//mate/jc/software/baps.html 200 
+19046436 2008 NoLink
+19087333 2008 NoLink
+19087345 2008 NoLink
+19091072 2008 NoLink
+19091081 2008 available http://bioinfo.pdtis.fiocruz.br/AnEnPi/ -1 
+19061503 2008 available http://useq.sourceforge.net/ 200 
+19091119 2008 NoLink
+19094206 2008 software http://http:/nash.ucsd.edu/chromatin.tar.gz -1 
+19094235 2008 NoLink
+19099578 2008 NoLink
+19099591 2008 NoLink
+19046422 2008 NoLink
+19046430 2008 NoLink
+19014713 2008 NoLink
+19046434 2008 NoLink
+19087329 2008 NoLink
+19099604 2008 NoLink
+19099609 2008 NoLink
+19102736 2008 NoLink
+19102758 2008 available http://www.profilegrid.org 200 
+19102773 2008 NoLink
+19105835 2008 null http://www.ibi.vu.nl/databases/stralivari 404 
+18466620 2008 NoLink
+18282303 2008 null http://www.dddc.ac.cn/tarfisdock 301 available http://www.dddc.ac.cn/pdtd/ 301 
+18208605 2008 NoLink
+19134174 2009 NoLink
+19055730 2008 available http://tools.immuneepitope.org/tools/ElliPro 404 
+19038062 2008 available http://www.imtech.res.in/raghava/eslpred2/ 301 
+19032745 2008 NoLink
+19055796 2008 NoLink
+19055798 2008 NoLink
+19055809 2008 NoLink
+19055840 2008 NoLink
+19061486 2008 NoLink
+19061501 2008 NoLink
+19091087 2008 NoLink
+19061522 2008 NoLink
+19063730 2008 NoLink
+19063732 2008 NoLink
+19063744 2008 NoLink
+19063745 2008 null http://www.hugenavigator.net/HuGENavigator/geneProspectorStartPage.do 301 
+19068132 2008 NoLink
+18267003 2008 code http://www4.ncsu.edu/~pchopra/landmarks.html 404 
+18221524 2008 publicly http://compsysbio.achs.virginia.edu/tobfac/ -1 
+18267018 2008 NoLink
+18267040 2008 NoLink
+18269742 2008 NoLink
+18334028 2008 NoLink
+18315840 2008 NoLink
+18315841 2008 NoLink
+18315842 2008 NoLink
+18315843 2008 NoLink
+18315844 2008 NoLink
+18315845 2008 NoLink
+18315846 2008 NoLink
+18315847 2008 NoLink
+18315848 2008 NoLink
+18315849 2008 NoLink
+18315850 2008 publicly http://antigen.i2r.a-star.edu.sg/hh/ -1 
+18315861 2008 null http://array.iis.sinica.edu.tw/ups/ 200 
+18271965 2008 NoLink
+18315851 2008 NoLink
+18315854 2008 NoLink
+18241343 2008 NoLink
+18315855 2008 NoLink
+18179701 2008 null http://bioinf.comav.upv.es/est2uni 302 
+18315857 2008 null http://linzer.blm.cs.cmu.edu/tmpro/ -1 null http://flan.blm.cs.cmu.edu/tmpro/ 404 
+18315858 2008 NoLink
+18315860 2008 NoLink
+18315859 2008 null http://www.scbit.org/gorouter/ 404 
+NA 2008 abstractNotFound
+18315862 2008 NoLink
+18275602 2008 NoLink
+18279525 2008 NoLink
+18325117 2008 NoLink
+18284683 2008 null http://mscanner.stanford.edu -1 
+18282301 2008 NoLink
+18793444 2008 NoLink
+18221562 2008 NoLink
+18284666 2008 available http://www.sourceforge.net/projects/kopls/ 301 
+18321373 2008 NoLink
+18282291 2008 NoLink
+18284690 2008 NoLink
+18237442 2008 NoLink
+18234071 2008 available http://diagtools.sysdiag.cnrs.fr/PEPOP/ -1 
+18289391 2008 NoLink
+18291027 2008 software http://www.cis.hut.fi/projects/mi/software/drCCA/ 301 
+18294369 2008 download http://genet.med.kagawa-u.ac.jp/ -1 
+18294399 2008 NoLink
+18298808 2008 NoLink
+18194537 2008 null http://www.sanger.ac.uk/Software/analysis/nmica/ 301 
+18410691 2008 NoLink
+18402702 2008 NoLink
+18298841 2008 NoLink
+18366628 2008 NoLink
+18298858 2008 NoLink
+18298861 2008 NoLink
+18302738 2008 NoLink
+18325100 2008 NoLink
+18366635 2008 NoLink
+18304324 2008 NoLink
+18755046 2008 NoLink
+18304364 2008 null http://www.bioinfo.tsinghua.edu.cn/DBMLoc/index.htm -1 
+18307793 2008 available http://rulai.cshl.edu/rmap/ 200 
+18307794 2008 NoLink
+18307795 2008 null http://www.r-project.org 200 
+18312625 2008 NoLink
+18312673 2008 NoLink
+18241353 2008 NoLink
+18251993 2008 available http://www.bioinformatics.org/benchmark/ 200 
+18251994 2008 NoLink
+18251998 2008 null http://ibi.imim.es/osirisform.html 404 null http://ibi.imim.es/OSIRISv1.2.html 404 
+18254947 2008 NoLink
+18254954 2008 NoLink
+18221564 2008 NoLink
+18257918 2008 NoLink
+18257925 2008 NoLink
+18257938 2008 NoLink
+18261218 2008 NoLink
+18186917 2008 NoLink
+18186926 2008 NoLink
+18186927 2008 NoLink
+18186941 2008 NoLink
+18190711 2008 NoLink
+18318908 2008 NoLink
+18194517 2008 NoLink
+18298812 2008 NoLink
+18194539 2008 NoLink
+18194551 2008 download http://bioinfo.genopole-toulouse.prd.fr/LeARN -1 
+18194557 2008 available http://mit.lifescience.ntu.edu.tw/ 200 
+18194576 2008 NoLink
+18197968 2008 NoLink
+18199333 2008 NoLink
+18201381 2008 NoLink
+18205906 2008 available http://t2prhd.sourceforge.net 200 tool http://t2prhd.brc.hu -1 
+18211684 2008 NoLink
+18221567 2008 NoLink
+18816385 2008 NoLink
+18237410 2008 NoLink
+18179702 2008 NoLink
+18215258 2008 available http://mxscarna.ncrna.org -1 
+18179724 2008 NoLink
+18215279 2008 NoLink
+18215286 2008 NoLink
+18215291 2008 NoLink
+18412951 2008 NoLink
+18215311 2008 available http://pag.csail.mit.edu/mirnaminer 301 
+18578887 2008 NoLink
+18215330 2008 available http://bioportal.kobic.kr/XooNET/ -1 
+18218074 2008 NoLink
+19109877 2008 NoLink
+18218094 2008 null http://www.eecs.case.edu/~jxl175/gs.html -1 
+18218100 2008 NoLink
+18218103 2008 available http://www.ezarray.com/ 301 
+18218108 2008 NoLink
+18218139 2008 NoLink
+18218144 2008 NoLink
+18454847 2008 NoLink
+18221517 2008 NoLink
+18221520 2008 NoLink
+18267014 2008 tool http://bioinformatics.biol.rug.nl/websoftware/s-lowess -1 
+18221560 2008 NoLink
+18284665 2008 NoLink
+18254968 2008 NoLink
+18366799 2008 NoLink
+18221568 2008 NoLink
+18226195 2008 NoLink
+18226220 2008 NoLink
+18226231 2008 NoLink
+18226234 2008 null http://bioinfo.icgeb.res.in/virulent/ 302 
+18226260 2008 NoLink
+18230159 2008 NoLink
+18230160 2008 available http://genomes.urv.es/CAIcal/E-CAI 301 
+18230168 2008 NoLink
+18230172 2008 NoLink
+18230173 2008 NoLink
+18182099 2008 NoLink
+18230190 2008 available http://www.ics.uci.edu/~bio-nets/graphcrunch/ 404 
+18173834 2008 NoLink
+18211675 2008 NoLink
+18371222 2008 NoLink
+18237422 2008 NoLink
+18237428 2008 NoLink
+18284669 2008 NoLink
+18237431 2008 NoLink
+18237434 2008 available http://bionlp.sourceforge.net/ 200 
+18177495 2008 NoLink
+18234090 2008 NoLink
+18177498 2008 NoLink
+18179696 2008 NoLink
+20187971 2010 NoLink
+18184432 2008 NoLink
+18315853 2008 NoLink
+18371228 2008 NoLink
+18325116 2008 NoLink
+18182098 2008 available http://www.scowlp.org 200 
+18302784 2008 NoLink
+18616801 2008 NoLink
+18616827 2008 NoLink
+18616828 2008 NoLink
+18620558 2008 NoLink
+18620599 2008 NoLink
+18620604 2008 available http://www.stat.auckland.ac.nz/~browning/presto/presto.html 302 
+18625080 2008 available http://iclab.life.nctu.edu.tw/ubipred 301 
+18631403 2008 NoLink
+18402700 2008 NoLink
+18638396 2008 application http://discover.nci.nih.gov/splicecenter 302 
+18638416 2008 NoLink
+18577208 2008 NoLink
+18644146 2008 NoLink
+18644148 2008 available http://pcarvalho.com/patternlab 301 
+18644149 2008 NoLink
+18673525 2008 abstractNotFound
+18673527 2008 NoLink
+18673526 2008 NoLink
+18647390 2008 NoLink
+18647401 2008 NoLink
+18700022 2008 NoLink
+18667053 2008 NoLink
+18793456 2008 NoLink
+18662398 2008 NoLink
+18664284 2008 NoLink
+18597685 2008 NoLink
+18597687 2008 NoLink
+18664292 2008 NoLink
+18778480 2008 NoLink
+18598366 2008 NoLink
+18605993 2008 NoLink
+NA 2008 abstractNotFound
+19732469 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+NA 2008 abstractNotFound
+22536966 2012 available http://schubert.bio.uniroma1.it/pymod/index.html 200 
+18564420 2008 NoLink
+18541042 2008 NoLink
+18544157 2008 NoLink
+18547401 2008 NoLink
+18547427 2008 NoLink
+18547430 2008 available http://bioserver.ceng.metu.edu.tr/PPISpan/ 404 
+18547432 2008 NoLink
+18554390 2008 NoLink
+18554404 2008 NoLink
+18554411 2008 NoLink
+18554415 2008 NoLink
+18554421 2008 NoLink
+18554423 2008 NoLink
+18538024 2008 NoLink
+18559112 2008 NoLink
+18534020 2008 NoLink
+18522760 2008 NoLink
+18564431 2008 NoLink
+18570644 2008 NoLink
+18570686 2008 NoLink
+18590572 2008 NoLink
+18577223 2008 NoLink
+18578882 2008 NoLink
+18578884 2008 NoLink
+18215316 2008 null http://zhang.bioinformatics.ku.edu/I-TASSER 302 
+18588692 2008 NoLink
+18588693 2008 NoLink
+18518943 2008 tool http://babylone.ulb.ac.be/soda 301 
+18518950 2008 NoLink
+18522726 2008 NoLink
+18522755 2008 NoLink
+18652706 2008 NoLink
+18533028 2008 NoLink
+18533035 2008 NoLink
+18564416 2008 NoLink
+18534022 2008 NoLink
+18534038 2008 NoLink
+18534040 2008 NoLink
+18559105 2008 NoLink
+21110835 2010 NoLink
+18513389 2008 NoLink
+18541026 2008 NoLink
+18269749 2008 NoLink
+18298847 2008 NoLink
+19393099 2009 available http://bioinformatics.zj.cn/fly/ 200 
+18366649 2008 NoLink
+18366663 2008 available http://www-bioinf.uni-regensburg.de -1 
+18366666 2008 NoLink
+18366675 2008 NoLink
+18366684 2008 NoLink
+18312684 2008 NoLink
+18366693 2008 method http://gap.stat.sinica.edu.tw/Software/GAP 301 
+18366803 2008 NoLink
+18366701 2008 NoLink
+18366710 2008 NoLink
+18366721 2008 NoLink
+18366730 2008 NoLink
+18366735 2008 available http://modo.ugr.es/jrgonzalez/msvns4maxcmo 404 
+18366736 2008 NoLink
+18387210 2008 NoLink
+18387198 2008 NoLink
+18387199 2008 NoLink
+18460200 2008 NoLink
+18387201 2008 NoLink
+18387202 2008 NoLink
+18387203 2008 NoLink
+18387204 2008 NoLink
+18387205 2008 available http://www.cs.sunysb.edu/~eha/ 301 
+18387206 2008 NoLink
+18387208 2008 NoLink
+18387207 2008 NoLink
+18387209 2008 available http://biosrv.cab.unina.it/isola 301 
+18460178 2008 null http://asp.uma.es -1 available http://asp.uma.es/WebMediator -1 
+18387211 2008 NoLink
+18366760 2008 null http://www.openms.de 200 
+18366787 2008 NoLink
+18786255 2008 tool http://katahdin.mssm.edu/kismeth 301 
+18325104 2008 NoLink
+19025693 2008 NoLink
+18366796 2008 application http://www.chromhome.org 200 
+18315868 2008 NoLink
+18366802 2008 code http://www.nwrce.org/psat 301 
+18366694 2008 NoLink
+18371197 2008 NoLink
+18312695 2008 NoLink
+18237374 2008 NoLink
+18489778 2008 NoLink
+18373878 2008 NoLink
+18312694 2008 NoLink
+18410678 2008 NoLink
+18325106 2008 download http://www.bioconductor.org 200 
+18315874 2008 NoLink
+18485197 2008 NoLink
+18318909 2008 NoLink
+18318917 2008 available http://www.meb.ki.se/~yudpaw 301 
+18302777 2008 NoLink
+18366762 2008 NoLink
+18282281 2008 available http://bioinformatics.cau.edu.cn/zzd_lab/CKSAAP_OGlySite/ 404 
+18460172 2008 NoLink
+19208195 2009 NoLink
+26163275 2015 NoLink
+18474114 2008 NoLink
+18474116 2008 NoLink
+18485187 2008 NoLink
+20509870 2010 NoLink
+18485205 2008 NoLink
+19014471 2008 NoLink
+18489757 2008 NoLink
+18489794 2008 NoLink
+18447957 2008 NoLink
+18452616 2008 NoLink
+18510760 2008 null http://wheat.pw.usda.gov/demos/BatchPrimer3/ 302 
+18492270 2008 NoLink
+18492285 2008 NoLink
+18501020 2008 available http://predikin.biosci.uq.edu.au 200 
+18510747 2008 NoLink
+18505552 2008 available http://vis.usal.es/bicoverlapper -1 
+18505553 2008 here http://sourceforge.net/projects/sissiz 301 
+18215299 2008 NoLink
+19208180 2009 NoLink
+18541062 2008 NoLink
+18541046 2008 NoLink
+18541061 2008 NoLink
+24268030 2013 NoLink
+18541049 2008 NoLink
+19208191 2009 NoLink
+18541051 2008 NoLink
+18541052 2008 NoLink
+19208108 2009 abstractNotFound
+18541054 2008 NoLink
+18541055 2008 NoLink
+18541056 2008 NoLink
+18541057 2008 NoLink
+18541060 2008 NoLink
+18541059 2008 NoLink
+18541058 2008 NoLink
+18541047 2008 NoLink
+18541045 2008 NoLink
+18507856 2008 NoLink
+18510743 2008 NoLink
+18513429 2008 NoLink
+18775075 2008 NoLink
+18221506 2008 NoLink
+18538026 2008 NoLink
+18538027 2008 NoLink
+18513431 2008 NoLink
+18954438 2008 NoLink
+18957118 2008 available http://www.megx.net/metamine 503 
+18462492 2008 NoLink
+18986541 2008 NoLink
+18471287 2008 NoLink
+18503718 2008 NoLink
+19014431 2008 NoLink
+19200358 2009 NoLink
+19014477 2008 NoLink
+19014490 2008 NoLink
+19014496 2008 software http://www.sourceforge.net/projects/ripcal 301 
+19014535 2008 null http://www.uni-wh.de/nucocog 301 
+19014540 2008 NoLink
+19014579 2008 NoLink
+19014601 2008 NoLink
+19014619 2008 null http://mtmanager.yonsei.ac.kr 200 
+19014636 2008 NoLink
+19014642 2008 NoLink
+19014681 2008 NoLink
+19046431 2008 NoLink
+19017408 2008 NoLink
+19025692 2008 NoLink
+19025686 2008 NoLink
+19025687 2008 NoLink
+19025690 2008 NoLink
+19025689 2008 NoLink
+19025688 2008 NoLink
+19025691 2008 NoLink
+19025685 2008 abstractNotFound
+18947421 2008 NoLink
+19025694 2008 NoLink
+19025695 2008 NoLink
+18976492 2008 download http://www.quantprime.de/ 200 
+19025600 2008 NoLink
+19055792 2008 NoLink
+19032760 2008 NoLink
+19032768 2008 NoLink
+19032776 2008 NoLink
+19036125 2008 null http://ae.hgc.jp/exonminer 301 
+19036135 2008 null http://www.LGTC.nl/CORE_TF 302 
+18842155 2008 NoLink
+17010188 2006 NoLink
+19208164 2009 NoLink
+19038030 2008 NoLink
+19038042 2008 available http://comp.chem.nottingham.ac.uk/glyco/ 200 
+19038045 2008 available http://web.bioinformatics.ic.ac.uk/geb/ 200 
+19038052 2008 NoLink
+19055745 2008 NoLink
+19040729 2008 available http://www.bioconductor.org/ 200 
+19040742 2008 NoLink
+19040743 2008 NoLink
+19040747 2008 NoLink
+19040754 2008 NoLink
+18980673 2008 NoLink
+18980677 2008 available http://sysbio.engin.umich.edu/~luow/downloads.php -1 
+18983678 2008 NoLink
+18986519 2008 NoLink
+18986526 2008 NoLink
+18954440 2008 NoLink
+18986551 2008 NoLink
+18990218 2008 NoLink
+18847484 2008 NoLink
+18847485 2008 available http://www.bioinfo.rpi.edu/bystrc/hmmstr/server.php 200 
+18847492 2008 available http://biomine.ece.ualberta.ca/BTNpred/BTNpred.html -1 
+18366778 2008 NoLink
+18851762 2008 null http://microarray.ym.edu.tw/easyexon 301 
+18854050 2008 NoLink
+18854055 2008 NoLink
+18922166 2008 NoLink
+18922190 2008 NoLink
+18925933 2008 available http://ontodas.nbn.ac.za -1 
+18925937 2008 NoLink
+18925941 2008 null http://bioconductor.org/packages/2.3/bioc/html/CMA.html 200 
+18925948 2008 null http://atgc.lirmm.fr/PlasmoDraft/ 404 
+18925951 2008 NoLink
+18928517 2008 NoLink
+18811934 2008 NoLink
+18937839 2008 NoLink
+18937846 2008 available http://www.cnb.csic.es/~monica/coherence/ 301 
+21342541 2011 available http://tintin.sfsu.edu/~whemurad/disulfidebond 301 
+18937869 2008 null http://williamson.scripps.edu/envelope/ 301 
+19208154 2009 NoLink
+18950525 2008 NoLink
+18939996 2008 NoLink
+18940007 2008 NoLink
+18945362 2008 NoLink
+18947404 2008 NoLink
+19038022 2008 available http://genome.jouy.inra.fr/mosaic 301 
+19114008 2008 available http://www.genetics.ucla.edu/labs/horvath/CoexpressionNetwork/Rpackages/WGCNA 302 
+18950538 2008 available http://genome.ucsf.edu/compmoby/ 200 
+19291295 2009 null http://stat.genopole.cnrs.fr/software/kerfdr 404 
+18808714 2008 NoLink
+18954459 2008 NoLink
+19426458 2009 available http://thirlmere.aston.ac.uk/~kiffer/animalbehaviour/ -1 
+18957120 2008 NoLink
+18959772 2008 NoLink
+18959783 2008 NoLink
+19152684 2009 NoLink
+18831735 2008 null http://igrid-ext.cryst.bbk.ac.uk/portal_guide/ -1 
+18831754 2008 tool http://imgt.cines.fr -1 
+18817552 2008 null http://pubchem.ncbi.nlm.nih.gov 301 
+NA 2007 NoLink
+18973652 2008 available http://www.bioc.uzh.ch/wagner/publications-software.html 302 
+18834513 2008 NoLink
+18834515 2008 NoLink
+18834526 2008 null http://david.abcc.ncifcrf.gov/ 301 
+18834542 2008 available http://www.atgc-montpellier.fr/physic_ist/ 200 
+18834544 2008 NoLink
+18837969 2008 null http://www.na.iac.cnr.it/bats 200 
+18837990 2008 NoLink
+18837994 2008 NoLink
+18838004 2008 NoLink
+18840280 2008 null http://darkhorse.ucsd.edu 200 
+18840282 2008 null http://vent.colorado.edu/phyloware -1 
+18844985 2008 NoLink
+18840289 2008 NoLink
+18842122 2008 NoLink
+18842147 2008 available http://www.cmth.bnl.gov/~maslov/programs.htm 403 
+19036166 2008 NoLink
+18844977 2008 NoLink
+NA 2010 abstractNotFound
+18801175 2008 NoLink
+18803867 2008 NoLink
+18783594 2008 NoLink
+18783607 2008 NoLink
+18786251 2008 NoLink
+18817533 2008 software http://www.pathvisio.org 200 
+18786274 2008 available http://www.cs.cornell.edu/~keich/ 200 
+18782434 2008 NoLink
+18793407 2008 available http://www.bioinformatics.nl/tools/polyssr/ 200 
+18793413 2008 available http://msbi.ipb-halle.de/msbi/caap 301 
+19114001 2008 NoLink
+18798993 2008 NoLink
+18801154 2008 available http://bsmc.insa-lyon.fr/squat/ -1 
+18801157 2008 NoLink
+18801167 2008 NoLink
+18817546 2008 NoLink
+18801191 2008 NoLink
+18801195 2008 NoLink
+18803830 2008 NoLink
+18803836 2008 NoLink
+18803844 2008 null http://metagenomics.nmpdr.org -1 
+18761753 2008 NoLink
+18803853 2008 download http://tof2h.bio.uci.edu 200 
+18816408 2008 available http://netlab.csu.edu.cn/bioinformatics/limin/IPCA 200 
+18808707 2008 available http://noble.gs.washington.edu/proj/sabretooth 302 
+18304355 2008 NoLink
+18811932 2008 NoLink
+18828894 2008 NoLink
+18811941 2008 null http://www.sb-roscoff.fr/hectar/ 302 
+18811946 2008 NoLink
+18811979 2008 NoLink
+17233908 2007 null http://www.csml.org/ayums/ 500 
+18816389 2008 NoLink
+18831757 2008 NoLink
+19166610 2009 code http://www.g-language.org/GenomeProjector/ 200 
+19123958 2009 NoLink
+18823568 2008 null http://irefindex.uio.no -1 
+18817555 2008 NoLink
+18823532 2008 null https://genesilico.pl/toolkit/ 302 
+18823535 2008 NoLink
+18782453 2008 available http://bioinfo.pdtis.fiocruz.br/ReRep/ -1 
+21194446 2010 null http://tare.medisin.ntnu.no/mirna_target 503 
+18783592 2008 available http://www.dsic.upv.es/users/tlcc/bio/bio.html 302 
+19126217 2009 NoLink
+19128505 2009 null http://dmg.cs.rmit.edu.au/IUPforest/IUPforest-L.php -1 
+18764936 2008 NoLink
+19126200 2009 NoLink
+19118496 2009 NoLink
+19361344 2009 available http://cssb.biology.gatech.edu/skolnick/webservice/EFICAz2/index.html 200 
+19302715 2009 NoLink
+19371436 2009 NoLink
+19374774 2009 NoLink
+19358741 2009 NoLink
+19379500 2009 NoLink
+19379512 2009 NoLink
+19379523 2009 available http://poinet.bioinformatics.tw/ -1 
+19379528 2009 NoLink
+19383127 2009 NoLink
+19383128 2009 available http://phos3d.mpimp-golm.mpg.de 200 
+19383137 2009 NoLink
+19383139 2009 NoLink
+19386099 2009 NoLink
+19393044 2009 NoLink
+19393071 2009 NoLink
+19178740 2009 NoLink
+19397789 2009 NoLink
+19397794 2009 NoLink
+27294826 2016 NoLink
+19426457 2009 NoLink
+19426449 2009 NoLink
+19426452 2009 NoLink
+19426451 2009 NoLink
+19426450 2009 NoLink
+19426453 2009 NoLink
+19426455 2009 NoLink
+19426454 2009 NoLink
+19426456 2009 NoLink
+20950438 2010 NoLink
+20074370 2010 NoLink
+18466625 2008 NoLink
+19405941 2009 NoLink
+19344520 2009 NoLink
+19356223 2009 NoLink
+19356231 2009 NoLink
+19358699 2009 null http://crdd.osdd.net:8081/RISCbinder/ 200 
+19379484 2009 available http://tools.csb.ias.edu -1 
+19664259 2009 NoLink
+19671127 2009 null http://bioserv.rpbs.univ-paris-diderot.fr/LigCSRre.html 500 
+19671149 2009 NoLink
+19671163 2009 NoLink
+19674444 2009 NoLink
+19674478 2009 available http://biotech.bmi.ac.cn/EvoRSR -1 
+19678926 2009 available http://www.izbi.de/onex 302 
+19682364 2009 NoLink
+19682365 2009 NoLink
+19686586 2009 NoLink
+19691849 2009 NoLink
+19695084 2009 available http://www.benoslab.pitt.edu/astro/ 200 
+19695104 2009 NoLink
+19695105 2009 NoLink
+19698094 2009 NoLink
+19698113 2009 NoLink
+19698124 2009 NoLink
+19698182 2009 NoLink
+19703281 2009 NoLink
+19703312 2009 NoLink
+19208235 2009 NoLink
+19706156 2009 NoLink
+19706180 2009 available http://genoviz.sourceforge.net/ 200 
+19772654 2009 NoLink
+19758463 2009 abstractNotFound
+19761572 2009 NoLink
+19758465 2009 NoLink
+19758466 2009 NoLink
+19758467 2009 NoLink
+19758468 2009 NoLink
+18959798 2008 NoLink
+19245714 2009 NoLink
+19761567 2009 NoLink
+19758471 2009 null http://bioinformatics.ccmb.res.in/cgi-bin/snpscore/Mtsnpscore.pl -1 
+19758472 2009 NoLink
+19758473 2009 NoLink
+19712446 2009 available http://genome.tugraz.at/QPCR 301 
+19712447 2009 NoLink
+19712487 2009 NoLink
+19715597 2009 NoLink
+19653895 2009 NoLink
+19653903 2009 available http://www.biocoda.org -1 
+19653905 2009 NoLink
+19653916 2009 available http://chgc.sh.cn/en/software/CeaGO/ 403 
+19656385 2009 download http://networks.gersteinlab.org/mll 301 
+19660130 2009 NoLink
+19660135 2009 available http://corehunter.org 301 
+20003267 2009 NoLink
+20003283 2009 software http://www.tm4.org/mev.html 404 
+20003289 2009 NoLink
+20003312 2009 code http://www.laurenzi.net 301 
+20003382 2009 NoLink
+20003386 2009 software http://www.med.uio.no/imb/stat/bmms/software/clinico-genomic/ 301 
+20003388 2009 available http://biomine.ece.ualberta.ca/MODAS/ -1 
+20003414 2009 NoLink
+20003426 2009 null http://202.112.170.199/DescFold/index.html 200 
+20025756 2009 NoLink
+20003433 2009 NoLink
+20003442 2009 NoLink
+20003458 2009 null http://seq.mc.vanderbilt.edu/exalt/ -1 
+20003500 2009 NoLink
+20003504 2009 NoLink
+20003527 2009 code http://gomezlab.bme.unc.edu/tools 404 
+20003544 2009 NoLink
+20015363 2009 NoLink
+20015386 2009 NoLink
+20015389 2009 NoLink
+20015393 2009 NoLink
+20021635 2009 NoLink
+20858257 2010 NoLink
+20021687 2009 null http://www.imtech.res.in/raghava/atpint/ 301 
+22151872 2011 NoLink
+20021665 2009 NoLink
+19735578 2009 NoLink
+20003429 2009 NoLink
+19995463 2009 NoLink
+20025768 2009 available http://casp.rnet.missouri.edu/predisorder.html -1 
+20025785 2009 available http://comp.chem.nottingham.ac.uk/disspred/ 200 
+20028515 2009 NoLink
+20028521 2009 null http://www.cs.gmu.edu/~mlbio/svmprat 301 
+20028526 2009 code http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk/Bio/Microarray/Tools/ -1 
+20028527 2009 null http://bioinfo.noble.org/gene-atlas/ 404 
+20028554 2009 NoLink
+20030807 2009 NoLink
+20030818 2009 NoLink
+20030857 2009 NoLink
+20034383 2009 NoLink
+20034392 2009 NoLink
+20038296 2009 NoLink
+20040098 2009 NoLink
+19954509 2009 NoLink
+19954534 2009 null http://www.drive5.com/pop 301 
+20042075 2009 NoLink
+20042076 2009 NoLink
+20042093 2009 NoLink
+20042109 2009 NoLink
+20043823 2009 null http://bioinfo.esalq.usp.br/atpin 301 
+20043848 2009 NoLink
+19958508 2009 NoLink
+19958509 2009 NoLink
+19958510 2009 null http://korbird.naris.go.kr -1 
+19958515 2009 NoLink
+19958512 2009 NoLink
+19958513 2009 available http://koreagenome.org/en/ 404 null http://gevab.org -1 
+19958514 2009 NoLink
+19958511 2009 NoLink
+19958516 2009 NoLink
+20822518 2010 NoLink
+21342592 2011 null http://musk.ibms.sinica.edu.tw/UMARS/ -1 
+19958518 2009 available http://bio-cluster.iis.sinica.edu.tw/kbloc/ -1 
+19958519 2009 NoLink
+19958528 2009 available http://www.bioclipse.net 200 
+19958558 2009 NoLink
+19961610 2009 NoLink
+19961622 2009 NoLink
+NA 2009 abstractNotFound
+19995439 2009 NoLink
+20051126 2010 available http://treegraph.bioinfweb.info 200 
+20003206 2009 NoLink
+20021646 2009 available http://webcarma.cebitec.uni-bielefeld.de 302 
+NA 2009 abstractNotFound
+20003235 2009 NoLink
+19327130 2009 NoLink
+19208252 2009 NoLink
+19210774 2009 NoLink
+19210776 2009 NoLink
+19523199 2009 available http://www.ual.es/%7ejjfdez/SW/tomobflow.html 301 
+19210778 2009 null http://www.drosophila-peptideatlas.org -1 
+19210785 2009 NoLink
+19216778 2009 NoLink
+19228411 2009 NoLink
+19228433 2009 NoLink
+19232092 2009 NoLink
+19232104 2009 NoLink
+19232110 2009 NoLink
+19236712 2009 NoLink
+19236714 2009 NoLink
+19239711 2009 NoLink
+19243617 2009 available http://www.obofoundry.org 200 
+19243633 2009 NoLink
+21871110 2011 NoLink
+19245720 2009 NoLink
+19187545 2009 available http://www.isrec.isb-sib.ch/~vpopovic/research/ -1 
+19187558 2009 NoLink
+19187562 2009 NoLink
+19192265 2009 NoLink
+19192280 2009 NoLink
+19159460 2009 NoLink
+19208179 2009 NoLink
+19193232 2009 software http://www.med.unibs.it/~barlati/GenotypeColour 301 
+19208197 2009 NoLink
+19208190 2009 NoLink
+19208185 2009 NoLink
+19208186 2009 NoLink
+19208187 2009 NoLink
+19208188 2009 NoLink
+19208189 2009 NoLink
+19208194 2009 available http://pharmspresso.stanford.edu -1 
+19208120 2009 NoLink
+19208183 2009 abstractNotFound
+19208193 2009 null http://ir.ohsu.edu/jianji/index.html -1 
+19208184 2009 NoLink
+19144132 2009 NoLink
+22536962 2012 null http://www.bioblender.eu 301 
+19208192 2009 NoLink
+19208115 2009 NoLink
+19200389 2009 NoLink
+19200393 2009 NoLink
+19267900 2009 NoLink
+19134222 2009 NoLink
+19134227 2009 NoLink
+19138426 2009 NoLink
+19208160 2009 available http://virus.hpid.org/interactions.aspx -1 available http://virus.hpid.org/PDB_IDs.html -1 
+19758431 2009 available http://www.bioinf.mvm.ed.ac.uk/twiki/bin/view/TWiki/BioKbPlugin -1 
+19146700 2009 NoLink
+19152696 2009 NoLink
+19152693 2009 null http://www.imtech.res.in/raghava/nppred/ 301 
+21627824 2011 NoLink
+19152705 2009 NoLink
+19178723 2009 NoLink
+19154573 2009 NoLink
+19154578 2009 NoLink
+19154590 2009 available http://anirbanmukhopadhyay.50webs.com/mogasvm.html 200 
+19257905 2009 NoLink
+19091011 2008 NoLink
+19166590 2009 NoLink
+19508732 2009 NoLink
+19166624 2009 NoLink
+19171029 2009 null http://sourceforge.net/projects/rawgeno 301 
+19171069 2009 NoLink
+19173744 2009 NoLink
+19173748 2009 method http://bioinfo.ssu.ac.kr/~shpark/picasso/ 200 
+19091027 2008 null http://bsal.ym.edu.tw/mirtif 301 
+19178743 2009 NoLink
+19265542 2009 NoLink
+19534753 2009 null http://www.fysiologi.neuro.uu.se/jbgs/ -1 
+19208109 2009 NoLink
+19208110 2009 NoLink
+19208111 2009 NoLink
+19208135 2009 NoLink
+19208155 2009 NoLink
+19208114 2009 NoLink
+19208149 2009 NoLink
+19208141 2009 NoLink
+19208117 2009 NoLink
+19208118 2009 NoLink
+19208119 2009 NoLink
+19534749 2009 NoLink
+19208142 2009 NoLink
+19208122 2009 NoLink
+19208123 2009 NoLink
+19208134 2009 NoLink
+19208125 2009 NoLink
+19208126 2009 NoLink
+19208127 2009 NoLink
+19208128 2009 NoLink
+19208129 2009 NoLink
+19208174 2009 NoLink
+19208144 2009 NoLink
+19208158 2009 NoLink
+19208132 2009 NoLink
+19208133 2009 NoLink
+19208124 2009 NoLink
+19208112 2009 NoLink
+19208136 2009 NoLink
+19208137 2009 NoLink
+19208138 2009 NoLink
+19208177 2009 NoLink
+19208140 2009 NoLink
+19208116 2009 NoLink
+19208121 2009 NoLink
+19208182 2009 NoLink
+19208178 2009 NoLink
+19208145 2009 NoLink
+19208146 2009 NoLink
+19208147 2009 NoLink
+19208148 2009 NoLink
+19426462 2009 code http://www.bowiki.net/ 200 available http://onto.eva.mpg.de/trac/BoWiki 302 
+19208150 2009 NoLink
+19208151 2009 NoLink
+19208152 2009 download http://digbio.missouri.edu/ComPhy -1 
+19208153 2009 NoLink
+19515247 2009 null http://www.ericbrc.org 403 null http://www.ericbrc.org/portal/eric/articles 404 
+19208113 2009 NoLink
+19208176 2009 NoLink
+19208163 2009 NoLink
+19208131 2009 NoLink
+19208159 2009 NoLink
+19208139 2009 NoLink
+19208161 2009 NoLink
+19208173 2009 NoLink
+27852213 2016 NoLink
+19426463 2009 null http://brainarray.mbni.med.umich.edu/brainarray/prototype/pubonto 404 
+19208165 2009 NoLink
+19208166 2009 NoLink
+19208162 2009 NoLink
+19208168 2009 NoLink
+19208169 2009 NoLink
+27816056 2016 NoLink
+19208171 2009 NoLink
+19208172 2009 NoLink
+26887572 2016 abstractNotFound
+19500389 2009 NoLink
+19208175 2009 NoLink
+19208156 2009 NoLink
+19208143 2009 NoLink
+19208170 2009 NoLink
+19208130 2009 NoLink
+19534747 2009 NoLink
+19208181 2009 NoLink
+19208167 2009 NoLink
+19178750 2009 NoLink
+19192299 2009 available http://cbl-gorilla.cs.technion.ac.il 200 
+19123956 2009 NoLink
+19183437 2009 NoLink
+19126227 2009 NoLink
+19208157 2009 NoLink
+27855645 2016 NoLink
+19128472 2009 available http://web.bioinformatics.cicbiogune.es/CD/ContDistribution.php 404 
+19523221 2009 available http://moya.srl.cam.ac.uk/oncology/bio/s4shome.html -1 null http://moya.srl.cam.ac.uk/cgi-bin/oncology/srl/ncbi/seq4snp1.pl -1 
+19128508 2009 NoLink
+19133123 2009 NoLink
+19133141 2009 NoLink
+20184770 2010 NoLink
+20078892 2010 NoLink
+20459813 2010 available http://www.ensembl.org/info/docs/eHive/ 302 
+26289041 2015 NoLink
+19591666 2009 NoLink
+19594909 2009 NoLink
+19602281 2009 NoLink
+19604391 2009 download http://www.cs.cityu.edu.hk/~lwang/software/Link 301 
+19604400 2009 available http://www.cs.ucr.edu/~sbozdag/assembler/ 302 
+19607663 2009 NoLink
+19622167 2009 null http://www.textpresso.org 200 
+NA 2009 NoLink
+19607723 2009 NoLink
+19615046 2009 available http://bioinf.sce.carleton.ca/PCISS 301 
+19615051 2009 available http://202.118.75.18:8080/bioner 302 
+19566964 2009 NoLink
+19615102 2009 NoLink
+19619306 2009 NoLink
+19622144 2009 software fhttp://code.google.com/p/livecellim/ 405 
+19622150 2009 NoLink
+19607672 2009 tool http://gobics.de/fabian/orthoselect.php 200 
+19624850 2009 available http://mspecs.tu-bs.de 200 
+19627599 2009 NoLink
+19630945 2009 NoLink
+19635165 2009 null http://code.google.com/p/bsmap/ 405 
+19635172 2009 NoLink
+19640299 2009 download http://Clusteranalysis.org 302 
+19640300 2009 null http://www.OncoExpress.org/software/tablebutler 301 
+19573244 2009 NoLink
+19573245 2009 NoLink
+19646231 2009 download http://purl.oclc.org/NET/sscMap 302 
+19583839 2009 NoLink
+19586526 2009 NoLink
+19589133 2009 NoLink
+19589155 2009 NoLink
+19589158 2009 NoLink
+19515225 2009 NoLink
+19527491 2009 download http://www.mpi-magdeburg.mpg.de/projects/cna/cna.html 301 
+19765293 2009 available http://www.cbs.dtu.dk/services/NetMHCII-2.0 301 
+19523214 2009 NoLink
+15713233 2005 NoLink
+19761566 2009 NoLink
+19538727 2009 null http://www.genecbr.org 200 
+19761607 2009 NoLink
+19534734 2009 NoLink
+19534735 2009 NoLink
+19534736 2009 NoLink
+19534740 2009 NoLink
+19534738 2009 NoLink
+19534739 2009 code http://www.ibarcode.org 302 
+19534737 2009 software http://www.bioacademy.gr/bioinformatics/Brukin2d/index.html 404 
+19534741 2009 NoLink
+19534742 2009 NoLink
+19534743 2009 null http://www.dasregistry.org 301 null http://loka.bmc.uu.se/das/sources -1 
+19534754 2009 NoLink
+19534745 2009 NoLink
+19534746 2009 NoLink
+19534757 2009 NoLink
+19534748 2009 NoLink
+19761571 2009 NoLink
+19534750 2009 NoLink
+19534751 2009 null http://utrminer.ba.itb.cnr.it/ 200 
+19534752 2009 null http://pbil.univ-lyon1.fr/ 403 
+19335906 2009 NoLink
+19534744 2009 available http://utopia.cs.man.ac.uk/ 200 
+19534755 2009 tool http://doopsearch.abc.hu -1 
+19534756 2009 null FM864216 -1 null http://cbi.labri.fr/outils/molligen/ 301 
+19480708 2009 NoLink
+19534758 2009 NoLink
+19531228 2009 NoLink
+19531248 2009 NoLink
+19538710 2009 NoLink
+19549318 2009 available http://genome.sfu.ca/orthoclusterdb/ 200 
+19538731 2009 code http://gbic.biol.rug.nl/designGG 404 
+19545372 2009 NoLink
+20964836 2010 null http://solgenomics.net 301 null http://solgenomics.net/qtl/ 301 
+21771300 2011 NoLink
+19558706 2009 available http://people.pcbi.upenn.edu/~lswang/pub/bmc2009/ -1 
+19545436 2009 NoLink
+19563656 2009 NoLink
+19549335 2009 NoLink
+19735588 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+19555482 2009 NoLink
+19563634 2009 available http://compgen.bio.unipd.it/bioinfo/amadman/ 200 
+15516260 2004 null http://www.sci.muni.cz/botany/elzdroje/indeval/ 200 
+15461789 2004 available http://www.igib.res.in/scientists/arrayd/arrayd.html 302 
+15469608 2004 available http://pbil.univ-lyon1.fr/software/identitag/ 200 
+15469612 2004 NoLink
+15504238 2004 NoLink
+15471541 2004 available http://biotext.berkeley.edu 200 
+15473905 2004 null http://www.chilibot.net 200 
+15369604 2004 NoLink
+15373947 2004 NoLink
+15373946 2004 tool http://allermatch.org 200 
+15450124 2004 NoLink
+15383143 2004 null http://wings.buffalo.edu/gsa/dna/dk/PFP/ 404 
+15383156 2004 available http://aosvm.cgb.ki.se/ -1 
+15453917 2004 NoLink
+15784139 2005 NoLink
+15453918 2004 null http://bioinformatics.biol.uoa.gr/cuticleDB 302 
+15458580 2004 NoLink
+15345033 2004 NoLink
+15494078 2004 NoLink
+15647112 2005 null http://bioinformatics.biol.uoa.gr/ConBBPRED 302 
+12791171 2003 NoLink
+15655071 2005 null http://gata.sourceforge.net/ 200 
+15350197 2004 available http://www.inapg.fr/ens_rech/mathinfo/recherche/mathematique/outil.html -1 
+15357878 2004 NoLink
+15357880 2004 NoLink
+23758828 2013 download https://sourceforge.net/projects/qualcomp 301 
+15453919 2004 NoLink
+15113407 2004 null http://pauling.mbu.iisc.ernet.in/~supfam 404 
+15826298 2005 NoLink
+15826305 2005 NoLink
+15826309 2005 NoLink
+15826317 2005 NoLink
+15829007 2005 NoLink
+15831105 2005 NoLink
+15833142 2005 download http://helix.protein.osaka-u.ac.jp/htp/ -1 
+15836795 2005 null http://genome.tugraz.at 200 
+15840174 2005 NoLink
+15804359 2005 available http://mips.gsf.de/proj/spc 302 available http://mips.gsf.de 302 
+15790388 2005 NoLink
+15847682 2005 NoLink
+15847681 2005 null http://bioinformatics.biol.uoa.gr/PRED-COUPLE 301 
+15869708 2005 NoLink
+15850479 2005 NoLink
+15850491 2005 NoLink
+15857510 2005 available ftp://ftp.cgb.ki.se/pub/prog/belvu/ -1 
+15857505 2005 NoLink
+15807889 2005 NoLink
+15807904 2005 NoLink
+15813968 2005 download http://www.soph.uab.edu/ssg_content.asp?id=1164 404 
+15813976 2005 null http://if-web1.imb.uq.edu.au/Pise/5.a/gpipe.html -1 download ftp://ftp.pasteur.fr/pub/GenSoft/unix/misc/Pise/ 404 
+15817129 2005 NoLink
+15817128 2005 NoLink
+15817134 2005 NoLink
+15819976 2005 NoLink
+15819989 2005 available http://www.bi.uni-duesseldorf.de/software/stc/ -1 
+15819992 2005 software http://liru.ars.usda.gov/mainbioinformatics.html -1 
+16095538 2005 available http://prodata.swmed.edu/palsse/ 200 
+16042764 2005 NoLink
+NA 2005 abstractNotFound
+16115317 2005 NoLink
+15799782 2005 available http://mapper.chip.org -1 
+16202126 2005 NoLink
+16122378 2005 null http://interpare.net -1 
+16122379 2005 available http://darwin.zoology.gla.ac.uk/~rpage/forest/ 200 
+16122385 2005 NoLink
+16153304 2005 NoLink
+16122395 2005 NoLink
+16124872 2005 NoLink
+16124876 2005 NoLink
+16124883 2005 NoLink
+16076399 2005 available http://cbm.bio.uniroma2.it/surface/structuralGenomics.html 200 
+15987513 2005 available http://www.cbcb.duke.edu/sage -1 
+16131395 2005 NoLink
+16135248 2005 NoLink
+16135255 2005 NoLink
+16078990 2005 NoLink
+16078998 2005 NoLink
+16033657 2005 NoLink
+16086831 2005 NoLink
+16086841 2005 NoLink
+16091147 2005 download http://biocreative.ifsm.umbc.edu/dyngo -1 
+16336691 2005 NoLink
+16336692 2005 NoLink
+16336694 2005 NoLink
+16343334 2005 NoLink
+16343337 2005 NoLink
+16351711 2005 NoLink
+16409644 2006 NoLink
+16354298 2005 NoLink
+16354297 2005 NoLink
+16356172 2005 NoLink
+16364175 2005 NoLink
+NA 2005 NoLink
+16351736 2005 NoLink
+16351737 2005 NoLink
+16351738 2005 NoLink
+16351739 2005 NoLink
+16351740 2005 NoLink
+NA 2010 abstractNotFound
+12952559 2003 null http://romi.bu.edu/elisa -1 null http://romi.bu.edu/elisa -1 
+19558694 2009 NoLink
+19558703 2009 NoLink
+19728881 2009 NoLink
+19558728 2009 NoLink
+19563622 2009 null http://www.abcc.ncifcrf.gov/wps/wps_index.php -1 
+19558651 2009 null http://distill.ucd.ie/shandy/ 200 
+19563654 2009 available http://www.moseslab.csb.utoronto.ca/NLStradamus/ 200 
+19703314 2009 available http://omics.biosino.org:14000/kweb/workflow.jsp?id=00020 -1 
+19486540 2009 null http://fpocket.sourceforge.net 200 
+19419536 2009 software http://www.ism.ac.jp/~fujisawa/SNEP/ 404 
+NA 2009 abstractNotFound
+19500384 2009 code http://gdm.fmrp.usp.br/s3t/ 503 
+19500385 2009 NoLink
+19740439 2009 NoLink
+19500407 2009 NoLink
+19508719 2009 NoLink
+19267942 2009 NoLink
+19284541 2009 NoLink
+19296857 2009 tool http://www.ded.uni-stuttgart.de 200 
+19331680 2009 NoLink
+19292896 2009 download http://homepage.ntu.edu.tw/~lyliu/BC/ 200 
+19292914 2009 NoLink
+19292916 2009 download http://http:/ncrr.pnl.gov/software/ -1 
+19292927 2009 NoLink
+19291281 2009 NoLink
+19296858 2009 null http://web.abo.fi/fak/mnf/mate/jc/software/basta.html 404 
+19344477 2009 NoLink
+19344478 2009 NoLink
+19344479 2009 NoLink
+19344480 2009 NoLink
+19344482 2009 NoLink
+19344481 2009 NoLink
+19298668 2009 NoLink
+19302701 2009 NoLink
+19302709 2009 NoLink
+19371411 2009 null http://miracle.igib.res.in/dbSMR -1 
+19323810 2009 available http://www.manchester.ac.uk/bioinformatics/jnets 301 
+19323838 2009 NoLink
+19566918 2009 NoLink
+19254356 2009 download http://rgg.r-forge.r-project.org 200 
+19331668 2009 available http://bioinfome.cgm.cnrs-gif.fr -1 
+19457249 2009 here http://edgar.cebitec.uni-bielefeld.de 302 
+19335894 2009 NoLink
+19442304 2009 NoLink
+19200394 2009 NoLink
+19257906 2009 NoLink
+19265541 2009 NoLink
+21192813 2010 NoLink
+19405935 2009 available http://www.appliedgenomics.org/tools.php 302 
+19426460 2009 NoLink
+19265554 2009 NoLink
+19463186 2009 null http://www.oryzon.com/media/orymold.html 301 
+19432954 2009 download http://dbis-informatik.uibk.ac.at/ecompagt 301 
+19432964 2009 NoLink
+19432989 2009 NoLink
+19435516 2009 null http://www.cs.umn.edu/vk/gaurav/functionalsimilarity/ 301 
+19442283 2009 available http://www.kofler.or.at/bioinformatics/PanGEA 301 
+19442303 2009 NoLink
+19527512 2009 NoLink
+19445669 2009 NoLink
+19422683 2009 NoLink
+19445703 2009 NoLink
+19445713 2009 NoLink
+19445721 2009 NoLink
+19450266 2009 available http://multiomics.sourceforge.net/ 302 
+19450271 2009 available http://goeBURST.phyloviz.net 302 
+19450287 2009 NoLink
+19480678 2009 NoLink
+19457258 2009 NoLink
+19463149 2009 NoLink
+19463181 2009 available https://engineering.purdue.edu/PRECISE/IDSS 301 
+19732451 2009 available http://edge.oncology.wisc.edu/ -1 
+19470175 2009 available http://bioinf.cs.ucl.ac.uk/psipred/ 200 
+19473520 2009 code http://140.135.61.9/ires/ -1 
+19473525 2009 available http://sysbio.engin.umich.edu/~luow/downloads.php -1 
+19473537 2009 NoLink
+19476620 2009 NoLink
+19476634 2009 NoLink
+19840370 2009 NoLink
+19758448 2009 NoLink
+19416501 2009 NoLink
+19416535 2009 available http://c2s2.yale.edu/software/Willows 301 
+12793912 2003 NoLink
+19796393 2009 abstractNotFound
+19426475 2009 null http://www.uniprot.org 200 null http://www.uniprot.org 200 null http://www.uniprot.org 200 null http://www.uniprot.org/ 200 
+19426461 2009 NoLink
+19545411 2009 NoLink
+19761575 2009 NoLink
+19761578 2009 NoLink
+19422679 2009 NoLink
+19445687 2009 NoLink
+19426495 2009 available ftp://www.ieeta.pt/~ap/maws 302 
+19723309 2009 NoLink
+19426548 2009 NoLink
+19723330 2009 available http://www-bs.informatik.uni-tuebingen.de/Services/MultiLoc2 302 
+19486541 2009 NoLink
+19900296 2009 abstractNotFound
+19900297 2009 NoLink
+19900298 2009 NoLink
+19900304 2009 NoLink
+19900300 2009 NoLink
+19900301 2009 code http://bioguid.info/ 200 code http://code.google.com/p/bioguid/ 405 
+19900305 2009 NoLink
+19900303 2009 NoLink
+19900299 2009 NoLink
+19900302 2009 null http://scratchpads.eu/ 200 
+19903361 2009 NoLink
+19906288 2009 NoLink
+19909518 2009 NoLink
+19909528 2009 NoLink
+19917102 2009 null http://www.patika.org 302 available http://web.patika.org 302 
+19919720 2009 NoLink
+19922615 2009 NoLink
+19922660 2009 available http://www.manchester.ac.uk/bioinformatics/sitesidentify/ 301 
+19925645 2009 NoLink
+19878606 2009 available http://bioimage.ucsb.edu/biosegmentation/ 301 
+19925685 2009 NoLink
+19939270 2009 NoLink
+19930674 2009 NoLink
+19930695 2009 NoLink
+19930702 2009 NoLink
+19930714 2009 NoLink
+19930644 2009 NoLink
+19941641 2009 NoLink
+19948066 2009 available http://www.mhc-pathway.net/smmpmbec 500 
+NA 2010 abstractNotFound
+19943962 2009 null http://jane.bioapps.biozentrum.uni-wuerzburg.de 200 
+19948054 2009 available http://siDirect2.RNAi.jp/ 200 
+19948065 2009 NoLink
+20003212 2009 NoLink
+19891777 2009 null http://www.cs.usu.edu/~mjiang/rna/DeltaIS/ 302 
+19895694 2009 NoLink
+19900289 2009 NoLink
+19821976 2009 null http://www.math-inf.uni-greifswald.de/VANLO 301 
+19821977 2009 NoLink
+19821978 2009 NoLink
+19822003 2009 software http://base.thep.lu.se 200 
+19825183 2009 available http://wheat.pw.usda.gov/demos/ConservedPrimers/ 302 
+19828039 2009 available http://vanburenlab.medicine.tamhsc.edu/starnet2.html -1 
+19828041 2009 NoLink
+19828068 2009 NoLink
+19828069 2009 NoLink
+19828070 2009 available http://ada.dist.unige.it:8080/enginframe/bioinf/bioinf.xml -1 
+19828071 2009 download http://aimed11.unipv.it/MsPI 301 
+19828072 2009 NoLink
+19828073 2009 NoLink
+19828074 2009 NoLink
+19828075 2009 NoLink
+19828076 2009 NoLink
+19828077 2009 tool http://asp.uma.es -1 
+19828078 2009 null http://www.itb.cnr.it/ptp/human_est_explorer 301 
+19828079 2009 NoLink
+19828080 2009 NoLink
+19828081 2009 NoLink
+19828082 2009 NoLink
+19828083 2009 NoLink
+19828084 2009 NoLink
+19828085 2009 download http://medeaserver.isa.cnr.it/dacierno/spectracode.htm -1 
+19832968 2009 available http://www.bitlab-es.com/magallanes 301 
+19832992 2009 NoLink
+24267049 2013 NoLink
+19845953 2009 NoLink
+19832995 2009 download http://web.macam.ac.il/~myousef 301 
+19835576 2009 NoLink
+19835596 2009 NoLink
+19835617 2009 NoLink
+19835626 2009 available http://www.qfab.org/PRIP 404 
+19835628 2009 NoLink
+19840405 2009 abstractNotFound
+19856525 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+NA 2009 abstractNotFound
+19426448 2009 NoLink
+NA 2009 abstractNotFound
+20064262 2010 code http://cbe.ipk-gatersleben.de 200 
+19840374 2009 NoLink
+20074382 2010 NoLink
+19796394 2009 NoLink
+19796395 2009 null http://www.semantic-systems-biology.org/biogateway 404 
+19796396 2009 NoLink
+19796397 2009 NoLink
+19796398 2009 NoLink
+19796399 2009 NoLink
+19796400 2009 NoLink
+19796401 2009 NoLink
+19796402 2009 tool http://khaos.uma.es/KA-SB 302 
+20055992 2010 null http://lsbzix.rc.unesp.br/skpdb/ -1 
+19796404 2009 null http://www.gopubmed.org/goweb 302 
+19796405 2009 NoLink
+19796406 2009 NoLink
+19857274 2009 NoLink
+19852797 2009 NoLink
+19849862 2009 null http://www.complex.iastate.edu 301 
+19852798 2009 NoLink
+19852836 2009 null http://elm.eu.org/ 200 
+19852804 2009 NoLink
+19863798 2009 NoLink
+19857265 2009 NoLink
+19857268 2009 NoLink
+19860866 2009 NoLink
+19860884 2009 NoLink
+19860910 2009 available http://www.phyloxml.org 200 
+19863793 2009 available http://www.bioportal.uio.no 301 
+19874585 2009 tool http://ecsb.ex.ac.uk/sulfotyrosine 301 
+19863816 2009 available http://tools.camera.calit2.net/camera/rammcap/ -1 
+19863822 2009 NoLink
+19878600 2009 NoLink
+19874596 2009 null http://www.phyloware.com 200 
+19874601 2009 NoLink
+19874609 2009 NoLink
+19799800 2009 available http://Lbb.ut.ac.ir/Download/LBBsoft/Kavosh/ 404 
+19878545 2009 NoLink
+19878598 2009 NoLink
+19941644 2009 NoLink
+19799796 2009 null http://pepbank.mgh.harvard.edu 200 
+19799776 2009 NoLink
+19811632 2009 null http://ekhidna.biocenter.helsinki.fi/users/petri/public/POSGODA/POSGODA.html 200 
+19811635 2009 available http://edelman.dia.fi.upm.es/biri/ 200 
+19811641 2009 null http://www.cse.cuhk.edu.hk/%7Etmchan/GALFG/ 404 
+19811674 2009 abstractNotFound
+19811680 2009 NoLink
+19811676 2009 NoLink
+19814779 2009 NoLink
+21342587 2011 NoLink
+22151279 2011 NoLink
+19811679 2009 null http://bioinformatics.ualr.edu/natboxWiki/index.php/Main_Page -1 
+19811678 2009 NoLink
+19811681 2009 software http://people.tamu.edu/~syuan/cptra/cptra.html 404 
+19811682 2009 NoLink
+19811683 2009 null http://www.metnetdb.org/pathbinder 302 
+19811684 2009 NoLink
+19811685 2009 NoLink
+21989123 2011 NoLink
+19811687 2009 NoLink
+19811688 2009 NoLink
+19811689 2009 null http://bio.informatics.iupui.edu/HPD 302 
+19811690 2009 NoLink
+19811691 2009 tool http://agbase.msstate.edu/tools/MSAVis.html 200 
+19811692 2009 null http://www.agbase.msstate.edu/ 200 
+19811693 2009 NoLink
+19814800 2009 NoLink
+19814801 2009 available http://www.grissom.gr/keggconverter 301 
+19758469 2009 available http://3DSim.bioinfo.cnio.es/ 200 
+19814812 2009 NoLink
+19740451 2009 available http://194.57.197.245/cassiopeWeb/displayCluster?clusterId=1 -1 
+NA 2009 abstractNotFound
+19747395 2009 NoLink
+19751513 2009 available http://epitopia.tau.ac.il 200 
+19751523 2009 NoLink
+19754976 2009 NoLink
+19758451 2009 NoLink
+19146673 2009 NoLink
+20214778 2010 available http://microarray-analysis.org 200 
+19758426 2009 NoLink
+19761562 2009 abstractNotFound
+19761563 2009 NoLink
+19761564 2009 NoLink
+19832975 2009 NoLink
+19210777 2009 NoLink
+19728868 2009 NoLink
+19761568 2009 NoLink
+19761570 2009 NoLink
+19761569 2009 NoLink
+19761565 2009 NoLink
+20298595 2010 NoLink
+19761574 2009 NoLink
+19761573 2009 NoLink
+19758464 2009 NoLink
+23282330 2012 download http://www.biotec.or.th/isl/ChemEx 302 
+19761576 2009 available http://Lussierlab.org/publication/PGnet 302 
+19761577 2009 NoLink
+19796403 2009 NoLink
+19761579 2009 NoLink
+19765283 2009 null http://www.microrna.gr/microT 301 
+19772613 2009 NoLink
+19765306 2009 null http://xialab.bu.edu/resources/lpcf 301 
+19765311 2009 NoLink
+19723314 2009 null http://bioinformatics.unipr.it/B6db 301 
+19728875 2009 NoLink
+19772626 2009 code http://db.cse.ohio-state.edu/MicroarrayDesigner 404 
+19772557 2009 NoLink
+19772589 2009 NoLink
+19732427 2009 NoLink
+19772615 2009 NoLink
+19772619 2009 NoLink
+19778419 2009 NoLink
+19772646 2009 NoLink
+19709406 2009 NoLink
+20144198 2010 null http://last.cbrc.jp/ 200 
+19775444 2009 NoLink
+19775460 2009 null http://sswap.info 200 tool http://sswap.info/protocol.jsp 404 tool http://sswap.info/developer.jsp 404 null http://sswapmeet.sswap.info -1 
+19775462 2009 NoLink
+19941647 2009 null http://genome.tugraz.at/iLAP/ 200 
+19778442 2009 NoLink
+23514627 2013 available http://supfam.org/SUPERFAMILY/dcGO 301 
+20193068 2010 NoLink
+19785734 2009 NoLink
+19725948 2009 NoLink
+23282012 2012 NoLink
+20868497 2010 available http://bordnerlab.org/MultiRTA -1 
+19758470 2009 NoLink
+19737408 2009 NoLink
+20132550 2010 null http://sourceforge.net/projects/cnv 301 
+20021670 2009 NoLink
+20064218 2010 software http://www.bioinf.cs.ipm.ac.ir/softwares/surfield -1 
+20429923 2010 NoLink
+20380733 2010 NoLink
+20377884 2010 code http://home.ustc.edu.cn/~jfxia/hotspot.html 404 
+20380745 2010 NoLink
+20385005 2010 NoLink
+20385013 2010 null http://web-cellHTS2.dkfz.de 302 
+20385019 2010 NoLink
+20388221 2010 available http://cd-hit.org 200 
+20398246 2010 NoLink
+20398270 2010 software http://www.c2b2.columbia.edu/danapeerlab/html/software.html 200 
+20398296 2010 NoLink
+20398334 2010 NoLink
+20406499 2010 NoLink
+20406500 2010 NoLink
+20406501 2010 NoLink
+20406502 2010 NoLink
+20406503 2010 available http://i.cs.hku.hk/~alse/MetaCluster/ 200 
+20406504 2010 null http://dm.postech.ac.kr/refmed 301 
+20406505 2010 NoLink
+20398384 2010 NoLink
+20398407 2010 NoLink
+20398404 2010 NoLink
+20356413 2010 available http://bioinformatics.org.au/ame/ 404 
+20359363 2010 available http://proteogenomics.musc.edu/genemesh/ -1 
+20426836 2010 NoLink
+20406469 2010 NoLink
+20406472 2010 NoLink
+20813068 2010 NoLink
+21486487 2011 NoLink
+20412592 2010 NoLink
+20412602 2010 NoLink
+20416044 2010 NoLink
+20416082 2010 available http://pellegrini.mcdb.ucla.edu/BS_Seeker/BS_Seeker.html 301 
+20420672 2010 NoLink
+20420695 2010 NoLink
+20420717 2010 NoLink
+20423484 2010 NoLink
+20423502 2010 NoLink
+20423512 2010 NoLink
+20423529 2010 code http://code.google.com/p/automotifserver 405 
+20433723 2010 NoLink
+20406434 2010 NoLink
+20438647 2010 available http://casp.rnet.missouri.edu/fold_rate/index.html -1 
+20438649 2010 NoLink
+20438648 2010 NoLink
+20438653 2010 NoLink
+20438650 2010 NoLink
+20438652 2010 NoLink
+20438651 2010 tool http://www.cs.rpi.edu/~bennek/tbinsight/tblineage 403 
+20438655 2010 NoLink
+20438654 2010 NoLink
+20438656 2010 NoLink
+20438641 2010 NoLink
+20426876 2010 available http://metmask.sourceforge.net 200 
+20429880 2010 NoLink
+20429909 2010 available http://www.tassdb.info 200 
+20429914 2010 NoLink
+20356373 2010 NoLink
+20429928 2010 download http://systemsbiozju.org/data/WaveletQuant -1 
+20429930 2010 NoLink
+20429936 2010 NoLink
+20361868 2010 NoLink
+20433706 2010 NoLink
+20433708 2010 available http://www.imgt.org/ligmotif/ 200 
+21247425 2011 NoLink
+21210985 2010 NoLink
+20334636 2010 NoLink
+20370922 2010 NoLink
+20370926 2010 NoLink
+20370931 2010 NoLink
+20374616 2010 NoLink
+20377909 2010 NoLink
+20380738 2010 NoLink
+20377887 2010 NoLink
+20377890 2010 NoLink
+20377906 2010 NoLink
+20377871 2010 available http://bio.kuas.edu.tw/snp-rflping2 -1 
+20380693 2010 NoLink
+20380721 2010 NoLink
+20698961 2010 NoLink
+20698981 2010 NoLink
+20796320 2010 null http://159.226.149.45/other1/CMASA/CMASA.htm 200 
+20701784 2010 NoLink
+20704747 2010 NoLink
+20716366 2010 NoLink
+20684787 2010 NoLink
+20701772 2010 NoLink
+20718988 2010 NoLink
+20718980 2010 NoLink
+20718956 2010 NoLink
+20718989 2010 NoLink
+20727159 2010 null http://www.ExpressionBrowser.com -1 
+20937082 2010 NoLink
+20718947 2010 NoLink
+20731867 2010 NoLink
+20796299 2010 NoLink
+20796314 2010 available http://sourcesinc.sourceforge.net/omesom/ 200 
+20731828 2010 available http://biocluster.di.unito.it/circuits/ 200 
+20799972 2010 code http://userwww.service.emory.edu/~tyu8/MLSA/ -1 
+20807438 2010 software http://bioonto.de/obo2owl -1 
+20678237 2010 NoLink
+20682040 2010 NoLink
+20673356 2010 NoLink
+20682075 2010 null http://140.113.166.165/pyramabs.php/ -1 
+20684785 2010 NoLink
+20809983 2010 NoLink
+20102627 2010 NoLink
+20691053 2010 NoLink
+20691091 2010 null http://sourceforge.net/projects/sdrproject/ 301 
+20696036 2010 null http://www.cibiv.at/FACT 302 
+20696046 2010 tool http://biotm.cis.udel.edu/eGIFT 301 
+20696049 2010 available http://cmbi.bjmu.edu.cn/tam 404 
+20696050 2010 NoLink
+21208396 2010 NoLink
+21143983 2010 software http://pubmlst.org/software/database/bigsdb/ 301 
+21144021 2010 NoLink
+21144022 2010 NoLink
+21172044 2010 NoLink
+21172057 2010 NoLink
+21172054 2010 NoLink
+21172047 2010 NoLink
+21172048 2010 NoLink
+21172049 2010 NoLink
+21172050 2010 NoLink
+21172051 2010 NoLink
+21172052 2010 NoLink
+21172053 2010 NoLink
+21172046 2010 NoLink
+21172055 2010 NoLink
+21172056 2010 NoLink
+21172045 2010 NoLink
+21172058 2010 NoLink
+21172059 2010 NoLink
+21156038 2010 code http://www.bioinformaticslaboratory.nl/ 302 
+21159205 2010 software ftp://ftp.infotech.monash.edu.au/software/DNAcompress-XM/XMAligner/ -1 
+21167019 2010 available http://tinyurl.com/snpexp 301 
+21167044 2010 NoLink
+21122125 2010 available http://bioinfo.loria.fr/Members/benabdsi/intelligo_project/ 404 
+21167075 2010 NoLink
+21122127 2010 NoLink
+21172034 2010 NoLink
+22151929 2011 NoLink
+21453511 2011 null http://compbio.cs.princeton.edu/dpuc/ 200 
+21210977 2010 NoLink
+21210979 2010 null http://www.molgenis.org 301 
+21210980 2010 NoLink
+21210981 2010 null http://seqware.sourceforge.net 302 
+21210982 2010 NoLink
+21210983 2010 available http://nebc.nerc.ac.uk/tools/bio-linux 301 
+21210984 2010 NoLink
+21210988 2010 NoLink
+21210986 2010 NoLink
+21210987 2010 NoLink
+17640363 2007 NoLink
+21172036 2010 NoLink
+21176124 2010 NoLink
+18939984 2008 NoLink
+20163737 2010 NoLink
+21176225 2010 NoLink
+21184688 2010 NoLink
+21190573 2010 available http://www.biologicalnetworks.org 200 
+20576120 2010 NoLink
+21176134 2010 NoLink
+21129181 2010 NoLink
+NA 2010 NoLink
+21138573 2010 NoLink
+21143908 2010 NoLink
+21143911 2010 NoLink
+20146825 2010 available http://starrynite.sourceforge.net 200 
+20149233 2010 download http://linnaeus.sourceforge.net/ 200 
+20152020 2010 NoLink
+20152038 2010 available http://www.lists2networks.org 301 
+20158919 2010 NoLink
+20158924 2010 available http://www.ibt.lt/bioinformatics/coma 301 
+20163709 2010 NoLink
+20122157 2010 NoLink
+20113482 2010 NoLink
+20105319 2010 tool http://www.nii.res.in/pred_acs_substr.html 200 
+20170493 2010 null http://www.somnathdatta.org/Supp/DNA 301 
+20199672 2010 NoLink
+20167110 2010 NoLink
+20170516 2010 NoLink
+20113476 2010 NoLink
+20170534 2010 NoLink
+20175920 2010 available http://www.dragnet.cvm.iastate.edu -1 
+20175896 2010 NoLink
+20175916 2010 available http://cbio.ensmp.fr/paris/ 301 
+20178611 2010 null http://www.virolab.org -1 
+20181237 2010 algorithm http://bioalgorithm.life.nctu.edu.tw/OGtree2.0/ -1 
+20181245 2010 code http://www.codeplex.com/UCSDBioLit 200 
+20181266 2010 NoLink
+20181279 2010 NoLink
+20181285 2010 NoLink
+20184736 2010 NoLink
+20482811 2010 available http://images.yeastrc.org/ 302 
+20187963 2010 NoLink
+20187966 2010 NoLink
+21663684 2011 NoLink
+20122279 2010 NoLink
+20128916 2010 NoLink
+20128918 2010 NoLink
+20459626 2010 null http://biochem.jacobs-university.de/BDPC/BISMA/ -1 
+20132552 2010 
+20137077 2010 NoLink
+20141635 2010 NoLink
+20144191 2010 NoLink
+20144194 2010 NoLink
+19775443 2009 available http://ekhidna.biocenter.helsinki.fi/users/petri/public/GSZ/GSZscore.html 200 
+20144209 2010 NoLink
+20144223 2010 NoLink
+20144236 2010 NoLink
+20064233 2010 available http://urbm-cluster.urbm.fundp.ac.be/~bdemeulder/ -1 
+20064242 2010 NoLink
+20064243 2010 NoLink
+20504334 2010 null http://www.stat.usu.edu/~jrstevens 301 
+20064276 2010 NoLink
+20067640 2010 NoLink
+20067643 2010 NoLink
+20202215 2010 NoLink
+20459827 2010 NoLink
+20070902 2010 NoLink
+20070912 2010 NoLink
+20074336 2010 NoLink
+20105328 2010 NoLink
+20565810 2010 available http://mg.bio.titech.ac.jp/vitcomic/ -1 
+20492697 2010 null http://3dviewer.neurofly.de 200 
+20078860 2010 NoLink
+20078885 2010 NoLink
+21029427 2010 null http://knottin.cbs.cnrs.fr 200 tool http://pat.cbs.cnrs.fr 200 
+20122179 2010 abstractNotFound
+20122180 2010 NoLink
+20122181 2010 NoLink
+20122186 2010 NoLink
+20122183 2010 NoLink
+20122184 2010 NoLink
+20122185 2010 null http://digbio.missouri.edu/soybean_mirna/ -1 
+20122182 2010 NoLink
+20122187 2010 NoLink
+20122188 2010 NoLink
+20122189 2010 NoLink
+20122190 2010 NoLink
+20122191 2010 NoLink
+20122192 2010 NoLink
+20122193 2010 NoLink
+20122194 2010 NoLink
+20122195 2010 NoLink
+20122196 2010 available http://caps.ncbs.res.in/hori 301 
+20122197 2010 available http://hub.iis.sinica.edu.tw/Hunter/ 200 
+20122198 2010 NoLink
+20122199 2010 NoLink
+20122200 2010 NoLink
+20122201 2010 NoLink
+20122203 2010 NoLink
+20122208 2010 NoLink
+20122204 2010 NoLink
+20122210 2010 NoLink
+20122205 2010 NoLink
+20122206 2010 NoLink
+20122218 2010 NoLink
+20122213 2010 NoLink
+20122209 2010 NoLink
+20122202 2010 NoLink
+20122211 2010 NoLink
+20122212 2010 NoLink
+20122215 2010 NoLink
+20122214 2010 NoLink
+20122207 2010 NoLink
+20122226 2010 NoLink
+20122217 2010 NoLink
+20122221 2010 NoLink
+20122219 2010 NoLink
+20122220 2010 NoLink
+20122228 2010 code 1XXX -1 
+20122222 2010 NoLink
+20122223 2010 NoLink
+20122225 2010 NoLink
+20122233 2010 NoLink
+20122216 2010 NoLink
+20122227 2010 NoLink
+20122230 2010 NoLink
+20122229 2010 NoLink
+20122231 2010 NoLink
+20122224 2010 NoLink
+20122232 2010 NoLink
+20122238 2010 NoLink
+20122235 2010 NoLink
+20122244 2010 NoLink
+20122236 2010 NoLink
+20122237 2010 NoLink
+20122241 2010 NoLink
+20122239 2010 NoLink
+20122240 2010 NoLink
+20122246 2010 available http://www1.spms.ntu.edu.sg/~chenxin/RKS_PPSC/ 200 
+20122242 2010 NoLink
+20122243 2010 NoLink
+20122245 2010 NoLink
+23281593 2012 NoLink
+20021653 2009 NoLink
+20085625 2010 NoLink
+20085646 2010 NoLink
+20043860 2010 NoLink
+20089140 2010 NoLink
+20089148 2010 NoLink
+20089159 2010 available http://www.caspur.it/slep 302 
+20089162 2010 NoLink
+20089173 2010 available http://bordnerlab.org/RTA/ -1 
+20089185 2010 NoLink
+20096103 2010 NoLink
+20096119 2010 NoLink
+20096121 2010 NoLink
+20100321 2010 NoLink
+20100357 2010 null http://gexp.kaist.ac.kr/figs -1 
+20100337 2010 NoLink
+20100338 2010 NoLink
+20929581 2010 NoLink
+20102599 2010 NoLink
+20102603 2010 NoLink
+20102611 2010 NoLink
+20055997 2010 NoLink
+20102628 2010 NoLink
+20105306 2010 null http://sbi.imim.es/web/BIANA.php 302 
+15904489 2005 NoLink
+20109199 2010 available http://www.abl.ku.edu/thermorank/ 301 
+20055994 2010 NoLink
+20074352 2010 NoLink
+20109181 2010 NoLink
+20109184 2010 NoLink
+21176199 2010 NoLink
+20109217 2010 NoLink
+20109223 2010 null http://www.creativemolecules.com/CM_Software.htm 200 
+20109229 2010 NoLink
+20163717 2010 available http://bio.cigb.edu.cu/bisogenet-cytoscape/ 403 
+21529372 2011 NoLink
+20044933 2010 NoLink
+20113513 2010 NoLink
+20113515 2010 NoLink
+NA 2010 NoLink
+20047649 2010 NoLink
+20047655 2010 available http://www.bridgedb.org 200 
+20047656 2010 NoLink
+20053295 2010 NoLink
+20105321 2010 NoLink
+20053291 2010 NoLink
+20053276 2010 NoLink
+20051127 2010 NoLink
+20525384 2010 NoLink
+20167070 2010 NoLink
+20233458 2010 NoLink
+20064214 2010 NoLink
+20193060 2010 null http://www.alice-dsl.net/evgeniy.vainshtein/ICEP/ -1 
+20624289 2010 null http://bioinfo.weizmann.ac.il/hunter/ 200 
+20626859 2010 code http://kid.tu-bs.de 200 
+20626915 2010 null https://www.metabolome-express.org 301 
+20630057 2010 NoLink
+20633259 2010 NoLink
+20633263 2010 available http://www.metapiga.org 200 
+20637081 2010 NoLink
+20637083 2010 available http://sysbio.unl.edu/services 301 
+20642854 2010 NoLink
+20594316 2010 available http://www.ptools.ua.ac.be/CytoSQL 200 
+20594322 2010 NoLink
+20594327 2010 available http://www.bioclipse.net 200 
+20825684 2010 NoLink
+20649951 2010 NoLink
+20587029 2010 NoLink
+20646284 2010 NoLink
+20646301 2010 NoLink
+20646302 2010 NoLink
+20646303 2010 NoLink
+20646315 2010 NoLink
+20663120 2010 NoLink
+20663121 2010 NoLink
+20682041 2010 NoLink
+20649954 2010 NoLink
+20649980 2010 NoLink
+20649990 2010 available http://www.ehmn.bioinformatics.ed.ac.uk 503 
+20650002 2010 NoLink
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+22373233 2011 NoLink
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+NA 2010 abstractNotFound
+20650010 2010 null http://mzmine.sourceforge.net/ 302 
+20653935 2010 NoLink
+20653963 2010 NoLink
+20663186 2010 null http://www.scchr-cigdb.jp/ -1 
+20663215 2010 NoLink
+20663218 2010 NoLink
+20667077 2010 available http://www1.montpellier.inra.fr/CBGP/diyabc 301 
+20667087 2010 software http://mail.ustc.edu.cn/~bigeagle/BMCBioinfo2010/index.htm 404 
+20667133 2010 NoLink
+20594356 2010 NoLink
+20598126 2010 NoLink
+20598132 2010 NoLink
+20598134 2010 available http://www.sph.umich.edu/csg/qin/HPeak 301 
+20565748 2010 NoLink
+20673321 2010 available http://public.tgen.org/rulemonkey 301 
+20815925 2010 NoLink
+20716381 2010 NoLink
+20673368 2010 available http://comp.chem.nottingham.ac.uk/debt/ 200 
+20602788 2010 NoLink
+20609242 2010 NoLink
+20615231 2010 NoLink
+20537135 2010 available http://www.ibmc.msk.ru/PAAS/ 200 
+20537139 2010 NoLink
+20537149 2010 null http://bioingegneria.unicz.it/M-CS 404 
+20537162 2010 NoLink
+20540779 2010 NoLink
+20546565 2010 software http://genepi-conan.i-med.ac.at 200 
+20546611 2010 NoLink
+20546630 2010 download http://users.utu.fi/mijopi/Pripper 301 
+20550648 2010 NoLink
+20550657 2010 NoLink
+20550692 2010 NoLink
+20550700 2010 software http://pbil.univ-lyon1.fr/software/prunier 301 
+20550715 2010 NoLink
+20529363 2010 download http://homes.esat.kuleuven.be/~sistawww/bioi/syu/l2lssvm.html 200 
+20553602 2010 NoLink
+20565705 2010 NoLink
+20553619 2010 NoLink
+20550717 2010 null http://meta.usc.edu/softs/PPLook 301 
+20565750 2010 null http://www.cangem.org/cghpower/ 200 
+28049413 2017 NoLink
+20565847 2010 available http://mprap.cbr.su.se/ 200 
+20565873 2010 NoLink
+20565884 2010 NoLink
+20515448 2010 NoLink
+20515463 2010 NoLink
+20565932 2010 NoLink
+20565962 2010 NoLink
+20565989 2010 NoLink
+20569422 2010 NoLink
+20573238 2010 available http://www.bhsai.org/downloads/topsi.tar.gz 302 
+20573248 2010 available http://edwards.sdsu.edu/tagcleaner 301 
+20573251 2010 NoLink
+20573270 2010 available http://home.ustc.edu.cn/~yzh33108/GeneticInterPred.htm 404 
+21205310 2011 software http://breaker.research.yale.edu/R2R 301 
+20587065 2010 NoLink
+20525369 2010 NoLink
+22536965 2012 tool http://www.molnac.unisa.it/BioTools/conscocomaps/ 302 
+20598148 2010 NoLink
+20579376 2010 NoLink
+20584269 2010 NoLink
+20584295 2010 NoLink
+20529264 2010 NoLink
+20584323 2010 NoLink
+20584331 2010 NoLink
+20594344 2010 available http://www.ncbi.nlm.nih.gov/Structure/ibis/ibis.cgi 200 
+20591178 2010 NoLink
+20525176 2010 NoLink
+20525196 2010 NoLink
+20525216 2010 NoLink
+20525223 2010 NoLink
+20591147 2010 NoLink
+20591175 2010 NoLink
+20584304 2010 null http://www.ebi.ac.uk/msd-srv/capri 301 
+20525252 2010 available http://adios.tau.ac.il/UFFizi 301 
+20525281 2010 null http://www.imtech.res.in/raghava/gtpbinder/ 301 
+20525291 2010 null http://www.skb.ucla.edu/SALO/ 200 
+20525292 2010 NoLink
+20525342 2010 NoLink
+20534164 2010 NoLink
+20594332 2010 NoLink
+20594334 2010 NoLink
+20529327 2010 NoLink
+20579334 2010 NoLink
+20529369 2010 null http://pdomains.sdsc.edu/dConsensus -1 
+20534127 2010 NoLink
+20576136 2010 NoLink
+20219107 2010 NoLink
+20222969 2010 null http://crdd.osdd.net/raghava/kidoq 301 
+20226024 2010 package http://sourceforge.net/projects/mocapy 301 
+20226031 2010 NoLink
+20226048 2010 download http://www.fiserlab.org/potentials 301 
+20230624 2010 null http://rna.urmc.rochester.edu/RNAstructure.html 200 
+20230626 2010 code http://www.bx.psu.edu/miller_lab/ 200 
+20338066 2010 NoLink
+20298554 2010 NoLink
+20370914 2010 NoLink
+20233392 2010 NoLink
+20233441 2010 available http://services.bio.ifi.lmu.de/mirsel 302 
+20507585 2010 NoLink
+20236517 2010 NoLink
+20236520 2010 available http://balabio.dcs.gla.ac.uk/mallika/WebTOPS/ -1 
+20298548 2010 available http://bioserver-1.bioacademy.gr/DataRepository/Project_ENFRN_GRN/ 200 
+20236542 2010 NoLink
+20302613 2010 NoLink
+20298584 2010 NoLink
+20482861 2010 NoLink
+20482883 2010 NoLink
+20487530 2010 NoLink
+20487540 2010 software http://darwin.uvigo.es 200 
+20487544 2010 NoLink
+20487547 2010 available http://cran.r-project.org/web/packages/sdef/index.html 200 
+20070892 2010 NoLink
+20507581 2010 download http://www.tcnj.edu/~nayaklab/jcoda 200 
+20500882 2010 NoLink
+28049415 2017 NoLink
+20492700 2010 NoLink
+20500820 2010 NoLink
+20500821 2010 NoLink
+20504309 2010 NoLink
+20500897 2010 NoLink
+20492656 2010 available http://www.cse.univdhaka.edu/~ashis/ppred/index.php 301 
+20925909 2010 NoLink
+20504364 2010 NoLink
+20507547 2010 NoLink
+20509939 2010 tool http://www.targetspy.org -1 
+20507584 2010 NoLink
+20426803 2010 NoLink
+20813045 2010 NoLink
+20509871 2010 available http://www.well.ox.ac.uk/GWAMA 403 
+20509878 2010 NoLink
+20509916 2010 NoLink
+20509934 2010 NoLink
+20576140 2010 NoLink
+20482786 2010 NoLink
+20438625 2010 NoLink
+20426874 2010 available http://bigg.ucsd.edu 405 
+20441598 2010 NoLink
+20444264 2010 NoLink
+20459682 2010 NoLink
+16869977 2006 NoLink
+20459663 2010 NoLink
+21272346 2011 NoLink
+20459647 2010 download http://cmb.helmholtz-muenchen.de/odefy 302 
+20409339 2010 NoLink
+20487548 2010 NoLink
+21070630 2010 NoLink
+21070640 2010 available http://archaea.u-psud.fr/fitbar 301 
+21070651 2010 null http://labelhash.kavrakilab.org 200 
+21059262 2010 NoLink
+21059240 2010 NoLink
+21073711 2010 NoLink
+21087464 2010 NoLink
+15070405 2004 NoLink
+21078178 2010 NoLink
+21078182 2010 NoLink
+21078192 2010 available http://megasun.bch.umontreal.ca/~shenyq/TESTLoc/TESTLoc.html 404 
+21080965 2010 available http://www.stat.brown.edu/Zwu/research.aspx 200 
+21083935 2010 NoLink
+27716027 2016 NoLink
+21087509 2010 NoLink
+21040584 2010 NoLink
+21092157 2010 NoLink
+21092226 2010 NoLink
+21092255 2010 available http://phylogeny-cafe.elte.hu/RetAlign/ -1 
+21092268 2010 NoLink
+21092284 2010 NoLink
+21092291 2010 software http://services.cbu.uib.no/software/deltaprot/ 200 
+21092314 2010 NoLink
+21092317 2010 NoLink
+21092329 2010 NoLink
+21108792 2010 available http://pfind.ict.ac.cn/pfind2dot5/index.htm 404 
+18613966 2008 available http://strimmerlab.org/software/fdrtool/ 200 
+21110866 2010 available http://tinyurl.com/webprank 301 
+21114815 2010 NoLink
+21114820 2010 NoLink
+21114840 2010 NoLink
+NA 2010 abstractNotFound
+20973947 2010 
+21044337 2010 null http://bindr.gdcb.iastate.edu/ZiFiT 302 
+21044341 2010 software http://www.cbcb.umd.edu/software/scimm 301 
+21118506 2010 package http://cran.r-project.org/web/packages/RobLoxBioC 301 
+21118513 2010 NoLink
+21118515 2010 available http://cmb.helmholtz-muenchen.de/grade 302 
+21118522 2010 NoLink
+21118553 2010 NoLink
+21050454 2010 NoLink
+21050468 2010 NoLink
+21884611 2011 NoLink
+21059217 2010 NoLink
+21059237 2010 NoLink
+21073706 2010 NoLink
+21527044 2011 available http://survgenesinter.R-Forge.R-Project.org 200 
+21073702 2010 NoLink
+20727194 2010 available http://www.muldas.org/MuLDAS/ 404 
+20939868 2010 NoLink
+20932281 2010 NoLink
+20939882 2010 method http://geoseq.mssm.edu 200 
+20955620 2010 NoLink
+20939910 2010 NoLink
+20942913 2010 available http://bio.kuas.edu.tw/ga-ctpp/ -1 
+20942918 2010 NoLink
+20942926 2010 NoLink
+20942945 2010 NoLink
+20942966 2010 null http://booly.ucsd.edu -1 
+20946637 2010 NoLink
+17451610 2007 NoLink
+16351743 2005 download http://www.shardna.com. -1 
+16351744 2005 null http://www.bioinformatics.polimi.it/GFINDer/ -1 
+16351747 2005 NoLink
+16351746 2005 NoLink
+16351745 2005 NoLink
+16351754 2005 NoLink
+16351749 2005 available http://bio.ifom-firc.it/NTFootPrinter 404 
+16351750 2005 NoLink
+16351751 2005 NoLink
+16351752 2005 NoLink
+16351753 2005 available http://www.hmdb.uniba.it -1 
+17470273 2007 NoLink
+16351758 2005 NoLink
+16351756 2005 NoLink
+16351755 2005 NoLink
+16351757 2005 available http://www.bioinf.man.ac.uk/~lovell/segno.shtml 404 
+16321157 2005 available http://proteogenomics.musc.edu/arrayquest.html -1 
+16371163 2005 application http://www.cisreg.ca/gsb/ 200 
+16371165 2005 available http://bioinformatics.skcc.org/webarray/ -1 
+16372901 2005 NoLink
+16375763 2005 NoLink
+16381608 2005 NoLink
+16381612 2005 NoLink
+16384535 2005 NoLink
+16332255 2005 NoLink
+16336639 2005 NoLink
+16336652 2005 available http://www.protein-ms.de 403 null http://sourceforge.net/projects/protms/ 301 
+16336650 2005 null http://array.bioengr.uic.edu/subnuclear.htm 301 
+16336665 2005 available http://genome.lbl.gov/vista/snpvista 301 
+16433931 2006 NoLink
+15705189 2005 NoLink
+15705192 2005 NoLink
+15705208 2005 NoLink
+15707486 2005 NoLink
+15707487 2005 NoLink
+15757508 2005 NoLink
+20946642 2010 NoLink
+21106116 2010 NoLink
+21106117 2010 NoLink
+21106118 2010 NoLink
+21106119 2010 NoLink
+21106130 2010 NoLink
+21106121 2010 NoLink
+21106122 2010 NoLink
+21106123 2010 NoLink
+21106124 2010 NoLink
+21106125 2010 NoLink
+21106126 2010 null http://effectors.bic.nus.edu.sg/T3SEdb 301 
+21106127 2010 NoLink
+21106128 2010 download http://140.109.42.19:16080/dodo_web/home.htm 200 
+21106129 2010 NoLink
+21106120 2010 NoLink
+21106131 2010 NoLink
+17010189 2006 NoLink
+20950452 2010 NoLink
+20950483 2010 null http://aimed11.unipv.it/MassSpec 301 
+20955581 2010 NoLink
+20939902 2010 NoLink
+20969778 2010 NoLink
+NA 2011 abstractNotFound
+20961418 2010 NoLink
+20961420 2010 NoLink
+20961462 2010 NoLink
+25593000 2015 NoLink
+20964847 2010 NoLink
+20964851 2010 NoLink
+21034480 2010 available http://liao.cis.udel.edu/pub/svdsvm 301 
+20969788 2010 NoLink
+21044328 2010 NoLink
+20973958 2010 null http://www.ball-project.org 200 
+20973976 2010 NoLink
+21034426 2010 NoLink
+21034427 2010 NoLink
+21034428 2010 NoLink
+21034429 2010 NoLink
+21034430 2010 NoLink
+21034433 2010 NoLink
+21034432 2010 available http://www.fml.tuebingen.mpg.de/raetsch/suppl/aask 302 
+21034431 2010 NoLink
+20977780 2010 null http://tardis.nibio.go.jp/netasa/htmone/ -1 
+20979641 2010 null http://mdr-enzymes.org 302 
+21044356 2010 abstractNotFound
+21044357 2010 NoLink
+21044358 2010 available http://www.lussierlab.org/publications/Stroma 302 
+21044359 2010 NoLink
+22536963 2012 NoLink
+21044361 2010 NoLink
+21044362 2010 NoLink
+21044363 2010 NoLink
+21044364 2010 NoLink
+21044365 2010 NoLink
+21044366 2010 NoLink
+21044367 2010 NoLink
+25592474 2015 NoLink
+20854673 2010 NoLink
+21034510 2010 NoLink
+21034504 2010 NoLink
+21073736 2010 package http://www.sph.emory.edu/apLCMS/ 302 
+20923564 2010 available http://proteins.gmu.edu/automute 301 
+NA 2010 abstractNotFound
+25885222 2015 NoLink
+NA 2010 abstractNotFound
+25887925 2015 NoLink
+25887114 2015 NoLink
+20946610 2010 NoLink
+20946611 2010 NoLink
+20946612 2010 download http://xrl.us/iview 301 
+20946613 2010 tool http://www.agbase.msstate.edu 200 
+20946614 2010 NoLink
+20946615 2010 null http://www.fda.gov/ArrayTrack 301 
+20946616 2010 null http://edkb.fda.gov/webstart/edkb/index.html 302 
+20946619 2010 NoLink
+20946618 2010 null http://bio.informatics.iupui.edu/peppi 302 
+20946617 2010 null http://www.fda.gov/ArrayTrack 301 
+20946620 2010 NoLink
+20100327 2010 NoLink
+20939873 2010 NoLink
+20932284 2010 NoLink
+20932336 2010 NoLink
+20831800 2010 available http://wgs-assembler.sourceforge.net 200 
+20831831 2010 NoLink
+20840745 2010 NoLink
+20840752 2010 NoLink
+20843356 2010 available http://76.70.11.198/panseq -1 
+20843365 2010 NoLink
+22676320 2012 null http://quartets.uga.edu 200 
+20846408 2010 NoLink
+20860790 2010 null http://moduleorganizer.genouest.org 302 
+20846443 2010 NoLink
+26156142 2015 NoLink
+20846437 2010 NoLink
+20828413 2010 available http://www.math.ku.dk/~richard/ppstat/ 200 
+20825661 2010 NoLink
+25963052 2015 NoLink
+20854660 2010 NoLink
+20860840 2010 available http://compgenomics.utsa.edu/svmicro.html 200 
+26156501 2015 NoLink
+20858292 2010 available http://caps.ncbs.res.in/peptidemine 301 
+20863374 2010 available http://imed.med.ucm.es/Tools/PCPS/ 200 
+20860802 2010 NoLink
+20875130 2010 NoLink
+20860844 2010 NoLink
+20860850 2010 NoLink
+20920260 2010 code http://www.sbi.uni-rostock.de/moses 303 
+20868474 2010 NoLink
+20868492 2010 NoLink
+21211060 2011 NoLink
+20875095 2010 NoLink
+21261974 2011 available http://sourceforge.net/projects/pilelinetools 301 available http://sing.ei.uvigo.es/pileline 301 
+26283310 2015 NoLink
+20920204 2010 NoLink
+20920208 2010 NoLink
+20920230 2010 NoLink
+20920235 2010 NoLink
+20920238 2010 
+20958996 2010 software http://www.medicine.uiowa.edu/Labs/tan/software.html 301 
+20920264 2010 NoLink
+20809988 2010 NoLink
+21375730 2011 available http://mironton.uni.lu -1 
+20813050 2010 NoLink
+20819233 2010 null http://www.pathwayapi.com 301 
+20815881 2010 NoLink
+24267288 2013 NoLink
+20828407 2010 null http://sourceforge.net/projects/gnomex/ 301 null http://sourceforge.net/projects/genoviz/ 301 null http://sourceforge.net/projects/useq 301 
+19785723 2009 code http://MetaTM.sbc.su.se 200 
+20691037 2010 NoLink
+20825641 2010 NoLink
+21526987 2011 NoLink
+21527025 2011 NoLink
+21527030 2011 code http://www.stse-software.org/ 302 
+21542923 2011 NoLink
+21542931 2011 tool http://pid.nci.nih.gov -1 
+21466708 2011 NoLink
+21812952 2011 download http://www.compbio.dundee.ac.uk/nod 301 
+21914224 2011 NoLink
+21831299 2011 NoLink
+21834997 2011 NoLink
+21834994 2011 NoLink
+21816093 2011 null http://urchin.spbcas.ru/flyex/ 200 method http://flyex.uchicago.edu/flyex/ -1 available http://urchin.spbcas.ru/asp/2011/emm/ 200 
+21838934 2011 NoLink
+21849017 2011 available http://bioinfo.csu.edu.cn/txw/TC-PINs. -1 
+21846353 2011 download http://www.visualgenedeveloper.net 200 
+21846404 2011 code http://code.google.com/p/my-project-bpredictor/downloads/list 405 
+21929784 2011 NoLink
+21849042 2011 NoLink
+21849047 2011 available http://bioexploratorium.pl/EP/DEDAL 302 
+21849049 2011 software http://www.inb.uni-luebeck.de/tools-demos/bioluminescent%20protein/BLProt 404 
+21849060 2011 NoLink
+21851598 2011 null http://www.picb.ac.cn/Comparative/data.html 200 
+21880147 2011 null http://www.flyrnai.org/diopt 200 tool http://www.flyrnai.org/diopt-dist 200 
+21812956 2011 NoLink
+21854652 2011 software http://bighapmap.big.ac.cn/software.html -1 
+21859449 2011 NoLink
+21861881 2011 NoLink
+21867510 2011 NoLink
+21867511 2011 NoLink
+21609434 2011 NoLink
+21806838 2011 NoLink
+21810250 2011 software http://cas-bioinfo.cas.unt.edu/gsv -1 
+21878105 2011 NoLink
+21851628 2011 available http://iimcb.genesilico.pl/RNP/ 302 
+21884583 2011 null http://www.hephy.at/user/fru/medea/ 404 
+21884587 2011 NoLink
+21849016 2011 NoLink
+21854615 2011 NoLink
+21813013 2011 available http://www.cs.bgu.ac.il/~RNAexinv 301 
+21838867 2011 available http://cran.r-project.org/web/packages/IQMNMR/ 200 
+21816034 2011 null http://vocbinbase.fiehnlab.ucdavis.edu 503 code http://binbase.sourceforge.net/ 302 
+21816037 2011 NoLink
+21816040 2011 NoLink
+21816082 2011 available http://www.tron-mz.de/compmed -1 
+21999392 2011 abstractNotFound
+26253564 2015 NoLink
+21342556 2011 NoLink
+21752297 2011 NoLink
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+21827651 2011 null http://www.brenda-enzymes.org 200 
+21819573 2011 NoLink
+21824426 2011 available https://github.com/vjethava/NETGEM 301 
+21827705 2011 NoLink
+21831268 2011 available http://pritch.bsd.uchicago.edu/bfcounter.html 301 
+21827656 2011 NoLink
+21827692 2011 available http://gwcnv.sourceforge.net 200 
+22151604 2011 NoLink
+22165866 2011 NoLink
+22373367 2011 NoLink
+22373417 2011 NoLink
+22373394 2011 NoLink
+22372988 2011 NoLink
+22373441 2011 NoLink
+22168213 2011 available http://bws.iis.sinica.edu.tw:8081/MeInfoText2/ -1 
+22239737 2012 available http://sourceforge.net/projects/atlas2/ 301 
+22264315 2012 NoLink
+22373054 2011 NoLink
+22373085 2011 NoLink
+22373099 2011 NoLink
+22168237 2011 software http://sysbio.rnet.missouri.edu/multicom_toolbox/ 200 
+22168258 2011 NoLink
+22373130 2011 abstractNotFound
+22373150 2011 NoLink
+22373175 2011 NoLink
+22373200 2011 NoLink
+22372978 2011 NoLink
+22373257 2011 NoLink
+22172014 2011 NoLink
+22172045 2011 NoLink
+22172058 2011 NoLink
+22172090 2011 NoLink
+22177110 2011 NoLink
+22177214 2011 NoLink
+22177264 2011 NoLink
+22177292 2011 abstractNotFound
+22182279 2011 NoLink
+22182303 2011 NoLink
+22132775 2011 NoLink
+22185703 2011 NoLink
+22185194 2011 NoLink
+22185221 2011 NoLink
+22188658 2011 null http://sbd.nist.gov/ 403 
+22188670 2011 NoLink
+22192482 2011 null http://pridb.gdcb.iastate.edu/RPISeq/. 200 
+22192526 2011 null http://turing.iimas.unam.mx:8080/AntelopeWEB/ -1 
+22192575 2011 NoLink
+22195644 2011 NoLink
+22136743 2011 NoLink
+22208765 2011 code http://code.google.com/p/cd-hybrid/ 405 
+22208806 2011 NoLink
+22208852 2011 available http://motifmap.igb.uci.edu/ 200 
+21226895 2011 available http://bio.math.berkeley.edu/tpic/. 302 
+22093447 2011 NoLink
+22142146 2011 available http://www.birc.au.dk/~paula/ 301 
+22151470 2011 available http://dna.cs.byu.edu/msa/ 200 
+22151536 2011 available http://alborz.sdsu.edu/conor 404 
+22151573 2011 NoLink
+21310028 2011 NoLink
+21310084 2011 NoLink
+21342538 2011 NoLink
+21342539 2011 NoLink
+21342540 2011 NoLink
+19781082 2009 NoLink
+21342542 2011 NoLink
+21342543 2011 NoLink
+21342544 2011 NoLink
+21342545 2011 NoLink
+21342546 2011 NoLink
+21342547 2011 NoLink
+21342550 2011 NoLink
+21342549 2011 available http://bioinformatics.ust.hk/SRPI.rar 200 
+21342548 2011 NoLink
+21342551 2011 NoLink
+21342552 2011 available http://bioinformatics.ust.hk/MotifAll.rar 200 
+21342553 2011 NoLink
+21342554 2011 NoLink
+21342555 2011 tool http://garnet.isysbio.org/ -1 null http://ercsb.ewha.ac.kr/garnet/ 302 
+21418606 2011 NoLink
+21342560 2011 NoLink
+21342568 2011 NoLink
+21342557 2011 NoLink
+21342559 2011 NoLink
+21342561 2011 NoLink
+21342564 2011 available http://gemdock.life.nctu.edu.tw/dock/igemdock.php 200 
+21303507 2011 NoLink
+21303559 2011 NoLink
+21281468 2011 NoLink
+21219603 2011 NoLink
+21219653 2011 NoLink
+21223570 2011 null http://www.mailman.columbia.edu/academic-departments/biostatistics/research-service/software-development 301 
+21223604 2011 NoLink
+21612662 2011 NoLink
+21226914 2011 NoLink
+21226955 2011 NoLink
+21226965 2011 NoLink
+21232126 2011 NoLink
+21232129 2011 NoLink
+21235786 2011 available http://www.biolisi.unal.edu.co/web-servers/nclassgpositive/ -1 
+21235804 2011 NoLink
+21244646 2011 available http://www.ebi.ac.uk/panda-srv/easydas 301 
+21244715 2011 NoLink
+21342562 2011 NoLink
+21385435 2011 NoLink
+21251248 2011 NoLink
+21255455 2011 null http://www.bioinformatics.org/fasimu 301 
+21261969 2011 NoLink
+21261946 2011 tool http://www.cbio.uct.ac.za/indygene 301 
+21418570 2011 available http://fcsb.njau.edu.cn/microsyn/ -1 
+21943316 2011 NoLink
+22078262 2011 NoLink
+21729324 2011 NoLink
+21736739 2011 NoLink
+21736741 2011 NoLink
+24369726 2013 NoLink
+21668958 2011 available http://imaging.bii.a-star.edu.sg/projects/gebiss/ 503 
+21668997 2011 NoLink
+21672262 2011 NoLink
+21600033 2011 NoLink
+21676263 2011 null http://www.bioinformatics.org/ffca/ 200 
+21679425 2011 NoLink
+21679436 2011 NoLink
+21679454 2011 NoLink
+21679460 2011 code http://lava-dna.googlecode.com/ 404 
+21679477 2011 NoLink
+21682852 2011 null http://www.atgc-montpellier.fr/ngs/ 200 
+21682879 2011 NoLink
+21569525 2011 available http://noble.gs.washington.edu/proj/pssp 302 
+21682902 2011 available http://biomine.ece.ualberta.ca/DisCon/ -1 
+21682921 2011 NoLink
+21631914 2011 code http://dna.uio.no/swipe/ 200 
+21631915 2011 NoLink
+21689388 2011 NoLink
+21689434 2011 code http://www.biochem.uni-luebeck.de/public/software/phylomap.html 200 
+21693013 2011 NoLink
+21943350 2011 null http://www.gomotif.ca 301 
+21619696 2011 software http://faculty.uaeu.ac.ae/nzaki/SVM-Freescore.htm 200 
+21693049 2011 NoLink
+21693065 2011 NoLink
+21696593 2011 NoLink
+21699684 2011 tool http://www4a.biotec.or.th/GI/tools/ippca 200 
+21699718 2011 NoLink
+21702939 2011 null http://bioportal.bioontology.org/ontologies/44531 301 
+21702940 2011 NoLink
+21702951 2011 null http://amdorap.sourceforge.net/ 200 
+21702966 2011 NoLink
+21708002 2011 available http://mcube.nju.edu.cn/jwang/lab/soft/ocw/OCW.html 404 
+21703007 2011 tool http://csb.cse.yzu.edu.tw/PlantPhos/ 200 
+21910885 2011 NoLink
+21569257 2011 NoLink
+21569311 2011 NoLink
+21682923 2011 NoLink
+21569390 2011 NoLink
+21569426 2011 null http://bioinfo.vanderbilt.edu/gpu-fan/ 200 
+21569428 2011 NoLink
+21569468 2011 NoLink
+21569489 2011 NoLink
+21605354 2011 NoLink
+21586134 2011 available http://discover.nci.nih.gov/mim 302 
+21569556 2011 NoLink
+21569557 2011 software http://bioinformatics.ust.hk/hidden_pattern_finder.zip 200 
+21569562 2011 NoLink
+21569575 2011 NoLink
+21575167 2011 software http://omics.informatics.indiana.edu/mg/RAPSearch 301 
+21548938 2011 NoLink
+21612626 2011 NoLink
+21635719 2011 NoLink
+21575225 2011 available https://sites.google.com/site/nsmapforrnaseq. 302 
+21672185 2011 available http://www.tapyr.net 200 
+21575263 2011 available http://www.genomescience.com.cn/CASCADE_SCAN/ 404 
+21943292 2011 null http://enzymedetector.tu-bs.de 200 
+21586113 2011 NoLink
+21605466 2011 NoLink
+21595926 2011 NoLink
+21586169 2011 NoLink
+21592348 2011 NoLink
+21592412 2011 NoLink
+21595880 2011 software http://www.plantbreeding.wur.nl/UK/software_fitTetra.html 301 
+21595908 2011 NoLink
+21586147 2011 available http://www.cs.uwaterloo.ca/~jmtruszk/jphmm_balls.tar.gz 301 
+21595960 2011 NoLink
+21595965 2011 NoLink
+21595989 2011 NoLink
+21599881 2011 null http://linnaeus.zoology.gla.ac.uk/~jhughes/treeripper/ 404 
+21599898 2011 NoLink
+21599902 2011 NoLink
+21599912 2011 NoLink
+21599929 2011 null http://www.bioportal.uio.no 301 
+21600029 2011 NoLink
+21985394 2011 null http://www.biostat.iupui.edu/~ChangyuShen/index.htm 301 
+21569498 2011 NoLink
+21605355 2011 NoLink
+21605356 2011 null http://biostor.org/openurl/ 404 null http://biostor.org/ 200 
+21605399 2011 NoLink
+21605426 2011 NoLink
+21605430 2011 NoLink
+21605461 2011 NoLink
+21605434 2011 NoLink
+21627789 2011 NoLink
+21639945 2011 NoLink
+22024209 2011 available http://www.pms.engr.uconn.edu/downloads/PMS5.zip -1 
+24564409 2013 NoLink
+21609452 2011 NoLink
+21609463 2011 download http://www.cse.msu.edu/~zhangy72/hmmframe/ 404 null https://sourceforge.net/projects/hmm-frame/ 301 
+21609501 2011 null http://informatics.nenu.edu.cn/MimoPro -1 
+21619703 2011 null http://www.ontocat.org 301 
+21612664 2011 NoLink
+21612630 2011 
+21612636 2011 NoLink
+21612645 2011 NoLink
+22214541 2012 software http://www.immunosignature.com/software 301 
+21635749 2011 NoLink
+21612668 2011 null http://mleg.cse.sc.edu/hemeBIND/ 200 
+21619611 2011 NoLink
+21615889 2011 NoLink
+21615913 2011 available http://www.seqan.de/projects/rabema.html 404 
+21615941 2011 NoLink
+21619603 2011 NoLink
+21619656 2011 NoLink
+21756370 2011 NoLink
+21612622 2011 NoLink
+22032770 2011 NoLink
+21693021 2011 available https://sites.google.com/site/oracleclassifiers/ 302 
+27978814 2016 NoLink
+21542920 2011 NoLink
+21575183 2011 NoLink
+27998267 2016 NoLink
+21504571 2011 null http://spsmart.cesga.es/engines.php 200 
+21554709 2011 code http://www.modencode.org/software/ranger/ 302 
+21554713 2011 NoLink
+21575196 2011 available http://bis.zju.edu.cn/prin/ 200 
+27978812 2016 NoLink
+21910884 2011 NoLink
+27993137 2016 NoLink
+22078224 2011 available http://genomebioinfo.musc.edu/CDEP/ -1 
+21554689 2011 NoLink
+21791068 2011 available http://miRTar.mbc.nctu.edu.tw/ 302 
+21831265 2011 available http://www.gpcr.org/7tm/ 200 
+21943333 2011 NoLink
+22074332 2011 NoLink
+22373288 2011 null http://cvc.dfci.harvard.edu/pb1-f2 404 
+22111509 2011 NoLink
+22078292 2011 code http://www.freescience.org/cs/ABClique/ 200 
+22014271 2011 NoLink
+22078363 2011 NoLink
+27784265 2016 NoLink
+22070249 2011 NoLink
+22082218 2011 NoLink
+22226192 2012 NoLink
+22085540 2011 NoLink
+22085701 2011 NoLink
+22087737 2011 NoLink
+22115179 2011 NoLink
+22044581 2011 NoLink
+22044602 2011 NoLink
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 NoLink
+NA 2011 abstractNotFound
+NA 2011 NoLink
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+22115278 2011 null http://www.obofoundry.org 200 
+NA 2011 abstractNotFound
+NA 2011 abstractNotFound
+22099972 2011 NoLink
+22103807 2011 NoLink
+22011106 2011 NoLink
+22168285 2011 NoLink
+22168340 2011 NoLink
+22168374 2011 NoLink
+22168401 2011 NoLink
+22168447 2011 NoLink
+22168481 2011 NoLink
+22168526 2011 NoLink
+22115078 2011 available http://didattica-online.polito.it/eda/miREE/ 403 
+22151910 2011 NoLink
+22152084 2011 NoLink
+22536863 2012 NoLink
+22118187 2011 NoLink
+22118224 2011 NoLink
+22122862 2011 NoLink
+22126369 2011 NoLink
+22047014 2011 library http://ghmm.org 200 
+22372736 2011 NoLink
+22372765 2011 NoLink
+22372825 2011 NoLink
+22372859 2011 NoLink
+22372958 2011 NoLink
+22479706 2011 available http://bioinformatics.cs.vt.edu/~murali/supplements/2011-incob-nbe/ 200 
+22372977 2011 NoLink
+22372892 2011 NoLink
+22373004 2011 NoLink
+22372955 2011 NoLink
+22244131 2012 NoLink
+22373013 2011 NoLink
+22373040 2011 NoLink
+22373069 2011 NoLink
+22373101 2011 NoLink
+22373132 2011 NoLink
+22373153 2011 NoLink
+22373185 2011 NoLink
+22373238 2011 null http://psba-trnh-plantidit.dnsalias.org -1 
+22373214 2011 NoLink
+22373260 2011 available http://tardis.nibio.go.jp/netasa/srcpred -1 
+22536899 2012 NoLink
+22373313 2011 NoLink
+22373334 2011 NoLink
+22373355 2011 available http://metagenomics.atc.tcs.com/HabiSign/ -1 
+22129216 2011 NoLink
+26250558 2015 NoLink
+22051375 2011 NoLink
+22050630 2011 NoLink
+22054122 2011 code http://code.google.com/p/aigo 405 
+22059886 2011 available https://ispace.utmb.edu/users/rgsadygo/Proteomics/ParallelMethod 302 
+22067142 2011 NoLink
+22070167 2011 null ftp://ftp.jcvi.org/pub/data/ppp/ -1 
+22070195 2011 available http://cbdm.mdc-berlin.de/tools/pescador/ 200 
+22222089 2012 null http://www.abrowse.org/ 200 null http://arabidopsis.cbi.edu.cn/ -1 
+22152029 2011 NoLink
+21985429 2011 NoLink
+22026913 2011 NoLink
+22316124 2012 software http://stage.louisville.edu/faculty/x0zhan17/software/software-development/mspa 404 code http://www.biostat.iupui.edu/~ChangyuShen/CodesPeakAlignment.zip 301 
+21991994 2011 NoLink
+21992002 2011 NoLink
+21992011 2011 available http://www.scowlp.org 200 
+21995452 2011 package http://www.bioconductor.org/packages/release/bioc/html/BHC.html?pagewanted=all 200 
+21999117 2011 null http://www.nrcbioinformatics.ca/metabohunter/ 200 
+21999355 2011 available http://bioconductor.org/packages/release/bioc/html/goProfiles.html. 404 
+22165918 2011 abstractNotFound
+22166012 2011 NoLink
+22165980 2011 NoLink
+22166058 2011 NoLink
+22166081 2011 NoLink
+22166114 2011 NoLink
+22166145 2011 NoLink
+22165819 2011 NoLink
+22165854 2011 NoLink
+22165905 2011 NoLink
+22165960 2011 NoLink
+22166002 2011 NoLink
+22166047 2011 NoLink
+22166072 2011 NoLink
+22166097 2011 NoLink
+22166133 2011 NoLink
+22165817 2011 null http://bio.informatics.iupui.edu/homer 302 
+22537008 2012 NoLink
+22537009 2012 NoLink
+22537010 2012 download http://sourceforge.net/projects/rnabormea/ 301 null http://bioinformatics.bc.edu/clotelab/RNAborMEA/. 200 
+22537011 2012 NoLink
+22537012 2012 NoLink
+22507266 2012 NoLink
+22537038 2012 NoLink
+22759420 2012 NoLink
+19192285 2009 NoLink
+16102175 2005 available http://www.bioconductor.org 200 
+16042779 2005 NoLink
+16042799 2005 NoLink
+16042800 2005 available http://katahdin.cshl.org:9331/GO -1 
+16042814 2005 NoLink
+16045803 2005 NoLink
+16188037 2005 NoLink
+15992409 2005 null http://www.cbs.dtu.dk/services/TatP/ 200 
+15998470 2005 NoLink
+15949044 2005 available http://satellog.bcgsc.ca 200 
+15953389 2005 available http://function.princeton.edu/ChARMView 301 
+15958161 2005 NoLink
+15958165 2005 NoLink
+NA 2010 abstractNotFound
+16176576 2005 available http://www.cs.tau.ac.il/~rshamir/expander 301 
+15987530 2005 here http://promi.mpimp-golm.mpg.de 200 
+15985156 2005 NoLink
+15963230 2005 available http://pslip.bii.a-star.edu.sg/ -1 
+15927081 2005 NoLink
+15910690 2005 NoLink
+15929793 2005 null http://web.mit.edu/biology/keating/AVID 404 
+15929795 2005 NoLink
+15967024 2005 NoLink
+15967031 2005 NoLink
+15967022 2005 NoLink
+15969769 2005 NoLink
+15972097 2005 NoLink
+15975141 2005 NoLink
+15985178 2005 NoLink
+15960857 2005 available http://megasun.bch.umontreal.ca/Software/AutoFACT.htm 200 
+15985174 2005 available http://www.factweb.de 302 
+15987504 2005 NoLink
+15987529 2005 NoLink
+16076401 2005 NoLink
+16120216 2005 NoLink
+15938750 2005 NoLink
+15938752 2005 null http://pentaplot.sourceforge.net 200 
+15941469 2005 abstractNotFound
+15941476 2005 NoLink
+15941477 2005 NoLink
+15941473 2005 NoLink
+16014175 2005 NoLink
+15752432 2005 null http://wfleabase.org/ 200 
+15760465 2005 NoLink
+15760478 2005 NoLink
+15762993 2005 here http://www.bioinfo.no/tools/normalmodes 301 
+15762985 2005 NoLink
+15766384 2005 NoLink
+15766383 2005 NoLink
+15769290 2005 NoLink
+15784140 2005 NoLink
+15774002 2005 NoLink
+15773999 2005 null http://kiwi.postech.ac.kr/raghava/lgepred/ -1 
+15774022 2005 available http://www.hsph.harvard.edu/ppg/software.htm 301 
+15777482 2005 available http://www.arb-home.de 200 
+23281792 2012 NoLink
+23281826 2012 NoLink
+23281809 2012 available http://www.cs.mcgill.ca/~blanchem/bindingLoci 301 
+23281872 2012 code http://www.iro.umontreal.ca/~mabrouk 301 
+23281922 2012 NoLink
+NA 2012 NoLink
+23281942 2012 NoLink
+17254296 2006 null http://bioinfo.ernet.in/virgen/virgen.html -1 
+23282028 2012 NoLink
+23256889 2012 available http://bioinfo.cau.edu.cn/CYPSI 301 
+23259794 2012 available http://iimcb.genesilico.pl/rnamap2d.html 302 
+23259833 2012 null http://www.eppic-web.org 301 
+23259851 2012 null https://insilicodb.org/app/ -1 
+23496949 2013 available http://www.motorprotein.de/genepainter.html 200 
+23270311 2012 NoLink
+23198695 2012 NoLink
+25559675 2014 NoLink
+25559261 2014 NoLink
+23206407 2012 NoLink
+23216884 2012 available http://www1.fbn-dummerstorf.de/en/forschung/fbs/fb3/paper/2012-yang-1/OTAD.v1.1.tar.gz 404 
+23216909 2012 NoLink
+22435732 2012 NoLink
+23281929 2012 NoLink
+23281969 2012 tool http://www.nubios.nileu.edu.eg/tools/hymotif 302 
+23282026 2012 NoLink
+23282075 2012 NoLink
+23282098 2012 NoLink
+23282138 2012 NoLink
+23282174 2012 NoLink
+23282200 2012 NoLink
+23282238 2012 NoLink
+23281600 2012 NoLink
+23281626 2012 NoLink
+23281650 2012 NoLink
+23281855 2012 NoLink
+23281916 2012 NoLink
+23281941 2012 available http://www.elasticHPC.org 200 
+23282007 2012 NoLink
+23282024 2012 null http://estexplorer.biolinfo.org/TranSeqAnnotator/ 302 
+23282059 2012 NoLink
+23282079 2012 NoLink
+23282103 2012 available http://iclab.life.nctu.edu.tw/SCM/ 404 
+23282142 2012 NoLink
+23282180 2012 NoLink
+23282219 2012 NoLink
+23282245 2012 null http://www.scfbio-iitd.res.in/sanjeevini/sanjeevini.jsp 200 
+23282285 2012 NoLink
+18426548 2008 available ftp://ftp.ebi.ac.uk/pub/software/textmining/corpora/diseases 301 
+23216969 2012 NoLink
+23216988 2012 NoLink
+23217028 2012 NoLink
+23409948 2013 available http://predivac.biosci.uq.edu.au/ 200 
+22330431 2012 NoLink
+22333067 2012 NoLink
+22333114 2012 available http://bioinformatics.bc.edu/chuanglab/codingmotif.tar 200 
+22335941 2012 available http://ekhidna.biocenter.helsinki.fi/poxo/blannotator/ 200 
+22340093 2012 NoLink
+22296803 2012 NoLink
+22348444 2012 NoLink
+24564375 2013 NoLink
+22300537 2012 NoLink
+22305354 2012 NoLink
+22313678 2012 NoLink
+22316103 2012 NoLink
+22946927 2012 NoLink
+22321652 2012 NoLink
+22321695 2012 NoLink
+22233380 2012 NoLink
+22233419 2012 NoLink
+22372967 2011 NoLink
+22292714 2012 NoLink
+22244038 2012 null http://www.plastid.msu.edu/ 301 
+22280360 2012 available http://cubique.fungalgenomics.ca/enzymedb/index.html -1 
+22244085 2012 NoLink
+22257533 2012 NoLink
+22536872 2012 NoLink
+22702410 2012 NoLink
+22373274 2012 NoLink
+22373303 2012 NoLink
+22373327 2012 NoLink
+22373359 2012 NoLink
+23046449 2012 null http://bioinfo.hsc.unt.edu/ipad 301 
+22373396 2012 NoLink
+22373409 2012 NoLink
+22373043 2012 NoLink
+22372999 2012 NoLink
+22372975 2012 available http://www.khaos.uma.es/yeastmed/ 200 
+22726705 2012 NoLink
+22536900 2012 NoLink
+23046480 2012 NoLink
+22289351 2012 NoLink
+22289386 2012 null http://www.semanticsbml.org 302 
+22292669 2012 null http://tagc.univ-mrs.fr/tbrowser/ 200 
+22536864 2012 NoLink
+22292799 2012 NoLink
+22738169 2012 NoLink
+22221313 2012 NoLink
+22373022 2011 available http://www.biosino.org/iGepros/ 404 
+22449239 2012 NoLink
+22646023 2012 null http://ols.wordvis.com 200 
+23061930 2012 NoLink
+22788675 2012 pipeline http://code.google.com/p/dynamic-pipeline 405 
+22536831 2012 NoLink
+22748121 2012 available http://actin.pharm.mssm.edu/genes2FANs 301 
+22800377 2012 null https://www.bioinfo.uh.edu/Slim_Filter/ -1 
+22799258 2012 NoLink
+22799431 2012 NoLink
+22805427 2012 code http://bioinf.cs.ucl.ac.uk/downloads/memsat-svm/ 301 
+22808927 2012 NoLink
+22812426 2012 NoLink
+22823282 2012 NoLink
+22823337 2012 NoLink
+22823405 2012 NoLink
+22827839 2012 NoLink
+22827163 2012 available http://tare.medisin.ntnu.no/triform 301 
+22827252 2012 NoLink
+22830977 2012 NoLink
+22838505 2012 available http://bioinformatics.monash.edu.au/downloads/ -1 
+NA 2012 null http://10.1186/1471-2105-12-S8-S12 -1 
+22838836 2012 NoLink
+22568762 2012 NoLink
+22839106 2012 NoLink
+22839202 2012 NoLink
+22748099 2012 NoLink
+22800292 2012 NoLink
+22846331 2012 
+22568821 2012 available http://www.phyloviz.net 200 
+22831154 2012 NoLink
+22759414 2012 abstractNotFound
+22759422 2012 NoLink
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+NA 2012 abstractNotFound
+22849868 2012 NoLink
+22759391 2012 available http://mleg.cse.sc.edu/LRensemble/cgi-bin/predict.cgi. 404 
+22768846 2012 software http://sites.google.com/site/guofeics/dobi 302 
+22776037 2012 NoLink
+22776067 2012 available https://sourceforge.net/projects/particlecall 301 
+22776079 2012 available http://bionlp-corpora.sourceforge.net/CRAFT/index.shtml 200 
+NA 2007 abstractNotFound
+22901087 2012 NoLink
+22901088 2012 NoLink
+22901089 2012 NoLink
+22901090 2012 NoLink
+22901091 2012 NoLink
+22901093 2012 NoLink
+22901092 2012 available http://bioinfo.mc.vanderbilt.edu/DTome -1 
+16351748 2005 NoLink
+22559915 2012 NoLink
+22694346 2012 NoLink
+22694481 2012 NoLink
+22698142 2012 software http://sourceforge.net/projects/gensim 301 
+21078174 2010 NoLink
+22708584 2012 available http://www.ncbi.nlm.nih.gov/tools/primer-blast 301 
+22713095 2012 NoLink
+22713124 2012 available http://bioinformaticsprb.med.wayne.edu/PADOG/ -1 null http://www.bioconductor.org 200 
+22712439 2012 code https://github.com/stevenhwu/BIDE-2D 301 
+22716030 2012 null http://www.chm.tu-dresden.de/pc6/EGNAS 301 
+22720696 2012 NoLink
+22720726 2012 software http://evolution.sysu.edu.cn/software/mirevo.htm 404 
+22720753 2012 NoLink
+22720789 2012 NoLink
+22971100 2012 NoLink
+22726767 2012 NoLink
+22726842 2012 NoLink
+20946601 2010 NoLink
+22759415 2012 NoLink
+22759416 2012 NoLink
+22759417 2012 NoLink
+22759418 2012 NoLink
+22759419 2012 NoLink
+22574887 2012 available http://www.genomics.csse.unimelb.edu.au/SparSNP -1 
+22759421 2012 NoLink
+22536870 2012 NoLink
+22759423 2012 NoLink
+22759424 2012 NoLink
+22759425 2012 software http://sites.google.com/site/guofeics/bsfinder 302 
+22759426 2012 NoLink
+22759427 2012 NoLink
+22759428 2012 NoLink
+22759429 2012 NoLink
+22424103 2012 available http://prise.cs.iastate.edu/ 302 
+22759430 2012 available http://alan.cs.gsu.edu/NGS/?q=content/pyrosequencing-error-correction-algorithm 200 
+22759431 2012 NoLink
+22759432 2012 NoLink
+22759433 2012 NoLink
+22731852 2012 NoLink
+22759455 2012 NoLink
+22759456 2012 available http://www.bionlp-st.org 200 
+22759461 2012 NoLink
+22759458 2012 NoLink
+22759459 2012 NoLink
+22759460 2012 NoLink
+22759457 2012 NoLink
+22759462 2012 NoLink
+22759463 2012 NoLink
+22734592 2012 NoLink
+22738078 2012 NoLink
+22738121 2012 NoLink
+22738145 2012 NoLink
+22676372 2012 NoLink
+22741547 2012 NoLink
+22741570 2012 NoLink
+22748055 2012 NoLink
+22672646 2012 null http://biomine.cs.helsinki.fi -1 
+22672667 2012 NoLink
+22672699 2012 NoLink
+22676296 2012 NoLink
+22591016 2012 NoLink
+23368905 2013 code http://birc.au.dk/software/ppfold/ 303 
+23176103 2012 NoLink
+22676414 2012 NoLink
+22676436 2012 NoLink
+22682516 2012 null http://cran.r-project.org/ 200 
+22536859 2012 abstractNotFound
+22536860 2012 NoLink
+22536861 2012 NoLink
+22417279 2012 NoLink
+22536862 2012 NoLink
+23031277 2012 NoLink
+22536898 2012 NoLink
+15491499 2004 NoLink
+22536866 2012 NoLink
+22536867 2012 NoLink
+22536868 2012 NoLink
+22536869 2012 NoLink
+22536865 2012 NoLink
+22536871 2012 NoLink
+22385976 2012 available http://www.phantome.org/phisigns/ 200 null http://phisigns.sourceforge.net/ 200 
+22424087 2012 available http://cwtung.kmu.edu.tw/pupdb 301 
+22443377 2012 NoLink
+22429538 2012 NoLink
+22536893 2012 NoLink
+22536894 2012 NoLink
+22978315 2012 NoLink
+22536896 2012 NoLink
+22536897 2012 NoLink
+22536969 2012 available http://www.math.unipd.it/~dasan/biomarkers.html 200 
+23046442 2012 NoLink
+23035929 2012 null https://sourceforge.net/projects/dmetanalyzer/files/ 301 
+22536975 2012 NoLink
+22568790 2012 software http://cptweb.cpt.wayne.edu 200 
+22536903 2012 available http://genome.ucf.edu/RNAEAPath 301 
+22536904 2012 NoLink
+22536905 2012 NoLink
+22536906 2012 NoLink
+22536907 2012 NoLink
+22607209 2012 NoLink
+23216942 2012 null http://cran.r-project.org/ 200 
+22439608 2012 application http://arena3d.org/ 200 
+22873757 2012 abstractNotFound
+22646090 2012 NoLink
+22443413 2012 available http://www.bioinf.manchester.ac.uk/segminator/ 200 
+22443449 2012 download http://alcovna.genouest.org/mapsembler/ 301 
+22449207 2012 NoLink
+12445335 2002 NoLink
+22452998 2012 NoLink
+22536954 2012 NoLink
+22536955 2012 available http://tcoffee.crg.cat/tmcoffee 302 code http://www.tcoffee.org/Packages/Stable/Latest 301 
+22536956 2012 NoLink
+22536958 2012 NoLink
+22536957 2012 NoLink
+22536959 2012 NoLink
+22536960 2012 null http://www.medcomp.medicina.unipd.it/Argot2 301 
+22536961 2012 NoLink
+23046496 2012 NoLink
+23046475 2012 NoLink
+22536964 2012 NoLink
+23046301 2012 NoLink
+22536973 2012 NoLink
+22536976 2012 NoLink
+22536968 2012 available http://beat.ba.itb.cnr.it 200 
+22537040 2012 NoLink
+22536970 2012 NoLink
+22536971 2012 NoLink
+22536972 2012 NoLink
+26498454 2015 NoLink
+22536974 2012 NoLink
+27766949 2016 NoLink
+22536967 2012 NoLink
+22458711 2012 NoLink
+22594994 2012 abstractNotFound
+22401579 2012 NoLink
+23368677 2013 
+22574904 2012 NoLink
+22574924 2012 NoLink
+22574945 2012 available http://gevads.cs.put.poznan.pl/preview/ -1 
+22574964 2012 NoLink
+22578364 2012 NoLink
+17683614 2007 NoLink
+22583488 2012 null https://engineering.purdue.edu/PRECISE/3dmolnavi/index.html 301 
+22583530 2012 NoLink
+22583558 2012 NoLink
+22587526 2012 NoLink
+23199373 2012 NoLink
+22591039 2012 available http://sourceforge.net/projects/melting/ 301 null http://www.ebi.ac.uk/compneur-srv/melting/ 301 
+22591066 2012 null http://metamapp.fiehnlab.ucdavis.edu 302 
+22594911 2012 NoLink
+22594948 2012 NoLink
+22607328 2012 abstractNotFound
+22607364 2012 NoLink
+22607382 2012 tool http://www.rulebender.org 302 
+22607449 2012 NoLink
+22607476 2012 NoLink
+22607515 2012 NoLink
+22607549 2012 NoLink
+23176322 2012 NoLink
+23017167 2012 NoLink
+22548871 2012 
+22548918 2012 NoLink
+22548963 2012 NoLink
+22548981 2012 NoLink
+22549015 2012 abstractNotFound
+22607234 2012 null http://ifestos.cse.sc.edu/mstali 301 
+22607271 2012 null http://www.myexperiment.org/packs/183.html 200 package http://sourceforge.net/projects/np-likeness/ 301 
+22621237 2012 NoLink
+22621266 2012 NoLink
+22621308 2012 available http://netlab.csu.edu.cn/bioinfomatics/limin/DFM-CIN/index.html 200 
+22624611 2012 NoLink
+22624656 2012 null http://iimcb.genesilico.pl/metadisorder/ 200 
+22646858 2012 NoLink
+22646978 2012 null http://ieg2.ou.edu/MENA 301 
+23043260 2012 software http://www.stats.ox.ac.uk/research/genome/software/frnakenstein 404 
+22559006 2012 NoLink
+23095709 2012 NoLink
+22651691 2012 NoLink
+22554139 2012 NoLink
+22554182 2012 NoLink
+22559859 2012 NoLink
+22559876 2012 available http://lifecenter.sgst.cn/fusion/ 503 
+23020243 2012 NoLink
+22559942 2012 available http://www.tavaxy.org 200 
+22559985 2012 NoLink
+22558947 2012 NoLink
+23369017 2013 NoLink
+22559038 2012 NoLink
+22559072 2012 available http://www.zbh.uni-hamburg.de/readjoiner -1 
+22568834 2012 available http://dipsbc.molgen.mpg.de 200 
+22594995 2012 NoLink
+22594996 2012 NoLink
+22594997 2012 NoLink
+22594998 2012 null http://projects.tcag.ca/variation 301 null http://genovar.sourceforge.net/ 200 
+22594999 2012 NoLink
+22595000 2012 NoLink
+22595001 2012 NoLink
+22595002 2012 NoLink
+22595003 2012 NoLink
+22595004 2012 NoLink
+22595005 2012 NoLink
+22595006 2012 NoLink
+22838965 2012 NoLink
+22958836 2012 NoLink
+23095498 2012 here http://bar.biocomp.unibo.it/mg 302 
+22568884 2012 NoLink
+23095524 2012 NoLink
+23146171 2012 NoLink
+23146204 2012 NoLink
+23148417 2012 NoLink
+23148484 2012 code http://code.google.com/p/oculus-bio 405 
+23148517 2012 NoLink
+23194062 2012 NoLink
+22966980 2012 NoLink
+23176207 2012 NoLink
+23176142 2012 NoLink
+23176119 2012 NoLink
+23176165 2012 NoLink
+23176192 2012 abstractNotFound
+23176259 2012 NoLink
+23013469 2012 software http://www.plantbreeding.nl/UK/software_pedigreeSim.html 301 
+23176300 2012 NoLink
+23369061 2013 NoLink
+23176351 2012 software http://www.stat.purdue.edu/~ovitek/Software.html 200 
+23176383 2012 NoLink
+23176520 2012 NoLink
+23176545 2012 NoLink
+23363224 2013 NoLink
+23323856 2013 NoLink
+22950634 2012 NoLink
+24267277 2013 NoLink
+24267488 2013 NoLink
+24267545 2013 NoLink
+24267594 2013 NoLink
+24267662 2013 NoLink
+23927037 2013 NoLink
+23937249 2013 NoLink
+23941167 2013 NoLink
+23941207 2013 available http://bioinformatics.ustc.edu.cn/pkis 301 
+23947436 2013 null https://www.gentrepid.org/ 200 
+23945046 2013 available http://toolkit.lmb.uni-muenchen.de/pub/kClust/ 301 
+23953132 2013 NoLink
+23957362 2013 available http://ecesrvr.kustar.ac.ae:8080/ 200 
+23962281 2013 null http://staffwww.dcs.shef.ac.uk/people/J.Hensman/ 403 
+23965047 2013 available http://www.bioconductor.org 200 
+23964998 2013 NoLink
+23965160 2013 NoLink
+23965170 2013 NoLink
+23937229 2013 NoLink
+23971965 2013 NoLink
+23968174 2013 NoLink
+23968143 2013 NoLink
+23981907 2013 NoLink
+23981227 2013 available http://bioinformatics.wistar.upenn.edu/NPEBseq -1 
+24004649 2013 NoLink
+24001185 2013 available http://www.evocell.org/inTB 200 
+23924163 2013 available http://gnaweb.helmholtz-hzi.de/cgi-bin/MCatch/MatrixCatch.pl -1 
+23937194 2013 NoLink
+24330312 2013 available http://marmal-aid.org 302 
+24330332 2013 NoLink
+24564620 2013 NoLink
+24330355 2013 NoLink
+24365034 2013 NoLink
+24330428 2013 NoLink
+24341404 2013 NoLink
+24305512 2013 NoLink
+24274019 2013 NoLink
+24350580 2013 NoLink
+24289175 2013 null http://cptweb.cpt.wayne.edu/DbD2/ 200 
+24359104 2013 NoLink
+24359123 2013 NoLink
+21210976 2010 NoLink
+24289158 2013 available http://wkinmut.bioinfo.cnio.es 302 
+24373308 2013 available http://compbio.cs.odu.edu/fly/ 200 
+24299017 2013 tool http://imi.kyushu-u.ac.jp/~om/ 200 
+24266904 2013 NoLink
+24299066 2013 NoLink
+24299119 2013 NoLink
+24305169 2013 NoLink
+24305467 2013 NoLink
+24191903 2013 NoLink
+24305553 2013 NoLink
+24618344 2014 null http://www.drug2gene.com -1 
+24308302 2013 NoLink
+24314022 2013 NoLink
+24314033 2013 available http://github.com/adarob/express-d 301 
+23323800 2013 NoLink
+23398696 2013 NoLink
+23398735 2013 NoLink
+23398781 2013 NoLink
+23402646 2013 NoLink
+23514273 2013 NoLink
+23387364 2013 NoLink
+23413997 2013 available http://bioinformatics.ua.pt/gimli 302 
+23419172 2013 NoLink
+23418726 2013 null http://dblab.hallym.ac.kr/CNVSS/ 404 
+23418752 2013 NoLink
+23418672 2013 available http://www.openms.de 200 
+23374886 2013 NoLink
+23374913 2013 NoLink
+23374982 2013 NoLink
+23514233 2013 NoLink
+23432934 2013 NoLink
+23506672 2013 NoLink
+24564169 2013 NoLink
+24564231 2013 available https://github.com/CBMi-BiG/bamchop 301 
+23452776 2013 NoLink
+23433084 2013 NoLink
+23441864 2013 NoLink
+23441880 2013 NoLink
+23441908 2013 NoLink
+23441934 2013 NoLink
+23444904 2013 
+23444967 2013 available http://bioinformatics.math.chalmers.se/Xspecies/ 200 
+23445074 2013 NoLink
+23445120 2013 NoLink
+23514097 2013 null http://gmobl.sjtu.edu.cn/proAP/main.html -1 
+23514123 2013 available http://strut.sourceforge.net 301 
+23514195 2013 NoLink
+23514353 2013 NoLink
+23514271 2013 null 2aqw -1 null 3h3l -1 null 1m4w -1 null 3q1t -1 null 2j5s -1 
+27177941 2016 NoLink
+23497144 2013 NoLink
+23514381 2013 NoLink
+23514411 2013 NoLink
+23514099 2013 NoLink
+23514548 2013 NoLink
+23514582 2013 NoLink
+23514608 2013 NoLink
+24564474 2013 NoLink
+23379655 2013 null http://www.bioconductor.org 200 
+23379678 2013 NoLink
+23384097 2013 NoLink
+23409969 2013 available http://mooneygroup.org/stop/ 302 
+23387433 2013 code http://plaza.ufl.edu/xywang/Mpick.htm 200 
+23387468 2013 null http://crdd.osdd.net/raghava/vitapred/ 200 
+23390980 2013 NoLink
+23394478 2013 download http://bioinformatics.lif.univ-mrs.fr/consensus/index.html 404 
+23368411 2013 NoLink
+23368786 2013 NoLink
+23368951 2013 NoLink
+23368876 2013 NoLink
+23369106 2013 null http://www.itb.cnr.it/snpranker 301 
+23368899 2013 NoLink
+23369037 2013 NoLink
+23368970 2013 NoLink
+23369085 2013 NoLink
+23368995 2013 NoLink
+23885712 2013 NoLink
+23890277 2013 NoLink
+23890326 2013 NoLink
+23899245 2013 NoLink
+23819480 2013 NoLink
+23822712 2013 NoLink
+23829206 2013 NoLink
+23902516 2013 NoLink
+24267543 2013 NoLink
+23837656 2013 NoLink
+23837681 2013 NoLink
+23841912 2013 NoLink
+23758851 2013 NoLink
+23758877 2013 NoLink
+23758891 2013 available http://www.bioconductor.org/packages/2.12/bioc/html/iPAC.html 200 
+23763826 2013 NoLink
+23763838 2013 NoLink
+23768108 2013 available http://www.wakehealth.edu/CTSB/Software/Software.htm 404 
+23768135 2013 available http://bionerds.sourceforge.net/ 200 
+23773188 2013 NoLink
+23777625 2013 NoLink
+23802936 2013 NoLink
+23800244 2013 NoLink
+23777206 2013 NoLink
+17217502 2006 NoLink
+23782512 2013 download http://seqsimla.sourceforge.net 200 
+23786262 2013 NoLink
+23786315 2013 NoLink
+23800136 2013 null http://hallam.microbiology.ubc.ca/MetaPathways 301 
+23800157 2013 NoLink
+23800200 2013 NoLink
+23800225 2013 NoLink
+24011402 2013 available https://github.com/luscinius/afcluster 301 
+23806107 2013 NoLink
+24010487 2013 NoLink
+23803001 2013 NoLink
+23902433 2013 NoLink
+23902469 2013 available http://alan.cs.gsu.edu/vira.html 200 null http://alan.cs.gsu.edu/NGS/?q=content/shotmcf 200 
+23902523 2013 NoLink
+23901840 2013 NoLink
+23901792 2013 NoLink
+23902564 2013 NoLink
+24913605 2014 NoLink
+23802887 2013 NoLink
+23725412 2013 NoLink
+NA 2013 abstractNotFound
+23725466 2013 null http://pmted.agrinome.org 200 
+23731785 2013 NoLink
+23731822 2013 NoLink
+23738568 2013 NoLink
+23742070 2013 NoLink
+23742095 2013 NoLink
+23742129 2013 null http://dcm.ffclrp.usp.br/caib/pg=iptrans 302 
+23742147 2013 NoLink
+23742159 2013 NoLink
+23758746 2013 NoLink
+23758764 2013 NoLink
+23758781 2013 NoLink
+23758809 2013 available http://labs.csb.utoronto.ca/yang/MITEDigger 301 
+24261665 2013 software http://dna.cs.byu.edu/gnumap 301 
+23497388 2013 NoLink
+24564250 2013 available http://www.exelixis-lab.org/gapmis 500 
+24564274 2013 NoLink
+23496817 2013 code http://www.herbbol.org:8000/chloroplast -1 
+23496846 2013 NoLink
+23496927 2013 download https://bitbucket.org/akdehof/nightshift 301 null https://ballaxy.bioinf.uni-sb.de/ -1 
+23496896 2013 NoLink
+23095471 2012 NoLink
+24564294 2013 NoLink
+23497329 2013 NoLink
+23510016 2013 NoLink
+23514613 2013 NoLink
+23522326 2013 NoLink
+23517090 2013 null http://eagl.unige.ch/PTM/ 404 
+23522286 2013 NoLink
+23522376 2013 available http://biogrid.engr.uconn.edu/lasagna_search/ 200 
+23522344 2013 NoLink
+23530628 2013 software http://sydney.edu.au/pharmacy/sbio/software/TMH_benchmark.shtml 200 
+19091028 2008 NoLink
+23530607 2013 NoLink
+23530693 2013 NoLink
+23537512 2013 NoLink
+23537461 2013 NoLink
+23537498 2013 NoLink
+23635078 2013 NoLink
+15272936 2004 NoLink
+23496976 2013 null http://price.systemsbiology.net/AUREA/ 301 
+23514126 2013 null http://www.violinet.org/vaxign 301 
+23514235 2013 available http://save.cs.ntou.edu.tw 200 
+18651953 2008 available http://faculty.cs.tamu.edu/shsze/ssfold 301 
+24267181 2013 NoLink
+23497043 2013 NoLink
+23323831 2013 download http://www.bioconductor.org 200 
+23497112 2013 available http://lemur.amu.edu.pl/share/HuntMi/ 200 
+15606919 2004 NoLink
+23497171 2013 NoLink
+24246060 2013 NoLink
+23497228 2013 NoLink
+23497251 2013 available http://iris.rnet.missouri.edu/dndisorder/ 404 
+23815711 2013 NoLink
+24308284 2013 NoLink
+23514456 2013 NoLink
+23514199 2013 available http://cekeg.cs.ntou.edu.tw 200 
+20946602 2010 NoLink
+21284866 2011 available http://sysbio.rnet.missouri.edu/dobo/ 200 
+18793472 2008 NoLink
+17134515 2006 available http://bioinfo.au.tsinghua.edu.cn/subMito -1 
+24256031 2013 NoLink
+19811677 2009 NoLink
+23668630 2013 null http://www.phylotastic.org 200 
+23672344 2013 NoLink
+23679007 2013 NoLink
+23679045 2013 NoLink
+23679062 2013 NoLink
+23641706 2013 NoLink
+23635100 2013 null http://www.mlva.eu 200 available http://www.cidmpublichealth.org/pages/ausetts.html -1 
+23634662 2013 NoLink
+23688127 2013 available http://faculty.uaeu.ac.ae/nzaki/Research.htm 200 
+23697330 2013 NoLink
+23705896 2013 NoLink
+23711206 2013 NoLink
+23714400 2013 null https://sourceforge.net/apps/mediawiki/vancouvershortr/index.php?title=Pipeline_introduction 301 
+23634703 2013 NoLink
+23639181 2013 NoLink
+23718826 2013 NoLink
+23721376 2013 NoLink
+23725313 2013 NoLink
+23725347 2013 NoLink
+23647742 2013 available http://gene.moffitt.org/libaffy/ 200 
+23651452 2013 download http://www.bhsai.org/downloads/padds/ 302 
+23656838 2013 NoLink
+23651459 2013 NoLink
+23651487 2013 NoLink
+23815611 2013 NoLink
+24886250 2014 null http://www.bioconductor.org 200 
+23815677 2013 NoLink
+24712884 2014 NoLink
+23815087 2013 NoLink
+24884701 2014 NoLink
+24428898 2014 NoLink
+24902592 2014 NoLink
+23815227 2013 NoLink
+23815271 2013 NoLink
+23815296 2013 NoLink
+23815343 2013 NoLink
+23725374 2013 NoLink
+24564291 2013 NoLink
+24564335 2013 NoLink
+24564434 2013 NoLink
+24152222 2013 NoLink
+24088262 2013 NoLink
+24134721 2013 NoLink
+24219505 2013 available http://plantgrn.noble.org/PlantTFcat/ 200 
+24225050 2013 NoLink
+24225062 2013 available http://biopathway.org/CoMAGC -1 null http://creativecommons.org/licenses/by/2.0 301 
+24229408 2013 null http://purl.oclc.org/NET/sunplin/ 302 
+24237905 2013 NoLink
+24246037 2013 NoLink
+27565741 2016 NoLink
+24252066 2013 NoLink
+24252103 2013 NoLink
+24252138 2013 available https://bitbucket.org/caseywdunn/agalma 301 
+24252171 2013 NoLink
+24252193 2013 NoLink
+24255945 2013 NoLink
+24255987 2013 NoLink
+27716036 2016 NoLink
+24256072 2013 NoLink
+24004689 2013 NoLink
+24261687 2013 NoLink
+24266924 2013 software http://birc.au.dk/software/ziphmm/ 200 
+24266983 2013 NoLink
+15096275 2004 NoLink
+24283794 2013 null http://cbdm.mdc-berlin.de/~amer/nyce 404 
+24283849 2013 NoLink
+24286232 2013 NoLink
+24044430 2013 NoLink
+23432980 2013 NoLink
+23432962 2013 null http://ggdc.dsmz.de 200 
+24267745 2013 NoLink
+24564333 2013 NoLink
+24564364 2013 NoLink
+24180558 2013 available http://www.die.upm.es/im/archives/DCEurLAB/ 200 
+24564201 2013 null http://kinari.cs.umass.edu 200 
+24731138 2014 NoLink
+24731198 2014 available http://geneweaver.org 200 
+24564238 2013 available http://tech.knime.org/imagebee-analysing-imaging-data-from-the-honeybee-brain 301 
+23630983 2013 NoLink
+24191891 2013 NoLink
+24742328 2014 NoLink
+24195722 2013 NoLink
+24209455 2013 software http://www.cbcb.umd.edu/software/spanki 301 
+24112435 2013 download http://purl.oclc.org/NET/cudaMap 302 
+24118904 2013 NoLink
+24112406 2013 available http://bio-cluster.iis.sinica.edu.tw/TMexpo -1 
+24118878 2013 NoLink
+24564391 2013 NoLink
+24564227 2013 NoLink
+24564457 2013 NoLink
+24267974 2013 null http://www.genomerunner.org 200 
+15960829 2005 null http://www.ebi.ac.uk/GOA 301 
+15960824 2005 NoLink
+15960825 2005 NoLink
+15960826 2005 NoLink
+15960827 2005 NoLink
+15960832 2005 NoLink
+15960823 2005 NoLink
+15960831 2005 NoLink
+15960842 2005 NoLink
+15960828 2005 NoLink
+15960833 2005 NoLink
+15960834 2005 NoLink
+15960835 2005 NoLink
+15960836 2005 NoLink
+15960837 2005 available ftp://ftp.ncbi.nlm.nih.gov/pub/tanabe/GENETAG.tar.gz 301 
+15960838 2005 NoLink
+15960839 2005 NoLink
+15960841 2005 NoLink
+15960840 2005 NoLink
+15960830 2005 NoLink
+15960843 2005 NoLink
+15929789 2005 available http://yana.bioapps.biozentrum.uni-wuerzburg.de 307 
+15918906 2005 NoLink
+15921519 2005 available http://www.rossnes.org/phyrex 301 
+15924626 2005 NoLink
+15921534 2005 NoLink
+16156896 2005 here http://dulci.biostat.duke.edu/pathways -1 
+15865625 2005 NoLink
+15960854 2005 software http://www-mig.jouy.inra.fr/stat/AnovArray 404 
+16202130 2005 method http://genomics10.bu.edu/GeneChords 301 
+15927052 2005 NoLink
+15850477 2005 NoLink
+15877815 2005 NoLink
+16274476 2005 NoLink
+16293191 2005 NoLink
+16297240 2005 NoLink
+16297241 2005 NoLink
+16297243 2005 NoLink
+16259642 2005 NoLink
+16305745 2005 NoLink
+16305750 2005 NoLink
+16305751 2005 null http://pir.georgetown.edu/cupid 301 
+16316462 2005 NoLink
+16316461 2005 NoLink
+16318635 2005 available http://www.jenner.ac.uk/DSD/ 404 
+16318626 2005 NoLink
+16318636 2005 NoLink
+16318631 2005 NoLink
+16269077 2005 null http://www.bioinf.man.ac.uk/microarray/maxd/ 404 null http://dbk.ch.umist.ac.uk/maxdBrowse -1 
+16271137 2005 NoLink
+16288652 2005 NoLink
+16274478 2005 NoLink
+16280078 2005 NoLink
+16280084 2005 available http://microarray.cu.genome.org -1 
+16283923 2005 NoLink
+16283924 2005 NoLink
+16225682 2005 NoLink
+16221298 2005 NoLink
+16221304 2005 available http://www.igs.cnrs-mrs.fr/phydbac/indexPS.html 404 
+16221309 2005 NoLink
+16221310 2005 null http://proline.bic.nus.edu.sg/spdb 301 
+16223442 2005 NoLink
+16232321 2005 NoLink
+16225674 2005 NoLink
+16225676 2005 NoLink
+16216129 2005 NoLink
+16225688 2005 NoLink
+16225690 2005 NoLink
+16225696 2005 NoLink
+16393334 2006 NoLink
+16236170 2005 code http://chembank.broad.harvard.edu/resources/ 302 
+16253142 2005 NoLink
+16242044 2005 NoLink
+16403211 2006 NoLink
+16232312 2005 NoLink
+16202129 2005 NoLink
+16401337 2006 NoLink
+16207377 2005 available http://aspic.algo.disco.unimib.it/aspic-devel/ -1 
+16156887 2005 NoLink
+16417622 2006 NoLink
+16122386 2005 NoLink
+16401341 2006 NoLink
+16171521 2005 NoLink
+16171527 2005 NoLink
+16171528 2005 NoLink
+16171529 2005 NoLink
+16137321 2005 NoLink
+16219110 2005 abstractNotFound
+16401345 2006 available http://oligospawn.ucr.edu/ 301 
+16176585 2005 NoLink
+16185360 2005 NoLink
+16188029 2005 NoLink
+16048644 2005 NoLink
+16191190 2005 NoLink
+16191193 2005 NoLink
+16191195 2005 NoLink
+16194281 2005 NoLink
+16146579 2005 available http://www.pdbj.org/GASH/ 302 
+16146575 2005 NoLink
+16120222 2005 NoLink
+24564537 2013 NoLink
+24564644 2013 available http://bioweb.supagro.inra.fr/homeoSplitter/ 200 
+24564706 2013 available https://github.com/cbib/MIX 301 available http://services.cbib.u-bordeaux2.fr/mix/ 301 
+24564731 2013 NoLink
+24564758 2013 NoLink
+24564814 2013 NoLink
+24564842 2013 NoLink
+24564704 2013 code http://www2.imperial.ac.uk/~gmontana 302 
+24564205 2013 NoLink
+24564421 2013 NoLink
+24564257 2013 NoLink
+24564272 2013 NoLink
+24131777 2013 NoLink
+24564303 2013 NoLink
+24564345 2013 NoLink
+24131797 2013 NoLink
+24148216 2013 NoLink
+24268183 2013 NoLink
+24268301 2013 NoLink
+24266885 2013 NoLink
+24350574 2013 NoLink
+24266942 2013 NoLink
+24266986 2013 NoLink
+24267383 2013 available http://hpcr.cs.odu.edu/dinosolve -1 
+24564437 2013 download http://iclab.life.nctu.edu.tw/HCS-Neurons 404 
+24266945 2013 available http://bioinfo.okstate.edu/PLpred/ 301 
+24266981 2013 NoLink
+24079540 2013 NoLink
+24564381 2013 null http://csb.cse.yzu.edu.tw/ViralPhos/ 200 
+24564410 2013 NoLink
+24564609 2013 download http://www.cellXpress.org 200 
+24564477 2013 tool http://www4a.biotec.or.th/GI/tools/metasel 200 
+24564496 2013 available http://inspect.braembl.org.au/bi/inspect/rmani -1 
+24564522 2013 null http://csb.cse.yzu.edu.tw/PhosK3D/ 302 
+24564553 2013 NoLink
+20122234 2010 NoLink
+24564638 2013 NoLink
+24564182 2013 NoLink
+24564719 2013 NoLink
+24564762 2013 null http://www.comp.nus.edu.sg/~leonghw/COCIN/ 404 
+24564794 2013 NoLink
+24090217 2013 NoLink
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+17257425 2007 NoLink
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+24725911 2014 NoLink
+NA 2013 abstractNotFound
+NA 2013 abstractNotFound
+24088301 2013 NoLink
+24152242 2013 null http://folk.uio.no/einarro/Projects/KFM-index/ 200 
+27766937 2016 NoLink
+24165390 2013 available http://www.abl.ku.edu/ProA/ 301 
+24088199 2013 NoLink
+24088245 2013 NoLink
+16524471 2006 NoLink
+24341432 2013 NoLink
+24267009 2013 null http://www.imtech.res.in/raghava/phdcleav/ 301 
+25887734 2015 NoLink
+24028533 2013 NoLink
+24267797 2013 NoLink
+24564200 2013 NoLink
+24267585 2013 available http://iris.rnet.missouri.edu/dncon/ 404 
+24383880 2014 NoLink
+24725842 2014 NoLink
+24044377 2013 NoLink
+24938393 2014 NoLink
+24047460 2013 download http://bioinf.cs.ucl.ac.uk/downloads/memembed/ 301 
+24053737 2013 available http://genopole.pasteur.fr/SynTView 301 
+24053776 2013 NoLink
+24059747 2013 NoLink
+24067087 2013 NoLink
+24650281 2014 available http://www.maayanlab.net/CD 301 
+24725768 2014 NoLink
+24717145 2014 NoLink
+24267918 2013 available http://websystem.csie.ncku.edu.tw/CTGR-Span.rar -1 
+24267980 2013 NoLink
+21708038 2011 NoLink
+24423111 2014 NoLink
+24063607 2013 available http://bioinformatics.ua.pt/neji 302 
+24886370 2014 NoLink
+24070402 2013 NoLink
+24934562 2014 NoLink
+24180526 2013 NoLink
+23735122 2013 available http://sourceforge.net/projects/pybioimage/ 301 
+24006840 2013 NoLink
+24006871 2013 available https://sourceforge.net/projects/pathway-pdt/ 301 
+24011432 2013 available http://genome.ucf.edu/ERA 301 
+24015679 2013 null http://cran.r-project.org 200 
+23433004 2013 NoLink
+23497429 2013 NoLink
+24717120 2014 available http://fich.unl.edu.ar/sinc/web-demo/bsom-lite/ 301 available http://sourceforge.net/projects/sourcesinc/files/bsom 301 
+24564171 2013 NoLink
+24717095 2014 NoLink
+24731174 2014 NoLink
+24725682 2014 NoLink
+NA 2013 abstractNotFound
+24731071 2014 NoLink
+23734627 2013 available http://www.cs.helsinki.fi/gsa/traph/ 302 
+24758699 2014 NoLink
+24766777 2014 NoLink
+24766829 2014 download http://www-bioinf.uni-regensburg.de -1 
+NA 2014 NoLink
+24742351 2014 NoLink
+24684679 2014 NoLink
+24750645 2014 NoLink
+24776231 2014 available http://sysbio.rnet.missouri.edu/multicom_toolbox/ 200 
+24773593 2014 available http://www.comp.hkbu.edu.hk/~youli/ProteinByGPU.html 200 
+24884564 2014 NoLink
+24742296 2014 NoLink
+24780064 2014 NoLink
+24780077 2014 NoLink
+24884964 2014 NoLink
+24423189 2014 available http://gsGator.ewha.ac.kr 503 
+24885091 2014 NoLink
+23734846 2013 null http://alignment.commons.yale.edu 301 
+24694083 2014 NoLink
+24685258 2014 available http://helix.ewi.tudelft.nl/spice 301 
+24707821 2014 NoLink
+24712852 2014 NoLink
+24564209 2013 software http://kinari.cs.umass.edu 200 
+24564791 2014 null http://qtreds.crs4.it 200 
+25109603 2014 NoLink
+25113665 2014 NoLink
+25077567 2014 NoLink
+NA 2014 abstractNotFound
+NA 2014 abstractNotFound
+NA 2014 abstractNotFound
+NA 2014 abstractNotFound
+NA 2014 abstractNotFound
+NA 2014 abstractNotFound
+24996690 2014 null http://sourceforge.net/projects/seneca/ 301 
+NA 2014 abstractNotFound
+24511909 2014 NoLink
+24533837 2014 NoLink
+24533858 2014 NoLink
+24479443 2014 available http://engr.uconn.edu/~man09004/PMS8/ 403 
+24495268 2014 NoLink
+24555567 2014 NoLink
+24555668 2014 NoLink
+24555693 2014 NoLink
+24559245 2014 NoLink
+24915860 2014 NoLink
+24564523 2014 NoLink
+24410833 2014 NoLink
+24564583 2014 NoLink
+24568581 2014 NoLink
+24571520 2014 NoLink
+24571547 2014 NoLink
+24575751 2014 software http://www.cyanolab.de/software/RNAHeliCes.htm 200 
+24580755 2014 null http://hazeslab.med.ualberta.ca/CDSbank/ -1 
+24491042 2014 NoLink
+24499321 2014 available http://hobbes.ics.uci.edu 200 
+24484385 2014 null http://upep-scmb.biosci.uq.edu.au -1 
+24495296 2014 download http://sourceforge.net/projects/sincsimulator 301 
+24499292 2014 null http://vamps.mbl.edu 301 
+24495746 2014 NoLink
+17570868 2007 NoLink
+24502833 2014 pipeline https://github.com/naturalis/HTS-barcode-checker 301 
+24499370 2014 NoLink
+24507166 2014 NoLink
+24564635 2014 NoLink
+24564714 2014 NoLink
+24564732 2014 here https://github.com/ISA-tools/Risa 301 
+24564760 2014 NoLink
+24564446 2014 available http://cru.genomics.iit.it/AnnotateGenomicRegions 302 
+24564220 2014 NoLink
+24564199 2014 NoLink
+24564249 2014 NoLink
+24564278 2014 available http://www.bioinformatics.deib.polimi.it/bio-seco/seco/ 200 
+24564296 2014 NoLink
+24564336 2014 available http://genome2.ugr.es/prophnet 301 
+24564370 2014 NoLink
+24564404 2014 NoLink
+24766796 2014 NoLink
+24564482 2014 NoLink
+24564551 2014 NoLink
+24410852 2014 null http://skylign.org 200 
+24410865 2014 NoLink
+24885496 2014 NoLink
+24423115 2014 code http://krux.googlecode.com 404 
+24479419 2014 NoLink
+24885271 2014 NoLink
+24423252 2014 NoLink
+24423217 2014 NoLink
+24885407 2014 NoLink
+24428894 2014 NoLink
+24902483 2014 NoLink
+24428905 2014 NoLink
+24934728 2014 NoLink
+24438151 2014 NoLink
+24444459 2014 available http://bioshell.pl/threading3d 404 
+24438171 2014 NoLink
+24976580 2014 available http://github.com/nedaz/kraken 301 
+24980894 2014 available http://sourceforge.net/projects/snowyowl/ 301 
+24450533 2014 software http://www.rahmannlab.de/research/ims 404 
+24564500 2014 NoLink
+24564526 2014 NoLink
+24564555 2014 NoLink
+24564580 2014 available http://bioinformatics.hitsz.edu.cn/DistanceSVM/index.jsp 200 
+24564647 2014 available https://sites.google.com/site/wentingntu/data 302 
+24564710 2014 available http://www.msu.edu/~jinchen/InteGO 301 
+24564744 2014 NoLink
+24564789 2014 NoLink
+24564855 2014 NoLink
+25089037 2014 NoLink
+24460695 2014 NoLink
+24467687 2014 available http://hive.biochemistry.gwu.edu/dna.cgi?cmd=csr 301 
+24472427 2014 NoLink
+24475911 2014 NoLink
+24475950 2014 NoLink
+24475928 2014 available http://sing.ei.uvigo.es/GC/ 200 
+24564491 2014 download http://blue-meduza.org/Eureka-DMA -1 
+24564837 2014 NoLink
+24484323 2014 software https://github.com/morrislab/phylosub/ 301 
+24885610 2014 NoLink
+24386976 2014 NoLink
+24387001 2014 NoLink
+24387046 2014 available http://sysbio.unl.edu/ 200 
+24405700 2014 available https://bioinformatics.cs.vt.edu/zhanglab/hmm 301 
+25002076 2014 available http://bit.ly/1iJgKmX 301 
+25002203 2014 NoLink
+25015298 2014 NoLink
+25015590 2014 NoLink
+25015427 2014 NoLink
+24972703 2014 NoLink
+25082539 2014 NoLink
+25080829 2014 NoLink
+25080939 2014 available http://hpcr.cs.odu.edu/c8scorpion -1 
+25080993 2014 NoLink
+25081062 2014 NoLink
+25228247 2014 NoLink
+25027647 2014 NoLink
+24994456 2014 null http://borreliabase.org 200 
+25030031 2014 NoLink
+25037487 2014 NoLink
+25038816 2014 NoLink
+25047600 2014 NoLink
+24629096 2014 NoLink
+24629125 2014 NoLink
+25104130 2014 NoLink
+25104221 2014 NoLink
+25104313 2014 null http://www.violinet.org/dnavaxdb 301 
+25104437 2014 NoLink
+24646163 2014 NoLink
+NA 2014 abstractNotFound
+24646213 2014 NoLink
+24646301 2014 null http://search.cpan.org/~sgovind/Shatterproof 301 
+24580776 2014 NoLink
+25225011 2014 NoLink
+24655606 2014 NoLink
+24655717 2014 package http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html 200 
+24661439 2014 NoLink
+24666587 2014 NoLink
+24666611 2014 NoLink
+24669753 2014 NoLink
+24669769 2014 available http://bioconductor.org/packages/release/bioc/html/GraphPAC.html 200 
+24669788 2014 NoLink
+24669828 2014 NoLink
+24885381 2014 available http://hector454.sourceforge.net 200 
+24678591 2014 NoLink
+24678608 2014 available http://cran.r-project.org/web/packages/metaRNASeq 301 
+24694117 2014 null http://qcmf.informatik.uni-goettingen.de/ 200 
+25077979 2014 NoLink
+24685233 2014 NoLink
+24606587 2014 NoLink
+24597904 2014 NoLink
+24589256 2014 NoLink
+23734575 2013 NoLink
+24886083 2014 NoLink
+24886202 2014 available http://www.stjuderesearch.org/site/depts/biostats/rctrack 200 
+24885830 2014 NoLink
+23735014 2013 NoLink
+24884464 2014 NoLink
+23734629 2013 NoLink
+25078282 2014 abstractNotFound
+25078435 2014 NoLink
+25078574 2014 NoLink
+25078762 2014 NoLink
+25078951 2014 NoLink
+25079119 2014 NoLink
+25079297 2014 NoLink
+25079450 2014 NoLink
+24884663 2014 code http://sourceforge.net/projects/moirai/ 301 
+24884954 2014 software http://www.cs.ubc.ca/~hjabbari/software.php 404 
+24884724 2014 NoLink
+24885064 2014 NoLink
+23815292 2013 null http://ferrolab.dmi.unict.it/ri.html 301 
+23815411 2013 NoLink
+24885750 2014 NoLink
+24962134 2014 NoLink
+24885854 2014 NoLink
+23815503 2013 NoLink
+23815620 2013 NoLink
+24886360 2014 download http://nbcr.ucsd.edu/WebChemViewer 404 download http://nbcr.ucsd.edu 200 
+24884358 2014 NoLink
+24884408 2014 NoLink
+23815126 2013 NoLink
+24884587 2014 NoLink
+25078098 2014 NoLink
+25079873 2014 NoLink
+25078123 2014 NoLink
+25350354 2014 NoLink
+25350499 2014 NoLink
+25434877 2014 NoLink
+25495206 2014 NoLink
+25420746 2014 NoLink
+25434802 2014 NoLink
+25435002 2014 NoLink
+25350589 2014 NoLink
+25350806 2014 NoLink
+25147026 2014 NoLink
+25260628 2014 NoLink
+19422713 2009 NoLink
+25591752 2015 NoLink
+26084333 2015 NoLink
+16153293 2005 available http://egg.umh.es/micromar/ 404 
+16507099 2006 NoLink
+16606446 2006 NoLink
+16606449 2006 NoLink
+16603075 2006 available http://proteome.wayne.edu/PIMdb.html 200 
+16608515 2006 NoLink
+16608522 2006 null http://phigs.org -1 
+20875133 2010 NoLink
+16503971 2006 NoLink
+16420705 2006 NoLink
+16611359 2006 NoLink
+16613602 2006 null http://bioinformatics.biol.rug.nl/websoftware/simage -1 
+16613604 2006 NoLink
+16613608 2006 NoLink
+16618368 2006 null http://www.ist.temple.edu/disprot/predictorVSL2.php 302 
+16620382 2006 NoLink
+16623936 2006 null http://bioinformatics.well.ox.ac.uk/project-igs.shtml -1 
+16623940 2006 NoLink
+16623942 2006 NoLink
+16623953 2006 NoLink
+NA 2006 abstractNotFound
+16626497 2006 NoLink
+16630343 2006 NoLink
+16630345 2006 null http://www.brightstudy.ac.uk/das_help.html 200 
+16630346 2006 available https://bioinformatics.cs.vt.edu/xcisclique/ 500 
+16630347 2006 available http://centibin.ipk-gatersleben.de/ 200 
+16630348 2006 NoLink
+16638137 2006 NoLink
+16638152 2006 NoLink
+16670029 2006 null http://klab.med.wayne.edu/kspmm/ -1 
+16640788 2006 available http://imgt.cines.fr/GeneInfo -1 
+16640789 2006 available http://jcolorgrid.ucsf.edu 200 
+16643644 2006 NoLink
+16643648 2006 null http://www.genes.org.uk/software/midas 301 software http://www.sgel.humgen.soton.ac.uk/midas -1 
+16643657 2006 NoLink
+16643658 2006 NoLink
+16643665 2006 NoLink
+16643669 2006 software http://www.uni-muenster.de/Bioinformatics/services/treesim/ 301 
+16643672 2006 available http://genestamp.sinica.edu.tw/virus/index.htm. -1 
+16643673 2006 software http://www.ibms.sinica.edu.tw/%7Ecsjfann/first%20flow/pda.htm 200 
+16646969 2006 download http://fiehnlab.ucdavis.edu 200 
+16584545 2006 NoLink
+16584550 2006 NoLink
+16584563 2006 null http://bioinformatics.org/ebbie/ 200 
+16584566 2006 NoLink
+16569230 2006 NoLink
+16594991 2006 null http://kimura.univ-montp2.fr/BioPP 404 
+16597327 2006 available http://bioinformatics.biol.uoa.gr/HMM-TM 302 
+16740163 2006 NoLink
+16677382 2006 NoLink
+16600027 2006 available http://discover.nci.nih.gov/abminer 302 
+16600045 2006 NoLink
+16600052 2006 NoLink
+16606460 2006 NoLink
+16603083 2006 NoLink
+16901352 2006 NoLink
+16901353 2006 NoLink
+16904007 2006 null http://peanutgenetics.tamu.edu/cmap -1 null http://www.comparative-legumes.org 200 
+16904011 2006 NoLink
+16907975 2006 NoLink
+16907976 2006 NoLink
+16907992 2006 NoLink
+16911788 2006 NoLink
+16948844 2006 NoLink
+16914055 2006 software http://www.scs.uiuc.edu/~schulten/multiseq/ 301 
+16914063 2006 download http://www.icrisat.org/gt-bt/lims/lims.asp 404 
+16916454 2006 NoLink
+16916457 2006 NoLink
+16916470 2006 NoLink
+16919171 2006 NoLink
+16925821 2006 NoLink
+16930469 2006 NoLink
+16934139 2006 NoLink
+16934150 2006 NoLink
+16939640 2006 available http://gen.csie.ncku.edu.tw/GeneLibrarian/ -1 
+16939646 2006 available http://bioportal.weizmann.ac.il/HORDE/CORP/ 404 
+16884529 2006 NoLink
+16956394 2006 null http://biosrv1.bmi.ac.cn/rdmas -1 
+16942624 2006 NoLink
+16945132 2006 available http://bioinfo.lifl.fr/TFM-Explorer 404 
+16945146 2006 NoLink
+16887044 2006 NoLink
+16889662 2006 NoLink
+16893465 2006 NoLink
+16893466 2006 available http://bmf.colorado.edu/unifrac 404 
+16899134 2006 NoLink
+17217501 2006 NoLink
+NA 2010 abstractNotFound
+16351742 2005 null http://www.itb.cnr.it/estree/ 200 
+17445272 2007 publicly http://cowpeagenomics.med.virginia.edu/CGKB/ -1 
+17217514 2006 NoLink
+17217505 2006 NoLink
+17217522 2006 NoLink
+17217507 2006 NoLink
+17217508 2006 NoLink
+17217510 2006 null http://bioinfo-srv1.awh.unomaha.edu/genomeblast/ -1 
+17217509 2006 NoLink
+17217511 2006 NoLink
+17217512 2006 NoLink
+17217503 2006 NoLink
+26201262 2015 NoLink
+26216337 2015 NoLink
+26489510 2015 NoLink
+26581440 2015 NoLink
+27553427 2016 NoLink
+28166713 2016 NoLink
+27489012 2016 abstractNotFound
+26577052 2015 NoLink
+26607933 2015 NoLink
+26892454 2016 abstractNotFound
+26607812 2015 NoLink
+27029377 2016 NoLink
+26818387 2016 NoLink
+27266372 2016 NoLink
+26986007 2016 NoLink
+26961516 2016 NoLink
+26818848 2016 NoLink
+26818962 2016 NoLink
+27277014 2016 NoLink
+27295298 2016 NoLink
+27294690 2016 NoLink
+27585655 2016 NoLink
+28049424 2017 NoLink
+27454775 2016 NoLink
+27454532 2016 NoLink
+27453991 2016 NoLink
+27454357 2016 NoLink
+23497278 2013 NoLink
+28056771 2017 NoLink
+28185553 2016 NoLink
+28185583 2016 NoLink
+25884587 2015 NoLink
+17217527 2006 NoLink
+17217515 2006 NoLink
+17217516 2006 NoLink
+17217517 2006 NoLink
+17217518 2006 available http://mfgn.usm.edu/ebl/svm/ -1 
+17217519 2006 NoLink
+17217520 2006 NoLink
+17217521 2006 NoLink
+17217506 2006 NoLink
+17217523 2006 NoLink
+17217524 2006 NoLink
+17217525 2006 available http://database.cs.wayne.edu/bioinformatics -1 
+17217526 2006 NoLink
+17217504 2006 NoLink
+17166258 2006 NoLink
+17166289 2006 NoLink
+17169146 2006 NoLink
+17173684 2006 NoLink
+17173692 2006 NoLink
+NA 2006 abstractNotFound
+17254294 2006 NoLink
+17204155 2007 NoLink
+16507094 2006 null http://www.ebi.ac.uk/ontology-lookup/ 301 
+17254297 2006 null http://jing.cz3.nus.edu.sg/cgi-bin/svmprot.cgi -1 
+17254299 2006 NoLink
+17254298 2006 NoLink
+17254300 2006 null http://cmb.bnu.edu.cn/SPIDer/index.html 200 
+17254301 2006 NoLink
+17254304 2006 NoLink
+17254313 2006 NoLink
+17254314 2006 available http://www.cdfd.org.in/mycoperondb/index.html 200 
+17254305 2006 here http://tiger.dbs.nus.edu.sg/microtar/ 200 
+17254306 2006 NoLink
+17254307 2006 NoLink
+17254308 2006 NoLink
+17254309 2006 NoLink
+17254310 2006 NoLink
+17254311 2006 NoLink
+17254312 2006 NoLink
+17254303 2006 NoLink
+17254302 2006 null http://flydpi.nhri.org.tw 302 
+16451737 2006 NoLink
+17176465 2006 NoLink
+17176468 2006 NoLink
+17177995 2006 available http://eh3.uc.edu/ibmt 301 
+17137519 2006 available http://prime.cbrc.jp/ -1 
+17137522 2006 available http://ihap.bii.a-star.edu.sg 200 
+17140431 2006 NoLink
+17184519 2006 NoLink
+17184531 2006 NoLink
+17187668 2006 available http://adenine.biz.fh-weihenstephan.de/ir/ -1 
+17187677 2006 available http://www.cs.helsinki.fi/group/genetics/haplotyping.html 302 
+17187691 2006 NoLink
+17196102 2006 available http://www.neurofly.de 200 
+17147805 2006 NoLink
+17137515 2006 NoLink
+17134477 2006 NoLink
+16529661 2006 NoLink
+16476165 2006 available http://www.megx.net/ribalign 503 
+16478540 2006 NoLink
+16436213 2006 NoLink
+16478547 2006 NoLink
+16480510 2006 null http://biozon.org 200 
+16480496 2006 null http://biozon.org 200 
+16480524 2006 NoLink
+16483361 2006 NoLink
+16483359 2006 NoLink
+16504070 2006 NoLink
+16503993 2006 NoLink
+16503995 2006 NoLink
+16549020 2006 available http://genius.embnet.dkfz-heidelberg.de/menu/biounit/open-husar 301 
+16503967 2006 software http://www.ogic.ca/projects/phyloview/ 200 
+16503966 2006 NoLink
+16409628 2006 NoLink
+16438730 2006 NoLink
+16504016 2006 null http://phosphoreg.imb.uq.edu.au 200 
+16504045 2006 NoLink
+16483358 2006 available http://guinevere.otago.ac.nz/mlogd.html 301 
+16504059 2006 NoLink
+16504085 2006 code http://blasto.iq.usp.br/~tkoide/BayGO 301 
+16504088 2006 NoLink
+16504105 2006 NoLink
+16504077 2006 NoLink
+16504075 2006 NoLink
+16504092 2006 NoLink
+16504116 2006 NoLink
+16504125 2006 NoLink
+16504139 2006 NoLink
+16504159 2006 NoLink
+16504173 2006 NoLink
+17118144 2006 NoLink
+16457708 2006 NoLink
+16507110 2006 NoLink
+17176458 2006 available http://mapman.mpimp-golm.mpg.de/pageman/ -1 
+16460560 2006 null http://paradox.harvard.edu/PDB-UF -1 null http://bioinfo.pl/PDB-UF 302 
+16981994 2006 NoLink
+16464256 2006 NoLink
+16469098 2006 NoLink
+16464248 2006 NoLink
+16464253 2006 NoLink
+28320318 2017 NoLink
+28521741 2017 NoLink
+28724412 2017 NoLink
+28716000 2017 NoLink
+28720122 2017 NoLink
+28715999 2017 NoLink
+28738814 2017 NoLink
+28738824 2017 NoLink
+28738841 2017 NoLink
+28743252 2017 NoLink
+28750606 2017 NoLink
+28750623 2017 NoLink
+28764644 2017 NoLink
+28764645 2017 NoLink
+28774263 2017 NoLink
+28774262 2017 NoLink
+28784111 2017 NoLink
+28784090 2017 NoLink
+28789639 2017 NoLink
+28793860 2017 NoLink
+29072136 2017 NoLink
+29072138 2017 NoLink
+16466569 2006 NoLink
+16466568 2006 null http://www.bamarray.com 200 
+16466584 2006 NoLink
+16466585 2006 NoLink
+16509965 2006 NoLink
+16469110 2006 NoLink
+16469097 2006 available http://strapjava.de 500 null http://www.charite.de/bioinf/strap 301 
+16403221 2006 NoLink
+16401352 2006 available http://tubic.tju.edu.cn/Zcurve_V/ 404 
+16403228 2006 NoLink
+16420696 2006 NoLink
+16403238 2006 null http://www.xyproteomics.org/ -1 
+16405736 2006 NoLink
+16423281 2006 available http://www.abcc.ncifcrf.gov/wps/wps_index.php -1 
+16426462 2006 available http://202.38.78.189/downloads/svrimpute.html -1 
+16409635 2006 NoLink
+16351717 2005 NoLink
+16412220 2006 available http://microbesonline.org/OpWise 301 
+16412240 2006 NoLink
+16417636 2006 null http://www.genostar.org 200 
+16417643 2006 NoLink
+16542458 2006 NoLink
+16398926 2006 NoLink
+23530580 2013 NoLink
+16674810 2006 NoLink
+16478545 2006 NoLink
+16423300 2006 NoLink
+16423304 2006 NoLink
+16405735 2006 NoLink
+16423288 2006 NoLink
+16579851 2006 NoLink
+16426464 2006 NoLink
+16430778 2006 NoLink
+16430768 2006 NoLink
+16433928 2006 publicly http://www2.ba.itb.cnr.it/MitoRes/ 404 
+16433915 2006 NoLink
+16336688 2005 NoLink
+16438723 2006 available http://www.bioinfo.no/software/massSorter 301 
+16423290 2006 available http://noxclass.bioinf.mpi-inf.mpg.de/ 200 
+16438716 2006 NoLink
+16451725 2006 NoLink
+16438721 2006 NoLink
+16464251 2006 application http://brak.sdsc.edu/pub/BiologicalNetworks 404 
+16441875 2006 NoLink
+16441884 2006 NoLink
+16445868 2006 NoLink
+16448555 2006 NoLink
+16448562 2006 NoLink
+16536867 2006 NoLink
+16398927 2006 NoLink
+16398937 2006 NoLink
+16398931 2006 NoLink
+16436204 2006 NoLink
+16551372 2006 null http://www.SNPs3D.org 200 
+16563163 2006 NoLink
+16545118 2006 NoLink
+16836741 2006 available http://www.erasmusmc.nl/hematologie/heatmapper/ 302 
+16796757 2006 available http://bioweb.ensam.inra.fr/spodobase 301 
+16836757 2006 null http://www.cgl.ucsf.edu/chimera 301 
+16836758 2006 NoLink
+16836764 2006 null http://www.immuneepitope.org 301 
+16839417 2006 NoLink
+16839419 2006 NoLink
+16842615 2006 NoLink
+16670007 2006 NoLink
+16842622 2006 NoLink
+16842628 2006 NoLink
+16848887 2006 NoLink
+16848902 2006 NoLink
+16854218 2006 NoLink
+16854231 2006 NoLink
+16857043 2006 NoLink
+16857053 2006 NoLink
+16857057 2006 NoLink
+16863590 2006 NoLink
+16867190 2006 NoLink
+16712727 2006 NoLink
+16762055 2006 NoLink
+16872483 2006 NoLink
+16872496 2006 NoLink
+16872497 2006 NoLink
+16872501 2006 publicly http://ProteinDBS.rnet.missouri.edu/E-Predict.php 200 
+16872502 2006 NoLink
+16872519 2006 NoLink
+16872538 2006 NoLink
+16875499 2006 available http://www.dacya.ucm.es/apascual/bioNMF 404 
+16817966 2006 software http://genes.cse.wustl.edu/distribution/download_TS.html 404 
+16817968 2006 NoLink
+16817972 2006 NoLink
+16817975 2006 NoLink
+16817977 2006 null http://webclu.bio.wzw.tum.de/prompt/ 301 
+16820044 2006 NoLink
+16822306 2006 NoLink
+16822321 2006 NoLink
+16762073 2006 NoLink
+16827924 2006 null http://bioinfo.icgeb.res.in/repeats/ 404 
+16764735 2006 NoLink
+16768797 2006 NoLink
+16784526 2006 NoLink
+16772025 2006 NoLink

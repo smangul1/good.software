@@ -1,0 +1,100 @@
+26301841 2015 download http://genome-www.stanford.edu/Human-CellCycle/HeLa/ 200 null http://grants.nih.gov/stem_cells/registry/current.htm?id=29 301 
+26322836 2015 NoLink
+26030444 2016 NoLink
+26280331 2015 null http://chipmentation.computational-epigenetics.org/ 302 
+26950746 2016 available www.github.com/teichlab/tracer -1 null www.imgt.org -1 available www.github.com/teichlab/tracer -1 download http://bio.math.berkeley.edu/kallisto/transcriptomes/ 302 available www.github.com/teichlab/tracer -1 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 
+26258291 2015 null https://github.com/cc2qe/speedseq 301 null ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/technical/working/20131209_na12878_moleculo/ 301 null ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/technical/working/20131209_na12878_pacbio/Schadt 301 available https://github.com/hall-lab/long-read-validation 301 
+22447133 2016 NoLink
+20364147 2010 NoLink
+26344043 2015 available https://github.com/robertaboukhalil/ginkgo 301 null http://qb.cshl.edu/ginkgo 301 null https://github.com/nh13/DWGSIM 301 algorithm http://sv.gersteinlab.org/cnvnator 301 
+26389571 2015 NoLink
+26366987 2015 download https://github.com/bmvdgeijn/WASP/ 301 
+26778924 2015 null zebrafishbrain.org -1 null http://engertlab.fas.harvard.edu/Z-Brain/ 200 null https://www.pjrc.com/teensy/ 301 null http://www.nitrc.org/projects/cmtk/ 302 null http://www.virtualflybrain.org/ 200 null http://atlas.brain-map.org/ 200 null http://research.ics.aalto.fi/ica/fastica/ 200 null http://engertlab.fas.harvard.edu/Z-Brain/ 200 null https://github.com/owenrandlett/Z-Brain 301 
+26569599 2015 null http://www.gaussian.com 301 null http://www.ambermd.org 301 null http://www.ambermd.org 301 null http://mmb.irbbarcelona.org/ParmBSC1/ 200 tool https://simtk.org/home/mmtools 301 tool https://github.com/choderalab/mmtools 301 null http://www.ks.uiuc.edu/Research/namd 301 null http://mmb.irbbarcelona.org/ParmBSC1/ 200 
+25984700 2016 null https://github.com/lh3/wgsim/ 301 null https://www.synapse.org/#!Synapse:syn312572/ 302 null http://www.novocraft.com/ 403 download https://cghub.ucsc.edu/datasets/benchmark_download.html 404 tool http://broadinstitute.github.io/picard/ 200 available https://github.com/Sage-Bionetworks/ICGC-TCGA-DREAM-Mutation-Calling-challenge-tools 301 package http://gmt.genome.wustl.edu/packages/somatic-sniper/documentation.html 200 
+26550774 2015 NoLink
+26524240 2015 tool http://hannonlab.cshl.edu/fastx_toolkit/ 200 
+26480473 2015 null http://mccb.umassmed.edu/Cas9-pDBD_search.html 200 software http://garberlab.umassmed.edu/software/esat/ 200 
+26480475 2015 available http://www.humanproteomemap.org/ 200 software http://www.broadinstitute.org/cancer/software/GENE-E/ 301 
+26524239 2016 NoLink
+26657558 2015 NoLink
+26657556 2015 NoLink
+27159086 2016 method http://dovetailgenomics.com 301 null http://sjackman.github.io/abyss-scaffold-paper/ 301 null http://www.repeatmasker.org 200 software http://ritchielab.psu.edu/software/phenogram-downloads 200 
+25532138 2016 NoLink
+25686389 2016 null http://www.idt.com/ 301 pipeline https://github.com/mitenjain/ 301 pipeline https://github.com/benedictpaten/marginAlign 301 
+26619013 2016 null www.schrodinger.com/pymol -1 
+26619014 2015 available http://www.functionalglycomics.org 200 
+23934076 2013 NoLink
+25042784 2014 NoLink
+27018577 2016 code https://www.encodeproject.org 301 code http://www.encodeproject.org/ 301 available https://github.com/YeoLab/clipper/releases/tag/1.0 301 null https://sites.google.com/site/anshulkundaje/projects/idr 302 code https://github.com/gpratt/gatk/releases/tag/2.3.2 301 
+26878382 2016 null http://www.awaresystems.be/imaging/tiff/bigtiff.html 301 
+26808670 2016 available https://github.com/nolanlab/PLAYRDesign 301 
+27159085 2016 NoLink
+26780093 2015 available http://complexsearch.kelleher.northwestern.edu 200 available http://complexsearch.kelleher.northwestern.edu 200 
+21278744 2011 NoLink
+26780092 2016 null http://www.ncbi.nlm.nih.gov/sra 301 null http://github.com/PMBio/scLVM/blob/master/data/Tcell/data_Tcells.Rdata 301 available http://developingmouse.brain-map.org 200 code http://pklab.med.harvard.edu/scde/ 302 code https://github.com/hms-dbmi/scde 301 available https://github.com/hms-dbmi/brainmapr 301 
+27183440 2016 null http://web.stanford.edu/~samusik/vortex/ 200 tool http://gephi.org/toolkit/ 301 software http://software-and-algorithms.blogspot.com/ 200 code https://github.com/nolanlab/vortex 301 download https://web.stanford.edu/~samusik/Panorama%20BM%201-10.zip 200 
+19412170 2016 NoLink
+20693997 2010 NoLink
+23042452 2012 tool http://www.basic.northwestern.edu/biotools/oligocalc.html 302 
+26901650 2016 software http://benesch.chem.ox.ac.uk/resources.html 200 
+26950744 2016 NoLink
+26950745 2016 null www.janelia.org/aic -1 available http://stnava.github.io/ANTs/ 200 
+24487584 2016 software http://www.sanger.ac.uk/resources/software/gwava 301 
+26999002 2016 pipeline https://github.com/szairis/frameshift 301 
+26928762 2016 null http://www.weizmann.ac.il/molgen/Maya/SWAT 301 null http://wws.weizmann.ac.il/Primers-4-Yeast 301 null http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl 302 null http://www.weizmann.ac.il/molgen/Maya/SWAT 301 
+27135974 2016 null http://R-project.org 301 null www.atcc.org -1 null ftp://ftp.sanger.ac.uk/pub/project/cancerrxgene/releases/release-5.0/gdsc_drug_sensitivity_raw_data_w5.zip -1 null http://www.broadinstitute.org/ccle/ 301 
+27135973 2016 null http://www.casper.organ.su.se/casper/ 200 
+27240257 2016 NoLink
+27240256 2016 available http://www.bioconductor.org/packages/IHW 301 here http://bioconductor.org/packages/IHWpaper 301 
+22886093 2012 NoLink
+27271197 2016 null ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/ 301 software http://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome 301 
+27088313 2016 available https://bitbucket.org/hamimzafar/monovar 301 null http://davetang.org/wiki/tiki-index.php?page=DWGSIM 301 null http://picard.sourceforge.net/ 200 available https://bitbucket.org/hamimzafar/monovar 301 tool https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_genotyper_UnifiedGenotyper.php 301 tool https://www.broadinstitute.org/gatk/guide/tooldocs/org_broadinstitute_gatk_tools_walkers_haplotypecaller_HaplotypeCaller.php 301 null http://picard.sourceforge.net/ 200 null http://annovar.openbioinformatics.org/en/latest/ 200 tool http://bedtools.readthedocs.org/en/latest/ 301 null http://cancer.sanger.ac.uk/cosmic 200 null http://cancer.sanger.ac.uk/census 200 null http://genetics.bwh.harvard.edu/pph2 301 null http://sift.jcvi.org/ 200 null http://www.r-project.org 200 
+22484850 2013 null http://www.micro-manager.org/ 301 null http://rsbweb.nih.gov/ij/ 301 
+22522656 2012 pipeline http://www.cellprofiler.org 301 pipeline http://www.cellprofiler.org 301 pipeline www.cellprofiler.org -1 null www.broadinstitute.org/bbbc -1 
+27135972 2016 null www.grcalculator.org -1 available http://lincs.hms.harvard.edu/ 200 tool https://github.com/sorgerlab/gr50_tools 301 null www.grcalculator.org -1 null http://lincs.hms.harvard.edu/db/sm/ 200 
+27271198 2016 available https://github.com/singlecelllab/correlationFISH 301 
+23263690 2012 NoLink
+27376770 2016 available http://rajlab.seas.upenn.edu/StarSearch/launch.html 200 tool https://bitbucket.org/arjunrajlaboratory/rajlabimagetools/wiki/Home 301 tool https://bitbucket.org/arjunrajlaboratory/rajlabimagetools/wiki/Home 301 
+25532136 2014 method www.pdb.org -1 method www.pdb.org -1 null http://www.phenix-online.org/phenix_data/terwilliger/ 200 null http://bl831.als.lbl.gov/~jamesh/challenge/anom/ 200 available http://x4.nsls.bnl.gov/native-SAD/CysZ_native-SAD_individual_plus_merged.tar.bz2 403 null http://www.phenix-online.org/phenix_data/terwilliger/ 200 available http://bl831.als.lbl.gov/~jamesh/challenge/occ_scan 301 null http://www.phenix-online.org 200 
+25486063 2015 NoLink
+24141495 2016 null http://www.mathworks.com/matlabcentral/fileexchange/43107 301 null http://www.mathworks.com/matlabcentral/fileexchange/35014-clusterdata 200 null http://www.tm4.org/mev/ 404 
+27427858 2016 NoLink
+27454285 2016 method https://github.com/mattloose/RUscripts 301 available https://github.com/mattloose/RUFigs 301 method https://github.com/mattloose/RUscripts 301 null http://mattloose.github.io/RUscriptsdocs/ 200 method https://github.com/mattloose/RUscripts 301 null http://mattloose.github.io/RUscriptsdocs/ 200 method https://github.com/mattloose/RUscripts 301 available https://github.com/mattloose/RUFigs 301 null https://github.com/mattloose/RUFigs/fig2/cov_windows.pl 301 null https://github.com/lukauskas/mlpy/blob/master/mlpy/dtw/cdtw.c 301 
+27479328 2016 NoLink
+27479329 2016 tool https://pypi.python.org/pypi/msproteomicstools 301 tool https://pypi.python.org/pypi/msproteomicstools 301 tool http://cbl-gorilla.cs.technion.ac.il 200 code https://github.com/msproteomicstools/msproteomicstools 301 
+24997861 2014 NoLink
+27479330 2016 NoLink
+26167643 2017 null http://arep.med.harvard.edu/CasFinder/ 200 
+27525976 2016 method http://breakome.utmb.edu 200 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 null http://sourceforge.net/projects/bio-bwa/files/ 301 tool http://samtools.sourceforge.net 200 tool https://github.com/broadinstitute/picard/ 301 software https://github.com/taoliu/MACS/ 301 tool http://bedtools.readthedocs.org/ 301 code https://www.encodeproject.org/ 301 software https://support.illumina.com/sequencing/sequencing_software/igenome.html 301 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 software https://ccb.jhu.edu/software/tophat/index.shtml/ 404 null http://www-huber.embl.de/users/anders/HTSeq/ 200 software https://broadinstitute.github.io/picard/ 200 
+27669326 2016 NoLink
+26322838 2017 here http://hannonlab.cshl.edu/fastx_toolkit/ 200 
+27869815 2016 null http://tacorna.github.io 200 null https://cghub.ucsc.edu 200 software https://ccb.jhu.edu/software/stringtie/gff.shtml 200 null http://stanford.edu/~htilgner/2013_NBT_paper/pacBio.index.html 200 null http://stanford.edu/~htilgner/2014_humanMouseBrain_SLR_RNA_Seq/index_SLRseq.html 200 null http://tacorna.github.io 200 
+27892959 2016 null https://www.synapse.org/#!Synapse:syn312572 302 null https://github.com/StructuralVariants/manta 301 available http://sourceforge.net/projects/novobreak/ 301 tool http://biotools.umassmed.edu/bioapps/primer3_www.cgi 200 download https://www.synapse.org/#!Synapse:syn2280639 302 code https://sourceforge.net/projects/novobreak/?source=updater 301 null http://broadinstitute.github.io/picard/ 200 null http://www.ncbi.nlm.nih.gov/SNP/ 301 null http://compbio.dfci.harvard.edu/tgi/ 200 null https://sites.google.com/site/strelkasomaticvariantcaller/ 302 
+27918539 2017 NoLink
+27918541 2016 software http://www.singlemolecule.uni-freiburg.de 200 
+28024160 2017 NoLink
+28099430 2017 null http://crop-seq.computational-epigenetics.org 302 
+28114287 2017 null https://github.com/cole-trapnell-lab/monocle-release 301 null http://linnarssonlab.org/cortex/ 404 
+28135255 2016 available https://github.com/VRam142/combinatorialHiC 301 null http://ggplot2.org/ 200 
+28135256 2016 null https://flowrepository.org/experiments/1043 302 null https://reports.cytobank.org/1/v1 200 null https://flowrepository.org/experiments/1044/ 302 
+28192420 2017 NoLink
+28192419 2017 software http://software.broadinstitute.org/gsea/msigdb/index.jsp 200 
+28218899 2017 NoLink
+28263961 2017 available https://github.com/vals/umis/ 301 
+28288122 2017 NoLink
+28263959 2017 available https://github.com/COMBINE-lab/Salmon 301 available https://github.com/COMBINE-lab/Salmon 301 null https://groups.google.com/forum/#!forum/Sailfish-users 200 null https://gitter.im/COMBINE-lab/Salmon 301 null https://github.com/COMBINE-lab/salmon 301 
+28319113 2017 NoLink
+28319111 2017 available https://bitbucket.org/adamshch/scism 301 null osf.io/z6bd3 -1 
+28346450 2017 NoLink
+28346451 2017 null http://www.satijalab.org/clustertutorial1.html 301 null http://www.bioinformatics.bbsrc.ac.uk/projects/seqmonk 403 
+28369043 2017 NoLink
+28394337 2017 NoLink
+28394336 2017 software www.nesvilab.org/software -1 null http://dx.doi.org/xx.xxxx/protex.yyyy.xxx 404 
+28417999 2017 available http://crest-seq.ucsd.edu/web/ -1 null http://broadinstitute.github.io/picard 301 available https://github.com/r3fang/crest 301 
+28418000 2017 null https://github.com/catavallejos/BASiCS 301 null https://github.com/RGLab/MAST 301 null http://grants.nih.gov/stem_cells/registry/current.htm?id=29 301 null http://grants.nih.gov/stem_cells/registry/current.htm?id=414 301 
+28417997 2017 null http://expansionmicroscopy.org/ 200 
+28436466 2017 null https://web.stanford.edu/group/rosenberglab/data/rosenbergEtAl2005/combinedmicrosats-1048.stru 200 null https://web.stanford.edu/group/rosenberglab/data/pembertonEtAl2009/Pemberton_AdditionalFile1_11242009.txt 200 available https://github.com/lh3/sgdp-fermi 301 null http://www.cstl.nist.gov/strbase/str_fact.htm 301 tool https://hipstr-tool.github.io/HipSTR 301 
+28319112 2017 available https://github.com/biosinodx/SCcaller 301 
+28481363 2017 null http://www.iqtree.org 200 available http://www.iqtree.org/ModelFinder/ 200 null http://www.iqtree.org 200 
+28481364 2017 NoLink

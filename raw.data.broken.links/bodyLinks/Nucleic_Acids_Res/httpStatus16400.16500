@@ -1,0 +1,100 @@
+28521008 2017 null http://gemstone.yulab.org/manual.html 200 
+28383693 2017 null rcsb.org -1 tool http://www.cbs.dtu.dk/biotools/Seq2Logo/ 200 null http://pymol.org 302 
+28499037 2017 NoLink
+28402503 2017 NoLink
+28369632 2017 software www.xzlab.org/software.html -1 
+28334828 2017 NoLink
+28407113 2017 null http://www.addgene.org/Herman_Wijnen/ 200 
+28541545 2017 null www.graphpad.com -1 available http://easeq.net/ 403 
+28402567 2017 null http://tfgd.ihb.ac.cn/ 200 algorithm http://ciliate.org/ 302 null http://genes.mit.edu/pictogram.html 200 download http://ciliate.org/index.php/home/downloads 200 
+28369628 2017 null http://vader.wistar.upenn.edu/humansubtel 301 software http://www.ebi.ac.uk/Tools/emboss/cpgplot/ 301 
+28510716 2017 software www.proteometric.com -1 
+28472517 2017 NoLink
+28482099 2017 null https://github.com/leschzinerlab/Relion 301 null http://rna.ucsc.edu/rnacenter/erodaxis.py 200 null https://pymolwiki.org/index.php/Angle_between_domains 301 
+28379520 2017 null www.sumosp.biocuckoo.org -1 tool www.abgent.com/tools/toSumoplot -1 
+28383696 2017 NoLink
+28383716 2017 NoLink
+28482032 2017 null http://cando-dna-origami.org/ 200 
+28379492 2017 library http://www.r-project.org/ 200 package http://www.bioconductor.org/ 200 code https://www.encodeproject.org/experiments/ENCSR495OAI/ 301 
+28379497 2017 NoLink
+28482028 2017 null http://www.pymol.org/ 302 null http://sourceforge.net/projects/jmol/ 301 null http://www.openastexviewer.net/ 200 null http://sourceforge.net/projects/jsmol/ 301 null http://www.khronos.org/webgl/ 301 null http://www.opengl.org/ 301 null http://www.glmol.com/ 301 null http://github.com/biasmv/pv 301 null http://github.com/arose/ngl 301 null http://3dmol.csb.pitt.edu/ 200 null http://threejs.org/ 301 application http://istar.cse.cuhk.edu.hk/iview/ 200 null http://web.chemdoodle.com/ 301 null http://www.swissmodel.expasy.org/ 302 null http://www.rcsb.org/ 200 null http://web3dmol.duapp.com/ 200 available http://web3dmol.duapp.com/help.html 200 
+28402433 2017 null http://www.ncbi.nlm.nih.gov/geo 301 null http://bioinfo.ut.ee/primer3-0.4.0/primer3/ 200 software http://primerseq.sourceforge.net/ 200 
+28520971 2017 NoLink
+28407100 2017 NoLink
+28637241 2017 NoLink
+28472342 2017 NoLink
+28535266 2017 NoLink
+28472503 2017 null http://jmol.x3dna.org 200 null http://www.json.org 200 null http://www.bgsu.edu/research/rna/help/rna-3d-hub-help/unit-ids.html 302 null http://jmol.x3dna.org 200 null http://jmol.x3dna.org 200 
+28575287 2017 null http://compbio.med.harvard.edu/Supplements/ChIP-Seq 404 
+28460067 2017 NoLink
+28402475 2017 null http://www.reading.ac.uk/bioinf/ModFOLD/ 200 here http://predictioncenter.org/casp12/ 200 null http://www.pymol.org 302 null http://www.predictioncenter.org/casp12/ 200 null http://www.predictioncenter.org/casp12/ 200 
+28525570 2017 available https://github.com/elhb/DBS_Analysis 301 tool https://broadinstitute.github.io/picard/ 200 null https://github.com/pysam-developers/pysam 301 null http://hla.alleles.org/ 200 null http://www.ebi.ac.uk/ipd/imgt/hla/ 301 
+28472367 2017 download http://www.jmol.org/ 302 
+28582546 2017 NoLink
+28472374 2017 null https://en.wikipedia.org/wiki/Search_as_a_service 301 null https://doi.org/10.1101/049205 303 null http://www.ebi.ac.uk/ebisearch/schemas/data_schema.json 200 null http://www.omicsdi.org/ 301 null https://www.ebi.ac.uk/Tools/hmmer 301 null https://angular.io 301 null https://github.com/ebiwd/EBI-Framework 301 null http://www.w3schools.com/html/html_responsive.asp 301 null http://swagger.io 301 null https://www.openapis.org/specification/repo 301 available https://www.ebi.ac.uk/ebisearch/swagger.ebi 301 null http://www.rssboard.org/rss-specification 200 null https://www.ebi.ac.uk/ebisearch/documentation.ebi 301 available https://www.ebi.ac.uk/ebisearch 301 null http://www.elastic.co 200 null https://www.ebi.ac.uk/ena/ 301 null https://www.ensemblgenomes.org/ 301 null https://www.ebi.ac.uk/interpro/ 405 null https://www.ebi.ac.uk/gxa/ 301 null http://www.lrg-sequence.org/ 200 null http://europepmc.org/abstract/MED/25845596 200 null http://rnacentral.org/ 200 null https://www.ebi.ac.uk/metabolights/ 301 null https://www.ebi.ac.uk/enzymeportal/ 301 null https://www.omicsdi.org 301 null http://www.pombase.org/ 302 null https://www.ebi.ac.uk/s4/ 301 null http://www.wormbase.org/ 200 null https://www.ebi.ac.uk/Tools/hmmer/ 301 null https://www.ebi.ac.uk/metagenomics/ 301 null http://www.identifiers.org/ 302 available https://www.ebi.ac.uk/ebisearch/ 301 
+28407117 2017 NoLink
+28482034 2017 null https://genome.ucsc.edu/ 200 null http://snps.biofold.org/phd-snpg 301 tool https://github.com/biofold/PhD-SNPg 301 null http://www.ncbi.nlm.nih.gov/clinvar/ 301 null https://d3js.org/ 301 null http://snps.biofold.org/phd-snpg/find-job.html 200 
+28535294 2017 null http://docs.opencb.org/display/hgva/RESTful+Web+Services+and+Clients 200 null https://github.com/opencb/iva 301 null https://github.com/opencb/opencga 301 tool http://hgva.opencb.org 200 null http://github.com/opencb/opencga 301 null http://github.com/opencb/iva 301 null http://github.com/opencb/cellbase 301 null http://docs.opencb.org/display/hgva/Datasets+and+Studies 200 tool https://samtools.github.io/htsjdk/ 200 null https://avro.apache.org/ 200 null http://docs.opencb.org/display/cellbase/Data+sources+and+species 200 null https://github.com/opencb/opencga 301 null https://github.com/opencb/iva 301 null http://www.grpc.io 301 null http://lucene.apache.org/solr/ 200 tool http://hgva.opencb.org 200 null http://docs.opencb.org/display/iva 200 null http://bioinfo.hpc.cam.ac.uk/hgva/webservices 302 null http://docs.opencb.org/display/opencga 200 null http://bioinfo.hpc.cam.ac.uk/hgva/webservices 302 null http://docs.opencb.org/display/hgva 200 null http://docs.opencb.org/display/hgva/Querying+Variants+with+the+Command+Line 200 null http://www.ebi.ac.uk/eva 301 null http://evs.gs.washington.edu/EVS/ 200 null http://www.med-gen.ru/en/ 200 
+28472475 2017 NoLink
+28482090 2017 NoLink
+28407089 2017 NoLink
+28525568 2017 NoLink
+28460071 2017 application http://bioatlas.compbio.sdu.dk 301 null https://github.com/ctsit/barebones-flask-app 301 null https://developers.google.com/maps/ 301 null http://opencliparts.com 301 null https://www.ietf.org/rfc/rfc4122.txt 200 null http://bioatlas.compbio.sdu.dk/map/ 301 null http://bioatlas.compbio.sdu.dk/classifier 301 null http://bioatlas.compbio.sdu.dk/hostmap/26 301 
+28666332 2017 NoLink
+28486635 2017 tool https://chlorobox.mpimp-golm.mpg.de/index.html 301 null https://chlorobox.mpimp-golm.mpg.de/GenBank2Sequin.html 301 null http://blast.ncbi.nlm.nih.gov/blastcgihelp.shtml 301 null http://hmmer.org/documentation.html 200 null http://www.ncbi.nlm.nih.gov/genome/organelle/ 301 
+28472485 2017 NoLink
+28453650 2017 package http://biopython.org/wiki/GFF_Parsing 200 null https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md 301 software http://www.openscreen.cz/software/inchlib/home 301 available http://plantismash.secondarymetabolites.org/precalc 301 available http://plantismash.secondarymetabolites.org 200 
+28472390 2017 null http://www.r-project.org 200 application http://bioit.dmbr.ugent.be/physbinder 301 null http://genome.ucsc.edu 200 
+28387820 2017 null http://www.predictioncenter.org/casp12/ 200 null http://biasmv.github.io/pv/ 200 
+28486695 2017 NoLink
+28499008 2017 null http://www.nii.ac.in/rippminer.html 200 package http://svmlight.joachims.org/ 200 null http://www.cs.waikato.ac.nz/ml/weka/citing.html 302 null https://www.chemaxon.com/ 200 
+28575281 2017 null http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 null http://www.kazusa.or.jp/codon/ 200 available http://rna.tbi.univie.ac.at/ 200 
+28486614 2017 null http://pax-db.org 301 null http://web.expasy.org/protparam/ 200 null http://motifmap.ics.uci.edu/ 200 
+28549155 2017 NoLink
+28460062 2017 NoLink
+28541438 2017 NoLink
+28541577 2017 null http://weblogo.berkeley.edu 200 
+28472340 2017 code github.com/iric-soft/MiSTIC -1 null https://tcga-data.nci.nih.gov/tcga/ 301 null http://research-pub.gene.com/KlijnEtAl2014/ 200 
+28609784 2017 null http://meme-suite.org 200 tool http://benham.genomecenter.ucdavis.edu/sibz/ 200 pipeline http://usegalaxy.org 307 
+28549174 2017 NoLink
+28549193 2017 NoLink
+28472465 2017 null http://www.ncbi.nlm.nih.gov/geo/ 301 available https://www.addgene.org/ 200 
+28609787 2017 download https://www.pymol.org/ 302 null www.rcsb.org -1 
+28520992 2017 NoLink
+28520934 2017 code http://www-archbac.u-psud.fr/projects/sulfolobus 301 here http://arxiv.org/abs/1303.3997 301 available https://github.com/fabou-uobaf/Helferlein/blob/master/getMappingOverhang.pl 301 
+28591791 2017 here Proteinatlas.org -1 
+28453651 2017 available http://panoromics.irbbarcelona.org 302 library https://d3js.org/ 301 null http://www.jmol.org/ 302 
+28475736 2017 NoLink
+28535251 2017 NoLink
+28645155 2017 NoLink
+28460038 2017 null http://antismash.secondarymetabolites.org 301 available http://antismash.secondarymetabolites.org/ 301 code https://bitbucket.org/antismash/antismash/ 301 null http://fungismash.secondarymetabolites.org/ 301 null http://plantismash.secondarymetabolites.org/ 200 
+28575377 2017 null www.eurofins.com -1 null http://nemates.org/MA/progs/overlap_stats.html -1 null http://www.pangloss.com/seidel/Protocols/venn.cgi 200 null https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97262 301 null http://www.flyrnai.org/diopt 200 tool http://www.uniprot.org/uploadlists/ 200 null http://www.flyrnai.org/diopt 200 
+28575452 2017 null https://seer.cancer.gov/statfacts/html/lungb.html 301 null http://www.ncbi.nlm.nih.gov/sra 301 null http://www.ncbi.nlm.nih.gov/sra 301 algorithm http://www.rgenome.net/cas-offinder/ 400 
+28472346 2017 null http://promoter.bx.psu.edu/hi-c/view.php 200 null https://sourceforge.net/projects/bbmap 301 null http://fantom.gsc.riken.jp/5/sstar/FF:10826-111C7 200 null http://cbl-gorilla.cs.technion.ac.il/ 200 code https://www.encodeproject.org 301 
+28525578 2017 NoLink
+28531275 2017 NoLink
+28531339 2017 null http://symfony.com 200 null www.rdkit.org -1 null www.elastic.co -1 null http://elastica.io 200 null http://limtox.bioinfo.cnio.es. 200 null https://github.com/fnl/segtok 301 null https://github.com/fnl/sentence_splitter 301 tool https://github.com/fnl/classipy 301 
+28472469 2017 null http://biology.st-andrews.ac.uk/sites/flycell/flyextract.html 302 null http://evrogen.com/ 200 null http://www.fruitfly.org/p_disrupt/TE.html 200 pipeline https://github.com/bergmanlab/mcclintock 301 null http://www.fruitfly.org/p_disrupt/TE.html 200 null https://pypi.python.org/pypi/MACS2 301 
+28459991 2017 null http://gass.unifei.edu.br/ 200 
+28575444 2017 NoLink
+28486703 2017 null http://advisor.bkslab.org/ 200 null http://lorentz.immstr.pasteur.fr/pdb_hydro.php 200 null http://bioinfo.cmu.edu.tw/MIB/ 404 null http://zhanglab.ccmb.med.umich.edu/IonCom/ 302 null https://www.cgl.ucsf.edu/chimera/ 200 
+28472397 2017 null www.bioasq.org/participate/winners -1 available http://www.hpi.de/plattner/olelo 302 null www.nlm.nih.gov/mesh -1 null www.nlm.nih.gov/research/umls -1 
+28472408 2017 NoLink
+28549158 2017 NoLink
+28383659 2017 null https://avro.apache.org 200 null http://www.project-voldemort.com 200 null http://lucene.apache.org/solr 301 null https://neo4j.com 301 null https://jersey.java.net 302 null https://grizzly.java.net 302 null http://swagger.io 301 null http://swagger.io 301 null http://www.ebi.ac.uk/proteins/api 301 available http://www.ebi.ac.uk/proteins/api/doc 301 null http://www.ebi.ac.uk/proteins/api 301 
+28472511 2017 tool http://www.webgestalt.org 302 tool http://www.webgestalt.org/GOView 301 here http://software.broadinstitute.org/gsea/downloads.jsp 302 application http://www.gene2net.org 200 tool http://www.advsofteng.com/ 200 tool http://www.graphviz.org/ 200 null http://gdac.broadinstitute.org/ 200 null https://groups.google.com/forum/#!forum/webgestalt 200 null http://www.pathwaycommons.org/ 200 null http://www.geneontology.org 200 null http://rest.kegg.jp/link/has/pathway 200 null http://www.wikipathways.org 301 null http://www.reactome.org 301 null http://www.pantherdb.org 200 null http://gdac.broadinstitute.org/ 200 null http://www.thebiogrid.org/ 301 software http://software.broadinstitute.org/gsea/misgdb 404 software http://software.broadinstitute.org/gsea/misgdb 404 null http://www.human-phenotype-ontology.org 302 null http://www.informatics.jax.org 200 null http://www.disgenet.org 200 null http://glad4u.zhang-lab.org 200 null http://www.drugbank.ca 301 null http://glad4u.zhang-lab.org 200 null http://www.ncbi.nlm.nih.gov/gene 301 
+28460116 2017 null http://www.attract.ph.tum.de/services/ATTRACT/peptide.html 200 null https://biasmv.github.io/pv/ 200 
+28460012 2017 code http://kplogo.wi.mit.edu/ 200 available https://github.com/xuebingwu/kpLogo 301 available https://toolshed.g2.bx.psu.edu/view/xuebing/kplogo 307 
+28498958 2017 NoLink
+28582575 2017 null http://bgruening.github.io/galaxy-rna-workbench/ 200 null http://bgruening.github.io/docker-galaxy-stable/ 200 tool https://kitematic.com 301 null https://bioconda.github.io 200 tool http://biocontainers.pro 200 tool https://toolshed.g2.bx.psu.edu 307 null http://galaxyproject.github.io/training-material 301 
+28641400 2017 NoLink
+28431137 2017 available https://bioinformatictools.wordpress.com/tag/pocket-finder/ 301 null https://sourceforge.net/projects/jsmol/ 301 
+28449106 2017 available http://www.microbiomeanalyst.ca 200 null http://qiita.microbio.me 301 null http://www.microbiomeanalyst.ca/ 200 null http://www.metagenassist.ca 302 null https://www.ebi.ac.uk/metagenomics/ 301 null http://metagenomics.anl.gov/ 200 null https://vamps2.mbl.edu/ 301 
+28472372 2017 NoLink
+28520890 2017 null http://genomaustria.at/ 301 available http://vcffilter.rarediseases.at 302 here https://samtools.github.io/hts-specs/VCFv4.2.pdf 200 tool https://github.com/samtools/htsjdk 301 null http://broadinstitute.github.io/picard 301 download ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio/ 301 
+28582569 2017 null http://www.ssfa-7tmr.de/ssfe2 301 null http://www.apache.org 200 
+28449074 2017 tool http://watcut.uwaterloo.ca/tools/makemultimer/ 200 null http://wiki.jmol.org/index.php/JSmol 200 
+28525573 2017 null http://server.idrb.cqu.edu.cn/noreva/ 200 null http://httpd.apache.org 200 package http://www.rstudio.com/shiny 301 
+28472523 2017 tool http://rna.informatik.uni-freiburg.de/IntaRNA 302 null https://github.com/BackofenLab/IntaRNA/ 301 
+28486666 2017 null http://gexc.riken.jp 301 null http://discovery.lifemapsc.com 303 null www.genomicscape.com -1 null http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF 301 
+28387819 2017 available http://slim.ucd.ie/slimsearch/ 200 tool http://proviz.ucd.ie 200 

@@ -1,0 +1,100 @@
+16397292 2006 NoLink
+16150924 2005 NoLink
+16381979 2006 null ftp://ftp.cines.fr/IMGT/ -1 null ftp://ftp.ebi.ac.uk/pub/databases/imgt/ 200 null ftp://ftp.igh.cnrs.fr/pub/IMGT/ 404 null http://imgt.cines.fr -1 
+16284198 2005 null http://www.ncbi.nlm.nih.gov/genomes/lproks.cgi 301 
+16155181 2005 null www.analyse-it.com -1 
+16414956 2006 NoLink
+16147985 2005 NoLink
+16147986 2005 available http://www.bioinformatics.ucla.edu/ASAP 301 null http://www.ludwig.org.br/ORESTES 404 null http://cgap.nci.nih.gov/ 301 null http://mgc.nci.nih.gov/ 301 null www.atcc.org -1 
+16147987 2005 here http://www.geneontology.org 200 null http://search.cpan.org/dist/GO-TermFinder/ 200 null http://www.yeastgenome.org 302 null http://www.yeastgenome.org 302 download ftp://genome-ftp.stanford.edu/pub/yeast/sacchDB/ -1 
+16397298 2006 available http://seq.cs.iastate.edu 200 software http://www.vmatch.de 200 software http://www.vmatch.de 200 
+16284202 2005 download http://proteomics.bioengr.uic.edu/pro-dna 301 download http://proteomics.bioengr.uic.edu/pro-dna 301 
+16401611 2006 NoLink
+16147991 2005 NoLink
+16407335 2006 NoLink
+16415180 2006 NoLink
+16150923 2005 software http://rsb.info.nih.gov 301 
+16407333 2006 null http://genome.jgi-psf.org/chlre2/chlre2.home.html 302 null http://www.cbs.dtu.dk/services/ChloroP/ 200 null http://www.inra.fr/predotar/ 302 null http://npsa-pbil.ibcp.fr/cgi-bin/npsa_automat.pl?page=npsa_gor4.html 301 
+16155184 2005 NoLink
+16414954 2006 download ftp.ncbi.nih.gov/genomes/ -1 null http://colibase.bham.ac.uk/ -1 software http://www.le.ac.uk/iii/staff/kr46/tRNAcc/index.htm 301 null www.indiana.edu/~islander -1 null http://colibase.bham.ac.uk/cgi-bin/tRNAcc.cgi -1 
+16428245 2006 download www.plasmodb.org -1 null www.toxodb.org -1 
+16314298 2005 NoLink
+16155185 2005 NoLink
+16381852 2006 available ftp://ftp.expasy.org/databases/prosite/release_with_updates/ -1 null http://hits.isb-sib.ch/ 301 null http://www.isrec.isb-sib.ch/software/PFRAMESCAN_form.html -1 
+NA 2006 null http://rsb.info.nih.gov/nih-image/index.html 301 
+16914444 2006 NoLink
+16177180 2005 NoLink
+25477378 2015 
+16698962 2006 software ftp://ftp.ncbi.nlm.nih.gov/blast/ 301 null http://www.ensembl.org 301 
+16698963 2006 NoLink
+16698958 2006 null www.ensembl.org -1 null http://microrna.sanger.ac.uk/sequences/index.shtml 301 download http://flybase.bio.indiana.edu/ -1 null http://www.bioperl.org 301 null http://blast.wustl.edu 200 download http://hgdownload.cse.ucsc.edu/goldenPath/ 200 pipeline http://pipeline.lbl.gov 302 
+16698959 2006 null http://ftp.genome.washington.edu/cgi-bin/RepeatMasker 403 null http://www.ncbi.nlm.nih.gov/BLAST 301 null http://genome.ucsc.edu/cgi-bin/hgBLAT 404 
+16698960 2006 null http://bacpac.chori.org/genomicRearrays.php 404 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+16609128 2006 NoLink
+16611927 2006 NoLink
+NA 2006 NoLink
+NA 2006 NoLink
+16614445 2006 null http://ncbi.nlm.nih.gov 301 null http://www.ncbi.nlm.nih.gov/ 301 null http://genome.jgi-psf.org/mic_cur1.html 302 null http://www.ncbi.nlm.nih.gov/entrez/ 301 null https://bamics3.cmbi.ru.nl/cis_prediction 301 
+16614446 2006 NoLink
+16614447 2006 NoLink
+16614448 2006 NoLink
+16614449 2006 null http://genesilico.pl/meta/ 302 null http://predictioncenter.org/casp6/ 200 available ftp://genesilico.pl/iamb/models/M.EcoR124I/ 404 
+16614450 2006 NoLink
+16614451 2006 null http://www.bioinfo.rpi.edu/~zukerm/rna/energy/ 404 null http://www.psb.ugent.be/rRNA/index.html 301 null http://lowelab.ucsc.edu/snoRNAdb/ 200 null http://www.bio.umass.edu/biochem/rna-sequence/Yeast_snoRNA_Database/main.html 301 null http://lowelab.ucsc.edu/snoRNAdb/ 200 
+16614452 2006 NoLink
+16614443 2006 null www.Affymetrix.com -1 
+16614444 2006 available http://sitemaker.umich.edu/dlturner.vectors 302 
+16617144 2006 NoLink
+16617145 2006 NoLink
+16617143 2006 available http://www.dpci.unipd.it/Bioeng/Publications/BCGA.htm -1 
+16617147 2006 NoLink
+16617148 2006 NoLink
+16617149 2006 null http://www.fiserlab.org/servers/archpred 301 
+16617150 2006 NoLink
+16617142 2006 null http://genomics.msu.edu/plant_specific/index.html -1 null http://www.arabidopsis.org/index.jsp 200 null http://www.ncbi.nlm.nih.gov/Genbank/index.html 301 
+16627870 2006 NoLink
+16670427 2006 null www.idtdna.com -1 
+16641317 2006 download http://www.pascalehazel.org/cluster 404 
+16641318 2006 NoLink
+16641319 2006 NoLink
+15731337 2005 NoLink
+NA 2006 NoLink
+16670433 2006 NoLink
+16648359 2006 null NT_006216 -1 null NW_047424 -1 null L10641 -1 null L10642 -1 null MW_047424 -1 null NT_039308 -1 
+16648360 2006 NoLink
+16648361 2006 NoLink
+16648357 2006 NoLink
+16670432 2006 NoLink
+16648364 2006 NoLink
+16648365 2006 NoLink
+16648358 2006 NoLink
+16595797 2006 NoLink
+16595798 2006 NoLink
+16595799 2006 null D42046 -1 null D42046 -1 null D42046 -1 null http://www.ncbi.nlm.nih.gov/Entrez 301 
+16595800 2006 null D42046 -1 
+16595796 2006 NoLink
+16600899 2006 NoLink
+16600900 2006 NoLink
+16582106 2006 NoLink
+16600901 2006 null http://genolist.pasteur.fr/SubtiList 301 null http://pharmacy.man.ac.uk/amber/ -1 
+16598074 2006 NoLink
+16598075 2006 NoLink
+16598072 2006 NoLink
+16914449 2006 NoLink
+16893954 2006 available http://theory.med.buffalo.edu/PINUP -1 null ftp://ftp.ncbi.nih.gov/blast/db/FASTA/nr/gz 301 
+16916791 2006 NoLink
+16893950 2006 null http://www.stanford.edu/group/nolan/index.html 301 
+16916793 2006 NoLink
+16914454 2006 NoLink
+16899451 2006 NoLink
+16914452 2006 null http://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/ 301 null http://www.bioinformatics.ucla.edu/ASAP/ 301 null http://www.ebi.ac.uk/asd/ 301 null http://hgdownload.cse.ucsc.edu/downloads.html#human 200 null http://hgdownload.cse.ucsc.edu/downloads.html#human 200 null http://emboss.sourceforge.net/apps/est2genome.html 404 null http://www.ebi.ac.uk/interpro/ 405 null http://psort.ims.u-tokyo.ac.jp/ 200 here http://www.cbs.dtu.dk/services/TMHMM/ 200 available http://jbirc.jbic.or.jp/h-inv2_as/ -1 available http://jbirc.jbic.or.jp/h-inv2_as/ -1 null http://www.ensembl.org 301 available http://jbirc.jbic.or.jp/h-inv2_as/ -1 null http://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/index.html?human 301 
+16914451 2006 NoLink
+16914450 2006 NoLink
+16899450 2006 null http://www.genome.ucsc.edu 200 null http://www.hapmap.org/downloads/index.html.en 301 here http://www.affymetrix.com/support/technical/sample_data/hapmap_trio_data.affx 301 
+16914419 2006 code http://depts.washington.edu/maizels9/ 200 download www.geneontology.org -1 null http://csc-fserve.hh.med.ic.ac.uk/emboss/newcpgreport.html -1 
+16914438 2006 null http://db.yeastgenome.org/cgibin/locus.pl?locus=zta1 302 null http://ergo.integratedgenomics.com/ERGO/CGI/prot.cgi?prot=RPPA06848 302 null http://faculty.kgi.edu/cregg/index.htm -1 null http://yeastgfp.ucsf.edu/getOrf.php?orf=YBR046C -1 null http://db.yeastgenome.org/cgibin/phenotype/phenotype.pl?dbid=S000000250 302 null http://db.yeastgenome.org/cgibin/locus.pl?locus=zta1 302 null http://ergo.integratedgenomics.com 302 
+16914448 2006 null http://katahdin.cshl.edu:9331/SpliceRack/ -1 null http://katahdin.cshl.edu:9331/SpliceRack/ -1 null http://www.tigr.org/tdb/e2k1/ath1/Arabidopsis_nonconsensus_splice_sites.shtml 301 tool http://katahdin.cshl.org:9331/GO/GO.cgi -1 
+16914440 2006 NoLink
+16914445 2006 null http://www.bioinfo.rpi.edu/~zukerm/ 404 
+16914443 2006 NoLink
+16914442 2006 null http://hc.ims.u-tokyo.ac.jp/iPSORT/ 404 null http://www.cbs.dtu.dk/services/TargetP/ 200 here http://www.predictprotein.org/ 301 null http://www.sanger.ac.uk 200 

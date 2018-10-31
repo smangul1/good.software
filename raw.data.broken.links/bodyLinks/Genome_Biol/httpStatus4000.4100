@@ -1,0 +1,100 @@
+27511193 2016 null https://dnamage.genetics.ucla.edu 302 null www.whi.org/researchers/data/WHIStudies/StudySites/M5 -1 available https://www.whi.org/researchers/Stories/June%202015%20WHI%20Investigators'%20Datasets%20Released.aspx 200 null https://www.whi.org/researchers/data/Documents/WHI%20Data%20Preparation%20and%20Use.pdf 200 available https://biolincc.nhlbi.nih.gov/studies/bhs/ 301 null http://www.ncbi.nlm.nih.gov/gap 301 null https://www.synapse.org/#!Synapse:syn3168763 302 
+27485716 2016 NoLink
+22018401 2011 NoLink
+20796282 2010 NoLink
+27640875 2016 NoLink
+25986583 2015 NoLink
+28122634 2017 null https://preview.ncbi.nlm.nih.gov/gap/eqtl/studies/ 301 null http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000342 301 software http://software.broadinstitute.org/gsea/msigdb/annotate.jsp 302 
+28122605 2017 available https://zenodo.org/record/200214 301 
+28126036 2017 NoLink
+28129774 2017 null http://wiki.bbmri.nl/wiki/BIOS_start- 200 
+27908293 2016 NoLink
+27557938 2016 NoLink
+27561688 2016 NoLink
+27566673 2016 software https://github.com/galaxyproject/dunovo 301 software https://github.com/galaxyproject/dunovo 301 null http://usegalaxy.org 307 available https://usegalaxy.org/u/aun1/w/duplex-analysis-from-reads 307 available https://usegalaxy.org 307 code https://code.google.com/archive/p/swalign/ 200 null http://usegalaxy.org/duplex 302 
+27565134 2016 NoLink
+22322200 2012 NoLink
+20804575 2010 NoLink
+20804581 2010 NoLink
+27604469 2016 NoLink
+20796324 2010 null http://www.beloit.edu/mindset/2014.php 301 
+17233920 2007 NoLink
+27887640 2016 NoLink
+27899139 2016 NoLink
+27678244 2016 null http://dualrnaseq.molgenrug.nl 200 null http://dualrnaseq.molgenrug.nl 200 null http://dualrnaseq.molgenrug.nl 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://dualrnaseq.molgenrug.nl 200 null http://dualrnaseq.molgenrug.nl 200 null https://d3js.org 301 
+27887642 2016 null https://github.com/AdmiralenOla/Scoary 301 download ftp://ftp.sanger.ac.uk/pub/pathogens/Streptococcus/pneumoniae/ -1 available https://github.com/AdmiralenOla/Simulate_pan_genome 301 
+27765066 2016 null ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz 301 null https://gdc-portal.nci.nih.gov/ 301 null https://gdc-portal.nci.nih.gov/ 301 
+25886137 2015 NoLink
+25886262 2015 NoLink
+27687849 2016 NoLink
+21338479 2011 NoLink
+21851590 2011 null Q13263 -1 null Q62318 -1 null Q2TAS5 -1 
+22293552 2012 null http://uberon.org 302 null http://uberon.org 302 null http://uberon.org 302 library http://purl.obolibrary.org/obo/UBERON_nnnnnnn 302 
+22943138 2012 available ftp://ftp.solgenomics.net/genomes/Nicotiana_benthamiana/ 301 null http://www.genomebc.ca/portfolio/projects/bioenergy-projects/genomics-of-sunflower/ 404 null http://compgenomics.ucdavis.edu/ 200 null http://www.coffeegenome.org/ 200 
+14709169 2004 NoLink
+14709167 2004 NoLink
+25896518 2015 NoLink
+28137286 2017 null https://3dgenomes.github.io/TADbit 301 null https://github.com/CollasLab/Chrom3D 301 
+28137298 2017 NoLink
+20804579 2010 NoLink
+20796323 2010 NoLink
+27729075 2016 NoLink
+27729060 2016 tool http://hannonlab.cshl.edu/fastx_toolkit/ 200 null https://github.com/bpietzenuk/COMEX 301 
+15960803 2005 NoLink
+16168083 2005 NoLink
+27923386 2016 null https://www.ncbi.nlm.nih.gov/projects/gapplus/sgap_plus.htm 301 available https://sites.google.com/site/emorydivan/ 302 download http://mendel.stanford.edu/SidowLab/downloads/gerp/ 200 
+26868669 2016 NoLink
+25990550 2015 NoLink
+21635712 2011 NoLink
+25976240 2015 NoLink
+27931250 2016 null http://cgap.nci.nih.gov/Chromosomes/Mitelman 301 
+27339192 2016 null http://www.ers.usda.gov/topics/crops/rice.aspx 301 
+23034519 2012 NoLink
+12844359 2003 NoLink
+12844361 2003 NoLink
+28137287 2017 NoLink
+27927225 2016 NoLink
+28137275 2017 NoLink
+28137292 2017 NoLink
+28143571 2017 null http://zifit.partners.org/ZiFiT/ 200 null http://www.rgenome.net/cas-offinder 400 null http://imagej.net 301 
+27938378 2016 NoLink
+25622821 2015 NoLink
+19284550 2009 NoLink
+16207357 2005 NoLink
+16207356 2005 NoLink
+16207355 2005 NoLink
+23058244 2012 NoLink
+27887629 2016 tool https://github.com/arq5x/poretools 301 null https://sourceforge.net/projects/rpore/ 301 null https://github.com/lh3/bwa 301 null http://last.cbrc.jp/ 200 null https://documentation.tgac.ac.uk/display/NANOOK/ 302 null https://github.com/benedictpaten/marginAlign 301 null https://github.com/jts/nanopolish 301 null https://github.com/isovic/graphmap 301 null https://github.com/lh3/minimap 301 null https://github.com/lh3/miniasm 301 null https://github.com/marbl/canu 301 null https://github.com/jts/nanocorrect 301 null https://github.com/tszalay/poreseq 301 null https://github.com/institut-de-genomique/NaS 301 null https://github.com/jgurtowski/nanocorr 301 null https://github.com/marbl/mash 301 null https://github.com/minoTour/minoTour 301 null https://github.com/mattloose/RUscripts 301 null https://github.com/mateidavid/nanocall 301 null https://bitbucket.org/vboza/deepnano 301 
+21679406 2011 NoLink
+23181609 2012 NoLink
+27349964 2016 available http://www.ebi.ac.uk/research/flicek/publications/FOG17 301 
+22445094 2012 NoLink
+21733155 2011 NoLink
+23228031 2012 NoLink
+27993159 2016 NoLink
+27986083 2016 null http://www.cami-challenge.org 301 available http://r3lab.uni.lu/web/imp/doc.html 200 null http://www.cami-challenge.org 301 null http://www.cami-challenge.org 301 available http://r3lab.uni.lu/web/imp/doc.html 200 available http://r3lab.uni.lu/web/imp/doc.html 200 available http://r3lab.uni.lu/web/imp/doc.html 200 null http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/ 301 null https://github.com/BinPro/CONCOCT 301 null https://github.com/EnvGen/metagenomics-workshop 301 available http://r3lab.uni.lu/web/imp/doc.html 200 available http://r3lab.uni.lu/web/imp/doc.html 200 null https://github.com/tseemann/prokka#databases 301 code http://bioinfo.lifl.fr/RNA/sortmerna/code/SortMeRNA-user-manual-v2.0.pdf 200 
+27993155 2016 available http://nrifs.fra.affrc.go.jp/ResearchCenter/5_AG/genomes/Tuna_DNAmicroarray/index.html 200 null http://www.ebi.ac.uk/~birney/wise2/ 301 null http://www.ebi.ac.uk/~birney/wise2/ 301 software http://catchenlab.life.illinois.edu/chromonomer/ 200 null http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi 200 
+27978845 2016 NoLink
+21349207 2011 NoLink
+21605470 2011 NoLink
+27350042 2016 null http://www.glimdna.org/ 200 available https://github.com/mvaniterson/wbccPredictor 301 pipeline https://git.lumc.nl/molepi/Leiden450K 302 null https://github.com/kn3in/mRnd 301 
+27356509 2016 NoLink
+21635714 2011 NoLink
+21722340 2011 NoLink
+27356760 2016 null https://www.quartzy.com 301 null http://www.labguru.com 301 null http://web.expasy.org/docs/swiss-prot_guideline.html 200 null http://www.antibodyregistry.org 301 null http://airlab.bodenmillerlab.org 301 null www.appstore.com -1 null http://airlab.bodenmillerlab.org 301 software http://www.bodenmillerlab.org/research-2/software-2/ 200 null http://www.labguru.com 301 null https://www.quartzy.com 301 null http://www.antibodyregistry.org 301 
+27358048 2016 null http://www.ebi.ac.uk/arrayexpress/ 301 null http://dpsc.ccbr.utoronto.ca/cancer 301 null http://www.broadinstitute.org/ccle/ 301 
+27363435 2016 NoLink
+21619601 2011 NoLink
+28137300 2017 null https://atgu.mgh.harvard.edu/plinkseq/pseq.shtml 200 
+28159004 2017 NoLink
+28190401 2017 null http://arthropodacyc.cycadsys.org/ 200 
+28202034 2017 null http://bite-it.helsinki.fi/ 200 available https://github.com/msemon/ToothTranscriptomeAnalyses 301 null http://compbio.med.harvard.edu/ToothCODE/ 200 available https://github.com/msemon/ToothTranscriptomeAnalyses 301 null http://bite-it.helsinki.fi/ 200 
+14709168 2004 NoLink
+14709173 2004 NoLink
+14709177 2004 NoLink
+14759256 2004 NoLink
+28209174 2017 NoLink
+28209164 2017 NoLink
+15774035 2005 NoLink
+15960804 2005 NoLink
+18291030 2008 NoLink

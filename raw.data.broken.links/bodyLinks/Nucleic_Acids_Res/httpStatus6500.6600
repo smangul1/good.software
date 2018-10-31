@@ -1,0 +1,100 @@
+20457745 2010 available http://www.msea.ca 301 null http://java.sun.com/javaee/javaserverfaces 301 available http://www. -1 application http://www.rforge.net/Rserve/ 200 null http://www.smpdb.ca 301 null http://www.hmdb.ca/disease_browse 404 null http://www.metagene.de 200 null http://www.ncbi.nlm.nih.gov/pubmed 301 null http://www.hmdb.ca/ 200 
+20484374 2010 null http://www.cabri.org/ 200 null http://awstats.sourceforge.net/ 301 null http://www-p53.iarc.fr/ 301 download http://downloads.biowisdomsrs.com/publicsrs.html 200 null http://www.ws-i.org/ 200 null https://wadl.dev.java.net/ -1 null http://www.cabri.org/ 200 null http://srs.o2i.it/ -1 available http://bioinformatics.istge.it/ibws/ -1 software http://bioinformatics.istge.it:8080/axis/services -1 null http://www.taverna.org.uk/ 200 software http://sourceforge.net/projects/nusoap/ 301 here http://www.myexperiment.org/ 302 here http://www.biocatalogue.org/ 301 here http://www.cabri.org/CABRI/srs-doc/ 200 null http://taverna.sourceforge.net/ 301 here http://www.myexperiment.org/ 302 null http://www.myexperiment.org/workflows/36 200 null http://eutils.ncbi.nlm.nih.gov/ 301 null http://www.myexperiment.org/workflows/1049 200 
+20513648 2010 null http://marq.dacya.ucm.es -1 available http://github.com/mikisvaz 301 
+20529877 2010 null http://www.1000genomes.org 301 null http://www.nbcr.net 200 null http://ws.nbcr.net -1 available http://www.nbcr.net/pub/wiki/index.php?title=Opal_Client 404 null http://ws.nbcr.net/opal2/services/Pdb2pqrOpalService -1 null http://ws.nbcr.net/opal2/services/Pdb2pqrOpalService -1 pipeline http://accelrys.com/products/pipeline-pilot/ 301 null http://opal.nbcr.net -1 tool http://www.ebi.ac.uk/soaplab/ 301 null http://ws.nbcr.net -1 tool http://si.nbcr.net -1 null http://ws.nbcr.net -1 null http://dtp.nci.nih.gov/branches/dscb/div2_explanation.html 301 here http://kryptonite.nbcr.net/opal2/dashboard -1 null http://ws.nbcr.net -1 available http://kryptonite.nbcr.net -1 pipeline http://nbcr.net/pub/wiki/index.php?title=CADD_Pipeline -1 null http://nbcr.net/pub/wiki/index.php?title=Kepler -1 null http://nbcr.sdsc.edu/pub/wiki/index.php?title=VisTrails -1 null http://ws.nbcr.net/opal2/services/AutodockOpalService -1 null http://ws.nbcr.net/opal2/services/Autodock_4.2.1 -1 null http://kryptonite.nbcr.net/opal2/services/AutodockVina -1 null http://kryptonite.nbcr.net/opal2/services/AutodockVina_Screening -1 null http://kryptonite.nbcr.net/opal2/services/autodock -1 null http://ws.nbcr.net/opal2/services/AutogridOpalService -1 null http://ws.nbcr.net/opal2/services/Autogrid_4.2.1 -1 null http://kryptonite.nbcr.net/opal2/services/autogrid -1 null http://ws.nbcr.net/opal2/services/ApbsOpalService -1 null http://ws.nbcr.net/opal2/services/ApbsParallelOpalService -1 null http://ws.nbcr.net/opal2/services/FIMO_4.3.0 -1 null http://ws.nbcr.net/opal2/services/GLAM2_4.3.0 -1 null http://ws.nbcr.net/opal2/services/GLAM2SCAN_4.3.0 -1 null http://ws.nbcr.net/opal2/services/GOMO_4.3.0 -1 null http://ws.nbcr.net/opal2/services/MAST_4.3.0 -1 null http://ws.nbcr.net/opal2/services/MEME_4.3.0 -1 null http://ws.nbcr.net/opal2/services/Pdb2pqrOpalService -1 null http://ws.nbcr.net/opal2/services/PrepareGPFOpalService -1 null http://kryptonite.nbcr.net/opal2/services/prepareGPF -1 null http://ws.nbcr.net/opal2/services/PrepareReceptorOpalService -1 null http://kryptonite.nbcr.net/opal2/services/SMAPPairComp -1 null http://kryptonite.nbcr.net/opal2/services/SMAPDBSearch -1 
+20444865 2010 null http://www.broadinstitute.org/gsa/wiki/index.php/The_Genome_Analysis_Toolkit 301 null http://www.broadinstitute.org/gsa/wiki/index.php/VCF_Validator 301 null http://www.sanger.ac.uk/Software/formats/GFF 301 
+20504855 2010 null http://www.jmol.org 302 null http://www.pymol.org 302 null http://probis.cmm.ki.si/examples.html 404 
+20435678 2010 available http://sbi.postech.ac.kr/ConPlex/ 302 null http://www.jmol.org/ 302 apply http://pymol.sourceforge.net/ 200 available http://sbi.postech.ac.kr/ConPlex/ 302 
+20501604 2010 null http://www.genecards.org 200 null http://www.broadinstitute.org/gsea/msigdb/ 301 
+20513647 2010 software http://www.affymetrix.com/products_services/software/specific/expression_console_software.affx 302 tool http://www.affymetrix.com/partners_programs/programs/developer/tools/powertools.affx 301 null http://db.apache.org/derby 301 
+20519200 2010 null http://pid.nci.nih.gov/ 302 method www.biocarta.com -1 null http://mips.helmholtz-muenchen.de/proj/rspider 302 null http://pid.nci.nih.gov/ 302 method www.biocarta.com -1 null http://www.reactome.org/ 301 download http://www.reactome.org/download/current/homo_sapiens.interactions.txt.gz 301 null http://mips.helmholtz-muenchen.de/proj/rspider/example.html 302 
+20444873 2010 NoLink
+20542911 2010 available www.ParticleStats.com -1 
+20484371 2010 application http://toppcluster.cchmc.org/ 302 null http://www.R-project.org 200 null http://bmi.cchmc.org/resources/clusters 302 
+22962365 2012 null c -1 
+NA 2010 NoLink
+NA 2010 NoLink
+20406772 2010 NoLink
+20406773 2010 software http://frodo.wi.mit.edu/primer3/ 301 
+20371519 2010 NoLink
+20308164 2010 null http://www.oncomine.org 302 software http://blast.ncbi.nlm.nih.gov/ 301 software http://www.ncbi.nlm.nih.gov/tools/primer-blast/ 301 software http://qpcr.probefinder.com/roche3.html -1 software http://primer3.sourceforge.net/ 200 
+20338881 2010 null www.epigenome-noe.net -1 null S3 -1 
+20413583 2010 null http://www.ensembl.org/index.html 200 
+20385591 2010 null S2, -1 here S4 -1 
+NA 2010 null www.nar.oxfordjournals.org -1 
+NA 2010 NoLink
+NA 2010 NoLink
+20194118 2010 NoLink
+20338883 2010 null http://arabidopsis.org 301 
+20299344 2010 null http://www.ncbi.nlm.nih.gov/blast 301 null http://www.ebi.ac.uk/clustalw 301 
+20360045 2010 NoLink
+20338879 2010 null S2 -1 null S3 -1 
+20338878 2010 NoLink
+20338880 2010 algorithm http://www.ebi.ac.uk/clustalw/ 301 null http://mobyle.pasteur.fr/cgi-bin/portal.py?form=phyml 301 null http://myhits.isb-sib.ch/cgi-bin/motif_scan/ 301 tool http://www.expasy.ch/tools/protparam.html 302 
+20423911 2010 NoLink
+20348137 2010 null http://www.ebi.ac.uk/Tools/clustalw/ 301 null http://www.ncbi.nlm.nih.gov/sutils/genom_table.cgi 301 tool http://www.expasy.org/tools/blast 302 null http://www.ncbi.nlm.nih.gov/sutils/genom_table.cgi 301 null http://weblogo.berkeley.edu/ 200 
+20308162 2010 null http://pubchem.ncbi.nlm.nih.gov/assay/assay.cgi?aid=1385 301 
+20350931 2010 
+20350930 2010 software http://www.nimr.mrc.ac.uk/gmimpro/ -1 
+20427423 2010 null http://www.broad.mit.edu/science/projects/rnai-consortium/trc-shrna-design-process 301 
+20197316 2010 null http://www.jgi.doe.gov/programs/GEBA/ 301 null http://darwin.nerc-oxford.ac.uk/gc_wiki/index.php/MIENS -1 null http://www.genome.ad.jp/ 301 
+20197319 2010 null http://www.ncbi.nlm.nih.gov/pubmed/15858261 301 null S3 -1 
+20194112 2010 null http://www.spss.com 301 
+20197317 2010 
+20435675 2010 null http://www.seqanswers.com 301 null http://www.R-project.org 200 null http://frstrauss.free.fr 200 
+20360044 2010 here http://genome.ucsc.edu/ENCODE/ 200 here http://genome.ucsc.edu/ENCODE/pilot.html 200 here http://genome.ucsc.edu/ENCODE/ 200 null S2 -1 here http://genome.ucsc.edu/ENCODE/ 200 
+20338882 2010 null S5 -1 null S5 -1 null S5 -1 null S4 -1 null S5A -1 null http://www.ensembl.org/Mus_musculus/Gene/Sequence?g 200 
+20200046 2010 null http://paramecium.cgm.cnrs-gif.fr 200 
+20200045 2010 null S2 -1 
+20215439 2010 
+NA 2010 null www.nar.oxfordjournals.org -1 
+NA 2010 NoLink
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+20203083 2010 
+20203084 2010 null http://merna.lbl.gov/ -1 
+20444864 2010 NoLink
+20448026 2010 available http://rubin2.biomath.nyu.edu -1 apply S5 -1 available http://rubin2.biomath.nyu.edu -1 apply S5 -1 available http://rubin2.biomath.nyu.edu -1 
+20453028 2010 
+20378712 2010 null FigureS1 -1 
+20223773 2010 
+20215437 2010 null http://www.som.tulane.edu/gene_therapy/distribute.shtml 301 null http://genome.ucsc.edu/cgi-bin/hgBlat 200 null SupplemenatryFigureS3B -1 
+20215442 2010 
+20215435 2010 
+20215438 2010 null SupplementaaryTableS1 -1 
+20215434 2010 null http://www.broad.mit.edu/gsea/msigdb/annotate.jsp 301 null http://www.broad.mit.edu/gsea/msigdb/annotate.jsp 301 
+20215431 2010 null http://www.ensembl.org 301 null http://david.abcc.ncifcrf.gov/ 301 null http://www.physics.csbsju.edu/stats/KS-test.html 200 null http://www.pantherdb.org 200 null http://snpper.chip.org/bio/showamino -1 
+20189963 2010 null FiguresS1 -1 null 5 -1 
+20215430 2010 NoLink
+20215432 2010 null http://seed-viewer.theseed.org 503 null http://metagenomics.theseed.org -1 null http://www.wordle.net 405 
+17478499 2007 null http://rsb.info.nih.gov/ij/ 301 
+20360048 2010 
+20421213 2010 null SupplementalFigureS6 -1 null http://genie.weizmann.ac.il/pubs/nucleosomes06/ 302 
+20147461 2010 
+20147459 2010 null http://www.r-project.org/ 200 software http://www.ch.embnet.org/software/BOX_form.html 302 
+20150414 2010 NoLink
+20156993 2010 NoLink
+27596600 2016 null http://www.geneary.com.cn -1 null http://www.geneary.com.cn -1 
+NA 2010 null www.nar.oxfordjournals.org -1 
+20150415 2010 null http://www.genome.ucsc.edu 200 null http://www.tbi.univie.ac.at/papers/SUPPLEMENTS/454/Identification.html 302 null http://www.gen-au.at/ -1 null http://www.genome.ucsc.edu 200 null http://main.g2.bx.psu.edu/ -1 
+20385594 2010 
+20159996 2010 
+20156996 2010 null http://projects.tcag.ca/variation/ 200 tool http://www.affymetrix.com/partners_programs/programs/developer/tools/powertools.affx 301 tool http://www.affymetrix.com/partners_programs/programs/developer/tools/powertools.affx 301 
+20156995 2010 
+20156997 2010 null http://www.ncbi.nlm.nih.gov/projects/geo/ 301 
+20156994 2010 null http://xbase.bham.uk/ -1 null http://weblogo.berkeley.edu/ 200 
+20156992 2010 null ftp://ftp.ncbi.nih.gov/genomes/Bacteria/ 301 null http://www.cbs.dtu.dk/services/TMHMM-2.0/ 200 null http://coot.embl.de/Alignment//consensus.html -1 
+20164091 2010 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.23andme.com 301 
+20159995 2010 NoLink
+20159997 2010 package http://www.biopython.org 301 null http://ndbserver.rutgers.edu/ 200 
+20159994 2010 
+20159998 2010 
+20144952 2010 
+20164092 2010 
+20185571 2010 code http://pdsp-temp.pha-med.unc.edu/Download/code.php -1 
+20164093 2010 NoLink
+20176573 2010 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://genome.ucsc.edu/ 200 
+NA 2010 NoLink
+20236987 2010 null 2E -1 null http://www.r-project.org 200 null http://www.r-project.org 200 null 4 -1 null 2A -1 download http://www.bioinfo.rpi.edu/applications/hybrid/download.php 200 
+20167640 2010 application http//www.bioinfo.rpi.edu/applications/mfold/old/dna/form1.cgi -1 
+20167638 2010 
+NA 2010 null www.nar.oxfordjournals.org -1 

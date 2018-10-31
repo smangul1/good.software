@@ -1,0 +1,100 @@
+23761436 2013 algorithm http://www.repeatmasker.org 200 null http://genome.ucsc.edu 200 null http://genome.ucsc.edu 200 null http://www.biomart.org 200 null http://www.r-project.org 200 
+23761442 2013 null B -1 null D -1 
+23771145 2013 
+23761435 2013 null D -1 
+23771143 2013 tool http://www.ncbi.nlm.nih.gov/tools/cobalt/ 301 null S6 -1 
+23814184 2013 null http://zebrafish.stanford.edu 302 null http://zebrafish.stanford.edu 302 null http://www.fugu-sg.org/ 200 null http://great.stanford.edu 302 
+23761437 2013 null http://partsregistry.org -1 
+26481349 2016 null http://crispr.mit.edu 200 
+27131363 2016 pipeline http://clusterflow.io 200 
+23757189 2013 
+23754851 2013 
+23766291 2013 NoLink
+23766293 2013 null S2 -1 
+23766292 2013 null http://maldi.ms 301 null http://www.glenresearch.com/Technical/TB_UltraMild_Deprotection.pdf 200 
+23771139 2013 null http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi 301 null http://nfkb.utmb.edu 200 null S5 -1 tool http://informativity.utmb.edu 200 tool http://informativity.utmb.edu 200 null http://www.ingenuity.com 302 null http://nfkb.utmb.edu 200 null www.ingenuity.com -1 
+23775796 2013 
+23771146 2013 null S3B -1 
+23761434 2013 null S3 -1 null https://www.neb.com/protocols/2012/05/31/mutagenesis-protocol-for-phusion-site-directed-mutagenesis-kit-f-541 301 null http://partsregistry.org/Part:BBa_J23119 -1 null S3 -1 null S2 -1 
+23771144 2013 null B -1 null S4 -1 
+23771140 2013 null S2 -1 null S4 -1 null http://www.ncbi.nlm.nih.gov/projects/sviewer/ 301 null S4 -1 
+23771137 2013 available http://apollo.chemistry.gatech.edu/RibosomeGallery 301 available http://apollo.chemistry.gatech.edu/RibosomeGallery 301 null http://rna.ucsc.edu/rnacenter/ribosome_images.html 200 null http://rna.ucsc.edu/rnacenter/xrna/xrna.html 200 null http://apollo.chemistry.gatech.edu/RiboVision 301 null S3 -1 null http://www.rna.icmb.utexas.edu/CAR/1A/ 200 null S6 -1 null S10 -1 null S2 -1 null S9 -1 null S10 -1 null S10 -1 
+23761444 2013 null C -1 null C -1 
+23761438 2013 
+23771142 2013 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA 301 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA 301 available www.humgen.nl/MicroarrayAnalysisGroup.html -1 null S6 -1 algorithm D -1 null S2B -1 null S8 -1 null S9 -1 null B -1 
+23677618 2013 NoLink
+23685434 2013 null www.subio.jp -1 null www.ncbi.nlm.nih.gov/geo -1 null C -1 
+NA 2013 null www.nar.oxfordjournals.org -1 
+23814183 2013 
+23775792 2013 
+23775790 2013 null www.cellprofiler.org -1 null www.graphpad.com -1 here S6A -1 null S9A -1 null S13 -1 null S13A -1 here S6 -1 
+23775795 2013 available http://mirspring.victorchang.edu.au 200 available http://mirspring.victorchang.edu.au 200 
+23775794 2013 null S6 -1 null S9 -1 null S5 -1 null www.graphpad.com -1 
+23685613 2013 null C -1 available http://zhanglab.c2b2.columbia.edu/index.php/MCarts 301 null S2 -1 
+23783574 2013 null http://gladyshevlab.org/SelenoproteinPredictionServer 301 null http://seblastian.crg.es 200 null http://gladyshevlab.org/SelenoproteinPredictionServer 301 null http://seblastian.crg.es 200 null http://blog.theseed.org/servers/2010/07/scan-for-matches.html 200 software http://selab.janelia.org/software.html 404 null http://gladyshevlab.org/SelenoproteinPredictionServer 301 null http://seblastian.crg.es 200 
+23700312 2013 package www.scipy.org -1 
+23737451 2013 null ii -1 null D-ii -1 null D-iii -1 null ii -1 null ii -1 null ii -1 
+23737452 2013 null S4 -1 null S7 -1 
+23700310 2013 null S6 -1 
+23700311 2013 NoLink
+24831546 2014 null http://ffas.burnham.org/protmod-cgi/protModHome.pl 200 
+23737446 2013 null D -1 
+23700308 2013 available http://wanglab.pcbi.upenn.edu/coral 301 
+23703205 2013 null B -1 
+23748956 2013 null http://hla.alleles.org/nomenclature/naming.html 200 null http://www.novocraft.com/main/index.php 403 available ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/data/ 301 null http://bioinformatics.nmdp.org/HLA/Allele_Codes/Allele_Code_Lists/Allele_Code_Lists.aspx 301 
+23703211 2013 null D -1 
+23703212 2013 null http://ago.rockefeller.edu/tag_mm9.php 200 null http://ago.rockefeller.edu/rawdata.php 200 null http://genome.ucsc.edu/ 200 software http://www.r-project.org 200 download http://www.targetscan.org/ 200 download http://genie.weizmann.ac.il/pubs/mir07/mir07_exe.html 302 download http://www.microrna.org 302 download http://cm.jefferson.edu/rna22v1.0/ 302 null c -1 null e -1 null g -1 null i -1 null b -1 null d -1 null f -1 null h -1 null j -1 software http://sfold.wadsworth.org/cgi-bin/starmir.pl 200 null http://sfold.wadsworth.org/starmirDB.php 200 
+23703216 2013 null S4 -1 null S5 -1 null S4 -1 
+NA 2013 NoLink
+23804766 2013 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+21911355 2012 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www-snorna.biotoul.fr 302 null http://trnadb.bioinf.uni-leipzig.de/ 200 null http://www.ncbi.nlm.nih.gov/ 301 null http://www.mirbase.org/ 200 
+NA 2014 NoLink
+21911361 2012 null www.neb.com -1 null C -1 null www.neb.com -1 
+23716636 2013 
+23716634 2013 package http://rna.tbi.univie.ac.at/cgi-bin/RNAfold.cgi 404 null S23 -1 
+23716639 2013 null supplementaltable -1 null S1C -1 
+23716637 2013 null C -1 
+23716646 2013 null S3 -1 tool http://www.ensembl.org/ 301 
+23716635 2013 null Methods -1 null Methods -1 null TableS1 -1 null Methods -1 
+23716638 2013 null http://flux.sammeth.net 301 null http://flux.sammeth.net 301 
+23723242 2013 
+23723243 2013 
+23723241 2013 null S6 -1 null S9 -1 null S11 -1 null S14 -1 null S15 -1 null S11B -1 null S3 -1 null S14B -1 null S14B -1 null S15B -1 
+23723247 2013 null S2C -1 null S3C -1 null B -1 
+23723248 2013 null S6 -1 null B -1 
+23748561 2013 null http://epigenomics.wustl.edu/WIMSi/ 200 null 3 -1 null SupplementalMethods -1 
+23723244 2013 null B -1 
+NA 2013 NoLink
+23737447 2013 
+23742906 2013 algorithm S7 -1 
+NA 2013 null www.nar.oxfordjournals.org -1 
+NA 2013 NoLink
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+23748567 2013 null S5B -1 null C -1 null S5B -1 
+25389268 2014 
+23723245 2013 null http://hydra.icgeb.trieste.it/dna/bend_it.html 301 
+23703213 2013 null b -1 
+23605040 2013 NoLink
+23748562 2013 null SupplementalData -1 null SupplementalData -1 null Methods -1 null 10 -1 
+23748564 2013 null http://www.ncbi.nlm.nih.gov/gene/1098639 301 null http://www.ncbi.nlm.nih.gov/protein/21221639 301 null S6 -1 null S6 -1 null S7 -1 null B -1 null S7 -1 null D -1 null http://www.ebi.ac.uk/msd-srv/prot_int 301 null http://ekhidna.biocenter.helsinki.fi/dali_server 200 null S11 -1 
+23748560 2013 
+23748953 2013 download http://www.mirbase.org/ 200 
+23748954 2013 code www.rcsb.org -1 null S4 -1 
+23749060 2013 available http://www.lamondlab.com/NoPDB 404 
+24021631 2013 
+24030713 2013 null S2 -1 null S2and -1 null S2 -1 null http://mfold.rna.albany.edu/ 301 null S2 -1 null S2 -1 
+24030712 2013 
+24030710 2013 
+24038358 2013 null S2 -1 null S2 -1 null S2 -1 null S2 -1 
+24038352 2013 null http://www.roadmapepigenomics.org 200 null http://genome.ucsc.edu/cgi-bin/hgTables?command=start 200 null http://genome.ucsc.edu/cgi-bin/hgTables?command=start 200 null http://genome.ucsc.edu/cgi-bin/hgTables?command=start 200 null http://www.roadmapepigenomics.org 200 null http://genome.ucsc.edu/cgi-bin/hgTables?command=start 200 null http://genome.ucsc.edu/cgi-bin/hgTables?command=start 200 null http://www.roadmapepigenomics.org 200 null b -1 null b -1 
+24038356 2013 null http://www.hiv.lanl.gov/content/sequence/HEATMAP/heatmap.html 302 null B -1 null D -1 null S6 -1 null S6 -1 null S6 -1 null S6 -1 null S6 -1 null S6 -1 null S6 -1 
+24038359 2013 null http://ceas.cbi.pku.edu.cn 200 null http://david.abcc.ncifcrf.gov/ 301 
+24038357 2013 software http://rsbweb.nih.gov/ij/ 301 tool http://www.r-project.org/ 200 null D -1 null C -1 null D -1 package G -1 package G -1 null H -1 null F -1 
+24038355 2013 
+24038353 2013 null S2 -1 null S6 -1 
+24038472 2013 null http://www.r-project.org 200 null www.bioconductor.org -1 null S14 -1 null C -1 null D -1 null E -1 null S7 -1 null S7A -1 null S7B -1 null S7C -1 null S7D -1 
+24038470 2013 
+24038471 2013 null FigureS2B -1 
+24038467 2013 
+24038466 2013 null B -1 

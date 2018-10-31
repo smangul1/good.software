@@ -1,0 +1,100 @@
+26489510 2015 NoLink
+26493701 2015 null http://www.predictioncenter.org/casp11/zscores_final.cgi 200 null http://sysbio.rnet.missouri.edu/multicom_cluster/ 200 null http://sysbio.rnet.missouri.edu/multicom_cluster/ 200 
+26493560 2015 tool ftp://toolkit.genzentrum.lmu.de/pub/HH-suite/databases/ 301 method http://genesilico.pl/meta2 302 null ftp://ftp.ncbi.nih.gov/genomes/Bacteria/ 301 null ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/proteomes/ 200 available ftp://genesilico.pl/iamb/models/GmrSD/GmrS.pdb 404 available ftp://genesilico.pl/iamb/models/GmrSD/GmrD.pdb 404 
+26498158 2015 null http://www.genomecanada.ca 301 
+26493399 2015 NoLink
+26503371 2015 null http://www.tut.fi/cytospectre 301 
+26423606 2015 null http://pid.nci.nih.gov -1 
+26451811 2015 NoLink
+26424052 2015 code https://github.com/vickiechen/AERS 301 
+26511446 2015 NoLink
+27875981 2016 NoLink
+26423722 2015 NoLink
+26423047 2015 null https://github.com/mdozmorov/RepeatSoaker 301 
+26424171 2015 null http://foundationone.com/genelist2.php 302 
+26424364 2015 null http://www.meddra.org 301 null http://www.who.int/classifications/atcddd/en 301 null http://www.jasondavies.com/wordcloud 301 
+26424483 2015 NoLink
+26423345 2015 NoLink
+26423836 2015 NoLink
+26452124 2015 download http://www.renyi.hu/~miklosi/SCJ-Gibbs/ 302 
+26451725 2015 null http://www.ncbi.nlm.nih.gov 301 
+26573681 2015 software http://molsig.sourceforge.net 200 method https://github.com/mSorok/createRMS.git 301 
+26493835 2015 available www.cheminfo.org/pdbexplorer -1 available www.cheminfo.org/pdbexplorer -1 download http://www.rcsb.org 200 null http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf 200 library http://jsci.sourceforge.net/ 200 null http://github.com/cheminfo/pdb-database 301 application http://github.com/cheminfo/pdb-map 301 available www.cheminfo.org/pdbexplorer -1 null http://github.com/NPellet/visualizer 301 
+26498293 2015 NoLink
+26511329 2015 NoLink
+26452018 2015 algorithm http://biopp.univ-montp2.fr/ 200 
+NA 2015 NoLink
+26451911 2015 null http://questfororthologs.org/ 302 
+26451469 2015 NoLink
+26451672 2015 available http://kiwi.cs.dal.ca/Software/PICA 200 null https://github.com/univieCUBE/PICA 301 
+26451642 2015 
+27480116 2016 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+27439771 2016 NoLink
+NA 2015 available http://genometools.org/ 200 null http://www.sequenceontology.org/gff3.shtml 302 
+26634345 2015 NoLink
+26472075 2015 null https://isg.nist.gov/deepzoomweb/resources/survey/index.html 302 available https://isg.nist.gov/deepzoomweb/resources/survey/SegmSurvey_classifications.txt 302 null https://isg.nist.gov/deepzoomweb/resources/survey/index.html 302 null http://grand-challenge.org/All_Challenges/ 301 null http://cepko.med.harvard.edu/ 200 null 24 -1 null 2 -1 null 2 -1 null 8 -1 null 2 -1 null 2 -1 null 31 -1 null 15 -1 null 11 -1 null 4 -1 null 1 -1 null 12 -1 null 2 -1 null 1 -1 null 6 -1 null 4 -1 null 1 -1 null 1 -1 null 4 -1 null 8 -1 null 7 -1 null 7 -1 null 2 -1 null 1 -1 null 1 -1 null 1 -1 null 9 -1 null 1 -1 null 1 -1 null 6 -1 null 3 -1 null 2 -1 null 1 -1 null 3 -1 null 3 -1 null 10 -1 null 11 -1 null 2 -1 null 11 -1 null 3 -1 null 1 -1 null 1 -1 null 4 -1 null 11 -1 null 1 -1 null 5 -1 null 1 -1 null 1 -1 null 1 -1 null 3 -1 null 5 -1 null 2 -1 null 15 -1 null 5 -1 null 2 -1 null 3 -1 null 2 -1 null 1 -1 null 1 -1 null 1 -1 null 2 -1 null 1 -1 null 1 -1 null 19 -1 null 13 -1 null 2 -1 null 9 -1 null 5 -1 null 1 -1 null 2 -1 null 11 -1 null 9 -1 null 4 -1 null 7 -1 null 2 -1 null 1 -1 null 1 -1 null 1 -1 null 1 -1 null 1 -1 null 1 -1 null 7 -1 null 1 -1 null 33 -1 null 22 -1 null 4 -1 null 19 -1 null 1 -1 null 1 -1 null 16 -1 null 9 -1 null 16 -1 null 10 -1 null 1 -1 null 2 -1 null 1 -1 null 4 -1 null 4 -1 null 4 -1 null 9 -1 null 5 -1 null 7 -1 null 1 -1 null 1 -1 null 6 -1 null 7 -1 null 1 -1 
+NA 2015 NoLink
+26518340 2015 NoLink
+NA 2015 NoLink
+26514335 2015 package http://www.bioconductor.org/packages/release/bioc/html/ToPASeq.html 200 null http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-1147/ 301 download http://zlab.bu.edu/PWEA/download.php 301 null http://brainarray.mbni.med.umich.edu 200 tool http://www.buckingham.ac.uk/research/clore-laboratory-diabetes-obesity-and-metabolic-research/staff/maysson-al-haj-ibrahim/prs-tool/ 301 null http://zlab.bu.edu/PWEA/index.php 301 null http://watson.mcgee.mcw.edu:8080/~sgao -1 
+25638274 2015 NoLink
+NA 2015 NoLink
+26525146 2015 NoLink
+26530785 2015 available https://github.com/sararselitsky/tDRmapper 301 
+27964719 2016 NoLink
+27955623 2016 NoLink
+27964762 2016 available www.hiv.lanl.gov -1 null www.hcv.lanl.gov -1 
+26334796 2015 NoLink
+26538447 2015 available http://csbl.bmb.uga.edu/~xizeng/research.php?p=TU 200 available http://csbl.bmb.uga.edu/~xizeng/research.php?p=TU 200 null http://csbl.bmb.uga.edu/DOOR/ 200 null http://gcrg.ucsd.edu/InSilicoOrganisms/Ecoli 200 available http://csbl.bmb.uga.edu/~xizeng/research.php?p=TU 200 
+27855637 2016 NoLink
+25592753 2015 NoLink
+26589438 2015 available https://sourceforge.net/projects/focicount 301 null http://www.mathworks.com 301 null http://bigwww.epfl.ch/sage/soft/mij/ 200 available https://sourceforge.net/projects/focicount 301 null www.cellprofiler.org -1 null http://imagej.nih.gov/ij/ 302 null http://microscopy.duke.edu/HOWTO/countfoci.html 301 
+NA 2015 NoLink
+25727492 2015 download http://bioinformatics.njit.edu/RKalign 301 
+26537300 2015 available http://www.cellprofiler.org 301 null http://www.cellprofiler.org/tracer/ 301 null http://www.cellprofiler.org/tracer/ 301 null http://www.cellprofiler.org/tracer/ 301 null https://github.com/CellProfiler/CellProfiler-Analyst/tree/cellprofiler-tracer 301 
+26329823 2015 available http://rnacomposer.cs.put.poznan.pl 200 application http://rnacomposer.ibch.poznan.pl 200 null http://rnapdbee.cs.put.poznan.pl/ 200 
+NA 2015 NoLink
+NA 2015 NoLink
+NA 2015 NoLink
+NA 2015 null http://cancergenome.nih.gov/ 301 
+NA 2015 NoLink
+NA 2015 available https://github.com/vtphan/shortread-alignment-prediction 301 
+NA 2015 NoLink
+NA 2015 NoLink
+NA 2015 NoLink
+NA 2015 null http://www.mousephenotype.org 200 
+NA 2015 available https://github.com/namsyvo/IVC 301 
+NA 2015 NoLink
+NA 2015 NoLink
+NA 2015 NoLink
+26510995 2015 NoLink
+NA 2015 NoLink
+NA 2015 NoLink
+27516195 2016 software https://labs.oicr.on.ca/boutros-lab/software/BAMQL 200 
+26537885 2015 NoLink
+26538400 2015 NoLink
+26542386 2015 NoLink
+26553107 2015 null www.github.com/Looselab/AlignWise -1 null http://dx.doi.org/10.6084/m9.figshare.1245021 303 download http://www.ncbi.nlm.nih.gov/nuccore/ 301 
+25887686 2015 NoLink
+26553003 2015 NoLink
+26698293 2015 null http://smd.princeton.edu/ 200 software https://www.moleculardevices.com 301 null http://www.arabidopsis.org 200 
+26552596 2015 available https://github.com/SouthGreenPlatform/TOGGLE 301 available http://bioinfo-web.mpl.ird.fr/toggle/toggle.tgz 200 null http://bioinfo-web.mpl.ird.fr/toggle/installTOGGLE.sh 404 available https://github.com/SouthGreenPlatform/TOGGLE 301 available http://bioinfo-web.mpl.ird.fr/toggle/toggle.tgz 200 available http://bioinfo-web.mpl.ird.fr/toggle/TOGGLEinstall.sh 200 available https://github.com/SouthGreenPlatform/TOGGLE 301 
+26597459 2015 null http://www.vital-it.ch 200 
+27793083 2016 null http://zaramit.org/datasets 301 null http://github.com/JAlvarezJarreta/MEvoLib 301 null https://zenodo.org/record/58486 301 
+26542525 2015 download https://github.com/mhuttner/miRA 301 download https://github.com/mhuttner/miRA 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE32457 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE7575 301 
+26554846 2015 NoLink
+26558535 2015 NoLink
+26558718 2015 null https://gold.jgi-psf.org/statistics 301 null http://systems.illumina.com/systems/hiseq_2500_1500/performance_specifications.ilmn -1 null http://www.molecularecologist.com/next-gen-fieldguide-2014/ 200 available ftp://ftp.arabidopsis.org/home/tair/Sequences/whole_chromosomes -1 null https://github.com/jstjohn/SimSeq 301 software http://quast.bioinf.spbau.ru/manual.html#sec3.1.1 200 null https://github.com/ekg/freebayes 301 null https://www.broadinstitute.org/gatk/ 301 null http://broadinstitute.github.io/picard 301 tool http://sourceforge.net/projects/picard/ 301 null ftp://ftp.arabidopsis.org/home/tair/Sequences/blast_datasets/TAIR10_blastsets/ -1 
+27756204 2016 NoLink
+26552737 2015 null http://gabrmn.uab.es/jmrui2xml 200 
+27782801 2016 NoLink
+26552868 2015 NoLink
+26558877 2015 NoLink
+27439701 2016 null http://www/fludb.org 404 null http://www.mbio.ncsu.edu/bioedit/bioedit.html 200 
+26573665 2015 available http://www.atgc-montpellier.fr/Mowgli/ 200 
+26718335 2015 null http://www.netpath.org/ 200 null http://www.netpath.org/ 200 null http://www.hprd.org/ 200 
+26537733 2015 code https://github.com/preston/bittorious 301 code https://github.com/preston/bittorious 301 null https://try.bittorious.com 301 null https://try.bittorious.com/getting_started 301 
+26573684 2015 download https://github.com/hitbio/misFinder 301 download http://bix.ucsd.edu/projects/singlecell/nbt_data.html 200 
+26921164 2016 NoLink
+21269434 2011 NoLink
+26581577 2015 null http://www.mirbase.org/ 200 null http://www.bioconductor.org 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.bioconductor.org 200 

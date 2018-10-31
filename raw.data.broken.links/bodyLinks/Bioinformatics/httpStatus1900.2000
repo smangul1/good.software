@@ -1,0 +1,100 @@
+26819469 2016 
+26794315 2016 NoLink
+26773131 2016 NoLink
+26787666 2016 
+26794318 2016 null http://www.pymol.org 302 
+26803155 2016 tool http://gmt.genome.wustl.edu/packages/joinx/ 200 
+26819474 2016 null http://www.qt.io 301 
+26787667 2016 null http://icount.biolab.si 200 
+26826718 2016 
+27153731 2016 library https://github.com/aistcrypt/Lifted-ElGamal 301 
+26833340 2016 null http://www.vertnet.org 200 null http://www.gbif.org 301 null http://www.gbif.org/developer/occurrence 301 null SupplementalFig.S1 -1 null http://vertnet.org/resources/spatialqualitytabguide.html 200 method http://api-geospatial.vertnet-portal.appspot.com/geospatial 405 null http://www.gadm.org 200 null http://www.iucnredlist.org 200 code http://bit.ly/1NkNDde 301 
+26319390 2016 NoLink
+26794317 2016 software https://www.sanger.ac.uk/resources/software/smalt/ 301 
+26628585 2016 null https://github.com/fiji/SPIM_Registration 301 null https://github.com/fiji/SPIM_Registration 301 null 2 -1 
+26589281 2016 
+26614125 2016 
+26607491 2016 available http://genome.jouy.inra.fr/Insyght 302 
+26553913 2016 null www.bioconductor.org -1 null 2 -1 
+26861823 2016 
+25847007 2015 package www.bioconductor.org/packages/devel/bioc/html/EBSeqHMM.html -1 null SupplementSectionS3 -1 
+27307630 2016 
+27307631 2016 NoLink
+24790156 2014 null http://bioinf.uni-greifswald.de/augustus 301 software http://ccb.jhu.edu/software/glimmerhmm 301 null http://genome.ucsc.edu/FAQ/FAQblat.html 200 null http://research-pub.gene.com/gmap 301 software http://mblab.wustl.edu/software.html 200 null http://www.ncbi.nlm.nih.gov 301 null http://www.ncbi.nlm.nih.gov 301 null http://wolfpsort.seq.cbrc.jp -1 null http://www.cbs.dtu.dk/services/SignalP 301 null http://www.cbs.dtu.dk/services/TargetP 301 null http://phobius.binf.ku.dk/instructions.html 200 null http://www.cbs.dtu.dk/services/TMHMM 301 tool http://tools.immuneepitope.org/mhci/download 301 tool http://tools.immuneepitope.org/mhcii/download 301 
+27307648 2016 
+27307605 2016 null http://www.iscb.org/ismb2016 200 null http://www.iscb.org/ 200 
+27307638 2016 tool https://github.com/google/or-tools 301 
+27307640 2016 NoLink
+27307643 2016 NoLink
+27307645 2016 null http://www.genome.gov/ 301 null http://www.pathguide.org 200 null http://protege.stanford.edu/overview/protege-owl.html 301 
+27307616 2016 NoLink
+27307608 2016 null http://cnn.csail.mit.edu 200 code http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeAwgTfbsUniform/ 200 null https://github.com/Mri-monitoring/Mri-docs/blob/master/mriapp.rst 301 null http://cnn.csail.mit.edu 200 package https://cran.r-project.org/web/packages/gkmSVM 301 code http://tools.genes.toronto.edu/deepbind/nbtcode/ 200 
+27307624 2016 
+27307607 2016 download http://www.replicationdomain.org 302 
+27307644 2016 NoLink
+27307627 2016 null http://www.genome.jp/kegg/reaction/KCF.html 200 
+27307610 2016 download www.ncbi.nlm.nih.gov/geo -1 
+27307634 2016 
+27307611 2016 code ftp://ftp.sanger.ac.uk/pub/gencode/Gencode_human/release_19/ -1 
+27307620 2016 NoLink
+18586738 2008 null http://www.plasmodb.org 301 null http://www.tigr.org/tdb/e2k1/pva1/ 301 null http://www.ncbi.nlm.nih.gov/VecScreen/VecScreen.html 301 null http://www.ncbi.nlm.nih.gov 301 null http://blast.wustl.edu 200 
+27307609 2016 tool http://best.korea.ac.kr/ 200 
+27307629 2016 NoLink
+NA 2016 NoLink
+27307619 2016 null https://github.com/karroje/phRAIDER 301 
+27307618 2016 NoLink
+27307621 2016 null http://www.engr.uconn.edu/ywu/STELLS.html 404 
+27497439 2016 null https://imputationserver.sph.umich.edu 200 null https://imputation.sanger.ac.uk 301 
+27307633 2016 
+27307613 2016 NoLink
+27307632 2016 
+27307649 2016 download http://geneontology.org 200 
+27307612 2016 null http://egg2.wustl.edu/roadmap/data 301 
+27307606 2016 
+26545824 2016 software http://utprot.net -1 
+27207946 2016 null http://www.ebi.ac.uk/interpro 302 
+27307639 2016 null SupplementalFigureS4 -1 
+27307635 2016 
+27307637 2016 
+27307622 2016 null https://mathgen.stats.ox.ac.uk/impute/1000GP_Phase3.tgz 200 null http://www.shapeit.fr/files/genetic_map_b37.tar.gz 200 null ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/(HG002_NA24385_son|HG003_NA24149_father|HG004_NA24143_mother)/PacBio_MtSinai_NIST/MtSinai_blasr_bam_GRCh37/ 301 null ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/(HG002_NA24385_son|HG003_NA24149_father|HG004_NA24143_mother)/10XGenomics 301 software https://bitbucket.org/whatshap/whatshap 301 
+27307625 2016 available http://bioinfo.ifm.liu.se/ProQDock/ 200 
+27307617 2016 
+27307636 2016 null http://biomine.ece.ualberta.ca/DFLpred/ 200 null http://biomine.ece.ualberta.ca/DFLpred/ 200 null http://biomine.ece.ualberta.ca/DFLpred 302 
+27307623 2016 NoLink
+27307646 2016 null http://www.nlm.nih.gov/pubs/factsheets/mesh.html 301 null http://www.nlm.nih.gov/bsd/bsd_key.html 301 null http://bioasq.org 200 null http://sourceforge.net/p/lemur/wiki/RankLib/ 302 null http://radimrehurek.com/gensim 301 
+19202194 2009 NoLink
+27634950 2017 
+27153705 2016 
+26873928 2016 null SupplementalTableC -1 null SupplementalSectionB.1 -1 pipeline SupplementalSectionC -1 application SupplementalFigureS8 -1 null SupplementalFig.S6 -1 null SupplementalFigsS6andS7 -1 here SupplementalTableF -1 here SupplementalTableE -1 null SupplementalFigureS2 -1 null SupplementalFigureS2 -1 null SupplementalFigureS5 -1 null SupplementalTableA -1 null SupplementalTableB -1 null SupplementalFigureS1 -1 null SupplementalFigureS1 -1 null SupplementalSectionA -1 null SupplementalSectionD -1 null SupplementalFigsS6andS7 -1 
+26873930 2016 
+22718788 2012 software http://software.compbio.washington.edu/misc/downloads/tmscore/ -1 
+27153699 2016 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 available https://github.com/alastair-droop/fqtools 301 
+27153692 2016 NoLink
+26069264 2015 null http://ark.intel.com/products/63697 301 null http://www.ebi.ac.uk/ena/data/view/SRR309230 301 
+27153717 2016 null http://biopython.org 200 null http://pandas.pydata.org 200 null http://fred-2.github.io 200 
+27153723 2016 code http://biobranch.org 301 code http://bitbucket.org/sulab/biobranch 301 
+27153724 2016 null http://chundoong.snu.ac.kr/ 200 null http://www.postgresql.org/ 301 null https://www.djangoproject.com/ 301 null http://getbootstrap.com/ 200 null https://jquery.com/ 200 
+27153695 2016 available www.pymol.org -1 download www.embl-hamburg.de/biosaxs/download.html -1 
+27153726 2016 NoLink
+27153673 2016 NoLink
+27153570 2016 null https://github.com/PacificBiosciences/FALCON/ 301 null S2 -1 null http://www.repeatmasker.org 200 
+27153689 2016 null www.genome.gov/gwastudies -1 available www.1000genomes.org -1 
+27153703 2016 null http://www.haplotype-reference-consortium.org 200 null http://www.genomicsengland.co.uk 301 null https://phasingserver.stats.ox.ac.uk/ 503 null www.genomicsengland.co.uk -1 null https://phasingserver.stats.ox.ac.uk/ 503 
+27266441 2016 
+NA 2015 NoLink
+19179356 2009 software http://www.bioinf.manchester.ac.uk/naccess 301 null http://www.rcsb.org 200 download http://www.ncbi.nlm.nih.gov/BLAST/download.shtml 301 algorithm ftp://ftp.ncbi.nlm.nih.gov/blast/db/ 301 
+27153574 2016 null www.genome.gov/gwastudies -1 package http://bioconductor.org/packages/release/bioc/vignettes/SNPhood/inst/doc/IntroductionToSNPhood.html 200 package http://bioconductor.org/packages/release/bioc/vignettes/SNPhood/inst/doc/workflow.html 200 
+27153729 2016 
+27153650 2016 null http://sio.semanticscience.org 200 null https://bioportal.bioontology.org/ontologies/BIOMO 200 null https://bioportal.bioontology.org/ontologies/ORTH 200 null http://rdf.disgenet.org/ 200 null http://datahub.io/ca/dataset/disgenet 404 null http://www.w3.org/TR/hcls-dataset/ 200 null http://rdf.disgenet.org/ 200 null http://www.openphacts.org/specs/2013/WD-rdfguide-20131007/ 200 null http://opendatacommons.org/licenses/odbl/1.0/ 301 null http://d2rq.org/ 200 null http://virtuoso.openlinksw.com/ 301 null https://dev.openphacts.org 301 null http://www.myexperiment.org/workflows/4513.html 200 null http://bioqueries.uma.es/endpoint/disgenet 200 package https://bitbucket.org/albags/disgenet2r 301 null http://disgenet.org/web/DisGeNET/menu/rdf#sparql 301 
+27153568 2016 NoLink
+27402904 2016 null http://ictvonline.org/virusTaxonomy.asp 301 null http://www.who.int/csr/don/2009_09_18/en/ 200 tool http://toolkit.tuebingen.mpg.de/blastclust 301 null http://weizhong-lab.ucsd.edu/cdhit_suite/cgi-bin/index.cgi?cmd=cd-hit 200 null http://imed.med.ucm.es/EPISOPT.html 200 tool http://tools.immuneepitope.org/tools/population/iedb_input 302 tool http://tools.immuneepitope.org/mhci/ 200 tool http://tools.immuneepitope.org/mhcii/ 200 
+27153686 2016 null https://www.maelstrom-research.org/ 302 available http://www.obiba.org/pages/products/opal/ 200 code https://github.com/molgenis 301 software http://github.com/molgenis/molgenis 301 null http://www.molgenis.org/connect 302 available http://molgenis.github.io/documentation/ 404 available https://lucene.apache.org/core/ 200 available http://wiki.obiba.org/display/OPALDOC/Magma+Javascript+API 301 null http://www.unitsofmeasure.org/trac 200 available http://jscience.org/ 200 null http://www.json.org/ 200 null http://bioinformatics.oxfordjournals.org/ 301 
+27153589 2016 null http://www2.imm.dtu.dk/projects/spasm/ 200 null http://m3d.mssm.edu 200 null http://stitch.embl.de 200 
+27307615 2016 
+27153652 2016 
+21685073 2011 tool http://cran.r-project.org/web/packages/gputools 301 package http://cran.r-project.org/web/packages/GenABEL/ 200 software http://www.vital-it.ch/software/FastEpistasis 200 
+27288495 2016 
+26116928 2015 null e -1 
+20519285 2010 null http://www.phrap.org/ 200 available http://nbase.biology.gatech.edu -1 available http://nbase.biology.gatech.edu -1 null http://www.mgc.ac.cn/VFs/ 200 
+27153711 2016 
+27301405 2016 NoLink

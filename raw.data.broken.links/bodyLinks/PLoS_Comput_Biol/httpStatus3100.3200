@@ -1,0 +1,100 @@
+25719560 2015 NoLink
+24068906 2013 null http://www.fil.ion.ucl.ac.uk/spm 301 null http://www.fil.ion.ucl.ac.uk/~lhunt 301 
+24068911 2013 null http://www.ncbi.nlm.nih.gov/ 301 null www.ensembl.org -1 null www.bioconductor.org -1 
+24068900 2013 null http://www.brain-map.org 200 available http://chechiklab.biu.ac.il/~lior/cerebellum.html 200 null http://developingmouse.brain-map.org/docs/InformaticsDataProcessing.pdf 200 null http://mouse.brain-map.org/ 200 
+24068908 2013 NoLink
+24098107 2013 available http://www.iscbsc.org/content/regional-student-groups 403 
+27792728 2016 tool http://wagerlab.colorado.edu/tools 302 
+24086121 2013 NoLink
+24068904 2013 NoLink
+24086117 2013 NoLink
+24039559 2013 null http://biophysics.cs.vt.edu/H 404 
+24086118 2013 null http://www.neo4j.org/ 301 code http://opentreeoflife.org/ 302 null https://github.com/OpenTreeOfLife/treemachine 301 null http://datadryad.org/ 200 available http://birdtree.org/ 200 
+24086120 2013 NoLink
+24068901 2013 tool http://lists.sourceforge.net/lists/listinfo/biopax-paxtools 302 
+28241040 2017 NoLink
+24415929 2014 available http://www.scalalife.eu 301 
+24453959 2014 algorithm http://www.ebi.ac.uk/Tools/msa/clustalo/ 301 
+28231282 2017 application http://mindboggle.info 301 pipeline http://nipy.org/nipype 301 null 10.5281/zenodo.50186 -1 null https://github.com/nipy/mindboggle/issues 301 null https://neurostars.org/tags/mindboggle/ 301 null https://readthedocs.org/projects/mindboggle 301 null https://circleci.com/gh/nipy/mindboggle 301 null https://github.com/nipy/mindboggle 301 null https://osf.io/x3up7/ 301 null http://www.nitrc.org/projects/ibvd 302 null https://www.nitrc.org/projects/brainvisa_ext 302 application http://mindboggle.info 301 software https://osf.io/gfwcn/ 301 null http://mindboggle.info/labels.html 301 null http://mindboggle.info/data.html 301 available https://osf.io/nhtur/ 301 null https://surfer.nmr.mgh.harvard.edu/ 200 library https://github.com/xtk/X 301 null http://threejs.org/ 301 null http://roygbiv.mindboggle.info 200 null https://github.com/binarybottle/roygbiv 301 null https://www.synapse.org/Synapse:syn2290704/wiki/60828 302 null https://surfer.nmr.mgh.harvard.edu/fswiki/recon-all -1 null http://stnava.github.io/ANTs/ 200 software http://mindboggle.info/software.html 301 null http://nifti.nimh.nih.gov/ 302 null http://www.vtk.org/ 302 null https://clinicaltrials.gov/ct2/show/NCT01407094 301 null https://osf.io/9cn7s/ 301 null https://osf.io/jwhea/ 301 here https://osf.io/r95wb/ 301 available https://osf.io/mhc37/ 301 null https://osf.io/st7nk/ 301 null https://osf.io/dp4zy/ 301 null https://osf.io/gzshf/ 301 null https://osf.io/d7hx8/ 301 null https://osf.io/d7hx8/ 301 application http://mindboggle.info 301 null https://github.com/nipy/mindboggle 301 null https://osf.io/ydyxu/ 301 null http://roygbiv.mindboggle.info 200 null https://readthedocs.org/projects/mindboggle 301 null https://github.com/nipy/mindboggle/issues 301 null https://neurostars.org/tags/mindboggle/ 301 null https://circleci.com/gh/nipy/mindboggle 301 null https://github.com/BIDS-Apps/mindboggle 301 null https://github.com/binarybottle/roygbiv 301 null https://docs.continuum.io/ 301 null http://www.vtk.org/ 302 null https://github.com/nipy/nipype 301 null https://github.com/nipy/nibabel 301 null http://stnava.github.io/ANTs 301 null https://surfer.nmr.mgh.harvard.edu/fswiki 200 null https://osf.io/8cf5z/ 301 null http://mindboggle.info/labels.html 301 null http://mindboggle.info/data.html 301 available https://osf.io/nhtur/ 301 
+28234899 2017 NoLink
+24086119 2013 NoLink
+27340823 2016 available http://CRAN.R-project.org 200 null https://r-forge.r-project.org/projects/guts/ 200 
+19343221 2009 here http://cssb.biology.gatech.edu/skolnick/webservice/DP-dock/ 404 null http://pipe.scs.fsu.edu/displar.html 200 
+28178267 2017 NoLink
+24086122 2013 NoLink
+28170390 2017 null m2c.systemsbiology.net -1 available https://github.com/IlyaLab/M2C 301 pipeline http://ezid.cdlib.org/id/doi:10.7908/C1K64H78 405 null http://gdac.broadinstitute.org/runs/analyses__2014_10_17/data/ 200 null http://www.cancerrxgene.org/ 200 null http://m2c.systemsbiology.net/ 200 null http://m2c.systemsbiology.net/ 200 
+28187134 2017 null www.r-project.org -1 
+24086123 2013 NoLink
+28192423 2017 available https://www.mathworks.com/matlabcentral/fileexchange/61465-sysmole 200 null www.mathworks.com -1 null www.mathworks.com -1 
+24086124 2013 null http://www.ciml.univ-mrs.fr/lab/he-marguet.htm 301 null http://probes.invitrogen.com/media/spectra/data/14200ca.txt -1 
+24068913 2013 here http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology/ISCB_competition_announcement_2013 301 here http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology 301 null www.iscb.org -1 null www.iscb.org -1 
+NA 2013 NoLink
+28192432 2017 available http://blue11.bch.msu.edu/mmtsb/ 301 
+28253254 2017 NoLink
+28253259 2017 available http://crispeta.crg.eu 200 available crispeta.crg.eu -1 download http://www.ebi.ac.uk/gwas/api/search/downloads/full 200 code http://www.broadinstitute.org/rnai/public/analysis-tools/sgrna-design-v1 301 available http://crispeta.crg.eu 200 null https://github.com/guigolab/CRISPETA 301 
+20585544 2010 null http://www.berkeleymadonna.com/ 200 
+28192429 2017 NoLink
+24499929 2014 NoLink
+20617198 2010 null https://asap.ahabs.wisc.edu/asap/home.php 200 
+24453952 2014 null www.pymol.org -1 
+20628623 2010 NoLink
+24465199 2014 NoLink
+24391489 2014 NoLink
+21187909 2010 null http://www.bioconductor.org 200 
+21187907 2010 NoLink
+24784354 2014 NoLink
+24784237 2014 available http://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps 200 tool http://chronux.org 200 
+24722167 2014 NoLink
+24722397 2014 null http://openclipart.org/detail/17566/cartoon-owl-by-lemmling 301 
+24722239 2014 package http://trades.blueprint.org 200 package http://trades.blueprint.org 200 available http://www.iiserpune.ac.in/~madhusudhan/pCas130_mechanosensing 301 
+24722319 2014 null https://github.com/CompEvol/beast2 301 available http://beast2.org 301 available http://beast2.org 301 null http://beast2.org/wiki 301 available http://beast2.org/book.html 301 code http://subst-bma.googlecode.com/ 404 package http://compevol.github.io/MultiTypeTree/ 404 
+24722346 2014 NoLink
+24722359 2014 NoLink
+24722481 2014 software http://www.vernalis.com 200 available http://rdock.sourceforge.net/ 200 
+24722195 2014 NoLink
+24722420 2014 NoLink
+24722458 2014 NoLink
+24453956 2014 code http://info.mcmaster.ca/yifei/software.html 200 
+NA 2014 NoLink
+24743140 2014 NoLink
+24743184 2014 available https://bitbucket.org/rfs/medicc 301 
+24743239 2014 NoLink
+24743268 2014 available https://bitbucket.org/thocu/virtual-cell 301 
+24743308 2014 tool http://www.mrc-cbu.cam.ac.uk/methods-and-resources/toolboxes/license/ 200 
+24743331 2014 software http://bogdan.bioinformatics.ucla.edu/software/lanccsv 301 software http://bogdan.bioinformatics.ucla.edu/software/lanccsv 301 
+24743341 2014 NoLink
+24743387 2014 available www.idm.uantwerpen.be -1 available www.idm.uantwerpen.be -1 
+24743470 2014 NoLink
+24743524 2014 NoLink
+24743711 2014 tool http://psychtoolbox.org 200 code http://code.google.com/p/mbb-vb-toolbox/ 405 
+24743590 2014 code http://code.google.com/p/phylter/ 405 
+24743682 2014 null http://stats.wikimedia.org 301 null www.en.wikipedia.org/wiki/Main_page -1 null http://en.wikipedia.org/wiki/Wikipedia:Statistics 301 available http://stats.grok.se -1 tool www.cdc.gov/flu/weekly -1 null http://www.google.org/flutrends 301 
+24743564 2014 NoLink
+24743773 2014 null http://gpcr.usc.es -1 
+24763310 2014 null www.bioinformatics.org -1 null http://www.covenantuniversity.edu.ng 200 null http://cubre.covenantuniversity.edu.ng 200 null http://cubre.covenantuniversity.edu.ng/index.php/nigeria-society-for-bioinformatics-and-computatational-biology-nisbcb/ 200 null http://www.nabda.gov.ng/ 200 null http://www.run.edu.ng 200 null http://www.uniben.edu 301 null http://www.wabri.org 200 null http://www.unilorin.edu.ng 200 null http://www.asopah.org 200 software http://public.tableausoftware.com/views/ngr_bioinfo/research_groups 301 null http://www.covenantuniversity.edu.ng 200 null http://www.nabda.gov.ng 200 null http://bioinformatics.ui.edu.ng 200 null http://cbg.unilag.edu.ng -1 null http://www.uniport.edu.ng 200 null http://www.mautech.edu.ng 200 null http://www.uniben.edu/departments/plant-biology-and-biotechnology 404 null http://www.fountainuniversity.edu.ng/index.php/styles/style2 301 null http://www.bellsuniversity.org 302 null http://www.wusto.edu.ng/pages/CNAS/CNAS%20page2.html -1 null http://www.madonna.edu/academics/academic-programs/asx 200 null http://www.esut.edu.ng/cms-page.php?id=347 404 null http://www.futo.edu.ng/Schools/Science/biotechnology.aspx 404 null http://sci.ui.edu.ng/acadmcb 200 null http://www.channelstv.com/home/2012/02/23/unijos-cultivates-malaria-treatment-plant/ 301 null www.ihvnigeria.org -1 
+24763317 2014 NoLink
+24763340 2014 null http://www.mpa-garching.mpg.de/galform/virgo/millennium/ 301 null http://www.genome.gov/10001772 301 null http://www.w3.org/TR/2013/REC-prov-dm-20130430/#dfn-provenance 200 null www.genepattern.org -1 null http://creativecommons.org/choose/ 301 null http://opendatacommons.org/licenses/pddl/ 301 null http://thedata.org 302 here http://figshare.com 301 null http://zenodo.org 301 null http://datadryad.org 200 tool http://databib.org 200 null http://www.re3data.org 301 null http://oad.simmons.edu/oadwiki/Data_repositories 200 null http://www.force11.org/catalog 301 null http://www.taverna.org.uk 200 null https://kepler-project.org 302 null http://www.wings-workflows.org 200 null http://www.vistrails.org 301 null http://www.knime.org 301 software http://github.com 301 null http://git-scm.com 301 null http://mercurial.selenic.com -1 null https://bitbucket.org 301 null http://ipython.org/notebook.html 200 package http://ropensci.org 301 null https://authorea.com 301 tool http://dexy.it 301 software http://invenio-software.org 200 software http://www.eprints.org/software 301 null http://www.dspace.org 200 null http://opensource.org/licenses 301 tool http://privacytools.seas.harvard.edu 302 
+24763382 2014 NoLink
+24762409 2014 NoLink
+24762474 2014 NoLink
+24762569 2014 null http://youtu.be/_hMa6G0ZoPQ 302 available http://bcb.med.usherbrooke.ca/encom 404 
+24762675 2014 software http://www.gnu.org/software/glpk/ 200 null www.bioconductor.org -1 software www.r-project.org -1 
+24762737 2014 null www.genome.jp/kegg/ -1 application http://rsbweb.nih.gov/ij/ 301 
+24762745 2014 available https://github.com/cdanielmachado/transcript2flux 301 
+24762780 2014 available http://www.R-project.org 200 available http://cpid.iri.columbia.edu/Refs.html 200 
+24763223 2014 NoLink
+24763195 2014 null http://www.flame.ac.uk 301 
+24763087 2014 software http://www.neuromatic.thinkrandom.com/ 200 
+24763141 2014 null http://drive5.com/usearch/ 200 null http://environmentontology.org/ 200 
+24784149 2014 NoLink
+24784581 2014 tool http://korkinlab.org/snpintool 200 null http://life.bsc.es/pid/mutation_database/datatable.html 301 apply http://www.ebi.ac.uk/msd-srv/capri/round26/ 200 available http://korkinlab.org/snpintool/ 200 available http://korkinlab.org/snpintool/ 200 apply http://www.ebi.ac.uk/msd-srv/capri/round26/ 200 
+24699277 2014 NoLink
+24699246 2014 here http://anmpathway.lcrc.anl.gov/anmpathway.cgi 404 
+24699258 2014 NoLink
+24699260 2014 NoLink
+24699264 2014 null https://www.psych.uni-goettingen.de/en/communication/research/honeycomb-c-coordination-in-human-groups 302 
+24699269 2014 here https://github.com/jkrivine/KaSim 301 null http://infoscience.epfl.ch/record/142570/files/stochastic_fragments.pdf 302 available http://emonet.biology.yale.edu/nfsim 301 code http://code.google.com/p/nfsim 405 code http://code.google.com/p/bionetgen 405 null http://bionetgen.org 200 here https://github.com/jkrivine/KaSim 301 null http://aws.amazon.com/ec2/ 301 null http://bionetgen.org 200 
+24699231 2014 null http://tree.bio.ed.ac.uk 200 null http://tree.bio.ed.ac.uk 200 null http://tree.bio.ed.ac.uk 200 null http://www.hiv.lanl.gov/ 302 null http://www.hiv.lanl.gov/ 302 null http://tree.bio.ed.ac.uk/ 200 
+24699297 2014 available www.gjpvanwesten.nl/allosterism -1 null ftp.ebi.ac.uk/pub/databases/chembl/Allosterism -1 available www.gjpvanwesten.nl/allosterism -1 null ftp.ebi.ac.uk/pub/databases/chembl/Allosterism -1 available www.gjpvanwesten.nl/allosterism -1 null ftp.ebi.ac.uk/pub/databases/chembl/Allosterism -1 available www.gjpvanwesten.nl/allosterism -1 null ftp.ebi.ac.uk/pub/databases/chembl/Allosterism -1 available www.gjpvanwesten.nl/allosterism -1 null ftp.ebi.ac.uk/pub/databases/chembl/Allosterism -1 available www.gjpvanwesten.nl/allosterism -1 null ftp.ebi.ac.uk/pub/databases/chembl/Allosterism -1 available www.gjpvanwesten.nl/allosterism -1 null ftp://ftp.ebi.ac.uk/pub/databases/chembl/Allosterism 301 
+NA 2014 NoLink
+NA 2014 NoLink

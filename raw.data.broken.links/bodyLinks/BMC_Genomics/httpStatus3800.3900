@@ -1,0 +1,100 @@
+21810204 2011 null http://www.genomesonline.org 301 available http://www.theseed.org/Papers/20101120/ 200 available http://theseed.uchicago.edu/ 302 null http://TheSEED.org 301 null http://theseed.uchicago.edu/FIG/SubsysEditor.cgi 503 tool http://www.nmpdr.org/FIG/wiki/view.cgi/FIG/SigGenes 302 tool http://www.ncbi.nlm.nih.gov 301 null http://www.genome.jp/kegg 301 null http://www.brenda-enzymes.info/ 200 null http://www.sbg.bio.ic.ac.uk/phyre/ 200 null http://pfam.sanger.ac.uk 301 null http://www.arabidopsis.org/ 200 null http://www.yeastgenome.org 302 null http://www.microbesonline.org/ 200 null http://ecogene.org/ 200 null http://biocyc.org/ECOLI/ 302 null http://genome.kazusa.or.jp/cyanobase 301 null http://www.pseudomonas.com/ 200 null http://rhodobase.org/index.php 404 null http://www.atted.bio.titech.ac.jp/ -1 null http://csbdb.mpimp-golm.mpg.de/csbdb/dbxp/ath/ath_xpmgq.html -1 null http://bioinfo.ucr.edu/projects/Unknowns/external/express.html 302 null https://www.genevestigator.com 302 null http://ppdb.tc.cornell.edu/ 200 null http://www.rcsb.org/pdb/home/home.do 200 null http://bioweb.ucr.edu/scripts/unknownsDisplay.pl 503 available http://www.theseed.org/Papers/20101120/. 403 
+21810205 2011 null http://regprecise.lbl.gov 200 tool http://theseed.uchicago.edu/FIG/index.cgi 503 null http://regpredict.lbl.gov 200 null http://regprecise.lbl.gov 200 null http://www.microbesonline.org/cgi-bin/speciesTree.cgi -1 null http://theseed.uchicago.edu 302 
+21810206 2011 null http://genome.jgi-psf.org/Chlre4/Chlre4.home.html 302 null http://www.uniprot.org/ 200 null http://www.ncbi.nlm.nih.gov/IEB/ToolBox/C_DOC/lxr/source/doc/blast/blastclust.html 301 null http://www.phrap.org/phredphrap/general.html 200 null http://www.phrap.org/ 200 null http://genome.jgi-psf.org/Chlre4/Chlre4.home.html 302 
+21810209 2011 available http://ibbr.umd.edu/g2f 301 null http://img.jgi.doe.gov/ 302 null http://img.jgi.doe.gov/ 302 
+21810208 2011 NoLink
+21810207 2011 null http://www.ncbi.nlm.nih.gov/genomes/lproks.cgi 301 null http://www.interactomeataglance.org -1 null http://www.interactomeataglance.org -1 
+21810210 2011 tool http://tools.bio.anl.gov:8000/bioJAVA/jsp/PeriplasmicProteinDesign/index.html -1 null http://www.tcdb.org 200 
+21672259 2011 null http://www.biopieces.org 302 null http://www.biopieces.org 302 
+21676223 2011 null http://www.ebi.ac.uk/arrayexpress 301 null http://www.cbs.dtu.dk/services/gwBrowser/ 200 
+21649902 2011 NoLink
+22849515 2012 null http://biptemp.bham.ac.uk/vivo/galgo/Tutorial.pdf 200 
+21711526 2011 null http://www.ncbi.nlm.nih.gov/geo 301 null http://go.princeton.edu/cgi-bin/GOTermFinder 200 
+21679449 2011 null http://www.sanger.ac.uk/Projects/S_pombe/ 301 
+21679461 2011 null http://www.nist.gov/srd/mslist.htm 301 
+21682891 2011 null http://www.genome.gov/gwastudies 301 
+21627843 2011 null http://www.ncbi.nlm.nih.gov 301 null http://bioinf.mind.meiji.ac.jp/cgi-bin/gbrowse/OsMes/#search 200 null http://cibex.nig.ac.jp 301 
+21595870 2011 library http://cnrgv.toulouse.inra.fr/en/library/barley 301 
+21631939 2011 NoLink
+21627805 2011 null http://www.genboree.com 302 
+21689389 2011 null HM989930 -1 null HM989940 -1 null http://purl.org/phylo/treebase/phylows/study/TB2:S11304 302 null HM989930 -1 null HM989940 -1 
+21693016 2011 null CP002623 -1 null CP002626 -1 
+21699680 2011 download http://esharkgenome.imcb.a-star.edu.sg/ 200 null http://www.repeatmasker.org/RepeatModeler.html 200 null ftp://genome.wustl.edu/pub/organism/Other_Vertebrates/Petromyzon_marinus/ 404 null http://codonw.sourceforge.net/ 200 null http://discover.nci.nih.gov/cimminer 302 
+21699700 2011 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+21699715 2011 null HO663580 -1 software HO663741 -1 null http://www.ncbi.nlm.nih.gov/BLAST 301 algorithm http://cogeme.ex.ac.uk -1 algorithm http://www.ncbi.nlm.nih.gov/gorf 301 null http://mendel.imp.ac.at/gpi 301 null http://disulfind.dsi.unifi.it 200 null http://www.expasy.org 302 
+21699734 2011 null http://www.novocraft.com 403 null http://www.novocraft.com 403 download http://flybase.org 200 download http://www.vectorbase.org 302 download http://www.hgsc.bcm.tmc.edu 301 download http://hgdownload.cse.ucsc.edu 301 
+21702984 2011 NoLink
+21708028 2011 download http://hgdownload.cse.ucsc.edu/goldenPath/hg18/phastCons44way/ 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.targetscan.org/ 200 null http://pictar.mdc-berlin.de 200 available http://www.ensembl.org/biomart 302 available http://bioinfogp.cnb.csic.es/tools/venny/index.html 200 download http://hgdownload.cse.ucsc.edu/goldenPath/hg18/phastCons44way/ 200 
+21749696 2011 NoLink
+21711558 2011 NoLink
+21714911 2011 NoLink
+21714912 2011 null CP000909 -1 available NC_010175 -1 null http://www.jgi.doe.gov/ 301 software http://www.phrap.com 200 null http://www.bacterio.cict.fr/index.html 301 
+21635727 2011 null http://www.ncbi.nlm.nih.gov/nuccore 301 null http://454.com -1 null http://www.ensembl.org 302 null http://www.ensembl.org/info/data/ftp/index.html 302 null http://www.ncbi.nlm.nih.gov/staff/tao/URLAPI/blastall 301 null http://www.ensembl.org/index.html 302 null http://www.biomart.org 200 download http://www.geneontology.org/GO.downloads.ontology.shtml 301 null http://www.ensembl.org/index.html 302 null http://www.biomart.org 200 null http://www.ncbi.nlm.nih.gov/RefSeq/ 301 null http://www.ncbi.nlm.nih.gov/nuccore 301 null http://wheat.pw.usda.gov/ITMI/EST-SSR/LaRota 302 null http://www.ncbi.nlm.nih.gov/nuccore 301 
+21635743 2011 NoLink
+21635747 2011 null http://bioinf.comav.upv.es/ngs_backbone/ 302 null http://github.com/JoseBlanca/franklin 301 
+21569245 2011 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.affymetrix.com 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 null 24587 -1 null 314856 -1 null 288656 -1 null 114121 -1 null 24373 -1 null 171347 -1 null 304268 -1 null 17872 -1 null 54305 -1 null 114505 -1 null 25389 -1 null 81813 -1 null 117514 -1 null 314322 -1 null 361915 -1 null 154516 -1 null 25617 -1 null 25302 -1 null 641625 -1 null 24766 -1 null AI639457 -1 null U31866 -1 null AI639457 -1 null AI639215 -1 null M13100 -1 null 363278 -1 null M13100 -1 null M13101 -1 null M13100 -1 null S49760_g_at -1 null H31982_at -1 null AA849648_at -1 null X83747 -1 null AA800750 -1 null AA891631 -1 null AI104567 -1 null AA892318 -1 null AA892821 -1 null AI639209 -1 null AI103671 -1 null M60921 -1 null AA892271 -1 null AI639371 -1 null U66471 -1 null L23148 -1 null M13101 -1 null AI180350 -1 null X62160 -1 null AA87520 -1 null AA858520 -1 null AI639457 -1 null AA799888 -1 null X62950 -1 null AA875126 -1 null AA818677 -1 null AA859994 -1 null U17254 -1 null AA875121 -1 null AF040954 -1 null AI070277 -1 null AA875620 -1 null AI176589 -1 null M31018 -1 null M10094 -1 null AI639167 -1 null X05472 -1 null AA800712 -1 null AF080468 -1 null AI639294 -1 null AA955859 -1 null U45479 -1 null AI014169 -1 null AA893320 -1 null AA800693 -1 null AA800513 -1 null AI639488 -1 null M92074 -1 null AI639320 -1 null AA894321 -1 
+21635780 2011 null CP001827 -1 null NC_013890 -1 null JN034252 -1 null JN034255 -1 null ACZ62382 -1 null ADC39978 -1 null CP001827 -1 null NC_013890 -1 null JN034252 -1 null JN034255 -1 
+21635781 2011 NoLink
+21718467 2011 tool http://www.graphviz.org/ 200 null http://www.r-project.org/ 200 null http://mcube.nju.edu.cn/bioinfo/intermitobase/ 404 
+21718468 2011 NoLink
+21718527 2011 NoLink
+21639890 2011 null DQ231548 -1 null http://brassicadb.org/brad/ 200 null http://www.arabidopsis.org 200 
+21639908 2011 null https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/buildDetails?atlas_build_id=282 404 pipeline http://www.genologics.com/ 301 null http://www.matrixscience.com/ 200 download http://www.peptideatlas.org/builds/honeybee/ 200 null ftp://ftp.ncbi.nih.gov/genomes/Apis_mellifera/protein/protein.fa.gz 301 null ftp://ftp.ncbi.nih.gov/genomes/Apis_mellifera/protein/Gnomon_prot.fsa.gz 301 null http://www.srmatlas.org 200 
+21639920 2011 null http://www.cdc.gov/pulsenet/protocols.htm 301 null http://www.igs.umaryland.edu/ 200 null http://www.pasteur.fr/recherche/genopole/PF8/mlst/Abaumannii.html 301 null http://www.pasteur.fr/recherche/genopole/PF8/mlst/Abaumannii.html 301 null http://www.pasteur.fr/recherche/genopole/PF8/mlst/Abaumannii.html 301 null ACJ58112 -1 null ACJ57861 -1 null ACJ42779 -1 null ZP_04662166 -1 null ZP_04663686 -1 null ZP_04663686 -1 null ZP_04661979 -1 null ZP_05824220 -1 
+21645357 2011 null HN154083 -1 null HN174138 -1 null DQ424856 -1 null EF489041 -1 null NC_012119 -1 null HN280500 -1 null HN291979 -1 library http://www.genome.clemson.edu/services/bacrc/BAC_library 200 null http://www.tigr.org/tdb/e2k1/plant.repeats/ 301 null http://wheat.pw.usda.gov/ITMI/Repeats/ 302 null http://www.girinst.org/ 200 
+21645359 2011 null http://www.flybase.org 302 
+21645368 2011 null ACFO00000000 -1 null ACFN00000000 -1 null ACKB00000000 -1 null ACFM00000000 -1 null http://mummer.sourceforge.net/ 200 
+21645414 2011 code http://code.google.com/p/mosaik-aligner/ 405 null https://hedgehog.fhcrc.org/tor/stedi/trunk/server/customModules/SequenceAnalysis -1 software http://www.labkey.org 302 
+21649883 2011 null http://www.tissue-atlas.org -1 null http://www.tissue-atlas.org -1 
+21569352 2011 NoLink
+25124552 2014 null ftp://ftp.ncbi.nih.gov/pub/wolf/COGs/arCOG/ 301 null http://www.hmmer.org 200 
+21988783 2011 null JF920285 -1 null JF920288 -1 null JF920286 -1 null JF920287 -1 null AP006444.1 -1 null FR715249 -1 
+22226239 2012 null http://fgp.huck.psu.edu/NG_Sims/ngsim.pl 404 null http://www.ncbi.nlm.nih.gov 301 null http://www.ncbi.nlm.nih.gov 301 code 1WOE -1 null http://www.ncbi.nlm.nih.gov 301 null http://www.scbi.uma.es/cgi-bin/full-lengther/full-lengther_login.cgi 403 null http://www.ncbi.nlm.nih.gov/ 301 code 1W0E -1 null http://www.accelrys.com 301 null http://www.functionalbio.com/web/ 301 null GSE31823 -1 null JN624742 -1 null pymol.sourceforge.net -1 
+21651758 2011 available http://www.phytozome.net/eucalyptus.php 302 null http://www.multiqtl.com/ 200 null http://web.up.ac.za/eucagen 404 
+21658273 2011 available http://potatogenome.net 301 
+21392393 2011 null ftp://ftp.gydle.com/pub/arborea 301 null ftp://ftp.gydle.com/pub/arborea 301 null ftp://ftp.gydle.com/pub/arborea 301 null ftp://ftp.gydle.com/pub/arborea 301 null http://www.arborea.ulaval.ca/research/sequencing/gene_catalogue/index.html 404 null https://www.gydle.com/arborea/gcat/ 302 null http://www.arborea.ulaval.ca 200 software http://www.multiqtl.com 200 software http://mac.softpedia.com/get/Math-Scientific/MapParse.shtml 410 
+21396108 2011 null http://pamdb.org 302 
+21388556 2011 NoLink
+21401935 2011 null http://www.eng.yale.edu/peccialab/microalgae_sequences.html 302 
+21406116 2011 software http://www.tm4.org 405 null http://bioinfo.capitalbio.com/mas/ 404 software http://frodo.wi.mit.edu/ 301 null http://www.tm4.org/mev.html 404 
+21410945 2011 null http://www.timetree.org 200 
+18053205 2007 NoLink
+21410980 2011 null http://genomewiki.ucsc.edu 301 package http://hmmer.janelia.org/ 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+21414217 2011 NoLink
+21414237 2011 null http://www.uniprot.org/ 200 null http://www.ncbi.nlm.nih.gov/Ftp/ 301 null https://sourceforge.net/projects/mireap/ 301 null http://www.ncbi.nlm.nih.gov/projects/geo/ 301 
+21385342 2011 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+21362191 2011 available http://www.ncbi.nlm.nih.gov/nucest 301 null BAD29729.1 -1 null BAD11807.1 -1 null http://www.ebi.ac.uk/interpro/ISpy?ac=Q16270 405 null NP_001544.1 -1 null http://exon.niaid.nih.gov/transcriptome/A_variegatus/Avar-S1-web.zip 302 null http://exon.niaid.nih.gov/transcriptome/A_variegatus/Avar-S2-web.zip 302 
+21418605 2011 NoLink
+21418615 2011 available http://www.genevestigator.com 302 
+21435244 2011 null http://www.broadinstitute.org/annotation/genome/puccinia_group/MultiHome.html 301 null http://www.cerealsdb.uk.net/index.htm 404 null http://www.ncbi.nlm.nih.gov/VecScreen/UniVec.html 301 null http://cogeme.ex.ac.uk/ -1 null http://www.broadinstitute.org/annotation/genome/puccinia_group/MultiHome.html 301 null http://www.ebi.ac.uk/ena/data/view/Taxon:208348 301 null http://genome.jgi-psf.org/Mellp1/Mellp1.home.html 302 null http://mips.helmholtz-muenchen.de/genre/proj/ustilago 302 null http://www.ncbi.nlm.nih.gov/sites/entrez?db=nucest 301 null http://www.ncbi.nlm.nih.gov/Genbank/TSA.html 301 null http://genome.jgi-psf.org/Mellp1/Mellp1.home.html 302 null http://mips.helmholtz-muenchen.de/genre/proj/ustilago 302 
+21435219 2011 null http://www.ncbi.nlm.nih.gov/sra 301 
+21435224 2011 null B5YN08 -1 null Q0QVM8 -1 null B8BVP1 -1 null B8CDL6 -1 null B8CBL9 -1 null Q0QVM8 -1 null http://genome.jgi-psf.org/Thaps3/Thaps3.home.html 302 null Q0QVM8 -1 
+21435241 2011 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25926 301 
+21429208 2011 NoLink
+21443765 2011 null http://www.genesapiens.org 301 null http://www.proteinatlas.org 200 null http://www.genesapiens.org 301 null http://www.proteinatlas.org 200 null http://www.genesapiens.org 301 
+21443807 2011 null http://www.tigr.org/tdb/e2k1/plant.repeats/index.shtml 301 null http://www.epibio.com 200 null http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 null http://bio.cse.psu.edu/pipmaker 301 
+22014081 2011 null http://www.phytozome.net 302 software http://compbio.dfci.harvard.edu/tgi/software/ 404 null http://www.ncbi.nlm.nih.gov/VecScreen/VecScreen.html 301 null ftp://ftp.ncbi.nih.gov/pub/UniVec 301 null http://www.repeatmasker.org 200 null http://www.geneontology.org/GO_slims/goslim_plant.obo 404 null http://www.geneontology.org/external2go/mips2go 200 null http://repeatmasker.org 200 
+21450055 2011 available http://www.ricemap.org/tracks/ 404 download http://www.ricemap.org/download/ 404 available http://www.ricemap.org/ 404 download http://www.ricemap.org/download/ 404 
+21450072 2011 null http://www.broad.mit.edu/gsea/msigdb/index.jsp 301 null http://www.geneontology.org/GO.evidence.shtml 301 
+21450099 2011 null http://cgd.jax.org/individualvariation.shtml 301 null http://cgd.jax.org/individualvariation.shtml 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+21453472 2011 null FR718488 -1 null FR718797 -1 available http://pedant.gsf.de 200 available http://pedant.gsf.de 200 null http://www.ncbi.nlm.nih.gov/BLAST/ 301 null AM286415 -1 null http://www.sanger.ac.uk/cgi-bin/blast/submitblast/yersinia 200 null http://www.microbesonline.org/ 200 
+21453490 2011 null NC003910 -1 null ADNL01000001 -1 null ADNL01003231 -1 null HM119593 -1 null HM119599 -1 null NC003910 -1 null HM119599 -1 
+21453524 2011 null http://biocompute.bmi.ac.cn/CelRNAi/ -1 null http://cmgm.stanford.edu/~kimlab/primers.12-22-99.html 200 download ftp://ftp.wormbase.org/pub/wormbase/genomes/elegans/sequences/dna/ -1 download http://caprica.caltech.edu:9002/biomart/martview/ -1 download http://biocompute.bmi.ac.cn/MFEprimer/download/ -1 null http://www.wormbase.org/ 200 null http://biocompute.bmi.ac.cn/CelRNAi/ -1 null http://www.wormbase.org/ 200 null http://biocompute.bmi.ac.cn/CelRNAi/ -1 null http://www.sqlite.org/ 200 null http://www.python.org/ 301 null http://biocompute.bmi.ac.cn/MPprimer/worms_primer_design.html -1 
+21453527 2011 null http://compbio.dfci.harvard.edu/tgi/cgi-bin/tgi/T_release.pl?gudb=bear 404 
+21375742 2011 available http://www.eucagen.org 200 available http://www.eucagen.org 200 null http://www.genome.arizona.edu/orders/ 200 null HM366540 -1 null HM366544 -1 null http://www.repeatmasker.org/ 200 null HM347959 -1 null NC_014570 -1 null AJ132750 -1 null X97433 -1 null X75480 -1 null HM347959 -1 null CT987001 -1 null CT988030 -1 null AJ244010 -1 null CT980202 -1 null CT986440 -1 null AF168778 -1 null X79566 -1 null CT987560 -1 null X74814 -1 null X65631 -1 null DR410036 -1 null AJ576024 -1 null AJ576023 -1 
+21375780 2011 NoLink
+21396120 2011 null http://www.ncbi.nlm.nih.gov/BLAST/ 301 null EF110528 -1 null EF102021 -1 null EF110534 -1 null EF110529 -1 null EF110527 -1 null EF110526 -1 null EF110524 -1 null EF110525 -1 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ebi.ac.uk/InterProScan 301 
+21385383 2011 null GSE26981 -1 null GSE26984 -1 null 209734267 -1 null 221220497 -1 null 209732661 -1 null 209734305 -1 null 209156091 -1 null 223649475 -1 null S31963336 -1 null S35697379 -1 null S18845530 -1 null S31964271 -1 null 126507266 -1 null 185136290 -1 null 186288127 -1 null 209732609 -1 null CL7Contig1 -1 null 209734201 -1 null S48396453 -1 null CB498954 -1 null 209735097 -1 null 223672934 -1 null 209154193 -1 null 185135177 -1 null 209736091 -1 null 304376917 -1 null 213514499 -1 null 209736003 -1 null 185135943 -1 null 185135736 -1 null 185135192 -1 null 25573077 -1 null 223672978 -1 null 2182101 -1 null 260766539 -1 null 224587629 -1 
+20955544 2010 null http://apps.isiknowledge.com/ -1 
+19664227 2009 null http://www.dpd.cdc.gov/dpdx/html/trypanosomiasisamerican.htm 301 available http://pfgrc.tigr.org -1 null http://www.tm4.org 405 null http://www.tm4.org 405 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.geneontology.org 200 
+21385442 2011 null NM_204317 -1 null XM_416459 -1 null XM_001234770 -1 null NM_001110364 -1 null AY393845 -1 null NM_204725 -1 null NM_205107 -1 null NM_001031003 -1 null NM_205433 -1 null NM_204934 -1 null AY551002 -1 null XM_420902 -1 null NM_204848 -1 null NM_205044 -1 null NM_205212 -1 null AF019625 -1 null XM_002194458 -1 null NM_205033 -1 null NM_204436 -1 null NM_001006431 -1 null AB031021 -1 null EH286878 -1 null XM_420847 -1 null AY852251 -1 null NM_205133 -1 null XM_419242 -1 null NM_205449 -1 null NM_204922 -1 null NM_204787 -1 
+21118570 2010 null CP000746 -1 null CP000746 -1 null P0A9Q7 -1 
+21569315 2011 null http://streptomyces.org.uk 200 available http://www.ebi.ac.uk/arrayexpress/ 301 null ftp://ftp.ebi.ac.uk/pub/databases/GO/goa/proteomes/84.S_coelicolor.goa 200 tool http://compbio.charite.de/index.php/ontologizer2.html 404 
+21569240 2011 null AW705829 -1 null AW705829 -1 null BG789629 -1 null BG789629 -1 null BI943104 -1 null BI943104 -1 null BI971360 -1 null CF808146 -1 null CF808202 -1 null BQ612445 -1 null AW349604 -1 null BG155028 -1 null BU549690 -1 null CD413163 -1 null BU547972 -1 null BU547972 -1 null CD418070 -1 null CD418070 -1 null AW760424 -1 null AW760424 -1 null CD418070 -1 null CD395891 -1 null AW756085 -1 null AW760424 -1 null CD414002 -1 null CD414002 -1 null BU546339 -1 null CD394837 -1 null BM269985 -1 null CF805822 -1 null AW509184 -1 null CD417846 -1 null BQ742947 -1 null BQ628332 -1 null BE022356 -1 null BI785739 -1 null CF806780 -1 null BG237465 -1 null AW831345 -1 null CK605572 -1 null AW433263 -1 
+21569260 2011 null http://www.bmr-genomics.it/ 200 
+21635767 2011 
+21527035 2011 method http://www.ingenuity.com 302 method http://www.ingenuity.com 302 null http://www.roche-applied-science.com/PROD_INF/MANUALS/InSitu/InSi_toc.htm 404 null http://mouse.brain-map.org 200 
+21569297 2011 NoLink
+21569310 2011 software http://www.ingenuity.com 302 null http://www.cambridgebluegnome.com 301 software http://magnet.systemsbiology.net/software/Pointillist 502 software http://www.ingenuity.com 302 null http://www.ncbi.nlm.nih.gov/projects/RefSeq 301 null http://faculty.ucr.edu/~tgirke/Documents/R_BioCond/My_R_Scripts/overLapper.R 200 
+21619633 2011 null http://ancora.genereg.net 200 null http://genome.ucsc.edu 200 null http://www.ensembl.org 302 null http://www.biomart.org 200 
+21569327 2011 NoLink

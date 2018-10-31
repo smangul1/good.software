@@ -1,0 +1,100 @@
+28201653 2017 software http://frodo.wi.mit.edu/primer3/ 301 
+28115631 2017 NoLink
+28160598 2017 NoLink
+28335027 2017 NoLink
+28160600 2017 NoLink
+28379430 2017 NoLink
+28334759 2017 library http://www.enzolifesciences.com/BML-2836/screen-well-epigenetics-library/ 200 
+28201688 2017 null https://docs.python.org/2.7/ 301 null https://www.R-project.org/ 200 
+28369571 2017 NoLink
+28088761 2017 NoLink
+28369583 2017 NoLink
+28158851 2017 null http://www.geneontology.org 200 tool http://www.gitools.org 200 null http://david.abcc.ncifcrf.gov 301 
+28334749 2017 NoLink
+28175341 2017 null http://www.ncbi.nlm.nih.gov/sra/ 301 tool http://hannonlab.cshl.edu/fastx_toolkit/ 200 null ftp://ftp.ensemblgenomes.org/pub/release-31/plants/fasta/zea_mays/dna/Zea_mays.AGPv3.31.dna.genome.fa.gz -1 null ftp://ftp.ensemblgenomes.org/pub/release-31/plants/gff3/zea_mays/Zea_mays.AGPv3.31.gff3.gz -1 download ftp://ftp.ensemblgenomes.org/pub/release-32/plants/fasta/sorghum_bicolor/pep/Sorghum_bicolor.Sorbi1.pep.all.fa.gz -1 null ftp://ftp.ensemblgenomes.org/pub/release-32/plants/fasta/oryza_sativa/pep/Oryza_sativa.IRGSP-1.0.pep.all.fa.gz -1 code https://transdecoder.github.io/ 200 null http://www.softberry.com 200 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 
+28158755 2017 null http://www.pymol.org 302 
+28334776 2017 software http://www.pymol.org 302 
+28334774 2017 NoLink
+28398500 2017 NoLink
+28119416 2017 NoLink
+28115632 2017 NoLink
+28108658 2017 
+28115622 2017 algorithm http://grass.cgs.hku.hk/limx/kggseq/ 200 null https://github.com/limx54/KGGseq 301 null https://genome.ucsc.edu/FAQ/FAQformat.html#format1 200 algorithm http://grass.cgs.hku.hk/limx/kggseq/ 200 null http://grass.cgs.hku.hk/limx/kggseq/doc10/UserManual.html#GeneFeatureFiltering 200 null http://grass.cgs.hku.hk/limx/kggseq/doc10/UserManual.html#GeneFeatureFiltering 200 null ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/release/20130502/ 301 null https://www.ncbi.nlm.nih.gov/books/NBK174586/ 301 tool https://atgu.mgh.harvard.edu/plinkseq 301 null http://grass.cgs.hku.hk/limx/kggseq/doc10/UserManual.html 200 null http://grass.cgs.hku.hk/limx/kggseq/doc10/UserManual.html#BinaryOutputs 200 null http://grass.cgs.hku.hk/limx/kggseq/doc10/UserManual.html#BinaryOutputs 200 null https://genome.ucsc.edu/cgi-bin/hgc?hgsid 200 null https://www.ncbi.nlm.nih.gov/clinvar/ 301 download http://hgdownload.cse.ucsc.edu/goldenpath/hg19/database/refGene.txt.gz 200 download http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/refMrna.fa.gz 200 null http://grass.cgs.hku.hk/limx/kggseq/doc10/UserManual.html#BinaryOutputs 200 package https://dst.lbl.gov/ACSSoftware/colt/ 200 
+28158713 2017 NoLink
+28369545 2017 NoLink
+28160597 2017 NoLink
+28387839 2017 NoLink
+28168293 2017 available http://github.com/cschlosberg/me-class 301 
+28369499 2017 NoLink
+28204562 2017 NoLink
+28369533 2017 NoLink
+28100696 2017 null www.phi-base.org -1 null http://www.guidetopharmacology.org 200 
+28334912 2017 NoLink
+28180299 2017 NoLink
+28369650 2017 null http://www.yeastgenome.org/locus/centromere 302 null http://cerevisiae.oridb.org/ 200 download http://downloads.yeastgenome.org/curation/chromosomal_feature/SGD_features.tab 302 null www.geneontology.org -1 null http://wolfe.gen.tcd.ie/ygob 302 
+28334781 2017 available www.addgene.org -1 
+28334849 2017 tool http://www.ingenuity.com 302 
+28460037 2017 NoLink
+28130425 2017 NoLink
+28369649 2017 null http://arxiv.org/abs/1303.3997 301 null http://www.ebi.ac.uk/ena 301 
+28459970 2017 package https://github.com/kassambara/miRTarget 301 available http://www.ebi.ac.uk/arrayexpress/ 301 package https://github.com/kassambara/miRTarget 301 null http://mirtarbase.mbc.nctu.edu.tw/ 302 null http://c1.accurascience.com/miRecords/ 200 available http://www.ebi.ac.uk/arrayexpress/ 301 package https://github.com/kassambara/miRTarget 301 package https://github.com/kassambara/miRTarget 301 
+28132031 2017 available http://human.brain-map.org/static/download 200 download http://www.brainspan.org/static/download 200 
+28334903 2017 null http://www.ncbi.nlm.nih.gov/geo 301 download ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/phyloP46way/ 200 
+28472363 2017 NoLink
+28472449 2017 NoLink
+28449109 2017 NoLink
+28334977 2017 null www.proteinatlas.org/ -1 
+28402520 2017 NoLink
+28379452 2017 null http://consurf.tau.ac.il 503 
+28334881 2017 null http://www.ecosal.org 302 
+28334819 2017 null http://www.bioinf.manchester.ac.uk/naccess/ 200 null http://swift.cmbi.ru.nl/servers/html/index.html 200 
+28132027 2017 available http://biomine.cs.vcu.edu/servers/DRNApred/ 200 available http://biomine.cs.vcu.edu/servers/DRNApred/ 200 
+28334966 2017 null http://www.pymol.org 302 
+28369604 2017 null http://unafold.rna.albany.edu/?q=mfold 200 null https://imagej.nih.gov/ij/index.html 302 
+28334836 2017 NoLink
+28168295 2017 NoLink
+28334930 2017 package http://conda.pydata.org/docs/index.html 301 package http://bioconductor.org/packages/release/bioc/html/RCAS.html 200 package http://bioconductor.org/packages/devel/bioc/html/RCAS.html 200 null https://github.com/BIMSBbioinfo/RCAS 301 null https://github.com/BIMSBbioinfo/RCAS 301 package https://bioconda.github.io/ 200 available https://testtoolshed.g2.bx.psu.edu 307 null https://github.com/BIMSBbioinfo/rcas-web 301 available http://rcas.mdc-berlin.de 200 null http://bioconductor.org/biocLite.R 200 
+28334744 2017 NoLink
+28335026 2017 download http://genie.weizmann.ac.il/pubs/PARS10 302 
+28472398 2017 null www.uniprot.org -1 null http://homer.salk.edu 200 
+28335005 2017 NoLink
+28334816 2017 software http://support.illumina.com/ 301 null http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc 403 null http://jtreeview.sourceforge.net/ 200 null http://http://broadinstitute.github.io/picard/ -1 package http://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/ 403 null http://genome.ucsc.edu/ 200 
+28334904 2017 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 tool http://genome.sph.umich.edu/wiki/BamUtil 302 software http://rsat.ulb.ac.be/rsat/ -1 
+28472494 2017 NoLink
+28459998 2017 null http://www.targetscan.org 200 null http://pictar.mdc-berlin.de/cgi-bin/PicTar_vertebrate.cgi 200 
+28158838 2017 available http://cope.cbi.pku.edu.cn/ 200 null http://cope.cbi.pku.edu.cn/phase.html 200 download ftp://ftp.ensembl.org/pub/release-83/gtf/homo_sapiens/Homo_sapiens.GRCh38.83.gtf.gz 200 download ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ 200 download ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ 200 download ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/release/2010_07/ 200 download ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ 200 available http://cope.cbi.pku.edu.cn/whole_PCG_Analysis.html 404 available http://cope.cbi.pku.edu.cn/PCG_manual.html 200 
+28334864 2017 software https://cplc.illinois.edu/software 301 
+28130423 2017 available http://membres-timc.imag.fr/Daniel.Jost/DJ-TIMC/Software.html 200 available http://membres-timc.imag.fr/Daniel.Jost/DJ-TIMC/Software.html 200 code https://www.encodeproject.org/comparative/chromatin/ 301 
+28201758 2017 NoLink
+28334976 2017 null http://rna.urmc.rochester.edu/NNDB 301 
+28132024 2017 null https://gdc.cancer.gov/resources-tcga-users/ 301 null http://mosaichunter.cbi.pku.edu.cn 200 
+28335007 2017 null http://genome.ucsc.edu 200 null http://epigenomegateway.wustl.edu/browser/ 200 
+28453818 2017 NoLink
+28204586 2017 NoLink
+28369478 2017 NoLink
+28398510 2017 NoLink
+28369544 2017 null http://david.abcc.ncifcrf.gov 301 null http://weblogo.berkeley.edu 200 
+28369590 2017 NoLink
+28180283 2017 null https://github.com/ChengLiLab/markov3d 301 null https://github.com/ChengLiLab/markov3d 301 null https://github.com/ChengLiLab/markov3d 301 
+28369605 2017 NoLink
+28180294 2017 NoLink
+28334889 2017 null http://it.inf.uni-tuebingen.de/TSSpredator 301 null http://pubmlst.org/neisseria/info/ 301 tool http://bioinfogp.cnb.csic.es/tools/venny/index.html 200 
+28335001 2017 NoLink
+28334758 2017 NoLink
+28119419 2017 NoLink
+28402545 2017 publicly https://orio.niehs.nih.gov/quickstart/ 301 available https://github.com/niehs/orio/ 301 available https://github.com/niehs/orio-web/ 301 available https://github.com/niehs/TSScall/ 301 null https://github.com/NIEHS/orio/blob/master/LICENSE 301 null https://github.com/NIEHS/orio-web/blob/master/LICENSE 301 available https://orio.niehs.nih.gov/dashboard/analysis/889-sample-validation-of-chip-seq-data/ 301 available https://orio.niehs.nih.gov/dashboard/analysis/850-sample-integration-over-chip-seq-peaks/ 301 available https://orio.niehs.nih.gov/dashboard/analysis/853-sample-correlation-with-gene-expression/ 301 available https://orio.niehs.nih.gov/dashboard/analysis/842-sample-recapitulation-of-cell-lineages/ 301 available https://orio.niehs.nih.gov/dashboard/analysis/855-sample-characterization-of-enhancers-and-promoters/ 301 
+28184437 2017 available https://github.com/SystemsBiologyOfJianghanUniversity/AmpSeq-SSR 301 null https://ampliseq.com/ 302 
+28402505 2017 NoLink
+28453854 2017 NoLink
+28453785 2017 NoLink
+28402499 2017 NoLink
+28130422 2017 null https://doi.org/10.1101/041871 303 null https://gateway.psb.ugent.be 301 available www.assemblx.org -1 software www.flowingsoftware.com -1 available www.assemblx.org -1 null https://github.com/AssemblX/AssemblXWeb 301 tool www.assemblX.org -1 available www.assemblx.org -1 tool www.assemblX.org -1 
+28460002 2017 NoLink
+28369538 2017 available http://proteindiffraction.org 301 
+28334833 2017 null www.bioinformatics.babraham.ac.uk/projects/fastqc/ -1 null http://broadinstitute.org/igv 301 
+28449026 2017 NoLink
+27899582 2017 null http://zfin.org 403 software http://www.altassian.com/software/confluence/ -1 here http://ZebrafishMine.org 302 null https://github.com/ZebrafishMine/intermine 301 null http://gmod.org 301 null http://zfin.org/schemaSpy/index.html 403 null https://zfin.org/search 403 here http://zfin.org/downloads 403 null https://zfin.org/ZDB-FISH-150901-11301 403 null https://zfin.org/ZDB-FIG-151214-52#expDetail 403 download https://zfin.org/downloads/gene_expression_phenotype.txt 403 download https://zfin.org/downloads/antibody_labeling_phenotype.txt 403 
+28334831 2017 null http://arabidopsis.info/ 200 null http://crispor.tefor.net/ 200 tool https://toolkit.tuebingen.mpg.de/tprpred 301 tool http://meme-suite.org/tools/fimo 200 tool https://toolkit.tuebingen.mpg.de/tprpred 301 null http://crispor.tefor.net/ 200 null http://suba3.plantenergy.uwa.edu.au/ 200 available https://www.molgen.hu-berlin.de/projects-jbrowse-athaliana.php 200 null http://weblogo.berkeley.edu/ 200 
+28334823 2017 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 null https://trace.ncbi.nlm.nih.gov/Traces/sra/ 301 code http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHelas3H3k4me3StdSig.bigWig 200 tool http://meme-suite.org/tools/meme 200 
+28369586 2017 null www.ch.embnet.org -1 
+28334941 2017 NoLink

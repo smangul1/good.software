@@ -1,0 +1,100 @@
+17451610 2007 NoLink
+16351743 2005 NoLink
+16351744 2005 tool http://www.bioinformatics.polimi.it/GFINDer/ -1 
+16351747 2005 null http://www.itb.cnr.it/kinweb 301 null http://kinweb.ceinge.unina.it 200 software http://genes.mit.edu/ 200 null ftp://ftp.ebi.ac.uk/pub/databases/interpro/iprscan/ 200 null http://cbcb.umd.edu/software/GeneSplicer/ 200 application http://emboss.sourceforge.net 200 library http://www.boutell.com/gd/ 302 null http://gpcr.biocomp.unibo.it/ 200 
+16351746 2005 null http://www.genome.wi.mit.edu/MPR 504 available http://www.molbio.princeton.edu/colondata 301 available http://www.genome.wi.mit.edu/MPR/GCM.html 404 
+16351745 2005 null http://www.itb.cnr.it/s2s. 404 
+16351754 2005 available http://pdbfun.uniroma2.it -1 
+16351749 2005 software http://bio.ifom-firc.it/NTFootPrinter/howto.html 404 available http://www.sanger.ac.uk/Software/formats/GFF/GFF_Spec.shtml 301 null http://www.ebi.ac.uk/biomart/ 301 software http://bio.ifom-firc.it/NTFootPrinter/howto.html 404 null http://bio.ifom-firc.it/NTFootPrinter/index.html 404 null http://bio.ifom-firc.it/NTFootPrinter/slider_help.html 404 
+16351750 2005 NoLink
+16351751 2005 NoLink
+16351752 2005 NoLink
+16351753 2005 null http://www.genpat.uu.se/mtDB 302 null http://www.ncbi.nlm.nih.gov/Entrez 301 null http://srs.ebi.ac.uk 301 null http://www.mitomap.org 301 null http://megasun.bch.umontreal.ca/gobase 301 null http://www.mitokor.com 200 null http://www.genpat.uu.se/mtDB 302 null http://www.ethnologue.com 302 available http://www.hmdb.uniba.it -1 
+17470273 2007 NoLink
+16351758 2005 null http://www.cab.unina.it/parpest/demo/ 404 
+16351756 2005 here http://www.bioinformatica.unito.it/bioinformatics/Forni3/ 200 null http://www.rii.com/publications/2002/default.html -1 tool https://panther.appliedbiosystems.com/ 301 null http://genecards.weizmann.ac.il/cgi-bin/genenote/home_page.pl 302 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=homologene 301 null http://www.perl.org 200 download http://ftp.ncbi.nih.gov 301 
+16351755 2005 null http://www.bioinformatics.polimi.it/MicroGen/ -1 
+16351757 2005 null http://www-cryst.bioc.cam.ac.uk/~kenji/subst 404 algorithm http://www.bioinf.org.uk/software/profit/ 200 
+16321157 2005 null http://proteogenomics.musc.edu/arrayquest.html -1 null http://pdoru.from.ro/upload-progress-meter/ 200 null http://www.arraygenetics.com/uArrDB_fe.php3 302 null http://proteogenomics.musc.edu/arrayquest.html -1 
+16371163 2005 available http://www.cisreg.ca/gsb/ 200 
+16371165 2005 null http://bioinformatics.skcc.org/webarray/ -1 
+16372901 2005 NoLink
+16375763 2005 null http://www.gnu.org/software/glpk/glpk.html 200 package http://lancet.mit.edu/ga/ 200 
+16381608 2005 available http://www.bioconductor.org 200 
+16381612 2005 NoLink
+16384535 2005 null XM_213699 -1 null XM_213699 -1 null NM_001011901 -1 null D16308 -1 null M11794 -1 null M15562 -1 null M63101 -1 null NM_019356 -1 null XM_340904 -1 null NM_012809 -1 null L25387 -1 null XM_216792 -1 null XM_343114 -1 
+16332255 2005 NoLink
+16336639 2005 null http://www.math.unipa.it/~lobosco/genclust/ 200 
+16336652 2005 available http://www.protein-ms.de 403 download http://sourceforge.net/projects/protms/ 301 
+16336650 2005 null http://array.bioengr.uic.edu/subnuclear.htm 301 
+16336665 2005 null http://genome.lbl.gov/vista/snpvista 301 
+16433931 2006 NoLink
+15705189 2005 NoLink
+15705192 2005 method http://dot.ped.med.umich.edu:2000/pub/shared/Affymethods.html -1 
+15705208 2005 available http://www.inapg.fr/ens_rech/mathinfo/recherche/mathematique/outil.html -1 
+15707486 2005 NoLink
+15707487 2005 available http://ftp.informatics.jax.org -1 
+15757508 2005 download http://genex.hgu.mrc.ac.uk/ -1 download http://genex.hgu.mrc.ac.uk/Software/JavaTools/JAtlasViewer/ -1 
+25888091 2015 available http://costalab.org/Imputation/ 200 
+17559667 2007 NoLink
+15717930 2005 NoLink
+15720719 2005 NoLink
+15701178 2005 null http://www.virology.ca/pbr/rehab 200 
+15723693 2005 null http://bioinformatics.ubc.ca/atlas/ 301 null http://bioinformatics.ubc.ca/atlas/ontology/ 301 tool http://bioinformatics.ubc.ca/atlas/webtools/ 301 
+15725357 2005 available http://www.uni-essen.de/humangenetik/download 302 
+15725347 2005 null http://bioinformatics.org.au/gann/ 404 
+15727680 2005 NoLink
+15740634 2005 NoLink
+15698469 2005 NoLink
+15790396 2005 null http://family.caltech.edu/ 200 
+15703069 2005 null http://maine.ebi.ac.uk:8000/cgi-bin/clan/ClanSearch.pl -1 
+15638949 2005 available http://bioserv.cbs.cnrs.fr/HTML_BIO/EvDTree.html -1 
+15642112 2005 NoLink
+15636642 2005 NoLink
+15659243 2005 NoLink
+15649332 2005 NoLink
+15659246 2005 NoLink
+15661072 2005 NoLink
+15673468 2005 NoLink
+15661078 2005 tool http://milano.md.huji.ac.il -1 tool http://milano.md.huji.ac.il -1 
+15663789 2005 NoLink
+15710037 2005 available http://www.cs.ubc.ca/labs/beta/Projects/ACO-HPPFP 403 
+15663796 2005 here http://systers.molgen.mpg.de/ 200 
+15780137 2005 available http://selab.wustl.edu/publications/Rivas05/evolve.tar.gz -1 
+15755318 2005 NoLink
+15673474 2005 download http://molpath.his.path.cam.ac.uk/bioinformatics/LDMAS.shtml -1 
+15676070 2005 NoLink
+15631638 2005 NoLink
+15634352 2005 null http://www.microbialgenomics.org/BSR/ 200 null http://search.cpan.orgdist/Statistics-Descriptive -1 
+15757521 2005 NoLink
+16008837 2005 null https://www.genevestigator.ethz.ch/ 301 null http://smart.embl-heidelberg.de 200 null http://smart.embl-heidelberg.de 200 
+16011796 2005 NoLink
+16011797 2005 null http://www.ncbi.nlm.nih.gov/genomes/lproks.cgi?view=1 301 
+15992406 2005 available http://www.discover.nci.nih.gov/affytools 302 null http://discover.nci.nih.gov/host/spottedQC.jsp 302 available http://www.discover.nci.nih.gov/affytools 302 
+16011807 2005 NoLink
+16011808 2005 NoLink
+16014168 2005 null http://kbrin.a-bldg.louisville.edu/Tools/MPrime/ 200 null NM_053986 -1 null 46195814 -1 
+15941488 2005 NoLink
+17022803 2006 null http://bisearch.enzim.hu 200 
+17493290 2007 download ftp://ftp.ncbi.nih.gov/gene/DATA 301 download ftp://ftp.ncbi.nih.gov/gene/DATA 301 
+16026595 2005 NoLink
+16026604 2005 NoLink
+16026597 2005 tool (http://www.fda.gov/oc/initiatives/criticalpath/ -1 null (http://www.fda.gov/cder/genomics/ -1 null http://www.nist.gov/public_affairs/techbeat/tb2004_1110.htm#gene 301 null http://www.gene-chips.com/MAQC/ 200 null http://edkb.fda.gov/MAQC/ 302 null http://www.cstl.nist.gov/biotech/workshops/ERCC2003/ 404 null (http://www.nist.gov/public_affairs/techbeat/tb2004_1110.htm#gene -1 
+16026598 2005 NoLink
+16026599 2005 null http://www-helix.inrialpes.fr/index.php 404 null ftp://ftp.ncbi.nih.gov/genomes/H_sapiens/ 301 
+16026600 2005 null http://ratest.eng.uiowa.edu 301 application http://cgap.nci.nih.gov 301 code http://compbio.pbrc.edu/pti 302 null http://www.apbionet.org/pr/cray-lion-kooprime.html 301 null http://www.sanbi.ac.za/benchmarks/benchmark10000.seq.gz 404 null http://www.sanbi.ac.za/benchmark 404 
+16026601 2005 null http://www.Bioserve.com 400 
+16026602 2005 null http://www.ciphergen.com 200 software http://www.spotfire.com 301 software http://www.jmp.com 301 null http://www.chipscreen.com 200 
+16026603 2005 here http://edkb.fda.gov/webstart/arraytrack/ 302 software http://www.vai.org/vari/supplemental/kyle.furge/development/clam-0.2.2.pl 301 
+16026596 2005 null http://www.fullmoonbiosystems.com 301 
+16026605 2005 null http://www.pubmed.com 301 null http://www.ncbi.nlm.nih.gov 301 null http://www.pubmed.com 301 
+16026606 2005 null http://www.ionsource.com/Card/aatable/aatable.htm 200 null http://www.unimod.org/ 302 null http://bioinformatics.ualr.edu/mbc/services/CLPM.html -1 null http://www.waters.com 403 null http://www.genomicsolutions.com 200 null http://roswell.ca.sandia.gov/~mmyoung/ms2assign.html 301 
+16022740 2005 null http://emerencia.math.chalmers.se -1 null http://emerencia.math.chalmers.se -1 null http://emerencia.math.chalmers.se/criteria.html -1 null http://emerencia.math.chalmers.se/criteria.html -1 null http://emerencia.math.chalmers.se -1 null http://emerencia.math.chalmers.se -1 null http://emerencia.math.chalmers.se -1 
+16026613 2005 null http://mzmine.sourceforge.net/ 302 
+16026614 2005 null http://www.xml-cml.org/schema/cml2/core 404 null http://www.biomedcentral.com/imedia/2729455256993572/sup1.HTML 302 
+16029491 2005 NoLink
+16029499 2005 null http://bioinfo.mbb.yale.edu/expression/prot-v-mrna/ 200 null http://www.nature.com/nature/journal/v425/n6959/suppinfo/nature02046.html 303 null http://bioinfo.mbb.yale.edu/expression/prot-v-mrna/ 200 null http://arep.med.harvard.edu/labgc/proteom.html 200 null ftp://ftp.ncbi.nlm.nih.gov/repository/ECO2DBASE/edition6/ 301 null ftp://ftp.ncbi.nlm.nih.gov/repository/ECO2DBASE/edition6/ 301 null http://www.pnas.org/cgi/content/full/112318199/DC1 301 null http://asap.ahabs.wisc.edu/annotation/php/logon.php 404 null http://www.genome.jp/kegg/expression/ 200 null http://www.genome.jp/kegg/expression/ 200 null http://www.genome.jp/kegg/expression/ 200 null http://www.genome.jp/kegg/expression/ 200 null http://www.genome.jp/kegg/expression/ 200 null http://www.genome.jp/kegg/expression/ 200 null http://www.nature.com/nature/journal/v419/n6906/suppinfo/nature01107.html 303 null http://carrier.gnf.org/publications/CellCycle/ 200 
+16011798 2005 null http://genesilico.pl/meta/ 302 null http://protevo.eb.tuebingen.mpg.de/ 200 null ftp://genesilico.pl/iamb/models/PDDXK/ 404 
+16033654 2005 NoLink
+16083500 2005 null http://www.up.univ-mrs.fr/evol/figenix/ 404 
+16033659 2005 null http://www.ibt.lt/bioinformatics/iss 301 null http://predictioncenter.org/casp6/ 200 

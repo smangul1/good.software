@@ -1,0 +1,100 @@
+21652643 2011 
+21653552 2011 null S3 -1 null S5 -1 null S5 -1 
+21653558 2011 NoLink
+21653556 2011 
+21652639 2011 available http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc/ 403 null http://genome.ucsc.edu/cgi-bin/hgTables 200 
+21653549 2011 
+21653553 2011 
+21653548 2011 tool www.basic.northwestern.edu/biotools/oligocalc.html -1 
+21653555 2011 null http://www.brc.riken.go.jp/ 301 null www.abrc.osu.edu -1 null http://lowelab.ucsc.edu/GtRNAdb/ 200 
+21666255 2011 
+19808937 2009 
+21653550 2011 
+21653554 2011 NoLink
+23408854 2013 null 1D -1 here C -1 null E -1 
+22156057 2012 null TableS1 -1 
+22156375 2012 null S2 -1 null S2 -1 null http://www.ncbi.nlm.nih.gov/geo 301 null http://frodo.wi.mit.edu/ 301 null S2 -1 null S2 -1 
+22156376 2012 
+22156373 2012 null www.pdb.org -1 null www.yasara.org -1 null www.yasara.org -1 
+22156404 2012 null TablesS1 -1 null S2 -1 
+22241780 2012 tool http://snp.gs.washington.edu/SeattleSeqAnnotation131/ 404 null http://statgenpro.psychiatry.hku.hk/kggseq 301 null http://string-db.org/ 301 null http://www.ncbi.nlm.nih.gov/pubmed 301 tool http://vcftools.sourceforge.net/specs.html 200 null http://statgenpro.psychiatry.hku.hk/kggseq 301 library http://main.g2.bx.psu.edu/library -1 download http://www.openbioinformatics.org/annovar/ 404 
+22241775 2012 null http://contra.stanford.edu/contrafold/index.html 200 null http://rna.tbi.univie.ac.at/cgi-bin/RNAcofold.cgi 404 
+22241772 2012 
+22241768 2012 NoLink
+NA 2012 NoLink
+NA 2012 null www.nar.oxfordjournals.org -1 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+22167471 2012 NoLink
+22167470 2012 null http://ribosome.miyazaki-med.ac.jp -1 
+22167473 2012 available http://www.analyticalultracentrifugation.com 200 null www.ebi.ac.uk/pfam -1 null www.ebi.ac.uk/interpro -1 
+22167472 2012 
+22169952 2012 
+22169953 2012 
+22169954 2012 null S2 -1 
+22270085 2012 null www.eucomm.org -1 null www.genetrap.de -1 
+22180533 2012 null C -1 
+22180530 2012 null 7 -1 null S5 -1 
+22259037 2012 null http://www.ncrna.org/centroidfold 301 
+22180534 2012 null SupplementalTableS1 -1 
+22180536 2012 
+22210889 2012 null http://genome.ucsc.edu/ 200 
+22180535 2012 
+22180537 2012 null S6c -1 
+22259036 2012 NoLink
+22199255 2012 
+22259038 2012 
+22187159 2012 
+22187158 2012 null http://jaspar.genereg.net/ 200 null S3C -1 
+22187153 2012 
+22187151 2012 
+22187150 2012 null S2 -1 
+NA 2012 NoLink
+22262732 2012 available http://qmsat.sourceforge.net/ 200 null http://gvs.gs.washington.edu/SeattleSeqAnnotation/ 404 
+25294834 2014 available http://mips.helmholtz-muenchen.de/cogere 200 null http://www.genomatix.de 200 available http://genome.ucsc.edu/ 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://discover.nci.nih.gov/cellminer/ 302 
+NA 2012 NoLink
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+22139921 2012 null www.ncbi.nlm.nih.gov/sites/entrez?db=taxonomy -1 code http://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi 301 null http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/hpc 302 software http://www.bioinf.uni-leipzig.de/software.html 200 null http://www.mysql.com/ 301 
+22139924 2012 null http://www.ncbi.nlm.nih.gov/genbank/ 301 null http://www-genome.wi.mit.edu/cgi-bin/primer/primer3_www.cgi 404 
+22140102 2012 null S4 -1 null www.geneDb.org -1 
+22139922 2012 
+22139915 2012 
+22139936 2012 available http://www.ncbi.nlm.nih.gov/geo 301 software http://www.geneious.com 301 
+22140106 2012 null C -1 null C -1 null FigureS10C -1 
+22139930 2012 null B -1 null FigureS1E -1 null S2 -1 null B -1 null B -1 null FigureS6A -1 null FiguresS6 -1 null S7 -1 
+22189101 2012 
+22189102 2012 
+22266656 2012 download http://intron.healthcare.uiowa.edu/MATS/ -1 null http://sourceforge.net/projects/mcmc-jags/ 301 download http://intron.healthcare.uiowa.edu/MATS/ -1 
+22180532 2012 null http://www.ncbi.nlm.nih.gov/sutils/genom_table.cgi 301 null http://multalin.toulouse.inra.fr/multalin/multalin.html 200 
+21908409 2012 NoLink
+22210892 2012 null S5A -1 null S6B -1 null S5A -1 null S6A -1 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www.ncbi.nlm.nih.gov/geo 301 null www.ingenuity.com -1 
+22199258 2012 available http://gene.cs.rhul.ac.uk/Gstack -1 available http://gene.cs.rhul.ac.uk/Gstack -1 
+22199256 2012 null http://genome.ucsc.edu 200 null http://genome.ucsc.edu 200 
+22199252 2012 
+22210883 2012 null http://david.abcc.ncifcrf.gov/ 301 
+22544706 2012 null S5 -1 
+22199253 2012 
+22187157 2012 null D -1 null FigureS8 -1 null E -1 null H -1 method FigureS10 -1 
+22199260 2012 null S2 -1 
+22210859 2012 software http://imagej.nih.gov/ij/ 302 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF/genomic_curated_CDF.asp 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 null D -1 
+22210857 2012 
+22210862 2012 
+22210864 2012 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www.r-project.org 200 null http://linus.nci.nih.gov/BRB-ArrayTools 301 null http://www.targetscan.org 200 null http://www.broad.mit.edu/cmap 301 null www.ingenuity.com -1 null S9c -1 null S9e -1 
+22210856 2012 null FigureS1 -1 null TableS1 -1 null FigureS2 -1 null TableS2 -1 
+22140114 2012 
+22139931 2012 null S3 -1 
+22140119 2012 null S2 -1 null S6 -1 null S2 -1 
+22140113 2012 
+22140117 2012 null http://www.pymol.org 302 null C -1 null B -1 
+22135285 2012 
+22140111 2012 null http://nmr.cmbi.ru.nl/icing/iCing.html 302 null http://www.bioinf.manchester.ac.uk/naccess/ 200 
+22135300 2012 null TableS2 -1 null http://capture.caltech.edu/ 200 
+22135306 2012 null www.cyclebase.org -1 null www.cyclebase.org -1 null www.niehs.nih.gov/research/atniehs/labs/bb/staff/peddada/index.cfm -1 null http://www.yeastgenome.org/ 302 
+22140116 2012 null http://www.cgl.ucsf.edu/home/sparky 301 null C -1 
+22140099 2012 null Suppl.Figure3 -1 
+22210888 2012 
+22180531 2012 
+22187152 2012 null D -1 null F -1 
+22210890 2012 
+22210882 2012 null http://genome.jgi-psf.org/Phypa1_1/Phypa1_1.home.html 302 null B -1 
+22904088 2012 NoLink
+22684508 2012 null S4 -1 

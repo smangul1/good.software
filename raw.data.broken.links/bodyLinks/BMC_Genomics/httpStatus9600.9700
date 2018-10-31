@@ -1,0 +1,100 @@
+27875986 2016 tool https://www.ncbi.nlm.nih.gov/orffinder/ 301 software http://www.dkfz.de/signaling/e-rnai3/ 200 
+27875984 2016 null https://plastid.readthedocs.io 302 null https://plastid.readthedocs.io 302 null https://plastid.readthedocs.io 302 null http://pypi.python.org/pypi/plastid 301 null https://github.com/joshuagryphon/plastid 301 available http://plastid.readthedocs.io 302 
+27875993 2016 NoLink
+27914481 2016 available www.dnapunctuation.org -1 
+27905883 2016 null http://pfam/xfam.org -1 null www.cazy.org/ -1 null http://www.tcdb.org/ 200 null https://www-abcdb.biotoul.fr/ 302 null http://www.ncbi.nlm.nih.gov/Blast.cgi 301 software http://www.cbs.dtu.dk/services/SignalP/ 200 
+27912743 2016 null http://www.ebi.ac.uk/ena/data/view/ERP001960 301 null https://github.com/PacificBiosciences/FALCON 301 
+27905873 2016 NoLink
+27931183 2016 null http://www.clcbio.com/products/clc-genomics-workbench 302 null http://pfam.xfam.org/ 200 null http://www.genome.jp/kegg/ 200 null http://eupathdb.org/eupathdb/ 200 tool http://bioinfogp.cnb.csic.es/tools/venny/ 200 
+27881084 2016 NoLink
+27881075 2016 null www.gurobi.com -1 
+27881083 2016 NoLink
+27881087 2016 null http://lowelab.ucsc.edu/tRNAscan-SE 301 null http://mitos.bioinf.uni-leipzig.de 200 null http://phylobench.vital-it.ch/raxml-bb/index.php -1 software http://www.esri.com/software/arcgis 301 
+27881081 2016 null https://en.wikipedia.org/wiki/Stockholm_format 301 
+27881090 2016 null http://www.phytozome.net/ 302 null http://pfam.xfam.org/family/PF06886#tabview=tab1 200 null http://www.uniprot.org/ 200 null https://treebase.org/treebase-web/search/study/summary.html?id=19741 302 null http://www.phytozome.net/ 302 null http://gsds.cbi.pku.edu.cn/ 200 software http://www.ub.edu/dnasp/ 200 
+NA 2016 NoLink
+NA 2016 NoLink
+NA 2016 available http://216.48.92.133/Softwares/PlantGenomes/index.htm 200 available http://216.48.92.133/Softwares/PlantGenomes/index.htm 200 
+NA 2016 NoLink
+NA 2016 NoLink
+NA 2016 NoLink
+27884110 2016 null https://www.vectorbase.org/ 302 null http://tritrypdb.org/tritrypdb/ 200 null http://www.orthomcl.org/ 301 download www.flybase.org -1 null http://blast.ncbi.nlm.nih.gov 301 
+27905879 2016 NoLink
+NA 2016 NoLink
+NA 2016 available http://csb.cs.mcgill.ca/acharnement 301 available http://csb.cs.mcgill.ca/acharnement 301 
+27884102 2016 software https://support.illumina.com/sequencing/sequencing_software/casava.html 301 
+27884105 2016 null http://diprodb.fli-leibniz.de 302 null http://epd.vital-it.ch 200 null http://diprodb.fli-leibniz.de 302 
+27887572 2016 null http://www.broadinstitute.org/gsea/msigdb/collection_details.jsp 301 
+27887573 2016 null http://alggen.lsi.upc.es/cgi-bin/promo_v3/promo/promoinit.cgi?dirDB=TF_8.3 500 
+27894252 2016 null http://www.ncbi.nlm.nih.gov 301 null http://pfam.xfam.org/ 200 null http://www.ebi.ac.uk/swissprot/ 301 null http://www.geneontology.org/ 200 null http://www.ncbi.nlm.nih.gov/COG 301 null http://www.genome.jp/kegg/pathway.html 200 
+27887567 2016 NoLink
+27894259 2016 null http://statpages.info/ctab2x2.html 200 
+27894274 2016 software https://imagej.nih.gov/ij/ 302 
+27894253 2016 NoLink
+22768977 2012 null https://xgi.ncgr.org/spc -1 null http://www.pfgd.org 301 null http://staff.vbi.vt.edu/estap/ 200 available http://www.EuMicrobeDB.org/transcripts 301 null http://www.ebi.ac.uk/ena/data/view/ERP000272 301 
+21143812 2010 NoLink
+27903243 2016 null http://cancergenome.nih.gov 301 null https://david.ncifcrf.gov 301 
+20158875 2010 available ftp://fantom.gsc.riken.jp/RTPS 404 
+27931190 2016 null http://blast.ncbi.nlm.nih.gov 301 null http://www.expasy.ch 302 null http://www.uniprot.org 200 null http://www.expasy.ch 302 
+27927181 2016 software http://www.clcbio.com 302 null http://pfam.xfam.org 200 package http://circos.ca 200 null http://gsds.cbi.pku.edu.cn 200 null http://smart.embl-heidelberg.de 200 null http://meme.nbcr.net/meme -1 tool http://bioinformatics.psb.ugent.be/webtools/plantcare/html 301 
+27927184 2016 NoLink
+27927182 2016 null http://soap.genomics.org.cn/soapdenovo.html 200 
+27931182 2016 null http://emb-bioinfo.fsaa.ulaval.ca/ 200 software www.ingenuity.com -1 software www.ingenuity.com -1 null http://emb-bioinfo.fsaa.ulaval.ca/ 200 
+27927177 2016 method http://trna.ie.niigata-u.ac.jp/trnadb/method.html 200 
+27908274 2016 null http://www.mgc.ac.cn/VFs 301 null http://www.phidias.us/victors 301 
+27919223 2016 tool www.ingenuity.com -1 
+27919246 2016 tool http://wwwmgs.bionet.nsc.ru/mgs/programs/oligorep/InpForm.htm -1 
+27919227 2016 null http://www.matrixscience.com/help/quant_statistics_help.html 200 
+27923352 2016 NoLink
+27931186 2016 NoLink
+27931189 2016 available http://www.ebi.ac.uk/ena/data/view/PRJEB6433 301 null http://www.kegg.jp/ghostkoala/ 200 
+27938335 2016 null http://www.iucnredlist.org 200 
+26555943 2015 null http://www.ensembl.org 302 null http://www.ensembl.org 302 null http://www.R-project.org 200 null http://www.ensembl.org 302 package http://www.bioconductor.org 200 null http://www.R-project.org 200 null http://www.ensembl.org 302 null http://www.ensembl.org 302 null http://www.ncbi.nlm.nih.gov 301 
+22244314 2012 available http://www.arabidopsis.org 200 available http://www.arabidopsis.org 200 null http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 tool http://tools.neb.com/NEBcutter2/ 301 null ftp://ftp.arabidopsis.org/home/tair/Sequences/whole_chromosomes/ -1 available http://www.arabidopsis.org 200 available http://www.arabidopsis.org/jsp/ChromosomeMap/tool.jsp 200 
+21143813 2010 null http://cubic.bioc.columbia.edu/eva/sec/set_com1.html -1 null http://cubic.bioc.columbia.edu/eva/sec/set_com6.html -1 null http://cubic.bioc.columbia.edu/eva/sec/common3.html -1 
+27993130 2016 null http://www.ncbi.nlm.nih.gov/ 301 null http://emboss.sourceforge.net/ 200 null http://web.expasy.org/protparam/ 200 software www.cbrc.jp/cbrc-software -1 null http://emboss.sourceforge.net/ 200 null http://web.expasy.org/protparam/ 200 software www.cbrc.jp/cbrc-software -1 
+27993127 2016 null http://gmd.mpimp-golm.mpg.de/ 200 null http://www.chemspider.com 200 null http://www.tm4.org 405 
+27986076 2016 null http://www.phytozome.net 302 null http://bioinfo.cau.edu.cn/agriGO 301 null http://www.phytozome.net/panicumvirgatum 302 null http://bioinfo.cau.edu.cn/agriGO 301 tool http://samtools.sourceforge.net 200 
+21679437 2011 null http://www.gramene.org/ 200 null http://www.maizegdb.org/ 301 null http://www.graingenes.org 200 null http://www.genoplante.com/ 302 null http://www.genoplante.com/ 302 null http://www.genoplante.com 302 download http://rapdb.dna.affrc.go.jp/download/index.html 404 null http://www.gramene.org 200 null http://www.maizegdb.org 301 null http://www.gramene.org 200 
+21729267 2011 code https://atgc-illumina.googlecode.com/files/PAG_2010_AKozik_V09.pdf 404 code https://atgc-illumina.googlecode.com/files/PAG_2010_AKozik_V09.pdf 404 package http://www-huber.embl.de/users/anders/HTSeq/doc/overview.html 200 null SRR098315 -1 null SRR098314 -1 tool http://expasy.org/tools/dna.html 302 available http://mobyle.pasteur.fr/cgi-bin/portal.py?#forms::matcher 301 null AAW78382.1 -1 null AAY86361.1 -1 null ABD42947.1 -1 null ABX75853.1 -1 null ABX75854.1 -1 null CAE09058.1 -1 null CAE09057.1 -1 null NP_566467.2 -1 null NP_172425.2 -1 null NP_567390.4 -1 null NP_176797.1 -1 null NP_197163.1 -1 null ACA33851.1 -1 null AAQ62540.1 -1 null ABD60280.1 -1 null NP_196791.1 -1 null NP_567664.1 -1 null NP_001106009.1 -1 null NP_001105949.1 -1 null XP_002313303.1 -1 null NP_187463.1 -1 null XP_002299944.1 -1 null P81395.1 -1 null P81393.1 -1 null AT1G01780.1 -1 null AT1G10200 -1 null AT1G39900.1 -1 null AT2G45800.1 -1 null AT3G61230.1 -1 null AT3G55770.1 -1 null AY919616.1 -1 download -AY919623.1 -1 null JL052980 -1 null JL052981 -1 null JL052982 -1 null JL053003 -1 null JL053004 -1 null JL053005 -1 tool http://expasy.org/tools/dna.html 302 null http://http://mfold.rna.albany.edu/?q=mfold/RNA-Folding-Form/ -1 null http://bioinfo3.noble.org/psRNATarget/ 404 
+17210083 2007 NoLink
+28049426 2017 null http://www.fao.org/faostat/en/ 200 code http://transdecoder.github.io/ 200 null http://kobas.cbi.pku.edu.cn/ 200 
+28049436 2017 null http://www.jgi.doe.gov/ 301 null http://www.jgi.doe.gov/ 301 null http://swissmodel.expasy.org/ 302 null http://pymol.org/ 302 
+28049418 2017 null http://www.nextflow.io/ 301 tool https://github.com/Chimera-tools/ChimSim 301 tool https://github.com/Chimera-tools/ChimBench 301 null http://chimpipe.readthedocs.io/en/latest/manual.html 200 null http://www.ncbi.nlm.nih.gov/gorf/gorf.html 301 pipeline http://gemtools.github.io/docs/rna_pipeline.html 200 algorithm http://algorithms.cnag.cat/wiki/The_GEM_library 200 null http://www.ncbi.nlm.nih.gov/sra 301 
+28049423 2017 NoLink
+28049421 2017 software support.illumina.com/sequencing/sequencing_software/igenome.html -1 
+28049430 2017 NoLink
+28052756 2017 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 software http://www.smallrnagroup-mainz.de/software.html 301 tool http://bedtools.readthedocs.org 301 available http://www.mirbase.org/ 200 null www.ingenuity.com -1 null http://www.drmr.com/compensation 301 null http://www.smallrnagroup.uni-mainz.de/piRNAclusterDB.html 200 
+21791067 2011 null http://wolfe.gen.tcd.ie/searchDOGS 302 null http://wolfe.gen.tcd.ie/ygob 302 null http://wolfe.gen.tcd.ie/searchDOGS 302 null AE016819 -1 null AE016899 -1 null AE016904 -1 
+28049433 2017 NoLink
+28049416 2017 null http://webblast.ipk-gatersleben.de/barley/ 301 download ftp://ftpmips.helmholtz-muenchen.de/plants/barley/public_data/ -1 null ftp://ftpmips.helmholtz-muenchen.de/plants/barley/public_data/popseq_IPK/ -1 
+28049478 2017 null http://www.eliminatedengue.com/program 200 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 null https://github.com/trinityrnaseq/trinityrnaseq/wiki 301 code https://transdecoder.github.io/ 200 null http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 null https://www.blast2go.com/ 301 null www.uniprot.org -1 null https://www.vectorbase.org 302 null http://bowtie-bio.sourceforge.net/bowtie2/index.shtml 200 null http://www.broadinstitute.org/igv/ 301 null www.bioconductor.org -1 null https://www.blast2go.com 301 null http://flybase.org 200 null http://www.ebi.ac.uk/interpro/ 405 null http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 null http://bioinfo.ut.ee/primer3-0.4.0/ 200 
+28049432 2017 NoLink
+28056774 2017 NoLink
+28056777 2017 NoLink
+28056786 2017 null http://www.genome.jp/kegg/ 200 
+28056824 2017 null http://genenetwork.nl/biosqtlbrowser/ -1 null http://egg2.wustl.edu/roadmap/web_portal/index.html 200 null http://129.125.135.180:8080/GeneNetwork/pathway.html -1 null https://labs.genetics.ucla.edu/horvath/dnamage/ 302 download http://research.nhgri.nih.gov/CGD/download/ 302 
+28056767 2017 null https://cge.cbs.dtu.dk/services/evolution_data.php 302 available https://cge.cbs.dtu.dk/services/CSIPhylogeny-1.2/ 302 available https://cge.cbs.dtu.dk//services/NDtree/ 302 null https://bitbucket.org/genomicepidemiology/assimpler 301 null http://realphy.unibas.ch/fcgi/realphy 200 
+28056779 2017 null ftp://ftpmips.helmholtz-muenchen.de/plants/wheat/IWGSC/genePrediction_v2.2/ -1 null http://www.ncbi.nlm.nih.gov/sra 301 null http://ftp.ncbi.nih.gov/repository/UniGene/Triticum_aestivum/Ta.seq.uniq.gz 301 null ftp://ftpmips.helmholtz-muenchen.de/plants/wheat/IWGSC/genePrediction_v2.2/ -1 null http://amigo.geneontology.org/amigo 200 
+28056762 2017 NoLink
+28056773 2017 software http://tree.bio.ed.ac.uk/software/figtree 302 
+28056772 2017 NoLink
+28056785 2017 NoLink
+28056766 2017 null http://www.ebi.ac.uk/ena/data/view/PRJEB7497 301 null http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=ERP007230 301 
+28056792 2017 here http://faostat3.fao.org 302 null http://www.icugi.org/cgi-bin/ICuGI/index.cgi 200 software http://frodo.wi.mit.edu/ 301 null http://planttfdb.cbi.pku.edu.cn/ 200 
+28056769 2017 null http://www.soystats.com 301 available http://soybase.org/snps/ 302 null www.soybase.org -1 
+28056765 2017 NoLink
+28056764 2017 available http://www.cibiv.at/~niko/bbdb/ 200 available http://www.cibiv.at/~niko/bbdb/ 200 
+28056763 2017 software http://www.cmbl.uga.edu/software/patloc.html 200 
+28056781 2017 null http://www.ncbi.nlm.nih.gov/geo/ 301 null https://www.ebi.ac.uk/arrayexpress/ 301 null http://david.abcc.ncifcrf.gov/ 301 null http://yeastmine.yeastgenome.org 302 null http://www.pombase.org/ 302 
+28056783 2017 null https://solgenomics.net 301 null http://solanaceae.plantbiology.msu.edu/index.shtml 200 null http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 
+28056787 2017 null http://ihec-epigenomes.org/ 200 
+28056800 2017 null http://www.geneious.com/ 301 pipeline http://www.ncbi.nlm.nih.gov/genome/annotation_prok/ 301 tool http://itol.embl.de 200 
+28056770 2017 NoLink
+28056803 2017 code http://code.google.com/p/ea-utils/wiki/FastqMcf 405 null http://bioinf.comav.upv.es/seq_crumbs 302 null http://seq.cs.iastate.edu 200 null http://www.ncbi.nlm.gov/COG/ -1 null http://www.genome.jp/kegg/ 200 null http://www.ncbi.nlm.nih.gov/gorf/gorf.html 301 null http://pgrc.ipk-gatersleben.de/misa/ 200 
+28056804 2017 null https://github.com/tommyau/indelseek/ 301 
+28061748 2017 code https://www.ncbi.nlm.nih.gov/orffinder 301 available http://phylogeny.lirmm.fr/phylo_cgi/one_task.cgi?task_type=gblocks 200 
+28061743 2017 null http://www.animalgenome.org/cgi-bin/util/gotreei 301 tool https://phytozome.jgi.doe.gov/biomart/martview 302 tool http://shigen.nig.ac.jp/rice/oryzabase/tool/riceIdChecker/search 302 tool http://rice.plantbiology.msu.edu/analyses_search_converter.shtml 200 null http://bioinfo.cau.edu.cn/agriGO/ 200 null http://www.gravy-calculator.de/ 200 
+28061744 2017 NoLink
+28061751 2017 null http://purl.org/phylo/treebase/phylows/study/TB2:S20306 302 null http://www.esri.com/ 307 
+28061813 2017 null http://www.fao.org 301 

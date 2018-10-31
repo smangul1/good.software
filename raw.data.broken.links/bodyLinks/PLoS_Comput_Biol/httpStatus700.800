@@ -1,0 +1,100 @@
+18516226 2008 null http://cosyne.org 302 null http://www.cnsorg.org/ 200 null http://www.systemsbiology.org/ 301 null http://www.icsb-2007.org/ 200 null http://nips.cc/ 301 null http://www.brain-map.org/ 200 null http://www.genesis-sim.org/ 200 null http://www.neuron.yale.edu/neuron/ 302 package http://e-cell.org/ecell/ -1 package http://www.mcell.cnl.salk.edu/ 200 null http://www.physiol.ucl.ac.uk/research/silver_a/neuroConstruct/ 302 null http://www.vcell.org/ 301 null http://neurogateway.org/catalog/goto.do?page=.terminology -1 null http://www.sbml.org/ 301 null http://www.neuroml.org/ 302 null http://www.cellml.org/ 301 null http://www.sbml.org/SBML_Software_Guide 301 null http://www.ebi.ac.uk/biomodels/ 301 null http://www.biouml.org/biomodels.shtml 200 null http://senselab.med.yale.edu/modeldb/ 302 null http://www.nest-initiative.org/ 200 null http://bluebrain.epfl.ch/ 301 null http://www.neuroinf.org/courses/ -1 null http://www.irp.oist.jp/ocnc/ -1 
+18617989 2008 NoLink
+18404205 2008 NoLink
+18497864 2008 NoLink
+18451990 2008 NoLink
+19662154 2009 pipeline http://code.google.com/p/sbpipeline/wiki/DataRail 405 null http://www.mpi-magdeburg.mpg.de/projects/promot/ 301 null http://www.mpi-magdeburg.mpg.de/projects/cna/cna.html 301 
+19730676 2009 NoLink
+18704170 2008 null http://courses.cm.utexas.edu/jrobertus/ch339k/overheads-2/figure-07-30.jpg 404 
+19112483 2008 null http://www.genome.jp/kegg/ 200 
+18452000 2008 NoLink
+18846199 2008 NoLink
+18725950 2008 null http://genie.weizmann.ac.il/ 302 
+18437222 2008 NoLink
+25058640 2014 tool http://nutvar.labtelenti.org/ -1 null http://evs.gs.washington.edu/EVS/ 200 null http://evs.gs.washington.edu/EVS/HelpDescriptions.jsp?tab=tabs-1 200 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20110521/ 200 package http://cran.r-project.org/web/packages/GWASExactHW/ 200 null ftp.ncbi.nlm.nih.gov/pub/CCDS/ -1 null http://central.biomart.org/ -1 pipeline http://appris.bioinfo.cnio.es 200 null http://www.sanger.ac.uk/research/projects/vertebrategenome/havana/assets/guidelines.pdf 301 null ftp.omim.org -1 null http://api.omim.org/ 403 null http://apr2013.archive.ensembl.org/biomart/martview/ 307 null http://www.ncbi.nlm.nih.gov/clinvar/docs/clinsig/ 301 
+18437229 2008 null ftp://ftp.ncbi.nlm.nih.gov/blast/ 301 download http://hgdownload.cse.ucsc.edu/goldenPath/mm8/bigZips/ 200 download http://stokes.chop.edu/web/weiss/G1Eindex.html 302 
+18437230 2008 software http://www-ab.informatik.uni-tuebingen.de/software/readsim/ 302 
+18989393 2008 download http://octopus.cbr.su.se/index.php?about=download 200 
+19015738 2008 NoLink
+19008941 2008 NoLink
+19008937 2008 NoLink
+18949023 2008 NoLink
+19008942 2008 NoLink
+19008939 2008 null http://www.envco.info/prod.php?product_id=469 200 null ftp://ftp.yeastgenome.org/yeast/ 302 null ftp://ftp.yeastgenome.org/yeast/ 302 software http://cbio.mskcc.org/leslielab/software/medusa 301 
+19023406 2008 null http://www.hiv.lanl.gov/content/immunology/tables/optimal_ctl_summary.html 302 code http://www.codeplex.com/MSCompBio 200 
+19023404 2008 NoLink
+19023409 2008 code http://www.cis.upenn.edu/~crammer 409 
+19023420 2008 NoLink
+19023401 2008 NoLink
+19043537 2008 NoLink
+NA 2008 NoLink
+19043553 2008 NoLink
+19043540 2008 NoLink
+19057640 2008 NoLink
+19043544 2008 null http://www.molbio1.princeton.edu/labs/gitai/ 404 null http://ww.ncbi.nlm.nih.gov/Genbank -1 
+19043541 2008 null http://lbbe-dmz.univ-lyon1.fr/tannier/ploscb2008_supmat/ 200 software http://www.bx.psu.edu/miller_lab/car/ 200 software http://www.bx.psu.edu/miller_lab/car/ 200 
+19043543 2008 NoLink
+19043542 2008 null http://smd.stanford.edu/ -1 null http://ophid.utoronto.ca/navigator/ 200 
+18989390 2008 available http://www.tbi.univie.ac.at/RNA/ 302 
+18989391 2008 code http://www.fil.ion.ucl.ac.uk/spm 301 
+18989392 2008 NoLink
+19008936 2008 package http://www.fil.ion.ucl.ac.uk/spm/ 200 
+18949021 2008 null http://cbi.labri.fr/Genolevures/ 301 null http://cbi.labri.fr/Genolevures/ 301 
+18989395 2008 null http://genie.weizmann.ac.il/pubs/field08 302 null http://Genomica.weizmann.ac.il 302 
+19229308 2009 available http://www.gromacs.org 200 
+23592960 2013 null http://sourceforge.net 301 download http://www.cs.ucr.edu/stelo/hashfilter/ 404 null http://phymap.ucdavis.edu/barley/ -1 null http://harvest.ucr.edu 200 null http://harvest.ucr.edu 200 null http://harvest.ucr.edu 200 null http://www.ncbi.nlm.nih.gov/genbank/ 301 null http://www.harvest-blast.org/ 302 code http://www.harvest-web.org/utilmenu.wc 302 available http://www.cs.ucr.edu/stelo/hashfilter/under 404 null http://harvest.ucr.edu 200 null http://phymap.ucdavis.edu/barley/ -1 null http://phymap.ucdavis.edu/barley/ -1 
+24146610 2013 NoLink
+18974824 2008 NoLink
+18974823 2008 null http://www.genomesonline.org 301 null http://www.pseudomonas.com 200 null http://www.psysmo.org -1 null http://www.probactys.org -1 null http://www.kluyvercentre.nl 200 null http://www.psysmo.org -1 null http://www.lifewizz.com 200 null http://www.coin-or.org 301 software http://lpsolve.sourceforge.net/5.5/ 200 
+18846200 2008 NoLink
+18846201 2008 NoLink
+18846204 2008 null http://symatlas.gnf.org -1 null http://www.ncbi.nlm.nih.gov/HomoloGene 301 null http://www.picb.ac.cn/circadian/ 404 null http://www.picb.ac.cn/circadian/ 404 
+18846202 2008 NoLink
+18974822 2008 null http://svmcompbio.tuebingen.mpg.de 200 software http://mloss.org 301 null http://www.fml.tuebingen.mpg.de/raetsch/projects/splice 302 null http://svmcompbio.tuebingen.mpg.de 200 
+18949022 2008 NoLink
+18949026 2008 NoLink
+18927604 2008 NoLink
+19119408 2009 NoLink
+19148265 2009 NoLink
+18989394 2008 null http://www.hiv.lanl.gov 302 null http://www.bioafrica.net 200 null http://www.hiv.lanl.gov 302 null http://www.hiv.lanl.gov 302 
+19008938 2008 NoLink
+NA 2008 NoLink
+18974821 2008 null http://nmr.cabm.rutgers.edu:9090/gallery/jsp/Gallery.jsp -1 
+18846206 2008 null http://www.fil.ion.ucl.ac.uk/spm/ 200 
+18989398 2008 null http://www.bdc.brain.riken.go.jp/~tani/mov/PLoS08.html -1 
+19180175 2009 null http://friendfeed.com/ 302 null http://twitter.com/ 301 null http://blog.openwetware.org/scienceintheopen/2008/06/12/friendfeed-for-scientists-what-why-and-how/ 302 available http://friendfeed.com/rooms/ismb-2008/ 302 null http://friendfeed.com/e/685a365c-9ef6-4ec1-b5b7-48e2619a0790/Keynote-2-enormous-amounts-of-sequencing/ 302 null http://friendfeed.com/e/60f95dea-7f5d-454d-a296-abddbeb69cab/Keynote-3-Eugene-Myers-imaging/ 302 null http://friendfeed.com/e/29b67aac-38f2-4dd5-8c19-b8596895d36e/Keynote-Aviv-Regev-on-Modular-Biology/ 302 null http://friendfeed.com/e/04150591-adf3-4e16-a6ed-7fbeaf7d5ac9/Keynote-5-Morag-Park-profiling-the-breast-tumor/ 302 null http://friendfeed.com/e/ef87914f-c3c5-4943-88ad-c518e9991fb4/Keynote-6-Bernhard-Palsson-systems-biology-an-era/ 302 null http://friendfeed.com/e/29ec0f3d-5a1c-4f2d-807a-5f42e959bf50/Keynote-7-Hana-Margalit-intriguing-roles-for/ 302 null http://friendfeed.com/e/d6af6373-897d-483d-975e-5204ef127f96/Keynote-8-David-Haussler-100-million-years-of/ 302 application http://tagcrowd.com/ 301 null http://friendfeed.com/e/d5b274e5-1d34-4108-853e-5974b2a4cccd/HL29-Phil-Bourne-off-targets-for-some-major/ 302 null http://www.biopathways.org/ -1 null http://www.emergence.ethz.ch/ 200 null http://metacyc.org/ 302 available http://biocyc.org/ 302 null http://www.wikipathways.org/index.php/WikiPathways 301 null http://www.pathogenomics.ca/cerebral/ 200 null http://netphorest.info/ 200 tool http://networkin.info/search.php 301 null http://string.embl.de/ 302 null http://shirleywho.wordpress.com/ 301 null http://pbeltrao.blogspot.com/ 301 null http://van.embl.de/cb/web_20_talk_series.shtml 404 null http://www.connotea.org/ -1 null http://www.citeulike.org/ 403 null http://www.labmeeting.com/signin 302 null http://www.epernicus.com/ 301 null http://network.nature.com/ -1 null http://www.openwetware.org/wiki/Main_Page 301 null http://friendfeed.com/e/44118735-65e8-0980-64c3-36247dd8dfab/Off-to-ISMB-2008/ 302 null http://friendfeed.com/e/4e094687-f68e-5c51-f3ce-fac663f18c23/STRING-and-STITCH-known-and-predicted/ 302 null http://www.eposters.net/ 301 null http://secondlife.com/ 200 null http://usefulchem.blogspot.com/2008/02/acs-island-on-second-life.html 200 
+18369436 2008 NoLink
+18974831 2008 null http://www.pnas.org 200 null http://portal.acm.org/citation.cfmdoid1242572.1242705 -1 null http://dx.doi.org/10.1109/TBME.2007.906494 303 null http://ieeexplore.ieee.org/search/wrapper.jsparnumber1416852 404 null http://dblp.uni-trier.de/rec/bibtex/journals/bib/Altman04 200 null PubMed.gov -1 null http://pubmed.gov/18045790 301 null http://www.pubmedcentral.nih.gov/articlerender.fcgiartid1781113 301 null http://isiknowledge.com 302 null Scopus.com -1 null http://www.scopus.com/scopus/openurl/document.urlissn03029743volume3298spage350 301 null http://citeseer.ist.psu.edu/apweiler04uniprot.html 302 null http://scholar.google.com/scholarcites9856542662207029505 302 null arXiv.org -1 available http://arxiv.org/abs/cond-mat/0205383 301 null http://nar.oxfordjournals.org/cgi/content/full/36/suppl_1/D13 301 null http://www.ncbi.nlm.nih.gov/pubmed/18045790 301 null http://www.pubmedcentral.nih.gov/articlerender.fcgiartid1781113 301 here http://dx.doi.org/10.1093/nar/gkm1000 303 null Zotero.org -1 null CiteULike.org -1 null delicious.com -1 null http://www.citeulike.org/article/1708098 403 null Connotea.org -1 null http://www.connotea.org/uri/685b90ae66cfbc3fc8ebeed0a5def571 -1 null HubMed.org -1 null http://www.hubmed.org/display.cgiuids16845111 404 null http://www.doi.org/ 200 null http://dtd.nlm.nih.gov/ 301 null http://dublincore.org/ 200 null http://www.ietf.org/ 200 null http://www.nlm.nih.gov/mesh/ 301 null http://www.loc.gov/standards/mods/ 200 null http://www.plos.org 301 null http://www.w3.org/ 200 null myExperiment.org -1 null http://portal.acm.org -1 null http://ieeexplore.ieee.org 301 null http://dblp.uni-trier.de 200 null http://pubmed.gov 301 null http://pubmedcentral.gov -1 null http://apps.isiknowledge.com -1 null http://www.scopus.com 301 null http://citeseer.ist.psu.edu 302 null http://scholar.google.com 302 null http://www.arxiv.org/ 301 
+18846203 2008 software http://www.lsm.tugraz.at/pcsim 301 
+18818725 2008 available http://mouseNET.princeton.edu 301 available http://mouseNET.princeton.edu 301 null http://mouseNET.princeton.edu/supplement/supplemental_data.htm 301 available http://mouseNET.princeton.edu 301 
+18833292 2008 package http://www.r-project.org/ 200 download http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ebi.ac.uk/microarray-as/aer/#ae-main0 301 download http://www.targetscan.org/ 200 
+18787688 2008 null ftp://ftp.ncbi.nih.gov 301 null http://www.tbdb.org -1 null http://www.tbdb.org -1 
+18802453 2008 NoLink
+18787693 2008 available http://bioinfo.stats.northwestern.edu/jzwang 301 
+18818727 2008 null http://genomics.lbl.gov/supplemental/flaherty-gpcr/ 200 available http://www.signaling-gateway.org 301 
+18787691 2008 NoLink
+18802455 2008 null http://sourceforge.net/projects/tst 301 null http://sourceforge.net/projects/tst 301 available www.trolltech.com -1 
+18818724 2008 software http://devolab.cse.msu.edu/software/avida -1 
+18818769 2008 NoLink
+23133363 2012 NoLink
+18989397 2008 null ftp://ftp.ncbi.nih.gov/snp/00readme.html 301 available http://www.yandell-lab.org/publications/variant_data.htm 200 null ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606/chr_rpts 301 download ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606/rs_fasta 301 null ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606/ASN1_flat 301 null www.yandell-lab.org/cgl -1 null ftp://ftp.ncbi.nih.gov/genomes/H_sapiens 301 null http://blast.wustl.edu 200 software http://www.fruitfly.org/chaos-xml 302 null www.cpan.org -1 
+19005575 2008 download http://nook.cs.ucdavis.edu/koehl/ProShape/download.html 404 null http://sts.bioengr.uic.edu/castp/ -1 available http://www.molmovdb.org/geometry/ 200 
+18818721 2008 NoLink
+18818722 2008 null http://mammoth.bcm.tmc.edu/report_maker 301 null http://consurf.tau.ac.il 200 available http://protinfo.compbio.washington.edu/mfs -1 tool http://dunbrack.fccc.edu/Guoli/s2c/index.php 200 
+18818723 2008 NoLink
+23592962 2013 NoLink
+23592955 2013 NoLink
+18818729 2008 null http://cbcb.umd.edu/research/SR-assembly.shtml 404 pipeline http://amos.sourceforge.net/docs/pipeline/abba.html 200 software http://cbcb.umd.edu/software 200 available http://mummer.sourceforge.net 200 
+18787703 2008 null http://www.rna.ccbb.utexas.edu 200 
+19180182 2009 available http://yeastgenome.org 302 
+19119411 2009 available http://function.princeton.edu/growthrate 301 available http://function.princeton.edu/growthrate 301 available http://function.princeton.edu/growthrate 301 available http://function.princeton.edu/growthrate 301 
+18773075 2008 NoLink
+19132079 2009 NoLink
+19360099 2009 null http://www.galaxy.gmu.edu/QMDNS2007/ 403 null http://www.hpa.org.uk/web/HPAwebFile/HPAweb_C/1194947321368 404 
+19360091 2009 available http://hudine.neu.edu/resource/data/data.html -1 available http://hudine.neu.edu -1 available http://hudine.neu.edu -1 code www.icd9data.com -1 available http://hudine.neu.edu -1 
+19343224 2009 null ftp://ftp.genome.jp/pub/kegg/linkdb/genes/ -1 
+19503817 2009 download http://jura.wi.mit.edu/ge/information_flow_plos/ 404 null www.wormbook.org -1 null www.wormbook.org -1 null http://www.yeastgenome.org/ 302 download http://www.wormbase.org/ 200 null www.wormbook.org -1 
+19360132 2009 NoLink
+19360128 2009 code http://metastats.cbcb.umd.edu 302 code http://metastats.cbcb.umd.edu 302 null http://www.theseed.org/DinsdaleSupplementalMaterial/ 200 null http://www.theseed.org 301 
+19360130 2009 available http://www.nii.res.in/pred_pks_orf_order.html 404 
+19360093 2009 NoLink

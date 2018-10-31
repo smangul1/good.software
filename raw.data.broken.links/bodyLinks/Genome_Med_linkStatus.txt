@@ -1,0 +1,996 @@
+25587358 2014 NoLink
+19341487 2009 NoLink
+19435489 2009 NoLink
+19439022 2009 NoLink
+19439027 2009 NoLink
+19439028 2009 NoLink
+19439029 2009 NoLink
+19435481 2009 NoLink
+19356222 2009 NoLink
+19341507 2009 NoLink
+19439031 2009 NoLink
+19341497 2009 NoLink
+19402886 2009 NoLink
+19691821 2009 NoLink
+19691823 2009 NoLink
+19725930 2009 NoLink
+19725933 2009 NoLink
+19664195 2009 NoLink
+19664201 2009 NoLink
+19678910 2009 NoLink
+20090895 2009 NoLink
+20090894 2009 NoLink
+20090896 2009 NoLink
+20034393 2009 NoLink
+20090897 2009 NoLink
+20017892 2009 NoLink
+19341489 2009 NoLink
+20090898 2009 null http://www.tipharma.nl 302 
+19341506 2009 NoLink
+19341492 2009 null http://www.goldenhelixsymposia.org 301 null http://www.sage-hindawi.com/journals/hgp 301 null http://www.ncbi.nlm.nih.gov/ 301 null http://genome.ucsc.edu/ 200 
+19341490 2009 NoLink
+19341493 2009 NoLink
+19341494 2009 NoLink
+19968882 2009 NoLink
+19341495 2009 NoLink
+19341501 2009 NoLink
+19435468 2009 NoLink
+19341498 2009 NoLink
+19341499 2009 NoLink
+19566914 2009 NoLink
+23153094 2012 NoLink
+23194652 2012 NoLink
+19348688 2009 NoLink
+19348697 2009 NoLink
+19348690 2009 NoLink
+19348696 2009 NoLink
+19348694 2009 NoLink
+19341488 2009 NoLink
+19348691 2009 NoLink
+19348689 2009 NoLink
+19348695 2009 NoLink
+19348700 2009 NoLink
+19348698 2009 NoLink
+19348699 2009 NoLink
+19348701 2009 NoLink
+19348692 2009 NoLink
+19348702 2009 null http://www.bioconferences.com/CONFERENCES/DNA/ 200 
+19638184 2009 NoLink
+19638185 2009 NoLink
+19638186 2009 code http://www.decodeme.com/ -1 null http://www.genewatch.org/ 200 null http://www.which.co.uk 301 null http://www.manches.com 301 
+19638187 2009 NoLink
+19638188 2009 NoLink
+19638189 2009 NoLink
+19591663 2009 NoLink
+19591664 2009 NoLink
+19591665 2009 NoLink
+19566913 2009 NoLink
+19566915 2009 NoLink
+19725943 2009 NoLink
+19566916 2009 NoLink
+19566917 2009 NoLink
+19519948 2009 NoLink
+19519954 2009 NoLink
+19519957 2009 NoLink
+19519958 2009 NoLink
+19341502 2009 NoLink
+19341503 2009 NoLink
+19341504 2009 NoLink
+19341505 2009 NoLink
+19341491 2009 NoLink
+23253160 2012 NoLink
+27686127 2016 null http://dgv.tcag.ca/dgv/app/ 200 null http://www.hla.ucla.edu/cellDna.htm 301 null http://www.bioinformatics.cimr.cam.ac.uk/haplotypes/ 200 
+19490584 2009 NoLink
+19463184 2009 NoLink
+19439059 2009 NoLink
+19490585 2009 NoLink
+19490587 2009 NoLink
+19490586 2009 NoLink
+22546284 2012 NoLink
+22546357 2012 NoLink
+19732436 2009 null AI144299 -1 null BC005238 -1 null BC003584 -1 null BC000192 -1 null NM_002380 -1 null BU078629 -1 null NM_001975 -1 null NM_017954 -1 null AI991103 -1 null NM_000791 -1 null U05598 -1 null M33376 -1 null NM_012242 -1 null NM_014867 -1 null AB037848 -1 null NM_014733 -1 null NM_001353 -1 null NM_002439 -1 null S68290 -1 null J04810 -1 null NM_000691 -1 null AI718385 -1 null NM_003069 -1 null AB029026 -1 null NM_006283 -1 null AF188298 -1 null NM_020299 -1 null BC006471 -1 null W93554 -1 null NM_014778 -1 null NM_006033 -1 null NM_012338 -1 null NM_007150 -1 null AB014605 -1 null AB033831 -1 null NM_021021 -1 null NM_021822 -1 null AB039791 -1 null NM_013352 -1 null NM_004362 -1 null AI912583 -1 null Z19574 -1 null NM_003186 -1 null NM_014059 -1 null BE872674 -1 null NM_003212 -1 null BC000069 -1 null AF110400 -1 null NM_006851 -1 null NM_006169 -1 null AF208043 -1 null BG256677 -1 null NM_006169 -1 null NM_019093 -1 null NM_000463 -1 null NM_021027 -1 null NM_001072 -1 null AV691323 -1 null BC003584 -1 null BC000192 -1 null AI144299 -1 null NM_000791 -1 null BE622627 -1 null AW469790 -1 null NM_012446 -1 null AF318326 -1 
+19891793 2009 NoLink
+19917099 2009 NoLink
+19930624 2009 NoLink
+19939289 2009 NoLink
+19939292 2009 NoLink
+19939294 2009 NoLink
+19951401 2009 NoLink
+19895714 2009 NoLink
+19930617 2009 NoLink
+19891794 2009 null http://www.hapmap.org 301 null http://www.wtccc.org.uk 301 null http://www.1000genomes.org 301 null http://bmic.upenn.edu/cvdsnp 302 
+25941542 2015 NoLink
+19822024 2009 NoLink
+19822025 2009 NoLink
+19852779 2009 null NP_110345.1 -1 null NP_360014 -1 null NM_000183.2 -1 null LOC100131754 -1 null NM_006036.3 -1 null NP_360014 -1 null NM_000144.3 -1 null NM_001918.2 -1 null NM_022163.3 -1 null NM_182556.2 -1 null NW_923184.1 -1 null NM_213611.2 -1 null NT_009775.16 -1 null NM_000277.1 -1 null NM_000284 -1 null NM_138384.2 -1 null NP_110345 -1 null NM_001152.3 -1 null NW_923184.1 -1 null NM_031420.2 -1 null NM_000183.2 -1 null NM_004563.2 -1 null NM_000182.4 -1 null NM_000182.4 -1 null NM_014252.3 -1 null NW_923184.1 -1 null NM_031902.3 -1 null NM_006036.3 -1 null NM_001918.2 -1 null NM_000277.1 -1 null NM_031420.2 -1 
+19863770 2009 NoLink
+19863771 2009 NoLink
+19863775 2009 NoLink
+19863772 2009 NoLink
+19863773 2009 NoLink
+19863774 2009 NoLink
+19886976 2009 NoLink
+19769781 2009 NoLink
+19804607 2009 NoLink
+19804610 2009 null http://www.linkgroup.hu 200 
+19804611 2009 NoLink
+22621759 2012 NoLink
+19747376 2009 NoLink
+19754960 2009 NoLink
+19735586 2009 NoLink
+26089985 2015 NoLink
+27683027 2016 null https://zika.labkey.com 302 null http://andersen-lab.com/zika-virus-pilot 301 null http://zibraproject.github.io 301 null http://zibraproject.github.io 301 null http://andersen-lab.com/miseq-protocol-zika-virus-sequencing/ 301 
+25328540 2014 null https://ngsl.esat.kuleuven.be 303 
+20353544 2010 NoLink
+20416117 2010 NoLink
+20423533 2010 NoLink
+20423530 2010 NoLink
+20429960 2010 NoLink
+20193066 2010 NoLink
+20374639 2010 NoLink
+20701739 2010 NoLink
+20701793 2010 NoLink
+20707934 2010 NoLink
+20727235 2010 NoLink
+20804565 2010 NoLink
+20804580 2010 NoLink
+20687900 2010 NoLink
+20691073 2010 NoLink
+21144010 2010 NoLink
+21167082 2010 NoLink
+21176121 2010 NoLink
+21176178 2010 NoLink
+21176122 2010 NoLink
+21205279 2010 NoLink
+21211069 2010 NoLink
+20156332 2010 NoLink
+20236491 2010 null http://genome.gov/gwastudies 301 null http://genome.gov/gwastudies 301 
+20353613 2010 NoLink
+20236487 2010 NoLink
+20236494 2010 NoLink
+20236502 2010 NoLink
+20181060 2010 NoLink
+20193046 2010 NoLink
+20193047 2010 NoLink
+20193048 2010 NoLink
+20193050 2010 NoLink
+20193051 2010 NoLink
+20193052 2010 null http://www.genome.jp/kegg/drug/ 200 null http://www.genome.jp/kegg/disease/ 200 
+20193049 2010 NoLink
+20156317 2010 NoLink
+19804612 2009 NoLink
+27716432 2016 null http://www.ebi.ac.uk/ena 301 null https://github.com/sanger-pathogens/mlst_check 301 null http://pubmlst.org/saureus/ 301 tool http://www.sanger.ac.uk/science/tools/smalt-0 200 
+20670384 2010 NoLink
+20670388 2010 NoLink
+20678185 2010 NoLink
+20670383 2010 NoLink
+20667146 2010 NoLink
+20667078 2010 NoLink
+20546595 2010 NoLink
+20587082 2010 NoLink
+20587078 2010 NoLink
+20587079 2010 NoLink
+20587004 2010 NoLink
+20587003 2010 NoLink
+20236478 2010 NoLink
+20236477 2010 NoLink
+20441603 2010 NoLink
+20487506 2010 NoLink
+20346093 2010 NoLink
+20346094 2010 NoLink
+20398331 2010 null NT_010783.15 -1 null NG_007072.1 -1 null NG_007072.2 -1 null NG_007072.2 -1 null NM_001943.2 -1 null NM_001943.3 -1 null NP_001934.2 -1 null NC_012920.1 -1 null NP_000079.2 -1 
+20465800 2010 NoLink
+20497613 2010 NoLink
+20497602 2010 NoLink
+20497596 2010 NoLink
+20519033 2010 NoLink
+20519034 2010 NoLink
+21092148 2010 NoLink
+21092145 2010 NoLink
+21092146 2010 NoLink
+21114804 2010 NoLink
+21122163 2010 NoLink
+21122164 2010 NoLink
+21067534 2010 NoLink
+NA 2010 NoLink
+20959029 2010 NoLink
+20959026 2010 NoLink
+20959028 2010 NoLink
+21429189 2011 NoLink
+20923579 2010 NoLink
+21658297 2011 NoLink
+26856537 2016 available http://biospecimens.cancer.gov/resources/sops/default.asp 301 available http://www.ncbi.nlm.nih.gov/gap 301 null http://www.genome.gov/gwastudies/ 301 null http://www.broadinstitute.org/gsea/msigdb/index.jsp 301 null http://www.proteinatlas.org/ENSG00000051620-HEBP2/tissue 200 null http://xavierlab2.mgh.harvard.edu/EnrichmentProfiler/enrichmentMaps.html 200 
+20925967 2010 NoLink
+20831842 2010 NoLink
+20822553 2010 NoLink
+20854646 2010 NoLink
+20854645 2010 NoLink
+20860851 2010 NoLink
+20860855 2010 available http://www.fda.gov/Drugs/ScienceResearch/ResearchAreas/Pharmacogenetics/ucm083378.htm 301 null http://www.ema.europa.eu/ 200 null http://www.saeconsortium.org/ 301 
+20822536 2010 NoLink
+20831840 2010 NoLink
+20828428 2010 NoLink
+20828427 2010 NoLink
+20815920 2010 NoLink
+20828426 2010 NoLink
+20860819 2010 NoLink
+21542874 2011 NoLink
+21542879 2011 NoLink
+21542888 2011 NoLink
+21542889 2011 NoLink
+21542892 2011 NoLink
+21470392 2011 NoLink
+21861847 2011 NoLink
+21861849 2011 NoLink
+21861850 2011 NoLink
+21875443 2011 null www.clinicaltrials.gov -1 null www.clinicaltrials.gov -1 
+21888691 2011 NoLink
+21884576 2011 NoLink
+22196450 2011 NoLink
+22204519 2011 null http://www.srl.cam.ac.uk/consortia/bcac/ 301 null http://www.cpnds.ubc.ca/ 301 null http://www.pharmgkb.org/contributors/consortia/cpic_profile.jsp 301 null http://h3africa.org/ 200 null https://www.gluegrant.org/index.htm 200 null http://www.icgc.org/ 301 null http://www.saeconsortium.org/ 301 null http://www.pharmgkb.org/contributors/consortia/iwpc_profile.jsp 301 here http://pgrn.org/ 301 
+22204589 2011 NoLink
+22204616 2011 NoLink
+22206610 2011 NoLink
+22212486 2011 NoLink
+21345247 2011 NoLink
+21345246 2011 NoLink
+21345244 2011 null http://hapmap.ncbi.nlm.nih.gov/ 301 null http://www.1000genomes.org 301 
+21392414 2011 NoLink
+21345258 2011 NoLink
+21345254 2011 NoLink
+21797996 2011 NoLink
+23268841 2012 NoLink
+21349141 2011 NoLink
+21349139 2011 null http://www.genomics.cn/en/ 200 
+21410995 2011 NoLink
+21392406 2011 NoLink
+21244703 2011 NoLink
+21787442 2011 NoLink
+21867575 2011 NoLink
+21867574 2011 tool http://www.homd.org/ 200 software http://pubmlst.org/software/database/bigsdb/ 301 
+21867573 2011 NoLink
+21745422 2011 NoLink
+21801463 2011 NoLink
+21745417 2011 NoLink
+21745416 2011 NoLink
+21699744 2011 NoLink
+21631906 2011 NoLink
+21699745 2011 null http://www.publichealth.ox.ac.uk/helex/ 302 
+21627779 2011 NoLink
+21702935 2011 NoLink
+22035871 2011 NoLink
+21658298 2011 NoLink
+21658296 2011 NoLink
+22734695 2012 NoLink
+21658299 2011 NoLink
+21457491 2011 NoLink
+21457514 2011 NoLink
+25593599 2014 NoLink
+21067556 2010 NoLink
+21457499 2011 NoLink
+25593593 2014 NoLink
+21345269 2011 NoLink
+21635702 2011 NoLink
+21639954 2011 NoLink
+21635710 2011 NoLink
+21635711 2011 null http://www.genome.gov 301 null http://www.omim.org 403 
+21619627 2011 NoLink
+21676259 2011 NoLink
+21722348 2011 NoLink
+22085423 2011 NoLink
+23046790 2012 NoLink
+22494857 2012 NoLink
+22112937 2011 NoLink
+22122801 2011 NoLink
+22126538 2011 NoLink
+22126607 2011 NoLink
+22030259 2011 NoLink
+21955394 2011 NoLink
+22023877 2011 NoLink
+21989199 2011 null http://www.ncbi.nlm.nih.gov/projects/SNP/ 301 null http://www.1000genomes.org/ 301 null http://hapmap.ncbi.nlm.nih.gov/ 301 null http://sift.jcvi.org/ 200 null http://genetics.bwh.harvard.edu/pph2/ 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://genome.ucsc.edu/ENCODE/ 200 null http://www.pazar.info/ 200 null http://meme.nbcr.net/ -1 null http://jaspar.genereg.net/ 200 null http://www.pazar.info/ 200 null http://www.pazar.info/ 200 null http://www.oreganno.org/ 200 tool http://uswest.ensembl.org/tools.html 404 null http://www.genomics.csse.unimelb.edu.au/is-rSNP/ -1 null http://genome.ufl.edu/mapper/ -1 null http://tophat.cbcb.umd.edu/ 200 null http://www.netlab.uky.edu/p/bioinfo/MapSplice 200 null http://sfmap.technion.ac.il/ 200 tool http://rulai.cshl.edu/tools/ESE 301 tool http://galaxy.psu.edu/ 302 null http://genome.ucsc.edu/ 200 null http://www.ensembl.org/biomart/martview/ 301 
+22035782 2011 NoLink
+21961648 2011 NoLink
+22035904 2011 null http://www.genome.gov/GWAStudies 301 here http://www.roadmapepigenomics.org/ 200 
+21970596 2011 NoLink
+21910929 2011 NoLink
+21943201 2011 NoLink
+21951399 2011 NoLink
+21955348 2011 NoLink
+22289516 2012 NoLink
+19744308 2009 NoLink
+22546321 2012 NoLink
+26191084 2015 NoLink
+22546470 2012 NoLink
+25400697 2014 null http://www.cgem.ed.ac.uk/resources/ 302 
+22546713 2012 NoLink
+22546737 2012 NoLink
+24342550 2013 NoLink
+22494390 2012 here http://PersonalGenomics.org 301 null http://www.clinicalgenenetworks.com -1 
+22546850 2012 NoLink
+25473422 2014 null http://gumc.georgetown.edu/spi/systemsmedicine 302 null https://www.casym.eu 301 
+22906193 2012 NoLink
+22929582 2012 NoLink
+22943415 2012 NoLink
+22937864 2012 NoLink
+22943469 2012 NoLink
+22943447 2012 NoLink
+23228053 2012 NoLink
+23234572 2012 NoLink
+22583555 2012 NoLink
+23259642 2012 NoLink
+23718862 2013 NoLink
+23194430 2012 NoLink
+23537167 2013 NoLink
+24112773 2013 NoLink
+23270638 2012 NoLink
+22113004 2011 NoLink
+22360970 2012 NoLink
+22364178 2012 NoLink
+22364193 2012 NoLink
+22364211 2012 NoLink
+22364233 2012 NoLink
+22369851 2012 NoLink
+22369790 2012 NoLink
+22293121 2012 NoLink
+22264340 2012 NoLink
+22284131 2012 NoLink
+22293069 2012 null http://www.genomeconference.org/ 301 null http://www.gigasciencejournal.com/ 302 null http://GigaDB.org 200 
+22283977 2012 NoLink
+26497652 2015 NoLink
+22293136 2012 NoLink
+22494847 2012 NoLink
+22293089 2012 NoLink
+25908942 2015 NoLink
+22794791 2012 NoLink
+22830651 2012 null http://www.openbioinformatics.org/annovar/ 404 tool http://anntools.sourceforge.net/ 200 code http://code.google.com/p/mu2a/ 405 null http://snp.gs.washington.edu/SeattleSeqAnnotation/ 301 null http://www.svaproject.org/ 200 null http://snpeff.sourceforge.net 200 package http://ndc.mayo.edu/mayo/research/biostat/stand-alone-packages.cfm 301 software http://www.yandell-lab.org/software/vaast.html 200 null http://variant.bioinfo.cipf.es 200 software http://research.nhgri.nih.gov/software/VarSifter/ 302 null http://vat.gersteinlab.org/ 200 null http://wannovar.usc.edu/ 200 
+22734671 2012 NoLink
+22762308 2012 NoLink
+23194586 2012 NoLink
+22839767 2012 NoLink
+22720727 2012 NoLink
+22738351 2012 NoLink
+22732016 2012 null http://www.cbs.dtu.dk/services/NetMHCpan/ 200 null http://www.cbs.dtu.dk/services/NetMHCIIpan/ 200 null http://www.immuneepitope.org/ 301 null http://www.allelefrequencies.net/ 302 null http://www.pypop.org/ 301 null http://www.graphviz.org/ 200 null http://www.ncbi.nlm.nih.gov/gv/mhc/main.cgi?cmd=init 301 null http://evolution.genetics.washington.edu/phylip.html 200 null http://taxonomy.zoology.gla.ac.uk/rod/treeview.html 200 
+22741526 2012 NoLink
+23009675 2012 NoLink
+23013673 2012 available http://www.icsb2012toronto.com/schedule.php 500 
+23114084 2012 null http://projects.tcag.ca/variation/ 200 null http://www.ncbi.nlm.nih.gov/dbvar/ 301 null http://decipher.sanger.ac.uk 301 null http://umcecaruca01.extern.umcn.nl:8080/ecaruca/ecaruca.jsp 200 null https://www.iscaconsortium.org 200 
+22410340 2012 NoLink
+25031621 2014 NoLink
+22429919 2012 NoLink
+22445237 2012 NoLink
+19951402 2009 NoLink
+22429906 2012 NoLink
+22458566 2012 NoLink
+22458606 2012 NoLink
+27846896 2016 NoLink
+19341500 2009 NoLink
+25414729 2014 NoLink
+23270647 2012 null http://thebiogrid.org 301 null http://yeastgenome.org 302 
+22621766 2012 null IPR018610 -1 
+23876409 2013 NoLink
+22284023 2012 NoLink
+22630332 2012 NoLink
+22640877 2012 NoLink
+22640407 2012 NoLink
+22640420 2012 NoLink
+23146350 2012 NoLink
+20670394 2010 NoLink
+23158748 2012 NoLink
+23181697 2012 software http://wiki.chasmsoftware.org/index.php/Main_Page 200 null http://www.cravat.us 302 null http://research-public.gene.com/Research/genentech/canpredict -1 null http://bg.upf.edu/transfic 301 null http://mutationassessor.org 302 null http://gmt.genome.wustl.edu/genome-music 301 
+23181723 2012 NoLink
+23021552 2012 NoLink
+23194449 2012 NoLink
+22839973 2012 null http://www.ncbi.nlm.nih.gov/SNP 301 null http://www.ensembl.org 301 null http://www.ncbi.nlm.nih.gov/omim 301 null http://www.sanger.ac.uk/genetics/CGP/cosmic 301 null http://www.sanger.ac.uk/genetics/CGP/Census 301 null http://www.ebi.ac.uk/chebi 302 null http://www.drugbank.ca 301 null http://www.embl.de/~bork 301 null http://www.pharmgkb.org 301 null http://xin.cz3.nus.edu.sg/group/ttd/ttd.asp -1 null http://sift.jcvi.org 200 null http://genetics.bwh.harvard.edu/pph2 301 null http://www.snps3d.org 200 tool http://www.pantherdb.org/tools/csnpScoreForm.jsp 200 null http://mutationassessor.org 302 null http://www.ensembl.org/info/docs/variation/vep 302 null http://kinmut.bioinfo.cn -1 
+23961719 2013 NoLink
+23199206 2012 NoLink
+23809696 2013 NoLink
+23050952 2012 NoLink
+24028793 2013 NoLink
+23114035 2012 NoLink
+23017099 2012 NoLink
+23114100 2012 NoLink
+23114182 2012 NoLink
+23131117 2012 NoLink
+22999295 2012 NoLink
+27993174 2016 NoLink
+24112718 2013 null https://github.com/friend1ws/EBCall 301 null http://compbio.bccrc.ca 301 null http://www.broadinstitute.org/cancer/cga/mutect 301 software http://genome.wustl.edu/software/somaticsniper 301 null ftp://strelka@ftp.illumina.com/ -1 null http://varscan.sourceforge.net/ 200 
+23013645 2012 NoLink
+23889995 2013 NoLink
+20642868 2010 NoLink
+27562213 2016 software http://www.hufflab.org/software/VARPRISM/ 405 
+26395002 2015 NoLink
+26391122 2015 NoLink
+23673134 2013 NoLink
+23510111 2013 null http://gene210.stanford.edu/ 302 null http://www.snpedia.com/index.php/SNPedia 302 
+23673148 2013 NoLink
+23673197 2013 NoLink
+23673226 2013 NoLink
+23673253 2013 NoLink
+23635424 2013 NoLink
+23731620 2013 NoLink
+23561577 2013 NoLink
+23953663 2013 NoLink
+23998893 2013 NoLink
+23998908 2013 NoLink
+23806097 2013 NoLink
+23998943 2013 NoLink
+23998189 2013 NoLink
+23998271 2013 NoLink
+24001039 2013 NoLink
+24004612 2013 NoLink
+24360023 2013 NoLink
+24373343 2013 NoLink
+24373327 2013 NoLink
+24373383 2013 NoLink
+24380442 2013 NoLink
+23409739 2013 NoLink
+23672984 2013 NoLink
+23363732 2013 NoLink
+23414815 2013 NoLink
+23445684 2013 NoLink
+23537139 2013 tool http://www.r-project.org 200 tool http://sourceforge.net 301 tool http://sourceforge.net 301 software http://www.broadinstitute.org 301 
+23445765 2013 NoLink
+23445784 2013 NoLink
+23383720 2013 NoLink
+23419152 2013 NoLink
+23311897 2013 null NM_007256.4 -1 
+23339462 2013 NoLink
+23351549 2013 NoLink
+23351593 2013 NoLink
+23360680 2013 NoLink
+23731576 2013 NoLink
+23673002 2013 NoLink
+23369291 2013 NoLink
+23369278 2013 NoLink
+23445748 2013 NoLink
+23806086 2013 null http://www.bcm.edu/geneticlabs 302 
+23889971 2013 NoLink
+24070255 2013 NoLink
+23890051 2013 NoLink
+23899246 2013 NoLink
+23899292 2013 null http://www.proteinatlas.org 200 
+23899327 2013 null http://qiime.org 200 null http://www.mothur.org 301 null http://unite.ut.ee/ 301 null http://www.arb-silva.de/ 301 
+23906214 2013 NoLink
+23906180 2013 NoLink
+23902830 2013 null http://evs.gs.washington.edu/EVS/ 200 null https://gene-talk.de/qc 200 null ftp://ftp.1000genomes.ebi.ac.uk./vol1/ftp/ 200 
+23731547 2013 NoLink
+23806003 2013 NoLink
+23806018 2013 NoLink
+23806045 2013 NoLink
+24134832 2013 NoLink
+24050173 2013 NoLink
+23806069 2013 NoLink
+23697740 2013 NoLink
+23673020 2013 NoLink
+23514125 2013 NoLink
+23618465 2013 NoLink
+23631487 2013 NoLink
+23522065 2013 NoLink
+23534337 2013 null http://www.biomedcentral.com/series/EvidenceUseAbuse 302 
+23673079 2013 NoLink
+23363777 2013 null http://www.cbioportal.org 200 null http://sysbio.soe.ucsc.edu/nets 301 null http://circos.ca/ 200 null http://stratomex.caleydo.org 301 available http://compbio.med.harvard.edu/tcga/stratomex 301 null http://www.cytoscape.org 200 tool http://www.gitools.org 200 null http://www.broadinstitute.org/igv 301 null http://beta.intogen.org 302 null http://ophid.utoronto.ca/navigator 301 null http://explorer.cancerregulome.org 200 null http://genomesavant.com/savant 301 null https://cgwb.nci.nih.gov -1 null https://genome-cancer.ucsc.edu 302 
+23259685 2012 null ftp://ftp.ebi.ac.uk/pub/databases/imgt/mhc/hla 301 
+26015807 2015 NoLink
+23796271 2013 NoLink
+23809668 2013 NoLink
+23705665 2013 NoLink
+23672693 2013 NoLink
+23594586 2013 software http://www.bioconductor.org 200 null http://www.r-project.org 200 
+23731654 2013 NoLink
+23731665 2013 NoLink
+25317207 2014 NoLink
+26856702 2016 NoLink
+27124954 2016 available http://github.com/zdk123/compPLS 301 null https://qiita.ucsd.edu/ 301 available https://www.ebi.ac.uk/metagenomics/ 301 
+24073752 2013 NoLink
+24229443 2013 NoLink
+24267946 2013 NoLink
+24267880 2013 NoLink
+24286480 2013 NoLink
+24286512 2013 NoLink
+24286457 2013 NoLink
+24289319 2013 NoLink
+24286536 2013 NoLink
+24112618 2013 NoLink
+NA 2013 NoLink
+24134860 2013 NoLink
+24134804 2013 NoLink
+27799065 2016 null http://cbioportal.org 301 
+24134796 2013 NoLink
+27799064 2016 pipeline http://blog.dnanexus.com/2013-10-22-run-mercury-variant-calling-pipeline/ 200 null https://genematcher.org 302 
+23199229 2012 NoLink
+24164800 2013 NoLink
+24172704 2013 NoLink
+24040834 2013 NoLink
+24479652 2014 NoLink
+24050736 2013 NoLink
+24050114 2013 NoLink
+27716401 2016 null http://www.hmpdacc.org/ 302 null http://huttenhower.sph.harvard.edu/galaxy/ 200 
+24073687 2013 NoLink
+24073723 2013 NoLink
+24713084 2014 null http://arep.med.harvard.edu/gmc/tech.html 200 
+24070238 2013 NoLink
+24597950 2014 NoLink
+24739241 2014 NoLink
+24484537 2014 NoLink
+24598577 2014 NoLink
+24944582 2014 NoLink
+25228923 2014 NoLink
+25276232 2014 NoLink
+25191524 2014 NoLink
+25246945 2014 NoLink
+25228925 2014 NoLink
+25067956 2014 NoLink
+24963353 2014 NoLink
+24764495 2014 NoLink
+24944580 2014 NoLink
+24944583 2014 NoLink
+24479672 2014 NoLink
+24576404 2014 NoLink
+25028597 2014 NoLink
+24479693 2014 null http://recursivepublic.net/ 200 
+24571651 2014 NoLink
+25228924 2014 NoLink
+24944585 2014 null http://genomemedicine.com/series/cancerepigenomics 301 null http://cancergenome.nih.gov/ 301 null http://www.icgc.org 301 null http://www.blueprint-epigenome.eu/ 200 null http://www.oncotrack.eu/ 200 
+25276233 2014 NoLink
+25165489 2014 NoLink
+25177370 2014 NoLink
+25690659 2014 NoLink
+24944584 2014 NoLink
+24944587 2014 NoLink
+24963352 2014 NoLink
+24944579 2014 NoLink
+24944581 2014 NoLink
+24571673 2014 NoLink
+24971157 2014 NoLink
+24433494 2014 NoLink
+24678845 2014 NoLink
+24533893 2013 NoLink
+23531373 2013 NoLink
+23510086 2013 NoLink
+26019724 2015 NoLink
+25419237 2014 NoLink
+25422674 2014 null http://katholt.github.io/srst2/ 200 
+25392717 2014 NoLink
+25360157 2014 NoLink
+25505934 2014 NoLink
+25360158 2014 null http://www.rcsb.org/ 200 software http://www.pymol.org/ 302 
+25419236 2014 NoLink
+21255381 2011 NoLink
+25426171 2014 NoLink
+25352915 2014 null http://www.biomina.be/app/variantdb 302 
+25352916 2014 NoLink
+25342980 2014 null https://github.com/crs4/vispa 301 
+28081722 2017 null https://cancergenome.nih.gov/ 301 
+26195989 2015 NoLink
+25452766 2014 NoLink
+25473426 2014 null http://www.ensembl.org 301 tool http://bedtools.readthedocs.org 301 tool http://bedops.readthedocs.org 301 null http://www.broadinstitute.org/mammals/haploreg/ 301 null http://www.ensembl.org/vep 302 software http://www.openbioinformatics.org/annovar/ 404 software http://vat.gersteinlab.org 200 software http://snpeff.sourceforge.net 200 null http://regulome.stanford.edu 200 download http://jaspar.genereg.net 200 tool http://meme.nbcr.net -1 tool www.cs.helsinki.fi/group/pssmfind/ -1 null www.umd.be/HSF/ -1 download http://mendel.stanford.edu/SidowLab/downloads/gerp/ 200 software http://compgen.bscb.cornell.edu/phast/ 302 software http://genetics.bwh.harvard.edu/scone/ 200 software http://sift.bii.a-star.edu.sg 200 null http://fathmm.biocompute.org.uk 200 null http://genetics.bwh.harvard.edu/pph2/ 200 null www.mutationtaster.org -1 null www.mutationassessor.org -1 software http://www.rostlab.org/services/SNAP/ 302 software http://snps.biofold.org/phd-snp/ 200 null http://bg.upf.edu/fannsdb/ 301 software www.sanger.ac.uk/resources/software/carol/ -1 software www.sanger.ac.uk/resources/software/gwava/ -1 null http://cadd.gs.washington.edu 200 software http://www.github.com/joepickrell/fgwas 301 software http://www.hsph.harvard.edu/skat/ 301 software http://genetics.bwh.harvard.edu/vt/dokuwiki/start 200 software http://www.yandell-lab.org/software/vaast.html 200 
+25473430 2014 NoLink
+25473431 2014 NoLink
+25473433 2014 NoLink
+25473432 2014 NoLink
+25473429 2014 NoLink
+25505493 2014 NoLink
+25473423 2014 NoLink
+25473434 2014 NoLink
+25473424 2014 null http://dnase.genome.duke.edu/ 200 application http://genetics.case.edu/prestige 301 application http://prestige.case.edu 302 application http://genetics.case.edu/prestige 301 application http://prestige.case.edu 302 application http://www.healthcare.uiowa.edu/labs/tan/IM-PET.html 302 
+25473425 2014 NoLink
+25593594 2014 NoLink
+25473428 2014 code https://www.encodeproject.org 301 null http://fantom.gsc.riken.jp/5/ 200 null http://ihec-epigenomes.org/outcomes/ihec-data-portal/ 404 null http://www.roadmapepigenomics.org 200 null http://www.blueprint-epigenome.eu 200 code http://www.noncode.org/cgi-bin/hgVai -1 tool http://www.ensembl.org/info/docs/tools/vep/index.html 200 null http://regulomedb.org 200 null http://snp-nexus.org/about.html 200 null http://jaspar.genereg.net 200 null http://alggen.lsi.upc.es/cgi-bin/promo_v3/promo/promoinit.cgi?dirDB=TF_8.3 500 null http://genome.ufl.edu/mapper/ -1 null http://www.broadinstitute.org/mammals/haploreg/haploreg.php 301 null http://jjwanglab.org/gwas3d 200 null http://www.oreganno.org/oregano/ 404 null http://consite.genereg.net 200 null http://www.hgmd.org 200 software http://www.sanger.ac.uk/resources/software/genevar/ 301 null http://www.ncbi.nlm.nih.gov/projects/gap/eqtl/index.cgi 301 tool http://omictools.com 301 
+25473436 2014 NoLink
+25473435 2014 null www.well.ox.ac.uk/platypus -1 
+25473437 2014 NoLink
+25484918 2014 NoLink
+25484923 2014 NoLink
+25484921 2014 null www.clinicaltrials.gov -1 
+25484922 2014 NoLink
+25484919 2014 NoLink
+25484920 2014 NoLink
+25520756 2014 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63260 301 
+25530806 2014 NoLink
+25587359 2014 NoLink
+25587357 2014 NoLink
+25520755 2014 NoLink
+25587356 2014 NoLink
+25538794 2014 NoLink
+23259664 2012 NoLink
+26207141 2015 NoLink
+26217397 2015 pipeline http://cpipeline.org 302 
+26221186 2015 null http://www.ncbi.nlm.nih.gov/clinvar/ 301 null http://www.pharmgkb.org/page/cpic 301 null http://www.ncbi.nlm.nih.gov/gap 301 null http://www.affymetrix.com/catalog/131412/AFFY/DMET-Plus-Solution#1_1 301 null http://www.hgmd.cf.ac.uk/ac/index.php 200 null http://www.grouphealthresearch.org/ 301 code http://support.illumina.com/array/array_kits/veracode_adme_core_panel/documentation.html 301 null http://www.latex-project.org/ 301 null http://www.ncbi.nlm.nih.gov/omim 301 null http://www.pharmaadme.org/joomla/ 200 null http://pgrn.org/display/pgrnwebsite/PGRN+Home 301 null https://www.pharmgkb.org/ 301 null http://www.r-project.org/ 200 package http://cran.r-project.org/web/packages/Hmisc/index.html 200 null http://snp.gs.washington.edu/SeattleSeqAnnotation138 302 tool http://snpeff.sourceforge.net/index.html 200 null https://www.emergesphinx.org/ 301 null https://sqlite.org/ 200 
+25473427 2014 NoLink
+25593597 2014 NoLink
+25593591 2014 NoLink
+25031626 2014 NoLink
+26110023 2015 here http://regulomedb.org/ 200 software http://www.sanger.ac.uk/resources/software/genevar/ 301 null http://www.ebi.ac.uk/Tools/geuvadis-das/ 301 null http://genenetwork.nl/bloodeqtlbrowser/ -1 null http://www.gtexportal.org/home/ 302 null http://www.ncbi.nlm.nih.gov/projects/gap/eqtl/index.cgi 301 null http://eqtl.uchicago.edu/Home.html 200 null http://gwas-browser.nygenome.org/ 200 
+25606058 2014 NoLink
+25593595 2014 null www.forgelifescience.com -1 null www.ciclofilin.com -1 null www.gemmuspharma.com -1 null www.springbankpharm.com -1 null www.itxpharma.com -1 null www.prosetta.com -1 null www.oyageninc.com -1 null www.microbiotix.com -1 null www.enyopharma.com -1 null www.scynexis.com -1 null www.vectura.com -1 null www.novartis.com -1 
+25593598 2014 NoLink
+25593596 2014 NoLink
+25606059 2015 NoLink
+25874000 2015 NoLink
+25614766 2015 NoLink
+24468134 2014 NoLink
+25873999 2015 NoLink
+25621014 2014 null http://hmpdacc.org/most_wanted/ 302 null www.ncbi.nlm.nih.gov/bioproject/28331 -1 
+24475754 2014 NoLink
+25628760 2015 NoLink
+24479626 2014 NoLink
+25632303 2015 NoLink
+25632305 2015 NoLink
+25632304 2015 NoLink
+25954321 2015 NoLink
+25642295 2015 NoLink
+25648588 2014 NoLink
+25649125 2015 NoLink
+25688292 2015 NoLink
+25699093 2015 NoLink
+NA 2015 NoLink
+25709717 2015 null http://cadd.gs.washington.edu/ 200 code https://www.encodeproject.org/ 301 null http://www.roadmapepigenomics.org/ 200 null http://enhancer.binf.ku.dk/ 302 download http://mendel.stanford.edu/SidowLab/downloads/gerp/ 200 null http://www.broadinstitute.org/mammals/haploreg/haploreg.php 301 null http://phen-gen.org/about.html 302 null http://genetics.bwh.harvard.edu/pph2/ 200 null http://regulomedb.org/ 200 null http://chgv.org/GenicIntolerance/ 301 null http://sift.jcvi.org/ 200 tool http://useast.ensembl.org/info/docs/tools/vep/index.html?redirect=no 302 
+25709718 2015 NoLink
+24713112 2014 NoLink
+25031614 2014 NoLink
+25031613 2014 null http://www.icgc.org/ 301 null http://www.irdirc.org/ 200 
+25722744 2015 NoLink
+25722743 2015 NoLink
+25729435 2015 NoLink
+25722745 2015 NoLink
+25031615 2014 NoLink
+25031617 2014 NoLink
+25763110 2015 NoLink
+25763109 2015 NoLink
+25031616 2014 NoLink
+25810764 2015 NoLink
+26719100 2015 null http://www.fda.gov/food/foodscienceresearch/wholegenomesequencingprogramwgs/ucm363134.htm 301 null http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6406a3.htm?s_cid=mm6406a3_e 301 null http://www.globalmicrobialidentifier.org/People 200 null http://www.globalmicrobialidentifier.org/Workgroups#work-group-1 200 null https://genomicsandhealth.org/node/12703 301 
+25302077 2014 NoLink
+25031618 2014 NoLink
+25821521 2015 NoLink
+25821520 2015 NoLink
+25825593 2015 NoLink
+25825594 2015 NoLink
+25031620 2014 NoLink
+22257447 2012 NoLink
+21345270 2011 NoLink
+22103962 2011 code http://genome.crg.es/gencode/ 200 code http://useast.ensembl.org/index.html 302 null http://genomicmedicineinitiative.org 200 null #cshlpg -1 
+25918555 2015 NoLink
+23718828 2013 null http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/ 301 
+25918554 2015 NoLink
+25918553 2015 NoLink
+25926890 2015 NoLink
+25937834 2015 null http://emerge-network.org 301 null http://www.i2b2.org 301 null http://pgpop.mc.vanderbilt.edu 503 code http://www.decode.com 301 null http://www.ukbiobank.ac.uk 200 null http://www.research.va.gov/mvp 302 null http://www.rpgeh.kaiser.org 302 null http://www.ckbiobank.org 200 
+25949530 2015 NoLink
+25991924 2015 NoLink
+22458537 2012 NoLink
+26015808 2015 NoLink
+25031623 2014 null http://cancergenome.nih.gov 301 null https://icgc.org/ 200 null http://www.roadmapepigenomics.org 200 null http://ihec-epigenomes.org 200 null http://www.blueprint-epigenome.eu 200 null http://www.deutsches-epigenom-programm.de 200 null http://crest-ihec.jp 200 
+25984239 2015 NoLink
+20923580 2010 NoLink
+25031622 2014 NoLink
+27460824 2016 pipeline http://broadinstitute.github.io/picard/ 200 pipeline http://www.broadinstitute.org/cancer/cga/Firehose 301 
+26019726 2015 NoLink
+26019723 2015 NoLink
+26113877 2015 NoLink
+26019725 2015 NoLink
+26029266 2015 NoLink
+25061481 2014 null http://www.geopd.org 200 null http://www.pdgene.org 200 null http://www.1000genomes.org 301 
+26120366 2015 NoLink
+25031624 2014 NoLink
+27460926 2016 available https://github.com/ElementoLab/scTCRseq 301 available https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2512/files/ 301 download https://github.com/lh3/seqtk 301 
+25031625 2014 NoLink
+26060510 2015 NoLink
+26089986 2015 NoLink
+26124857 2015 NoLink
+25045402 2014 NoLink
+26140055 2015 NoLink
+26150894 2015 NoLink
+26157489 2015 NoLink
+26170901 2015 NoLink
+26170900 2015 NoLink
+26221189 2015 NoLink
+26136847 2015 NoLink
+26221187 2015 null http://genomicsengland.co.uk 301 null http://www.fargen.fo/en 200 null http://www.nih.gov/precisionmedicine/ 301 null http://shgp.kacst.edu.sa/site/ 200 
+24456652 2014 NoLink
+25614765 2014 NoLink
+26221188 2015 NoLink
+26229553 2015 NoLink
+26244058 2015 NoLink
+19341496 2009 NoLink
+19341508 2009 NoLink
+26221185 2015 NoLink
+26229554 2015 NoLink
+26229552 2015 null https://esp.gs.washington.edu/drupal/ 302 null http://exac.broadinstitute.org/ 200 null http://care4rare.ca/ 400 null http://www.mendelian.org/ 200 null http://www.genome.gov/27550959 301 null http://www.genomicsengland.co.uk/ 301 null https://decipher.sanger.ac.uk/ 301 null http://www.ddduk.org/ 301 null https://phenomecentral.org/ 301 
+26246858 2015 NoLink
+27401066 2016 null http://www.cytoscape.org/ 200 software http://software.broadinstitute.org/gsea/msigdb/annotate.jsp 302 null https://genome.ucsc.edu/ 200 
+19348693 2009 NoLink
+19480644 2009 NoLink
+26257827 2015 NoLink
+26269717 2015 NoLink
+26269719 2015 NoLink
+26269718 2015 NoLink
+26246857 2015 NoLink
+26273324 2015 NoLink
+26251673 2015 NoLink
+26289940 2015 NoLink
+26292806 2015 NoLink
+26302953 2015 NoLink
+26302787 2015 NoLink
+27964746 2016 null https://github.com/charite/asdpex 301 tool https://github.com/lh3/bwa/tree/master/bwakit 301 null https://github.com/ekg/vcflib--v1.0.0 301 null https://github.com/atks/vt--v0.57 301 
+26307031 2015 NoLink
+26307204 2015 NoLink
+26315209 2015 NoLink
+26330083 2015 NoLink
+26338694 2015 software http://rongchenlab.org/software/clinlabgeneticist 301 
+26343061 2015 NoLink
+26362649 2015 NoLink
+26568192 2015 NoLink
+26403534 2015 NoLink
+26411565 2015 null http://www.ebi.ac.uk/ena/data/view/PRJEB3255 301 
+26419432 2015 NoLink
+26423053 2015 NoLink
+26449484 2015 NoLink
+26474971 2015 available http://www.g-2-o.com 200 available http://www.g-2-o.com 200 null http://cancergenome.nih.gov/ 301 download https://cghub.ucsc.edu/ 200 available https://browser.cghub.ucsc.edu/help/assemblies 404 null http://www.r-project.org 200 package http://biostat.mc.vanderbilt.edu/wiki/Main/Hmisc 403 library http://www.bioconductor.org/ 200 null http://www.r-project.org 200 package http://CRAN.R-project.org/package=survival 303 null http://www.cbs.dtu.dk/~eklund/survplot/ 200 null https://tcga-data.nci.nih.gov/tcga/dataAccessMatrix.htm 301 
+26482651 2015 NoLink
+26490253 2015 NoLink
+26419521 2015 null www.ec.europa.eu -1 null www.echalliance.com -1 
+26739746 2016 available http://www.bioconductor.org/packages/release/bioc/html/CNVtools.html 200 null www.ingenuity.com -1 
+26482556 2015 null http://www.genenetwork.nl -1 null http://humanmine.org 301 
+26521025 2015 NoLink
+26643039 2015 null http://genome.ucsc.edu/FAQ/FAQblat.html 200 tool https://github.com/lh3/samtools-legacy/blob/master/misc/psl2sam.pl 301 null https://github.com/mfranberg/svsim 301 null https://github.com/lh3/wgsim 301 null http://broadinstitute.github.io/picard/ 200 null http://scalpel.sourceforge.net/manual.html 200 download ftp://ftp-trace.ncbi.nih.gov/giab/ftp/release/NA12878_HG001/ 301 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/paper_data_sets/companion_papers/mapping_structural_variation/union.2010_06.novelsequences.sites.vcf.gz 200 null https://github.com/cc2qe/speedseq#annotations 301 
+26497493 2015 NoLink
+19490583 2009 null http://www.nature.com/natureconferences/ggid2009/index.html 303 
+19439060 2009 NoLink
+27765068 2016 package http://www.R-project.org 200 null http://www.bioconductor.org 200 null http://revigo.irb.hr/index.jsp 200 null http://www.genemania.org/ 301 download http://www.aocstudy.org 200 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc 301 null https://dcc.icgc.org/ 302 null http://kmplot.com/ovar 301 null http://www.genemania.org/ 301 
+26507825 2015 null http://genomeportal.stanford.edu/pan-tcga/ 200 null http://genomeportal.stanford.edu/pan-tcga 200 null http://gdac.broadinstitute.org 200 download http://genomeportal.stanford.edu/pan-tcga/data_download 200 null www.broadinstitute.org/cancer/cga/target -1 download http://genomeportal.stanford.edu/pan-tcga/data_download 200 download http://genomeportal.stanford.edu/pan-tcga/data_download 200 
+26507874 2015 NoLink
+26555212 2015 NoLink
+26582413 2015 NoLink
+26642925 2015 null http://yuelab.org/hi-c/ 200 available http://www.ebi.ac.uk/ena 301 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/ 200 null http://broadinstitute.github.io/picard 301 null http://genome.ucsc.edu/cgi-bin/hgLiftOver 200 null http://yuelab.org/hi-c/ 200 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20110521/ 200 null ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/ 301 null http://epigenomegateway.wustl.edu/ 200 
+26589591 2015 NoLink
+27876088 2016 NoLink
+26589293 2015 null http://celllines.tron-mainz.de 200 null http://ncit.nci.nih.gov/ 301 null http://www.ncbi.nlm.nih.gov/genome/viruses/ 301 null http://www.ncbi.nlm.nih.gov/genome/viruses/ 301 null http://celllines.tron-mainz.de 200 null http://www.django-rest-framework.org/ 200 null http://celllines.tron-mainz.de/api 301 null https://cghub.ucsc.edu/datasets/ccle.html 404 software https://cghub.ucsc.edu/software/downloads.html 404 tool http://picard.sourceforge.net 200 null https://www.ebi.ac.uk/ega/datasets/EGAD00001000725).Of 301 null http://celllines.tron-mainz.de 200 
+26582264 2015 NoLink
+26589177 2015 null http://www.ncbi.nlm.nih.gov/projects/gapplusprev/sgap_plus.htm 301 
+26589500 2015 NoLink
+26596423 2015 null www.adaptivebiotech.com/pub/Dean -1 null www.adaptivebiotech.com/pub/Dean -1 null 10.5061/dryad.t47g3 -1 
+26608341 2015 null http://www.ncbi.nlm.nih.gov/igblast/ 301 library http://201.131.57.23:8080/influenza-project/ 200 
+26589402 2015 NoLink
+26620832 2015 null http://www.ebi.ac.uk/gxa/experiments/E-MTAB-513 301 null http://www.gtexportal.org/home/ 302 null https://cghub.ucsc.edu/ 200 null http://www.python.org 301 
+26669438 2015 null https://www.ebi.ac.uk/ega/ 301 
+26620704 2015 NoLink
+26684649 2015 null ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/release/20130502/ 301 
+26739615 2016 null http://www2.cscc.unc.edu/aric 301 null http://exac.broadinstitute.org 200 
+26750923 2016 NoLink
+26689196 2015 NoLink
+26792175 2016 download www.intogen.org -1 download http://exac.broadinstitute.org 200 code http://code.google.com/p/mutex 405 null http://compbio-research.cs.brown.edu/comet 301 
+26416663 2015 NoLink
+26759031 2016 NoLink
+26684754 2015 null http://www.tumorfusions.org 200 
+26794239 2016 NoLink
+25031619 2014 null http://www.genomicsengland.co.uk/100k-genome-project/ 301 null http://www.ehealth.scot.nhs.uk/ 302 
+26803900 2016 null www.mssm.edu/research/labs/neuropathology-and-brain-banking -1 null www.R-project.org -1 download http://hgdownload.cse.ucsc.edu/goldenPath/hg19/database/tfbsConsSites 200 package https://www.broadinstitute.org/mpg/goshifter/ 301 software http://www.epidesigner.com/start3.html 200 
+26813686 2016 null www.ilog.com -1 tool www.epitoolkit.de -1 null https://github.com/FRED-2/OptiVac 301 null www.r-project.org -1 
+25949529 2015 NoLink
+26825779 2016 NoLink
+26825632 2016 NoLink
+26823082 2016 NoLink
+26838676 2016 available http://www.omimexplorer.com 302 available http://www.omimexplorer.com 302 available http://www.omimexplorer.com 302 
+26822992 2016 NoLink
+27776531 2016 NoLink
+26876963 2016 NoLink
+26873713 2016 tool http://www.sanger.ac.uk/science/tools/smalt-0 200 
+26884246 2016 NoLink
+26883915 2016 null https://github.com/xiaeryu/SpoTyping-v2.0 301 
+26884067 2016 NoLink
+27503473 2016 NoLink
+26917418 2016 library http://201.131.57.23:8080/dengue-project-2015/ 200 
+26917491 2016 NoLink
+26939581 2016 pipeline http://www.ncbi.nlm.nih.gov/genome/annotation_prok/ 301 null https://github.com/JCVI-VIRIFX/ISseeker 301 
+26932475 2016 null ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/ 301 null ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/analysis/GARVAN_snps_indels_12172013/project.NIST.hc.snps.indels.vcf 301 null ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/NA12878_HG001/GIABPedigreev0.2/ 301 tool ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/tools/RTG/ 301 null http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/human/issues/?id=HG-1930 301 null http://www.ncbi.nlm.nih.gov/books/NBK1247/ 301 null http://www.ncbi.nlm.nih.gov/clinvar/variation/52831/ 301 null http://clinicalgenome.org/ 301 
+26961683 2016 download http://bioconductor.org/packages/release/data/experiment/html/curatedBreastData.html 200 null https://github.com/kplaney/curatedBreastCancer 301 package https://github.com/kplaney/CoINcIDE 301 
+26987311 2016 NoLink
+26988859 2016 NoLink
+NA 2016 NoLink
+26988706 2016 null www.dsmz.de -1 
+27007663 2016 software http://www.broadinstitute.org/software/scripture/ 301 null http://micans.org/mcl/ 200 null http://david.abcc.ncifcrf.gov/ 301 
+27029192 2016 tool http://tools.immuneepitope.org/main/datasets 301 null www.cbs.dtu.dk/services/NetMHCpan-3.0 -1 tool http://tools.immuneepitope.org/main/datasets 301 
+27037032 2016 NoLink
+27036109 2016 null https://tcga-data.nci.nih.gov/tcga/ 301 null http://www.ingenuity.com/ 302 null http://ncbi.nlm.nih.gov/Structure/flink/flink.cgi 301 null https://tcga-data.nci.nih.gov/tcga/ 301 null http://metabolomicsworkbench.org/ 200 available http://www2.hawaii.edu/~lgarmire/MetaboloPathwayModel.html 200 
+27036316 2016 NoLink
+27048547 2016 NoLink
+27056827 2016 null http://www.github.com/SchlossLab/Baxter_glne007Modeling_GenomeMed_2015 301 
+27074706 2016 NoLink
+27090860 2016 NoLink
+27098727 2016 NoLink
+27098841 2016 NoLink
+27102666 2016 NoLink
+27102333 2016 null http://www.ebi.ac.uk/ena/data/view/PRJEB13219 301 
+26321605 2015 NoLink
+27338147 2016 NoLink
+27306058 2016 null http://www.microbiome-standards.org/index.php?id=254 200 algorithm https://github.com/apalleja/compositionality_test/ 301 method http://github.com/jdstorey/qvalue 301 null http://www.R-project.org/ 200 
+27799067 2016 pipeline https://www.hgsc.bcm.edu/software/mercury 302 null https://www2.cscc.unc.edu/aric/ 200 null http://www.1000genomes.org/ 301 null http://evs.gs.washington.edu/EVS/ 200 null https://www.ncbi.nlm.nih.gov/clinvar/ 301 null http://www.ncbi.nlm.nih.gov/pubmed/11729206?dopt=Abstract 301 null http://www.uniprot.org 200 null http://www.genenames.org 301 null http://www.ncbi.nlm.nih.gov/pubmed 301 null http://www.ihop-net.org/UniPub/iHOP/ 200 here http://evexdb.org/ 200 null http://www.cytoscape.org/ 200 pipeline http://htsstation.epfl.ch/ 200 null http://www.gfeatbrowser.com 301 null http://gdv.epfl.ch/bs -1 null http://string-db.org/ 301 null http://amp.pharm.mssm.edu/Enrichr/ 200 null http://giant.princeton.edu/ 200 null http://www.genemania.org/ 301 null http://exac.broadinstitute.org 200 null http://giant.princeton.edu/ 200 
+25593592 2014 NoLink
+27324065 2016 NoLink
+27287230 2016 null https://www.r-project.org/ 200 null http://www.mitranscriptome.org 200 null http://www.mitranscriptome.org 200 
+27137215 2016 NoLink
+27323951 2016 pipeline http://asteriasbiotherapeutics.com/pipeline/ast-vac1/ 301 null http://www.clinicaltrials.gov 301 
+27142060 2016 null www.brainspan.org -1 null https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62811 301 null https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79255 301 
+27363992 2016 NoLink
+27825374 2016 NoLink
+27716393 2016 null http://www.ebi.ac.uk/arrayexpress/ 301 
+27146673 2016 download http://deepbase.sysu.edu.cn/chipbase -1 
+27159972 2016 NoLink
+27175787 2016 NoLink
+27198694 2016 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE72533 301 method http://www.ngs-qc.org/ 200 method http://www.ngs-qc.org/ 200 
+27198579 2016 available https://github.com/ChongWu-Biostat/MiSPU 301 available https://github.com/ChongWu-Biostat/MiSPU 301 software http://research.fhcrc.org/wu/en/software.html 200 
+27655340 2016 tool http://hannonlab.cshl.edu/fastx_toolkit/ 200 
+27215330 2016 NoLink
+27215286 2016 NoLink
+27229935 2016 NoLink
+27245685 2016 null http://www.ebi.ac.uk/gwas 302 null http://www.fda.gov/Drugs/ScienceResearch/ResearchAreas/Pharmacogenetics/ucm083378.htm 301 null http://cancergenome.nih.gov 301 null https://zhangz05.u.hpc.mssm.edu/saasCNV 302 software https://github.com/bedops/bedops 301 software http://nucleobytes.com/4peaks 302 
+27245778 2016 NoLink
+27255379 2016 null https://github.com/nbstrauli/influenza_vaccination_project 301 
+27368373 2016 null https://sourceforge.net/projects/bbmap/ 301 
+27412252 2016 NoLink
+27543003 2016 NoLink
+27814769 2016 NoLink
+27503374 2016 NoLink
+27435222 2016 NoLink
+27435189 2016 NoLink
+25031612 2014 null http://www.malariagen.net/ 302 null http://h3africa.org/h3africa_whitepaper.pdf 404 null http://www.gatesfoundation.org 301 null http://www.sanger.ac.uk/research/initiatives/globalhealth/partnerships/malariagen.html 404 null http://h3africa.org/h3africa_whitepaper.pdf 404 
+27821178 2016 NoLink
+28081714 2017 available http://reg.clinicalgenome.org 301 application www.redmine.org -1 
+21349211 2011 NoLink
+22453031 2012 NoLink
+20923578 2010 NoLink
+22546499 2012 NoLink
+22546809 2012 NoLink
+27122046 2016 NoLink
+27655359 2016 null https://cser-consortium.org/ 302 null https://ignite-genomics.org/ 301 null https://www.clinicalgenome.org/ 301 
+27121964 2016 NoLink
+27506198 2016 method http://www.bioconductor.org/packages/release/bioc/vignettes/ddCt/inst/doc/rtPCR.pdf 200 null http://provean.jcvi.org 200 null ftp://ftp-mouse.sanger.ac.uk/ 302 null http://www.cytoscape.org/ 200 
+27506385 2016 null http://www.cnsgenomics.com/shiny/SMRdb/ -1 
+27535130 2016 null https://gdc.nci.nih.gov/ 301 here www.cancerstaging.org/ -1 
+27782852 2016 NoLink
+27553366 2016 null www.reactome.org -1 
+27553423 2016 null www.qiagen.com/ingenuity -1 
+27562436 2016 null www.repeatmasker.org -1 
+27562343 2016 software http://software.broadinstitute.org/gsea/msigdb/index.jsp 200 
+22546835 2012 NoLink
+28081715 2017 NoLink
+27102203 2016 null http://www.proteomexchange.org 200 
+27884207 2016 null http://www.rad.jhmi.edu/jeng/javarad/roc/ 200 
+27655387 2016 NoLink
+27287041 2016 null http://gdac.broadinstitute.org/runs/stddata__2014_03_16/data/OV/20140316/ 200 
+27716394 2016 NoLink
+24944586 2014 NoLink
+22546050 2012 NoLink
+25705260 2015 NoLink
+27793177 2016 NoLink
+27716338 2016 null http://intogen.org/oncopad 302 download https://bitbucket.org/bbglab/oncopad 301 available http://www.intogen.org/oncopad/case_studies 302 tool www.illumina.com/designstudio -1 available http://www.intogen.org/oncopad/case_studies 302 download http://www.intogen.org/downloads 302 download www.intogen.org/downloads -1 available https://www.cancergenomeinterpreter.org/biomarkers 302 
+27788678 2016 null http://ccb.nki.nl/data/ 200 null http://tcga-data.nci.nih.gov/tcga/ 301 tool http://david.abcc.ncifcrf.gov/ 301 
+27964748 2016 null http://www.pgrr.pitt.edu/pgrr 200 null http://www.ebi.ac.uk/gwas 302 tool http://jaspar.genereg.net 200 tool http://jaspar.genereg.net 200 
+27964755 2016 package http://galahad.well.ox.ac.uk/XGR 301 package http://cran.r-project.org/package=XGR 303 
+27964749 2016 NoLink
+26888550 2016 NoLink
+27609221 2016 package https://cran.r-project.org/web/packages/gplots/index.html 200 
+27784327 2016 null http://www.whocc.no/atc_ddd_index/ 301 null http://ww.cas.org/content/chemical-substances -1 null https://www.ebi.ac.uk/chebi/ 200 null https://www.ebi.ac.uk/chembl/ 301 null http://www.chemspider.com 200 null http://www.drugbank.ca 301 null https://www.emolecules.com 301 null https://fdasis.nlm.nih.gov/srs/srs.jsp 301 null http://www.guidetopharmacology.org 200 null https://iupac.org/who-we-are/divisions/division-details/inchi/ 302 null http://www.genome.jp/kegg/drug/ 200 null https://www.ncbi.nlm.nih.gov/mesh 301 null https://ncit.nci.nih.gov/ncitbrowser/ 301 null https://www.cancer.gov/publications/dictionaries/cancer-terms 301 null http://www.ebi.ac.uk/pdbe/ 200 null https://www.cancer.gov/publications/pdq 301 null https://pubchem.ncbi.nlm.nih.gov 301 null https://www.nlm.nih.gov/research/umls/rxnorm/ 301 null https://www.nlm.nih.gov/healthit/snomedct/us_edition.html 301 null https://www.nlm.nih.gov/research/umls/ 301 null http://zinc15.docking.org 200 
+26343148 2015 NoLink
+27782862 2016 NoLink
+27782854 2016 NoLink
+27784341 2016 NoLink
+27887656 2016 NoLink
+27887638 2016 NoLink
+28118860 2017 NoLink
+22548828 2012 NoLink
+27923400 2016 NoLink
+27605022 2016 null http://www.malariagen.net 302 null http://www.Plasmodb.org 301 null https://www.malariagen.net/projects/ag1000g 302 
+27846907 2016 null www.lifepool.org -1 
+27799057 2016 NoLink
+27876072 2016 method http://bejerano.stanford.edu/great/public/html/ 404 software http://people.oregonstate.edu/~housemae/software/ 200 null http://www.eirasweden.se/index1.htm 200 
+25810763 2015 NoLink
+27122152 2016 NoLink
+22348308 2012 NoLink
+22839743 2012 NoLink
+27121861 2016 available https://github.com/aseekatz/ERIN.recurrence 301 available https://github.com/aseekatz/ERIN.recurrence 301 
+28115009 2017 null http://3dhotspots.org 302 null http://cbioportal.org 301 null http://evfold.org 302 null http://3dhotspots.org 302 null https://genome.ucsc.edu/cgi-bin/hgLiftOver 200 null http://www.uniprot.org/help/canonical_and_isoforms 200 tool http://ensembl.org/info/docs/tools/vep/ 301 null https://github.com/mskcc/vcf2maf 301 null http://www.rcsb.org/ 200 null http://3dhotspots.org 302 null http://3dhotspots.org 302 null http://3dhotspots.org 302 
+28118859 2017 null https://card.mcmaster.ca/ 301 code https://github.com/sanger-pathogens/vr-codebase 301 code https://github.com/sanger-pathogens/assembly_improvement 301 null http://bigsdb.pasteur.fr/klebsiella/ 200 null https://github.com/sanger-pathogens/mlst_check 301 tool http://www.sanger.ac.uk/science/tools/smalt-0 200 software http://tree.bio.ed.ac.uk/software/ 200 tool www.microreact.org -1 null http://bigsdb.web.pasteur.fr/klebsiella/klebsiella.html 301 null www.microreact.org/project/Skog9F1ex -1 
+28122645 2017 null http://varnomen.hgvs.org 200 null http://www.hgvs.org/mutnomen/ 200 null http://varnomen.hgvs.org/ 200 
+28126037 2017 package https://cran.r-project.org/web/packages/gplots/ 200 download http://promoter.bx.psu.edu/hi-c/download.html 200 null http://egg2.wustl.edu/roadmap/data/byFileType/chromhmmSegmentations/ChmmModels/core_K27ac/jointModel/final 301 
+22742055 2012 NoLink
+28007036 2016 null https://gdac.broadinstitute.org/ 200 package http://ggplot2.org/ 200 null www.cbioportal.org -1 null www.cbioportal.org -1 software https://www.r-project.org/ 200 package https://cran.r-project.org/web/packages/clValid/index.html 200 package https://cran.r-project.org/web/packages/statmod/index.html 200 null http://cancer.sanger.ac.uk/cosmic 200 
+28007021 2016 null http://pathology.columbia.edu/diagnostic/PGM/oncologytests.html 301 null http://cbioportal.org 301 software https://sourceforge.net/projects/excavatortool 301 null http://bioinfo.lifl.fr/RNA/sortmerna/ 200 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 
+28007024 2016 null https://bioinfo.uth.edu//TSGene1.0/index.html -1 download https://gdac.broadinstitute.org 200 download http://FunSeq2.gersteinlab.org/downloads 200 null ftp://ftp.ncbi.nlm.nih.gov/pubchem/Bioassay/CSV/Data/ 301 null ftp://ftp.ncbi.nih.gov/pub/biosystems/CURRENT 301 null https://clinicaltrials.gov 301 null http://clinicaltrials.gov/show/nct02114658 301 
+28003022 2016 tool http://tbdr.lshtm.ac.uk/ 200 
+21418554 2011 NoLink
+27102537 2016 NoLink
+27286979 2016 NoLink
+27488676 2016 NoLink
+27312086 2016 NoLink
+23114014 2012 NoLink
+28126021 2017 null http://evs.gs.washington.edu/EVS/ 200 null http://www.uniprot.org/uniprot/P34931 200 
+28129791 2017 NoLink
+28137280 2017 null http://www.broadinstitute.org/gsea/msigdb/index.jsp 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.broadinstitute.org/gsea/ 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+28153049 2017 package http://www.stat.washington.edu/mclust/ 200 
+28166811 2017 NoLink
+28173873 2017 NoLink
+28187790 2017 null http://www.ebi.ac.uk/arrayexpress 301 null http://r2.amc.nl 200 null http://www.ebi.ac.uk/arrayexpress/ 301 null http://r2.amc.nl 200 null http://www.string-db.org/ 301 null http://www.cmbi.ru.nl/cdd/biovenn/ 301 tool http://bioinfogp.cnb.csic.es/tools/venny/index.html 200 null http://imagej.nih.gov/ij 302 null http://imagej.nih.gov/ij 302 null http://www.cmbi.ru.nl/cdd/biovenn/ 301 tool http://bioinfogp.cnb.csic.es/tools/venny/index.html 200 null http://r2.amc.nl 200 null http://r2.amc.nl 200 null http://imagej.nih.gov/ij 302 null http://imagej.nih.gov/ij 302 
+28212680 2017 null http://mecp2.chw.edu.au/ 200 
+28219444 2017 null http://igm.cumc.columbia.edu/MetaP/metap.php 200 null http://genome.ucsc.edu/cgi-bin/hgTracks 200 null http://rafalab.jhsph.edu/CGI/ 404 null http://jaspar.binf.ku.dk/ 200 null http://www.gene-regulation.com/ 301 null http://rafalab.jhsph.edu/CGI/ 404 
+28228157 2017 NoLink
+28231819 2017 tool http://tools.iedb.org/main/tools-api/ 200 
+28241858 2017 null https://github.com/jakejh/metapredict 301 
+28245856 2017 here http://americangut.org/the-icu-microbiome-project-is-there-a-better-way-to-treat-infections-than-antibiotics/ 200 null https://www.whitehouse.gov/the-press-office/2016/05/12/fact-sheet-announcing-national-microbiome-initiative 301 null http://www.R-project.org 200 null http://hmpdacc.org/HMQCP 302 package http://CRAN.R-project.org/package=pheatmap 303 null http://www.R-project.org 200 
+28253899 2017 NoLink
+28270201 2017 null http://www.orcades.ed.ac.uk/orcades/VHSS.html 200 
+28279190 2017 null http://www.informatics.jax.org 200 
+28327175 2017 NoLink
+28327206 2017 available https://github.com/BCM-Lupskilab/DNM-Finder 301 pipeline http://blog.dnanexus.com/2013-10-22-run-mercury-variant-calling-pipeline/ 200 available https://github.com/BCM-Lupskilab/DNM-Finder 301 null http://www.omim.org 403 null http://www.hgmd.cf.ac.uk 200 null https://www.ncbi.nlm.nih.gov/clinvar/ 301 null ftp://ftp.sanger.ac.uk/pub/users/pv1/CoNVex/Docs/CoNVex.pdf -1 pipeline https://github.com/BCM-Lupskilab/HMZDelFinder 301 null http://www.cbioportal.org/mutation_mapper.jsp 200 
+28330499 2017 software http://software.broadinstitute.org/gsea/msigdb 200 null http://giant.princeton.edu/ 200 
+28340599 2017 NoLink
+28351419 2017 null http://zombie.cb.k.u-tokyo.ac.jp/sprai/index.html 200 null www.cbs.dtu.dk/services/VarDom/ -1 
+28347358 2017 null www.pubmed.gov -1 null www.gwascentral.org/browser -1 null www.ensembl.org -1 
+28356157 2017 available https://annaisystems.zendesk.com/hc/en-us 301 null http://www.R-project.org/ 200 
+28356137 2017 NoLink
+28381277 2017 null www.cbioportal.org -1 
+28420412 2017 pipeline https://www.illumina.com/platinumgenomes 301 null http://cancer.sanger.ac.uk/cosmic 200 null https://precision.fda.gov/ 301 pipeline https://www.illumina.com/platinumgenomes 301 null http://grch37.ensembl.org/ 301 application http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 null http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ 200 
+28420414 2017 NoLink
+28420421 2017 NoLink
+28431544 2017 NoLink
+28438193 2017 null https://www.petermac.org/about/signature-centres/centre-clinical-cancergenomics/molecular-diagnostic-software 301 null https://github.com/PapenfussLab/PathOS 301 null https://github.com/PapenfussLab/PathOS 301 download http://download.bpipe.org/ 200 tool http://genome.sph.umich.edu/wiki/Vt 302 null https://www.broadinstitute.org/igv 301 tool http://www.bioinformatics.babraham.ac.uk/projects/fastqc 301 tool https://sourceforge.net/projects/samtools 301 null http://sourceforge.net/projects/varscan 301 software https://software.broadinstitute.org/gatk 302 null http://sourceforge.net/projects/picard 301 null http://www.ensembl.org 301 software https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html 301 
+28446242 2017 pipeline https://github.com/srp33/TCGA_RNASeq_Clinical 301 software http://software.broadinstitute.org/gsea/downloads.jsp 302 code https://github.com/mumtahena/GFRN_signatures 301 
+28454591 2017 null http://www.pancreaticcancer.net.au 200 null http://www.icgc.org 301 null http://www.internationalgenome.org/ 200 null http://exac.broadinstitute.org/about 200 null http://www.ncbi.nlm.nih.gov/SNP 301 null http://www.ncbi.nlm.nih.gov/clinvar 301 
+28449715 2017 NoLink
+28511717 2017 NoLink
+28539127 2017 NoLink
+28539110 2017 NoLink
+28539123 2017 tool http://broadinstitute.github.io/picard/ 200 tool http://samtools.sourceforge.net/ 200 null https://www.broadinstitute.org/gatk/guide/best-practices 301 null http://cancer.sanger.ac.uk/census 200 null http://www.openbioinformatics.org/penncnv/penncnv_tutorial_affy_gw6.html 302 null https://www.synapse.org/#!Synapse:syn2623706/wiki/67246 302 null https://pypi.python.org/pypi/topiary 301 
+28545587 2017 NoLink
+28549478 2017 download http://www.cs.tau.ac.il/~roded/GLADIATOR.zip 200 
+28554332 2017 null http://gsl.hudsonalpha.org 302 null https://genematcher.org/ 302 
+28558813 2017 NoLink
+28569182 2017 NoLink
+28569207 2017 software http://www.broadinstitute.org/cancer/software/GENE-E/ 301 null https://www.intogen.org/ 302 
+28587651 2017 NoLink
+28595657 2017 null http://shiny.bioinf.wehi.edu.au/freytag.s/ 301 null http://shiny.bioinf.wehi.edu.au/freytag.s/ 301 
+28592290 2017 null https://portals.broadinstitute.org/achilles 200 
+28592326 2017 NoLink
+28615076 2017 NoLink
+28629429 2017 available https://github.com/sgreer77/sv-phasing_linkedreads 301 
+28633659 2017 null http://www.denbi.de 200 
+28662719 2017 NoLink
+28655327 2017 NoLink
+28659176 2017 null https://github.com/ikalatskaya/ISOWN 301 null https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000598.v2.p2 301 null http://www.genecards.org/cgi-bin/carddisp.pl?gene=MUC4 404 null http://www.cancercollaboratory.org/ 200 pipeline https://dockstore.org/containers/quay.io/pancancer/pcawg-dkfz-workflow 301 null https://dcc.icgc.org/pcawg 302 
+28683826 2017 NoLink
+28687074 2017 NoLink
+28738853 2017 NoLink
+28738847 2017 software http://www.vicbioinformatics.com/software.velvetoptimiser.shtml 200 
+28720124 2017 NoLink
+28716134 2017 software http://tools.proteomecenter.org/software.php 200 
+28720120 2017 null https://github.com/WGLab/RepeatHMM 301 download ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/and 301 download https://github.com/nanopore-wgs-consortium/NA12878 301 
+28738906 2017 NoLink
+28754123 2017 null http://sncid.stanleyresearch.org 302 null http://sncid.stanleyresearch.org 302 available http://broadinstitute.github.io/picard/ 200 code https://www.encodeproject.org 301 download http://download.baderlab.org/EM_Genesets/ 200 code https://www.encodeproject.org/ 301 
+28756773 2017 NoLink
+28724449 2017 NoLink
+28807008 2017 NoLink
+28821273 2017 NoLink
+28818087 2017 NoLink
+28841835 2017 NoLink
+28854983 2017 null http://chip-atlas.org 200 null http://www.ncbi.nlm.nih.gov/gene 301 null http://cancer.sanger.ac.uk/cell_lines 200 null http://chip-atlas.org 200 
+28851441 2017 NoLink
+28854952 2017 null https://seer.cancer.gov 301 null https://www.cancer.gov 301 
+28854978 2017 null http://cancergenome.nih.gov/ 301 
+28877757 2017 null https://github.com/sanger-pathogens/mlst_check 301 null http://www.ebi.ac.uk/ena 301 tool http://www.sanger.ac.uk/science/tools/smalt-0 200 null http://www.mgc.ac.cn/VFs/ 200 null https://github.com/simonrharris/map_resistome 301 
+28923095 2017 null https://www.opentargets.org 301 
+28934986 2017 null https://gene.sfari.org 302 null http://omim.org/ 403 null https://sfari.org/ 301 null http://exac.broadinstitute.org 200 null https://decipher.sanger.ac.uk/ 301 
+28954626 2017 null https://expressionanalysis.github.io/HLAProfiler/ 301 available http://www.q2labsolutions.com/genomics-laboratories/bioinformatics 200 available http://www.q2labsolutions.com/genomics-laboratories/bioinformatics 200 null https://bioconda.github.io/recipes/hlaprofiler/README.html 200 
+28938910 2017 NoLink
+28946923 2017 NoLink
+28964259 2017 NoLink
+29052536 2017 NoLink
+29070057 2017 NoLink
+29078804 2017 NoLink
+29084588 2017 null https://www.gov.uk/government/publications/salmonella-by-serotype/salmonella-by-serotype-2000-to-2010 301 null https://www.medcalc.org/calc/odds_ratio.php 302 
+29082853 2017 null https://www.nccn.org/professionals/physician_gls/f_guidelines.asp 302 null http://foundationone.com/ 302 null https://clinicaltrials.gov 301 download http://www.cancerrxgene.org/downloads 200 null https://tcga-data.nci.nih.gov/docs/publications/tcga/? 301 download http://www.cbioportal.org/ 200 null https://clinicaltrials.gov 301 null https://clinicaltrials.gov 301 null http://www.abstractsonline.com/pp8/#!/4292/presentation/1306 200 
+29089060 2017 tool http://broadinstitute.github.io/picard/ 200 null http://www.cbioportal.org/ 200 null http://www.cbioportal.org/ 200 null http://www.cbioportal.org/ 200 null https://gdac.broadinstitute.org/ 200 null https://www.r-project.org/ 200 package https://cran.r-project.org/web/packages/statmod/index.html 200 
+29089047 2017 null http://www.bmgl.com 302 null http://grch37.ensembl.org/index.html 200 null http://exac.broadinstitute.org/ 200 tool http://varianttools.sourceforge.net/Annotation/DbNSFP 200 null http://www.omim.org/ 403 null http://genome.ucsc.edu 200 null https://github.com/BCM-Lupskilab/HMZDelFinder 301 null https://www.ncbi.nlm.nih.gov/clinvar/ 301 null http://www.hgmd.cf.ac.uk/ac/index.php 200 
+29089048 2017 NoLink
+29132412 2017 NoLink
+29149916 2017 software http://broadinstitute.github.io/picard/ 200 

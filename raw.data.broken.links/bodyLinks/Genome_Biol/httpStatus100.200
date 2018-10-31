@@ -1,0 +1,100 @@
+11387043 2001 NoLink
+11305935 2001 NoLink
+11305937 2001 NoLink
+11305936 2001 NoLink
+11305945 2001 NoLink
+11305946 2001 NoLink
+11574063 2001 NoLink
+11305931 2001 NoLink
+11387034 2001 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ebi.ac.uk/arrayexpress/ 301 null http://www.ncgr.org/research/genex/ 404 null http://www.ddbj.nig.ac.jp/ 200 null http://www.dnachip.org/mged3 -1 null http://www.mged.org/Annotations-wg/index.html 302 available http://sourceforge.net/ 301 null http://www.ncbi.nlm.nih.gov/geo/maml/ 301 null http://www.cbil.upenn.edu/Ontology/MGED_ontology.html 404 null http://www.cbil.upenn.edu/Ontology/MGED3OWG.htm 404 null http://flybase.bio.indiana.edu/ -1 null http://genome-www.stanford.edu/Saccharomyces/ 200 null http://www.informatics.jax.org 200 null http://www.tigr.org/softlab/ 302 
+11864373 2002 NoLink
+11532205 2001 NoLink
+11182883 2001 NoLink
+11532211 2001 NoLink
+11574054 2001 NoLink
+11574056 2001 NoLink
+11574057 2001 NoLink
+NA 2001 NoLink
+11574058 2001 NoLink
+11820254 2001 NoLink
+11574052 2001 NoLink
+11737937 2001 NoLink
+12049667 2002 NoLink
+11305944 2001 NoLink
+11532220 2001 NoLink
+11574053 2001 NoLink
+11574055 2001 NoLink
+11574059 2001 NoLink
+11387042 2001 NoLink
+28038678 2016 available http://intropolis.rail.bio 301 code http://www.gencodegenes.org/releases/ 200 available http://verve.webfactional.com/misc/jan_24_2016_annotations.tar.gz 200 null https://github.com/nellore/runs/blob/master/sra/rip_annotated_junctions.py 301 available https://github.com/nellore/runs/blob/master/sra/annotated_junctions.tsv.gz 301 download http://gbnci.abcc.ncifcrf.gov/backup/SRAmetadb.sqlite.gz 301 available ftp://ftp.ccb.jhu.edu/pub/langmead/sra_junctions/SRAmetadb.sqlite.gz 301 null https://github.com/nellore/runs/blob/master/sra/define_and_get_fields_SRA.R 301 null https://github.com/nellore/runs/blob/master/sra/README.md 301 null https://github.com/nellore/runs/blob/master/sra/hg19.costs.csv 301 null https://github.com/nellore/runs/blob/master/sra/tables.py 301 null https://github.com/nellore/runs/blob/master/sra/preprint_figures.nb 301 download http://www.nature.com/nbt/journal/v32/n9/extref/nbt.2957-S4.zip 303 null https://github.com/nellore/runs/blob/master/sra/translatome.manifest 301 available https://github.com/nellore/runs/blob/master/sra/mm10_translatome_junctions.tsv.gz 301 null https://github.com/nellore/runs/blob/master/sra/translatome.sh 301 null https://github.com/nellore/runs/blob/master/sra/translatome.py 301 download https://github.com/nellore/runs/blob/master/sra/translatome_mm10_to_hg19_junctions.tsv.gz 301 null https://github.com/nellore/runs/blob/master/sra/get_final_translatome_stats.sh 301 null https://github.com/nellore/runs/blob/master/sra/alk.sh 301 null https://github.com/nellore/runs/blob/master/sra/alk.nb 301 null http://www.ncbi.nlm.nih.gov/sra 301 null https://github.com/nellore/runs 301 null https://github.com/nellore/runs/blob/master/sra/README.md 301 null https://github.com/nellore/runs/blob/master/sra/preprint_figures.nb 301 available http://intropolis.rail.bio 301 null https://github.com/nellore/runs/blob/master/sra/liftover_intropolis.py 301 code http://www.gencodegenes.org/releases/ 200 null http://genome.ucsc.edu 200 
+11305933 2001 NoLink
+11532207 2001 NoLink
+11532216 2001 NoLink
+11532219 2001 NoLink
+11516332 2001 null http://www.ebi.ac.uk/genomes/mot/ 301 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=genome 301 null http://hgm2001.hgu.mrc.ac.uk/ -1 null http://www.ncbi.nlm.nih.gov/SNP/ 301 null http://www.ensembl.org 301 null http://www.biochem.ucl.ac.uk/bsm/cath/CATH.html 301 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM 301 
+12952524 2003 NoLink
+12914653 2003 NoLink
+11178278 2001 NoLink
+11178279 2001 NoLink
+11178275 2001 NoLink
+NA 2001 null http://giw.ims.u-tokyo.ac.jp/giw2000/ 404 null http://rgp.dna.affrc.go.jp/ 403 available http://www.lionbioscience.com/ -1 null http://www.genome.ad.jp/kegg/ 301 null http://www.rsgi.riken.go.jp/ 200 null http://www.kihara.or.jp/jsfg/ 404 
+11276425 2001 NoLink
+11276422 2001 NoLink
+11182884 2001 null http://www.arabidopsis.org/home.html 200 null http://garnet.arabidopsis.org.uk -1 null http://afgc.stanford.edu -1 
+NA 2000 null http://www.nih.gov/science/models/xenopus/reports/index.html 301 null http://www.ncbi.nlm.nih.gov/UniGene/index.html 301 available http://www.dkfz-heidelberg.de/abt0135/axeldb.htm 301 null http://www.xenbase.org/Xenbase.html 404 null http://arrays.rockefeller.edu/xenopus -1 null http://www.nih.gov/science/models/xenopus/reports/index.html 301 
+11182886 2001 NoLink
+11182893 2001 NoLink
+11182894 2001 NoLink
+11182895 2001 NoLink
+11182882 2001 NoLink
+11532206 2001 NoLink
+12844356 2003 null http://lgsun.grc.nia.nih.gov/cDNA/cDNA.html 302 null http://source.stanford.edu/ 200 available http://hgm2003.hgu.mrc.ac.uk -1 
+11178280 2001 NoLink
+11178276 2001 NoLink
+12537568 2002 NoLink
+11178285 2001 NoLink
+11380987 2001 
+11182887 2001 NoLink
+11597335 2001 NoLink
+11597330 2001 NoLink
+11182889 2001 NoLink
+NA 2000 NoLink
+11516339 2001 NoLink
+11276428 2001 NoLink
+11178281 2001 NoLink
+11178282 2001 NoLink
+11178284 2001 NoLink
+11516336 2001 NoLink
+11532213 2001 NoLink
+11532214 2001 NoLink
+11532217 2001 NoLink
+11532218 2001 NoLink
+11532208 2001 NoLink
+11532209 2001 null http://www.ensembl.org/ 301 null http://biodas.org/ 301 null http://www.celera.com/ 302 method http://genes.cs.wustl.edu/ 301 method http://wwwi.imim.es/software/geneid/ -1 
+11532210 2001 NoLink
+11532215 2001 NoLink
+NA 2001 NoLink
+11516334 2001 NoLink
+11516337 2001 NoLink
+11516341 2001 NoLink
+11516342 2001 NoLink
+11516331 2001 NoLink
+11516338 2001 NoLink
+NA 2001 NoLink
+11516343 2001 NoLink
+11423007 2001 NoLink
+11423008 2001 NoLink
+11423009 2001 NoLink
+11423010 2001 NoLink
+11516335 2001 NoLink
+11182890 2001 NoLink
+11276423 2001 NoLink
+NA 2002 available http://genomebiology.com/refres/start.asp 301 available http://genomebiology.com/preprint/start.asp 301 null http://www.publiclibraryofscience.org/ -1 null http://www.nature.com/nature/debates/e-access/ 303 null http://www.worldbank.org/ 200 null http://www.biomedcentral.com/info/instmembership.asp 404 software http://genomebiology.com/software/start.asp 301 
+11423003 2001 NoLink
+11423004 2001 NoLink
+11423011 2001 NoLink
+11423014 2001 NoLink
+11423013 2001 NoLink
+11276429 2001 NoLink
+11423015 2001 NoLink
+11423005 2001 null http://www.rochegenetics.com/CD_ROM/cd_rom.html 302 

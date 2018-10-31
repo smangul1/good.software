@@ -1,0 +1,100 @@
+24875476 2014 null http://www.jmol.org 302 
+24861628 2014 null http://couger.oit.duke.edu 200 null httpd.apache.org -1 null www.debian.org -1 null www.djangoproject.com -1 null www.python.org -1 null jquery.com -1 
+24753429 2014 code www.modencode.org -1 null www.yeastgenome.org/yeastgenome-app-information -1 null http://galaxyproject.org/ 302 null http://www.genomespace.org/ 200 code http://github.com/intermine/ 301 null http://www.gnu.org/licenses/lgpl.html 200 null http://intermine.readthedocs.org/en/latest/web-services/ 301 null http://curl.haxx.se/ 301 null http://www.flymine.org/query/service 200 null http://iodocs.labs.intermine.org 301 null http://www.flymine.org/query/service/search?q=eve -1 null http://yeastmine.yeastgenome.org/yeastmine/templates.do 302 null http://www.mousemine.org/mousemine/bag.do?subtab=view 404 null http://flymine.org/query 301 null http://mousemine.org/mousemine -1 null http://ratmine.mcw.edu/ratmine 302 null http://yeastmine.yeastgenome.org/yeastmine 302 tool http://intermine.wormbase.org/tools/wormmine 301 null http://zebrafishmine.org 302 null http://modmine.org/query 301 null http://metabolicmine.org/beta 301 null http://mitominer.mrc-mbu.cam.ac.uk/release-x.x 404 null http://flytf.org/query 404 null http://targetmine.nibio.go.jp/targetmine -1 
+24860165 2014 NoLink
+24875479 2014 null http://biq-analyzer-himod.bioinf.mpi-inf.mpg.de/ 200 null http://biq-analyzer-himod.bioinf.mpi-inf.mpg.de/FAQ.php 200 software http://rnbeads.mpi-inf.mpg.de 200 null http://genome.ucsc.edu/index.html 200 package http://rnbeads.mpi-inf.mpg.de/ 200 
+24848019 2014 available http://rostlab.org/services/loctree3/proteomes/ 302 null http://www.ebi.ac.uk/genomes/ 301 null http://www.ebi.ac.uk/reference_proteomes/ 301 
+24838566 2014 
+25147212 2014 NoLink
+25159610 2014 NoLink
+25122747 2014 
+25150148 2014 
+25120267 2014 available http://vbtpm.sourceforge.net 301 
+25122753 2014 
+25200074 2014 tool http://palpant.us/java-genomics-toolkit/ -1 null http://genome.ucsc.edu/ 200 null http://mirstart.mbc.nctu.edu.tw/ 200 
+25034696 2014 null http://rsat.ulb.ac.be/rsat/ -1 null http://pseudomonas.com 200 
+25092924 2014 null http://mfold.rit.albany.edu/?q=mfold 301 
+25183520 2014 null www.eurobiobank.org -1 null www.treat-nmd.eu -1 
+25159612 2014 
+25120271 2014 software www.gelquant.org -1 code http://code.google.com/p/align2rawsignal/ 405 null www.foxprimer.org -1 
+25053845 2014 null http://ercsb.ewha.ac.kr/fusiongene 302 null http://chitars.bioinfo.cnio.es/ 200 download http://genome.ucsc.edu/ 200 null http://www.ensembl.org/ 301 
+25170084 2014 
+25056312 2014 NoLink
+25081214 2014 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20110521/ 200 null http://www.ensembl.org 301 
+25081206 2014 null http:/www.ncbi.nlm.nih.gov/geo/ -1 
+25147211 2014 null http://www.cancerrxgene.org/translation/Gene/1250 404 software www.broadinstitute.org/gsea -1 
+25143535 2014 
+25159611 2014 
+25147206 2014 
+25143528 2014 
+24981512 2014 tool http://www.operon.com/tools/oligo-analysis-tool.aspx 200 
+25122748 2014 
+25120272 2014 
+25159619 2014 
+25114055 2014 package http://ambermd.org/ 200 tool http://webtools.sysbiol.cam.ac.uk/MotifTool/ -1 
+25053842 2014 available www.ncrnalab.dk/mirdentify -1 tool http://www.mirz.unibas.ch/cgi/pred_miRNA_genes.cgi 200 null http://mimirna.centenary.org.au/mireval/ 200 null http://mirna.jnu.ac.in/cidmirna/ -1 null http://www.bioinformatics.org/mirfinder/ 200 download http://159.226.126.177/mirpara/download.htm -1 download http://www.bioinf.seu.edu.cn/miRNA/ -1 null http://sourceforge.net/projects/mireap 301 
+25016525 2014 
+25120268 2014 
+25143533 2014 null http://www.girinst.org/repbase/ 200 
+25016521 2014 
+25092918 2014 
+25123660 2014 
+25013172 2014 null http://www.pymol.org 302 
+25122750 2014 null www.broadinstitute.org/igv -1 null www.bioinformatics.bbsrc.ac.uk/projects/seqmonk -1 null www.ncbi.nlm.nih.gov/gorf/orfig.cgi -1 
+25147205 2014 null www.uni-duesseldorf.de/rna -1 tool http://rulai.cshl.edu/cgi-bin/tools/ESE3/esefinder.cgi?process=home 200 null http://genes.mit.edu/burgelab/rescue-ese/ 200 null http://genes.mit.edu/fas-ess/ 200 null http://cubweb.biology.columbia.edu/pesx/ 302 here http://esrsearch.tau.ac.il/ 503 null www.uni-duesseldorf.de/rna -1 null http://www.uni-duesseldorf.de/rna 301 null http://genes.mit.edu/burgelab/maxent/Xmaxentscan_scoreseq_acc.html 200 
+25159613 2014 
+25143529 2014 null ftp://ftp.ncbi.nih.gov/ 301 
+25081204 2014 
+25170085 2014 
+25143530 2014 
+25120270 2014 null http://www.pymol.org 302 null http://web.uni-frankfurt.de/fb15/mikro/euroscarf/index.html 301 
+25122751 2014 null http://genome.ucsc.edu/goldenPath/help/wiggle.html 200 
+25122752 2014 
+25140011 2014 
+25122749 2014 
+25123663 2014 null http://structure.usc.edu/make-na/ -1 
+25140009 2014 NoLink
+25123664 2014 
+25904631 2015 
+25123659 2014 available http://54.214.245.35/Tracks/Splicing/hub.txt -1 tool http://hannonlab.cshl.edu/fastx_toolkit/index.html 200 null https://github.com/najoshi/sickle 301 available http://54.214.245.35/Tracks/Splicing/hub.txt -1 
+25120266 2014 software http://wsbc.warwick.ac.uk/software 301 
+25034687 2014 null http://dbtss.hgc.jp/cgi-bin/protocol_matepairLibrary.cgi 301 null http://dbtss.hgc.jp/ 301 null http://genome.ucsc.edu/ 200 null http://www.gene-regulation.com/pub/databases.html 301 null http://www.r-project.org/ 200 null http://dbtss.hgc.jp/cgi-bin/protocol_matepairLibrary.cgi 301 null http://liulab.dfci.harvard.edu/MACS/ 200 null http://dbtss.hgc.jp/cgi-bin/protocol_matepairLibrary.cgi 301 null http://dbtss.hgc.jp/cgi-bin/protocol_matepairLibrary.cgi 301 
+25056308 2014 null http://www.ncbi.nlm.nih.gov/geo/ 301 
+NA 2014 NoLink
+25104023 2014 
+25013177 2014 null http://parts.igem.org/Part:BBa_I14034 200 
+NA 2014 NoLink
+25013183 2014 
+NA 2014 null www.nar.oxfordjournals.org -1 
+25063301 2014 NoLink
+25013180 2014 software https://sites.google.com/site/piotrwendykier/software/jtransforms 302 null http://www.ncbi.nlm.nih.gov/genome/167 301 
+25114056 2014 
+25200087 2014 
+25190457 2014 NoLink
+25200075 2014 null http://img.jgi.doe.gov/ 302 
+25183521 2014 
+25183525 2014 
+25183522 2014 
+25106871 2014 
+26101255 2015 null http://bioinformatics.psb.ugent.be/orcae/overview/Ectsi -1 null http://repeatmasker.org 200 null http://bioinformatics.psb.ugent.be/orcae/overview/Ectsi 200 download http://genome.jgi-psf.org/Thaps3/Thaps3.download.ftp.html 302 download http://genome.jgi-psf.org/Phatr2/Phatr2.download.ftp.html 302 download http://genome.jgi-psf.org/Auran1/Auran1.download.ftp.html 302 null https://bmb.natsci.msu.edu/BMB/assets/File/benning/genome_assembly.txt 302 tool http://bioinformatics.psb.ugent.be/webtools/tapir/ 200 
+25200088 2014 
+25200076 2014 null http://www.ensembl.org/Homo_sapiens/Info/Index 200 code http://genome.ucsc.encode/ -1 null http://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122861;r=10:75668935-75677255 200 code http://genome.ucsc.encode/ -1 
+25147207 2014 null http://thomsonreuters.com/metacore/ 301 
+25217584 2014 null http://rsb.info.nih.gov/ij/ 301 
+25200080 2014 NoLink
+25170086 2014 
+25200081 2014 
+25190459 2014 application http://pseudoviewer.inha.ac.kr/ 200 
+25190455 2014 NoLink
+25170083 2014 null http://genetics.bwh.harvard.edu/pph2/ 200 null www.cmbi.ru.nl/pdb_redo -1 null www.uniprot.org -1 null http://www.clustal.org 200 null http://www.jalview.org 200 
+24803672 2014 null http://sfold.wadsworth.org 200 null http://sfold.wadsworth.org/starmir.html 200 
+24813450 2014 
+25200083 2014 
+25081215 2014 null http://swissmodel.expasy.org/ 302 
+25183518 2014 
+25092925 2014 
+25200086 2014 null http://rsbweb.nih.gov/ij/ 301 
+25200073 2014 
+25183517 2014 
+25200079 2014 
+25183523 2014 

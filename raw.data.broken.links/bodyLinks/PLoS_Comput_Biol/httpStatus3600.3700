@@ -1,0 +1,100 @@
+25329398 2014 NoLink
+NA 2014 NoLink
+NA 2014 NoLink
+25340524 2014 NoLink
+25340767 2014 software https://simtk.org/home/openmm 301 null http://bitbucket.org/mirnylab/openmm-polymer 301 
+25340783 2014 NoLink
+25340797 2014 NoLink
+25340343 2014 NoLink
+25340423 2014 NoLink
+25340749 2014 NoLink
+25340581 2014 NoLink
+25340714 2014 NoLink
+25330317 2014 null http://www.R-project.org/ 200 null http://sirene.gforge.inria.fr 200 null http://en.wikibooks.org/wiki/Category:Khepera_III_Toolbox 301 
+25358034 2014 NoLink
+25340788 2014 null www.gromacs.org -1 null www.gromacs.org -1 null http://md.chem.rug.nl/cgmartini/images/parameters/ITP/martini_v2.0_lipids.itp 404 
+25340814 2014 available http://senselab.med.yale.edu/ModelDB/ 302 null www.NeuroMorpho.Org -1 software http://www.povray.org/download/ 200 
+25340653 2014 null http://xkcd.com/ 301 
+NA 2014 NoLink
+25275860 2014 NoLink
+25275319 2014 NoLink
+25275384 2014 NoLink
+25275459 2014 NoLink
+25275505 2014 NoLink
+25275523 2014 null https://cellml-metadata-spec-20.readthedocs.org/en/latest/cellmlmetaspec-biological.html 301 null http://www.opencell.org 302 null http://cor.physiol.ox.ac.uk/ -1 null http://antimony.sourceforge.net 200 package http://sbml.org/Documents/Specifications/SBML_Level_3/Packages/comp 200 null http://www.tinkercell.com 200 null http://www.semanticsbml.org 302 null http://sbp.bhi.washington.edu/projects/semgen 200 null http://www.geneontology.org/GO.format.obo-1_2.shtml 301 null http://www.w3.org/TR/turtle/ 200 
+25275376 2014 NoLink
+25275306 2014 NoLink
+25275649 2014 NoLink
+25275626 2014 NoLink
+25275570 2014 software http://www.bioinformatics.org/cd-hit/ 200 null http://www.ncbi.nlm.nih.gov/geo 301 
+25275445 2014 NoLink
+25356903 2014 NoLink
+25356981 2014 NoLink
+25357123 2014 download http://bioinformatics.mdanderson.org/main/FamSeq 200 null http://sourceforge.net/projects/famseq/ 301 null https://developer.nvidia.com/cuda-gpus 301 null http://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html 200 
+25357192 2014 software http://www.math.pitt.edu/~bard/xpp/xpp.html 403 null http://oscill8.sourceforge.net 200 
+25356642 2014 NoLink
+NA 2014 NoLink
+25358093 2014 code http://virtualleaf.googlecode.com 404 
+25356555 2014 NoLink
+25356597 2014 NoLink
+25356683 2014 package http://cran.r-project.org/package=dcGOR 303 null https://github.com/hfang-bristol/dcGOR 301 package http://supfam.org/dcGOR 301 package http://supfam.org/dcGOR/demo-Customisation.html 200 
+25412385 2014 NoLink
+25474445 2014 software www.latex-project.org -1 null http://www.miede.de/index.php?page=classicthesis 404 null http://jabref.sf.net 301 null http://git-scm.com/ 301 null https://github.com/ 301 null https://subversion.apache.org/ 200 null http://bazaar.canonical.com/en/ 200 
+25299941 2014 NoLink
+25299042 2014 NoLink
+25299132 2014 available http://gplmdca.aurell.org 200 
+25299225 2014 null www.genome.jp/kegg -1 null www.reactome.org -1 null www.biocarta.com -1 
+25299346 2014 NoLink
+25474468 2014 tool http://www.cathdb.info 200 null http://scop.mrc-lmb.cam.ac.uk/scop/index.html 200 null http://www.pdb.org 301 available http://prodata.swmed.edu/ecod/ 200 null http://www.pymol.org/ 302 
+25299649 2014 null http://sfld.rbvi.ucsf.edu/django/subgroup/1016/ 200 null www.jacobsonlab.org/carbocation/triterpene_docking_ligands.tar.gz -1 null http://sfld.rbvi.ucsf.edu/django/subgroup/1016/ 200 null http://efi.igb.illinois.edu/efi-est/tutorial_analysis.php 200 
+25299688 2014 software http://rsb.info.nih.gov/ij/ 301 software http://homepages.cwi.nl/~wimc/argos 302 software http://homepages.cwi.nl/~wimc/argos 302 
+25299147 2014 null http://igraph.org/python/ 200 
+25254957 2014 method simulations -1 null iterating -1 null cells -1 null proteins -1 null post-translationalmodifications -1 null ligandbinding -1 null conformationalchange -1 null complexes -1 null computationalbiologists -1 null signalingnetworks -1 null interactions -1 null post-translationalmodifications -1 null conformationalchanges -1 null subunits -1 null yeast -1 null scaffoldprotein -1 null E.coli -1 null chemotaxis -1 null methylation -1 null CaMKII -1 null dodecamer -1 null catalytic -1 null phosphorylation -1 null ligand -1 null EGFreceptor -1 null mitogen-activatedprotein(MAP)kinase -1 null googol -1 null eukaryotic -1 null reactions -1 null apriori -1 null combinatorial -1 null coffeeshop -1 null decaf -1 null espresso -1 null computation -1 null simulation -1 null ligand -1 null conformational -1 null cytosolic -1 null membrane -1 null implicit -1 null reactions -1 null dissociation -1 null rule-based -1 null simulation -1 code processalgebra -1 null graphs -1 null ordinarydifferentialequations -1 null SBML -1 null Monod-Wyman-Changeux -1 null thermodynamic -1 null fissionyeast -1 null cyclin -1 null cdc2 -1 null pheromone -1 null celldivision -1 null finiteautomata -1 null ODEs -1 software stochasticsimulation -1 method MonteCarlo -1 null Python -1 null catalysis -1 null polymerization -1 null molecules -1 null species -1 null Differentialequations -1 algorithm numericalsolver -1 null random -1 null probability -1 null masterequation -1 null Xeon -1 null actin -1 null phosphorylation -1 software smallmolecules -1 null objects -1 null complexity -1 software stochastic -1 algorithm chemicalreactions -1 null flags -1 null arrays -1 null bacterial -1 null chemotactic -1 null macromolecularcomplexes -1 null coarse-graining -1 null kinetochore -1 null neurons -1 null calcium -1 null dendriticspine -1 null Blender -1 here molecularspecies -1 null ligand -1 null complex -1 null dimensions -1 null topological -1 null diffusion -1 null calciumsignaling -1 null dendriticspine -1 null postsynapticdensity -1 null Blender -1 
+25299050 2014 NoLink
+25340776 2014 null https://ismara.unibas.ch/fcgi/mara 200 available www.cs.utoronto.ca/~yueli/racer.html -1 
+25299227 2014 null http://developingmouse.brain-map.org 200 null http://www.r-project.org 200 null http://genome.crg.es/GOToolBox 301 null http://www.repeatmasker.org/ 200 null http://tophat.cbcb.umd.edu/ 200 
+25210953 2014 software http://www.broadinstitute.org/cancer/software/GENE-E/index.html 301 package www.yeastgenome.org -1 available http://bioconductor.org/packages/release/bioc/html/SANTA.html 200 
+25211122 2014 NoLink
+25211206 2014 NoLink
+25211329 2014 NoLink
+25211452 2014 available http://keinanlab.cb.bscb.cornell.edu/content/tools-data 200 
+25211603 2014 null http://dx.doi.org/10.6084/m9.figshare.831432 303 
+25211773 2014 NoLink
+25210849 2014 null www.eucast.org -1 software www.lixoft.eu -1 
+25210764 2014 NoLink
+25210732 2014 null http://matplotlib.org/gallery.html 200 null http://www.texample.net/tikz/examples/all/ -1 null http://www.fmwconcepts.com/imagemagick/index.php 200 null http://github.com/mbostock/d3/wiki/Gallery 301 available https://github.com/rougier/ten-rules 301 
+25233071 2014 null http://view.ncbi.nlm.nih.gov/dbgap-controlled 301 null http://www.ncbi.nlm.nih.gov/projects/SNP/ 301 code www.blocbuster.org -1 code www.blocbuster.org -1 null www.tsp.gatech.edu/concorde.html -1 null http://www.ncbi.nlm.nih.gov/projects/SNP/ 301 null http://www.ncbi.nlm.nih.gov/projects/SNP/ 301 null 31106268 -1 null 31112602 -1 null 31187075 -1 null 31190303 -1 null 31205617 -1 null 31206206 -1 null 31206979 -1 null 31054511 -1 null 31186245 -1 null 31229462 -1 null 31252925 -1 null 31259579 -1 null 31261276 -1 null 31263751 -1 null 31265057 -1 null 31240959 -1 null 31264392 -1 
+25233196 2014 NoLink
+25232727 2014 software http://www.brylinski.org/ematchsite 302 
+25233372 2014 NoLink
+25232825 2014 NoLink
+25232952 2014 null http://cancergenome.nih.gov/ 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 null www.chemaxon.com -1 
+25233087 2014 available http://sourceforge.net/projects/nesmapper 301 
+25233219 2014 null http://www.python.org/ 301 
+25233347 2014 null http://www.broadinstitute.org/gsea/ 301 null http://www.biocarta.com 200 
+25233457 2014 NoLink
+25232732 2014 NoLink
+25255227 2014 NoLink
+25255318 2014 null www.reactome.org -1 software http://www.ichip.de/software/InteractionAnalyzer.html 302 tool http://cbdm.mdc-berlin.de/tools/hippie 200 null www.geneontology.org -1 null www.ebi.ac.uk/arrayexpress -1 tool http://cbdm.mdc-berlin.de/tools/hippie 200 software www.r-project.org -1 software http://www.ichip.de/software/InteractionAnalyzer.html 302 null www.mitocheck.org -1 null www.mitocheck.org -1 null www.ebi.ac.uk/arrayexpress -1 null www.mitocheck.org -1 
+25255443 2014 NoLink
+25254363 2014 NoLink
+25254493 2014 NoLink
+25254639 2014 available github.com/veg/idepi -1 null github.com/nlhepler/sklmrmr -1 package http://github.com/veg/idepi/ 301 available http://github.com/veg/idepi 301 package https://github.com/veg/idepi 301 
+26185983 2015 NoLink
+25255082 2014 available https://sourceforge.net/projects/bycom 301 null http://122.228.158.106/BSSim -1 null http://genome.ucsc.edu/ 200 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www.aspergillusflavus.org/genomics/ 302 null http://122.228.158.106/BSSim/ -1 
+25255217 2014 NoLink
+25188385 2014 pipeline http://my.pgp-hms.org 302 null http://www.cdc.gov 301 null http://www.hhs.gov/ 301 download https://www.genome.gov/26525384 301 download http://diseases.jensenlab.org 302 null http://evs.gs.washington.edu/EVS/ 200 
+25188490 2014 NoLink
+25188267 2014 NoLink
+25188426 2014 available http://dx.doi.org/10.6084/m9.figshare.1119727 303 
+25299598 2014 available http://perso.ibcp.fr/luca.monticelli 301 available http://perso.ibcp.fr/luca.monticelli/ 200 
+25188415 2014 available http://cellnet.cecad.uni-koeln.de/impact.html 200 code https://github.com/SimeoneMarsico/IMPACT 301 null www.autophagy.lu -1 
+25188228 2014 NoLink
+25187943 2014 software www.translationalneuromodeling.org/tapas -1 software www.fil.ion.ucl.ac.uk/spm -1 software http://www.translationalneuromodeling.org/tapas 301 
+25187979 2014 NoLink
+25188377 2014 NoLink
+25188293 2014 null http://www.ncbi.nlm.nih.gov/bioproject 301 null http://tolweb.org/tree/ 200 null http://bioinf.nuim.ie/modelgenerator/ -1 here http://www.kegg.jp/kegg/ko.html 200 
+25188327 2014 available http://pep2path.sourceforge.net/ 200 available http://pep2path.sourceforge.net 200 
+25299461 2014 NoLink
+25474213 2014 null http://www.hiv.lanl.gov/ 302 available http://hivmut.org 200 null http://www.hiv.lanl.gov/ 302 null http://www.hiv.lanl.gov/ 302 
+25849117 2015 NoLink

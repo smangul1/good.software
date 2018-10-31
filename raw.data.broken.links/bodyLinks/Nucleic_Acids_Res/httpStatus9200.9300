@@ -1,0 +1,100 @@
+NA 2012 null www.nar.oxfordjournals.org -1 
+NA 2012 NoLink
+NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+23002134 2012 NoLink
+22367884 2012 null http://ncbi.nlm.nih.gov/geo/ 301 software http://frodo.wi.mit.edu/cgi-bin/primer3/primer3_www.cgi 301 null http://genome.ucsc.edu/ 200 
+22661578 2012 null http://www.rcsb.org/pdb/ 302 null http://www.jmol.org/ 302 
+22641853 2012 null http://www.sbg.bio.ic.ac.uk/combfunc 301 
+22641855 2012 
+22451682 2012 null http://www.rna.ccbb.utexas.edu 200 null S3 -1 
+22453275 2012 download https://proteomecommons.org 404 null S2 -1 null S4 -1 
+22453276 2012 
+22610855 2012 software http://meme.nbcr.net/meme/doc/overview.html -1 null http://www.ncbi.nlm.nih.gov/geo 301 
+22544604 2012 tool https://cabig.nci.nih.gov/tools/GeneConnect/ -1 null http://pir.georgetown.edu/pirwww/search/idmapping.shtml 200 null http://vortex.cs.wayne.edu/projects.htm#Onto-Translate -1 null http://llama.mshri.on.ca/synergizer/translate/ 200 null http://www.uniprot.org/mapping/ 200 application http://www.ebi.ac.uk/Tools/picr/ 200 available http://www.ebi.ac.uk/Tools/picr/userguide.do 200 null http://www.ebi.ac.uk/Tools/webservices/services/sss/ncbi_blast_soap 301 null http://www.ebi.ac.uk/Tools/picr/service?wsdl 415 code http://www.ebi.ac.uk/Tools/picr/WSDLDocumentation.do 200 null http://www.ebi.ac.uk/Tools/picr/RESTDocumentation.do 200 
+22373926 2012 available http://lancelot.otago.ac.nz/CisRegRNA/ 200 available www.bioinf.uni-freiburg.de/Software/LocalFold/ -1 available http://lancelot.otago.ac.nz/CisRegRNA/ 200 
+22373925 2012 
+22373923 2012 null S3C -1 null http://genome.jouy.inra.fr/ssb/rmes 301 
+22373918 2012 null S1B -1 null S1D -1 null S2B -1 null S2B -1 null Table1 -1 null S5D -1 null SupplementalFigureS2 -1 
+22373919 2012 
+22373917 2012 
+22373920 2012 
+22373915 2012 null TableS2 -1 null S5A -1 
+22373921 2012 null http://ndbserver.rutgers.edu 200 null http://www.rcsb.org 200 null S2b -1 null S3b -1 
+22379139 2012 available http://genome.ucsc.edu/cgi-bin/hgGateway 200 null http://genome.ucsc.edu/ENCODE/ 200 
+22457063 2012 null ftp://mirbase.org/pub/mirbase/CURRENT/miFam.dat.gz 404 pipeline http://rfam.sanger.ac.uk/help 301 null www.timetree.org -1 null http://bgee.unil.ch/ 301 null http://www.mirz.unibas.ch/cloningprofiles/ 302 download http://bgee.unil.ch/bgee/bgee?page=download 301 null http://www.mirz.unibas.ch/miRNAtargetPredictionBulk.php 200 
+22467212 2012 null S5 -1 null S8 -1 software http://liulab.dfci.harvard.edu/MACS/ 200 software http://www.bioconductor.org/packages/2.6/bioc/html/DEGseq.html 200 null http://www.oncomine.org/ 302 null http://medical-genome.kribb.re.kr/GENT/ 200 package http://liulab.dfci.harvard.edu/CEAS/ 200 
+22492624 2012 null http://www.sdsc.edu/CCMS 301 
+22457066 2012 null B -1 null S5D -1 null http.//www.pymolsourceforge.net -1 
+22467205 2012 null SchemeS1 -1 null SchemeS2 -1 
+22457064 2012 
+22457067 2012 
+22467208 2012 
+22467213 2012 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE32165 301 null B -1 null S7 -1 
+22457068 2012 
+22467209 2012 null S2c -1 
+22457070 2012 available http://www.cbrc.jp/dnemulator/ 301 null www.novocraft.com -1 null https://bioinf.eva.mpg.de/anfo/ 302 
+22467211 2012 null http://srna-workbench.cmp.uea.ac.uk 200 null S3 -1 null b -1 null S3 -1 
+22457065 2012 null SupplementanyTableS3 -1 null S2 -1 
+22467206 2012 available http://www.ibp.ucla.edu/research/xiao/Software.html 302 null http://www.illumina.com/support/documentation.ilmn 301 null http://eqtl.uchicago.edu/cgi-bin/gbrowse/eqtl/ 200 null http://www.genome.gov/gwastudies/ 301 
+22457069 2012 null S2 -1 
+22641850 2012 null http://blast.ncbi.nlm.nih.gov/ 301 null http://genome.ucsc.edu/ 200 null http://www.dnasoso.com/ -1 null http://GGRNA.dbcls.jp/ 200 null http://GGRNA.dbcls.jp/api/ 302 null http://GGRNA.dbcls.jp/api/ 302 null http://GGRNA.dbcls.jp/api/hs/caagaagagattg 403 null http://GGRNA.dbcls.jp/api/hs/caagaagagattg.json 403 null http://GGRNA.dbcls.jp/api/ce/%22RNA+interference%22 403 available http://GGRNA.dbcls.jp/en/togotv/ 302 available http://togotv.dbcls.jp/en/ 200 null http://GGRNA.dbcls.jp/ 200 
+22544707 2012 download http://hgdownload.cse.ucsc.edu/downloads.html#human 200 null ftp://ftp.ensembl.org/pub/release-63/mysql/ 200 null ftp://ftp.ensembl.org/pub/release-54/mysql/ 200 null ftp://ftp.jcvi.org/pub/data/sift/Human_db_37_ensembl_63/ -1 null ftp://ftp.sanger.ac.uk/pub/CGP/cosmic -1 null http://mirbase.org/ftp.shtml 200 
+22379133 2012 null http://www.transcriptome.ens.fr/sgdb/protocols/ -1 
+22379134 2012 
+22383580 2012 null S1B -1 null S1B -1 null S2B -1 
+22379140 2012 null S2 -1 null S2B -1 
+22379135 2012 null S6B -1 
+22402494 2012 null http://www.gene-regulation.com 301 null http//:www.cbrc.jp/research/db/TFSEARCHJ.html -1 null S1B -1 
+22379136 2012 
+22467210 2012 package D -1 method E -1 package C -1 package D -1 
+22645321 2012 null http://www.rcsb.org 200 null http://salilab.org/modeller/ 301 
+22645317 2012 null http://www.cazy.org 200 null http://csbl.bmb.uga.edu/dbCAN/ 200 
+22645318 2012 null http://java.sun.com/javaee/javaserverfaces 301 package http://www.rforge.net/Rserve 302 
+22387463 2012 NoLink
+22570420 2012 null http://zhanglab.ccmb.med.umich.edu/COFACTOR/example/ 302 download http://zhanglab.ccmb.med.umich.edu/COFACTOR/library.html 302 null http://www.ebi.ac.uk/GOA/ 301 library http://www.ebi.ac.uk/pdbe/docs/sifts/ 200 
+22553366 2012 null http://ncbr.muni.cz/mole 301 null http://mole.upol.cz 200 null http://mole.upol.cz/documentation/ 200 null http://www.gnuplot.info 200 null http://www.pymol.org 302 
+22553364 2012 null http://www.fos.su.se/~pdbdna/ 404 download http://cheminfo.tongji.edu.cn/dsp/Home/Downloads 404 
+22553365 2012 null http://www.jmol.org 302 package http://www.pchart.net/ 200 
+22689639 2012 null http://www.genome.gov/GWAStudies/ 301 null http://www.ncbi.nlm.nih.gov/gap 301 download http://bioinfo.utu.fi/BiForceToolbox/ -1 
+22467216 2012 NoLink
+22467214 2012 
+22467215 2012 
+22649056 2012 application http://intscore.molgen.mpg.de -1 
+22649060 2012 null http://www.jmol.org 302 
+22649057 2012 null http://www.chemaxon.com/products/marvin/marvinsketch/ 301 null http://openastexviewer.net/web/ 200 null http://nar.oxfordjournals.org/cgi/content/full/gks496/DC1 301 
+22649059 2012 
+22661581 2012 null http://www.conoserver.org/ 200 tool www.conco.eu -1 tool www.conco.eu -1 null http://conco.ebc.ee/ConoDictor_help.html 200 
+22641854 2012 NoLink
+22661576 2012 here http://dnasite.limlab.ibms.sinica.edu.tw 200 null http://consurfdb.tau.ac.il/ 503 tool http://www.ebi.ac.uk/thornton-srv/databases/sas/ 301 null http://bioinfo.ggc.org/bindn+/ -1 null http://proteomics.bioengr.uic.edu/NAPS 301 null http://www.prc.boun.edu.tr/appserv/prc/dnabindprot/ 200 null http://dnasite.limlab.ibms.sinica.edu.tw/ 200 null http://www.jmol.org/ 302 available http://dnasite.limlab.ibms.sinica.edu.tw/examples/help.html 200 
+22661579 2012 available http://fastml.tau.ac.il/ 503 available http://fastml.tau.ac.il/ 503 
+22661580 2012 null http://wiki.isb-sib.ch/web-team/Sib-resource_query-interface 200 null http://web.expasy.org/translate 301 tool http://www.expasy.org/tools/dna.html 302 null http://cakephp.org 301 
+22669910 2012 NoLink
+22669909 2012 null www.softberry.com -1 null http://www.jcvi.org/vigor 301 null http://www.ncbi.nlm.nih.gov/Sequin/index 301 download http://www.ncbi.nlm.nih.gov/GenBank/tbl2asn2.html 301 
+22638573 2012 null http://createrds.cryst.bbk.ac.uk 200 null http://dichromatch.cryst.bbk.ac.uk/help 404 null http://dichromatch.cryst.bbk.ac.uk 200 null http://createrds.cryst.bbk.ac.uk 200 null http://createrds.cryst.bbk.ac.uk 200 
+22669913 2012 null http://java.com 302 
+22669908 2012 null http://jmol.sourceforge.net 200 null http://www.ccdc.cam.ac.uk/case_studies/life_science/workcase_posepred.pdf 302 
+22669905 2012 null http://pocket.uchicago.edu/psc/ -1 null http://www.ncbi.nlm.nih.gov/omim/ 301 
+22669907 2012 
+22669902 2012 here http://www.homozygositymapper.org/ 200 
+22669912 2012 NoLink
+22492510 2012 NoLink
+22492511 2012 
+22396528 2012 null S1j -1 null S6b -1 
+22396526 2012 null http://www.haloarchaea.com/resources/halohandbook/index.html 200 null http://cobamide2.bio.pitt.edu 200 null http://iubio.bio.indiana.edu/soft/molbio/java/apps/trees/ 200 null TableS3 -1 
+22396529 2012 null FigureS1 -1 
+22396527 2012 null ftp://ftp.sanger.ac.uk/pub/databases/T.brucei_sequences/T.brucei_genome_v4/ -1 
+22492625 2012 
+22467207 2012 null http://flybase.org 200 
+22492623 2012 null S4 -1 null S13 -1 
+22675073 2012 available http://komodotool.org 301 null S4 -1 
+22675071 2012 available http://ofranservices.biu.ac.il/site/services/paratome/ABRs_train_pdb.txt 200 null http://ofranservices.biu.ac.il/site/services/paratome/ABRs_test_pdb.txt 200 tool http://www.bioinf.org.uk/abs/abnum/ 200 null http://www.bioinf.org.uk/abs/#cdrdef 200 tool http://www.imgt.org/3Dstructure-DB/cgi/DomainGapAlign.cgi 200 null http://jmol.sourceforge.net/ 200 null http://www.wwpdb.org/docs.html 302 null S1B -1 
+22675075 2012 NoLink
+22492627 2012 null http://genome.ucsc.edu/FAQ/FAQformat.html#format1 200 
+22411911 2012 tool http://ecoliwiki.net/tools/chemgen/ -1 null www.microbesonline.org -1 null www.microbesonline.org -1 
+22570416 2012 available http://biophysics.cs.vt.edu/H++ 301 null http://biophysics.cs.vt.edu/faq.php 200 
+22564897 2012 null http://csb.stanford.edu/kobamin/about.html -1 null http://csb.stanford.edu/kobamin -1 null http://www.python.org 301 null http://csb.stanford.edu/kobamin/ -1 null http://csb.stanford.edu/kobamin/results/example/ -1 
+22564899 2012 null S2 -1 available http://tmsoc.bii.a-star.edu.sg 200 null http://mendel.bii.a-star.edu.sg/METHODS/TMSOC/cgi-bin/ 200 
+22684505 2012 null http://imp.princeton.edu/networks/data/ -1 null SupplementalFigureS1 -1 null SupplementalFigureS2 -1 null SupplementalFigureS3 -1 
+22379137 2012 null TableS1 -1 null TableS2 -1 null TableS3 -1 
+22402487 2012 null TableS3 -1 
+22402489 2012 
