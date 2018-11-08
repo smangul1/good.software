@@ -1,7 +1,6 @@
-# good.software
+# Analysis of the usability and archival stability of omics computational tools
 
-Scripts and data used in our study "A comprehensive analysis of the usability and archival stability of omics computational tools and resources"
-
+This is the GitHub repository for our recent study "A comprehensive analysis of the usability and archival stability of omics computational tools and resources." Please follow to the repository's wiki for more information and details on how this repository is connected to the paper.
 
 **See the main webpage:** https://github.com/smangul1/good.software/wiki
 
