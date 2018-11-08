@@ -1,5 +1,8 @@
 # good.software
+
 Scripts and data used in our study "A comprehensive analysis of the usability and archival stability of omics computational tools and resources"
 
 
-See the main webpage https://github.com/smangul1/good.software/wiki
+**See the main webpage:** https://github.com/smangul1/good.software/wiki
+
+**Preprint:** https://www.biorxiv.org/content/early/2018/10/25/452532
