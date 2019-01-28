@@ -73,3 +73,23 @@ We focus on the follow groups of HTTP status:
 400 and over: broken link
 ```
 
+To run the code over many xml files, you can follow the code below. This is an example for the folder `Nat_Methods`. 
+
+```
+from urllib2 import HTTPError
+import xml.etree.ElementTree
+import os,re,sys
+import argparse
+import httplib
+from urlparse import urlparse
+from urlXmlUtil import * 
+
+## go inside the Nat_Methods folder, and get the file list 
+all_xml = os.listdir('your/path/to/folder/Nat_Methods')
+output_abstract = ""
+output_body = ""
+for one_xml in all_xml: 
+  output_abstract = output_abstract + getHttpStatus(paperName,'abstract') + "\n"
+  output_body = output_body + getHttpStatus(paperName,'body') + "\n"
+```
+
