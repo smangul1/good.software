@@ -90,10 +90,11 @@ from urlXmlUtil import *
 
 ## go inside the Nat_Methods folder, and get the file list 
 all_xml = os.listdir('your/path/to/folder/Nat_Methods')
-output_abstract = ""
-output_body = ""
+output_abstract = open("abstract_link_status.txt","w")
+output_body = open("body_link_status.txt","w")
 for one_xml in all_xml: 
-  output_abstract = output_abstract + getHttpStatus(paperName,'abstract') + "\n"
-  output_body = output_body + getHttpStatus(paperName,'body') + "\n"
+  output_abstract.write( getHttpStatus(paperName,'abstract') + "\n" ) 
+  output_body.write( getHttpStatus(paperName,'body') + "\n" )
+ 
 ```
 
