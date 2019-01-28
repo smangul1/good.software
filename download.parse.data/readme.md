@@ -96,5 +96,7 @@ for one_xml in all_xml:
   output_abstract.write( getHttpStatus(paperName,'abstract') + "\n" ) 
   output_body.write( getHttpStatus(paperName,'body') + "\n" )
  
+output_abstract.close() 
+output_body.close() 
 ```
 
