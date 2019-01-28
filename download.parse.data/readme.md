@@ -56,8 +56,12 @@ getHttpStatus(paperName,'abstract') ## get http links in abstract
 ## '18463117 2008 tool www.oboedit.org -1 null http://compbio.uchsc.edu/Hunter_lab/Bada/nonalignments_2008_03_06.html -1 '
 ## 18463117 is the Pubmed Id number for this paper. 
 ## 2008 is the year of this paper. 
+## the word "tool" was found near the link www.oboedit.org
 ## www.oboedit.org is the 1st link found in the abstract, and the HTTP status is -1. 
+
 ## http://compbio.uchsc.edu/Hunter_lab/Bada/nonalignments_2008_03_06.html is the 2nd link found in the abstract and the HTTP status is -1
+## the word "null" indicates that none of the keywords "here", "pipeline", "code", "software", "available", "publicly", "tool", "method", "algorithm", "download", "application", "apply", "package", "library" were found near this link  http://compbio.uchsc.edu/Hunter_lab/Bada/nonalignments_2008_03_06.html
+
 
 ## To get the links inside the body of the paper, paste next line of code: 
 
