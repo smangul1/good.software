@@ -2,11 +2,24 @@
 
 This project contains the links to the datasets and the code that was used for our study : ["A comprehensive analysis of the usability and archival stability of omics computational tools and resources"](https://www.biorxiv.org/content/early/2018/10/25/452532)
 
+**Table of contents**
+
+* [How to cite this study](#how-to-cite-this-study)
+* [Datasets](#datasets)
+  * [Archival stability](#archival-stability)
+  * [Usability](#usability)
+* [Reproducing results](#reproducing-results)
+* [License](#license)
+* [Contact](#contact)
+
+
 # How to cite this study
-Mangul, Serghei, et al. "A comprehensive analysis of the usability and archival stability of omics computational tools and resources." bioRxiv, doi: https://doi.org/10.1101/452532
+
+> Mangul, Serghei, et al. "A comprehensive analysis of the usability and archival stability of omics computational tools and resources." bioRxiv, doi: https://doi.org/10.1101/452532
 
 
-# Data
+# Datasets
+
 ## Archival stability
 
 We downloaded open access papers via PubMed from 10 systems and computational biology journals. Raw data in XML format is available [here](https://drive.google.com/drive/folders/1m-2I5qCJqEpYC26jFHSxuqJ-tLMHksFf). Our approach to extract software links from the downloaded papers and verify the archival stability of links is described in the Methods section of the [paper](https://www.biorxiv.org/content/early/2018/10/25/452532).  Timeout links were manually [verified](https://github.com/smangul1/good.software/blob/master/manual.evaluation/manual.test.csv).
