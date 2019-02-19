@@ -1,5 +1,8 @@
 # Analysis of the usability and archival stability of omics computational tools
 
+[![Preprint Available](https://img.shields.io/badge/Preprint-online-green.svg)](https://doi.org/10.1101/452532) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smangul1/good.software/master)
+
+
 This project contains the links to the datasets and the code that was used for our study : ["A comprehensive analysis of the usability and archival stability of omics computational tools and resources"](https://www.biorxiv.org/content/early/2018/10/25/452532)
 
 **Table of contents**
@@ -52,8 +55,9 @@ Information about the usability of 99 tools is presented in CSV format  [here](h
 We have prepared Jupyter Notebooks that utilize the raw data described above to reproduce the results and figures presented in our [manuscript](https://www.biorxiv.org/content/early/2018/10/25/452532).
 
 * [Figure 1 Jupyter Notebook](http://nbviewer.jupyter.org/github/smangul1/good.software/blob/master/analysis/Figure1.ipynb)
-* [ Figure 2 Jupyter Notebook](https://github.com/smangul1/good.software/blob/master/analysis/Figure2.ipynb)
+* [Figure 2 Jupyter Notebook](https://github.com/smangul1/good.software/blob/master/analysis/Figure2.ipynb)
 
+To help make this study more reproducible, we setup this repository to be compatible with Binder. By clicking [here](https://mybinder.org/v2/gh/smangul1/good.software/master), without downloading anything or installing anything, you will be able to run the two notebooks above in your browser.
 
 # License
 
