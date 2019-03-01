@@ -36,6 +36,7 @@ Links extracted from the abstracts and the body of the surveyed papers (n=48,393
 * Binary flag to indicates if the link was present in one paper or was shared across multiple papers.
 
 ## Usability
+
 We have randomly chosen 99 tools across various domains of computational biology. The methodology used to select tools and list of domains is presented in the Methods section of our [paper](https://www.biorxiv.org/content/early/2018/10/25/452532).
 
 Information about the usability of 99 tools is presented in CSV format  [here](https://github.com/smangul1/good.software/blob/master/analysis/usability.99.tools.csv). The CVS file contains the following fields:
@@ -58,6 +59,13 @@ We have prepared Jupyter Notebooks that utilize the raw data described above to 
 * [Figure 2 Jupyter Notebook](https://github.com/smangul1/good.software/blob/master/analysis/Figure2.ipynb)
 
 To help make this study more reproducible, we setup this repository to be compatible with Binder. By clicking [here](https://mybinder.org/v2/gh/smangul1/good.software/master), without downloading anything or installing anything, you will be able to run the two notebooks above in your browser.
+
+# Further acknowledgements
+
+We thank the input from our peer reviewers, as well as online commenters in social media, in suggesting making the figures colorblind  friendly. We acknowledge the following resources, which help us achieve the final result:
+* Northwestern University's Knight Lab post on [Three tools to help you make colorblind-friendly graphics](https://knightlab.northwestern.edu/2016/07/18/three-tools-to-help-you-make-colorblind-friendly-graphics/).
+* Somersalt18:24's article on [designing colorblind-friendly scientific figures](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers/).
+* [Color Oracle](colororacle.org), which similates different colorblind conditions.
 
 # License
 
