@@ -25,6 +25,8 @@ This project contains the links to the datasets and the code that was used for o
 
 ## Archival stability
 
+[![Hosted on Figshare-DOI: 10.6084/m9.figshare.7738901](https://img.shields.io/badge/Hosted%20on%20Figshare-DOI:%2010.6084/m9.figshare.7738901-blue.svg)](https://doi.org/10.6084/m9.figshare.7738901)
+
 We downloaded open access papers via PubMed from 10 systems and computational biology journals. Raw data in XML format is available [here](https://drive.google.com/drive/folders/1m-2I5qCJqEpYC26jFHSxuqJ-tLMHksFf). Our approach to extract software links from the downloaded papers and verify the archival stability of links is described in the Methods section of the [paper](https://www.biorxiv.org/content/early/2018/10/25/452532).  Timeout links were manually [verified](https://github.com/smangul1/good.software/blob/master/manual.evaluation/manual.test.csv).
 
 Links extracted from the abstracts and the body of the surveyed papers (n=48,393) are available in CSV format  [here](https://github.com/smangul1/good.software/blob/master/analysis/links.bulk.csv). The CVS file contains the following fields:
@@ -36,6 +38,8 @@ Links extracted from the abstracts and the body of the surveyed papers (n=48,393
 * Binary flag to indicates if the link was present in one paper or was shared across multiple papers.
 
 ## Usability
+
+[![Hosted on Figshare-DOI: 10.6084/m9.figshare.7738949](https://img.shields.io/badge/Hosted%20on%20Figshare-DOI:%2010.6084/m9.figshare.7738949-blue.svg)](https://doi.org/10.6084/m9.figshare.7738949)
 
 We have randomly chosen 99 tools across various domains of computational biology. The methodology used to select tools and list of domains is presented in the Methods section of our [paper](https://www.biorxiv.org/content/early/2018/10/25/452532).
 
