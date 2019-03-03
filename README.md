@@ -62,14 +62,17 @@ We have prepared Jupyter Notebooks that utilize the raw data described above to 
 * [Figure 1 Jupyter Notebook](http://nbviewer.jupyter.org/github/smangul1/good.software/blob/master/analysis/Figure1.ipynb)
 * [Figure 2 Jupyter Notebook](https://github.com/smangul1/good.software/blob/master/analysis/Figure2.ipynb)
 
-To help make this study more reproducible, we setup this repository to be compatible with Binder. By clicking [here](https://mybinder.org/v2/gh/smangul1/good.software/master), without downloading anything or installing anything, you will be able to run the two notebooks above in your browser.
+**Would you like to play with our data and code?** There is no need to download or install anything, we set this repository up compatible with Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smangul1/good.software/master)
+
 
 # Further acknowledgements
 
 We thank the input from our peer reviewers, as well as online commenters in social media, in suggesting making the figures colorblind  friendly. We acknowledge the following resources, which help us achieve the final result:
 * Northwestern University's Knight Lab post on [Three tools to help you make colorblind-friendly graphics](https://knightlab.northwestern.edu/2016/07/18/three-tools-to-help-you-make-colorblind-friendly-graphics/).
 * Somersalt18:24's article on [designing colorblind-friendly scientific figures](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers/).
-* [Color Oracle](colororacle.org), which similates different colorblind conditions.
+* [Color Oracle](colororacle.org), which simulates different colorblind conditions.
 
 # License
 
