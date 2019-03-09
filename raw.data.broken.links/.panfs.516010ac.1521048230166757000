@@ -1,8 +1,0 @@
-cd abstractLinks 
-grep "" *txt | awk '{if ($3!="" && $3!="NoLink") print}' | sed 's/_linkStatus.txt:/\t/' >../abstractLinks.prepared.tsv
-cd ..
-
-cd bodyLinks
-grep "" *txt | awk '{if ($3!="" && $3!="NoLink") print}' | sed 's/_linkStatus.txt:/\t/' >../bodyLinks.prepared.tsv
-
-cd ..
