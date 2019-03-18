@@ -12,7 +12,7 @@ def makereq(url, protocol, timeout=10, allow_redirects=False):
     if protocol != 'ftp':
       # NOTE: To avoid annoying quirks with SSL cert validation, this doesn't check whether
       # the certs are valid.
-      r = requests.get(tosend, timeout=timeout, verify=False, allow_redirects=allow_redirects)
+      r = requests.get(tosend, timeout=timeout, verify=False, stream=True, allow_redirects=allow_redirects)
     else:
       r = s.list(tosend, timeout=timeout)
   except requests.exceptions.Timeout:
@@ -33,7 +33,7 @@ def makereq(url, protocol, timeout=10, allow_redirects=False):
   if protocol == 'http' and r.status_code in range(300,400) and not allow_redirects:
     print(f'  {protocol}: Following redirects...')
     new = makereq(url, protocol, timeout, True)
-    if new != 200:
+    if new != 200: # TODO: Check why 200+ successful calls were recorded as 200s and not 301s
       print(f'  {protocol}: Broken redirect: Saving redirected status code {new}')
       return new
 
@@ -75,6 +75,7 @@ if __name__ == "__main__":
 
       elements[6] = elements[6][0] # trim linebreak from last element
       elements.append(elements[5]) # save value in 'oldcode' column
+
       # remove (valid) protocols from URLs
       url = re.sub('^https?://', '', elements[4])
       url = re.sub('^s?ftps?://', '', url)
@@ -82,7 +83,6 @@ if __name__ == "__main__":
       print(f'{linecount} Testing {url}')
       ftpresult = -1
       httpresult = makereq(url, 'http', timeout)
-
 
       # if the http call isn't in our "success" category, try FTP:
       if httpresult < 200 or httpresult > 399:
