@@ -46,12 +46,12 @@ for line in fileWithLinks:
     if ( code >= 300 ) and ( code < 400 ):
         checked += 1
         print(f'checking: {checked}\n  {url}')
-
+        url_from_file = url
         url = re.sub('^https?://', '', url)
         url = re.sub('^s?ftps?://', '', url)
         url = 'http://' + url
 
-        outfile.write( pid + ',' + url + ',' + str(code) + ',' )
+        outfile.write( pid + ',' + url_from_file + ',' + str(code) + ',' )
         outfile.write( str(http2httpsRedirectionCheck( url )) )
         outfile.write('\n')
 
