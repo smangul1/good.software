@@ -1,5 +1,6 @@
 from urllib.request import urlopen
 import urllib
+import re
 
 def http2httpsRedirectionCheck(URL):
     """
@@ -10,16 +11,17 @@ def http2httpsRedirectionCheck(URL):
     """
 
     try:
-        page = urlopen(URL)
+        page = urlopen(URL, timeout=10)
     except TimeoutError:
         return -1
     except urllib.error.URLError as e:
+        print(e)
         return -1
-
     except:
         return -2 # sys.exc_info()[0]
 
     if page.url != URL :
+        print(f'  Redirected to new URL: {page.url}')
         # Evaluates the address without protocol
         finalPageAddress_noProt = (page.url).split( '://' )[1]
         orignlURLAddress_noProt = URL.split( '://' )[1]
@@ -31,20 +33,26 @@ def http2httpsRedirectionCheck(URL):
 
 fileWithLinks = open('../links.bulk.csv', 'r')
 
-skipFirstLine = fileWithLinks.readline()
+skipFirstLine = fileWithLinks.readline() # skip header row
 
 outfile = open('http2https.redirected.csv', 'w', 1)
 
+checked = 0
 for line in fileWithLinks:
     pid   = line.split(',')[2]
-    print(pid)
     url   = line.split(',')[4]
     code  = int(line.split(',')[5])
 
     if ( code >= 300 ) and ( code < 400 ):
-        outfile.write( pid + ',' + url + ',' + str(code) + ',' )
+        checked += 1
+        print(f'checking: {checked}\n  {url}')
+        url_from_file = url
+        url = re.sub('^https?://', '', url)
+        url = re.sub('^s?ftps?://', '', url)
+        url = 'http://' + url
+
+        outfile.write( pid + ',' + url_from_file + ',' + str(code) + ',' )
         outfile.write( str(http2httpsRedirectionCheck( url )) )
         outfile.write('\n')
 
-skipFirstLine.close()
 outfile.close()
