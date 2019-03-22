@@ -31,11 +31,11 @@ def http2httpsRedirectionCheck(URL):
         # No redirection, returns True anyway
         return True
 
-# fileWithLinks = open('../download.parse.data/retry_http.csv', 'r')
-fileWithLinks = open('../download.parse.data/newdata/revised_links.bulk.csv', 'r')
+fileWithLinks = open('../links.bulk.csv', 'r')
+
 skipFirstLine = fileWithLinks.readline() # skip header row
 
-outfile = open('../download.parse.data/newdata/revised_http2https.redirected.csv', 'w', 1)
+outfile = open('http2https.redirected.csv', 'w', 1)
 
 checked = 0
 for line in fileWithLinks:
