@@ -31,7 +31,7 @@ def http2httpsRedirectionCheck(URL):
         # No redirection, returns True anyway
         return True
 
-fileWithLinks = open('../links.bulk.csv', 'r')
+fileWithLinks = open('../analysis/links.bulk.csv', 'r')
 
 skipFirstLine = fileWithLinks.readline() # skip header row
 
