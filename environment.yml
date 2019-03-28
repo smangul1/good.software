@@ -1,0 +1,10 @@
+name:
+
+dependencies:
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - pandas
+  - statsmodels
+  - scipy
+  - seaborn
