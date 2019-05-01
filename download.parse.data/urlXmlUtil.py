@@ -5,6 +5,7 @@ import httplib
 from urlparse import urlparse
 
 def checkUrl(url):
+	print url
 	try:
 		p = urlparse(url)
 		conn = httplib.HTTPConnection(p.netloc,timeout=10)
@@ -34,7 +35,6 @@ def getPaperPmid ( paperName ):
 
 def getPaperYear( paperName ):
 	tree = xml.etree.ElementTree.parse(paperName)
-	##
 	paperYear = ''
 	for node in tree.iter():
 		if node.tag == "year" :
@@ -91,11 +91,12 @@ def getLinkInNode (linkNode):
 	else:
 		return linkNode.text
 
-def getHttpStatus (paperName,where):
+def getHttpStatus (paperName,where,journal):
+	print paperName
 	pmid = getPaperPmid ( paperName )
 	pYear = getPaperYear (paperName)
 	linkStatus = getLinkInBody (paperName,where)
-	return str(pmid) + " " + str(pYear) + " " + linkStatus
+	return journal + '\t' + str(pmid) + "\t" + str(pYear) + "\t" + linkStatus
 
 def getLinkInBody ( paperName, where="abstract" )	: # @where is abstract or body
 	tree = xml.etree.ElementTree.parse(paperName)

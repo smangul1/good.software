@@ -2,6 +2,13 @@ import requests
 import requests_ftp
 import re
 import sys
+import urllib3
+
+urllib3.disable_warnings()
+# NOTE: urllib warnings are disabled because https certificate validation is disabled.
+# In general, this is not a secure practice; see more here: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+# It was disabled here because of request failures caused by certificate-related errors
+# that are encountered by automated scripts but not web users.
 
 def makereq(url, protocol, timeout=10, allow_redirects=False):
   # Sends a request using the specified protocol and interprets
