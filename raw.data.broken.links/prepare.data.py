@@ -8,12 +8,13 @@ def is_number(var):
         if var == int(var):
             return True
     except Exception:
-        return False
+        pass
+    return False
 
 # 0 - timeout, -1 broken, 2 - redirection, 3 - normal
 def classify_link(n):
     # broken link >=400
-    # -1 - tme out
+    # -1 - time out
     # [300,400) - redirection
     if n==-1:
         return 0
@@ -42,7 +43,7 @@ args = ap.parse_args()
 
 
 
-#List of links cheked manually
+#List of links checked manually
 #Journal,ID,Year,Keyword,Link,Status,manual.flag
 #Bioinformatics,18940825,2008,available,http://sitepredict.org/,-1,0
 
