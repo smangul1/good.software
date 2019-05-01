@@ -58,7 +58,7 @@ python getLinksStatus.py Nat_Methods
 
 Running this script for each journal you want to evaluate will put two files in the `download.parse.data/` directory: `abstractLinks.prepared.tsv` and `bodyLinks.prepared.tsv`. **NOTE:** Each time you run this script, it will append results to the end of these two files. If you want to restart the analysis, you should first remove `abstractLinks.prepared.tsv` and `bodyLinks.prepared.tsv`.
 
-The last step is to run the `clean.sh` script to combine these files into `links.bulk.csv`. It does not require any parameters to run:
+The last step is to run the `clean.sh` script to combine these files into `links.unchecked.csv`. It does not require any parameters to run:
 
 ```sh
 ./clean.sh
@@ -66,3 +66,17 @@ The last step is to run the `clean.sh` script to combine these files into `links
 
 ## Step 3: Run detailed request checks
 
+Improvements to the link screening process required re-processing some of the failed requests to ensure they were actually "failures." This script requires **Python 3** and the Python modules specified in `requirements.txt`; to install all dependencies and run the script, run the following commands from within the `download.parse.data/` directory:
+
+```sh
+python -m venv .
+source bin/activate
+pip install -r requirements.txt
+
+# Run the script. First parameter is source data, second parameter is where output should be directed.
+python recheck_timeouts.py links.unchecked.csv links.bulk.csv
+```
+
+## Step 4: Analysis
+
+The final file created in step 3 (`links.bulk.csv`) is in same `links.bulk.csv` source file referred to in the Jupyter notebooks. Using this output as the source for the figures should generate results in the same way we did for our paper.
