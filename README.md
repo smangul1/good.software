@@ -62,7 +62,7 @@ We have prepared Jupyter Notebooks that utilize the raw data described above to 
 * [Figure 1 Jupyter Notebook](http://nbviewer.jupyter.org/github/smangul1/good.software/blob/master/analysis/Figure1.ipynb)
 * [Figure 2 Jupyter Notebook](https://github.com/smangul1/good.software/blob/master/analysis/Figure2.ipynb)
 
-For more information about reproducing the data collection process used in the archival stability section of our study, see [archival_pipeline.md](https://github.com/smangul1/good.software/blob/master/archival_pipeline.md).
+For more information about reproducing the data collection process used in the archival stability section of our study, see the README.md file in the [download.parse.data/ directory](https://github.com/smangul1/good.software/blob/master/download.parse.data/README.md).
 
 **Would you like to play with our data and code?** There is no need to download or install anything, we set this repository up compatible with Binder:
 
