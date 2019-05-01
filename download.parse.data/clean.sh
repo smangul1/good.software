@@ -6,4 +6,4 @@ awk '{if(NF<50) {for(i=1;i<=NF;i++) {printf "%s,", $i}; printf "\n"}}' abstractL
 
 # Prepare final file
 
-python prepare.data.py abstractLinks.prepared.clean.csv bodyLinks.prepared.clean.csv ../manual.evaluation/manual.test.csv ../analysis/links.bulk.csv
+python prepare.data.py abstractLinks.prepared.clean.csv bodyLinks.prepared.clean.csv links.bulk.csv

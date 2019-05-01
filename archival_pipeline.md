@@ -56,18 +56,13 @@ python getLinksStatus.py Nat_Methods
 
 **IMPORTANT NOTE:** Though most of the steps in this process use Python 3, **the `getLinksStatus.py` script requires Python 2.**
 
-Running this script for each journal you want to evaluate will put two files in the `download.parse.data/` directory: `abstractLinks.prepared.tsv` and `bodyLinks.prepared.tsv`.
+Running this script for each journal you want to evaluate will put two files in the `download.parse.data/` directory: `abstractLinks.prepared.tsv` and `bodyLinks.prepared.tsv`. **NOTE:** Each time you run this script, it will append results to the end of these two files. If you want to restart the analysis, you should first remove `abstractLinks.prepared.tsv` and `bodyLinks.prepared.tsv`.
 
-
-
-
-
-
-
-
+The last step is to run the `clean.sh` script to combine these files into `links.bulk.csv`. It does not require any parameters to run:
 
 ```sh
-cd raw.data.broken.links
-./reproduce.sh  # Creates file at analysis/links.bulk.csv
-
+./clean.sh
 ```
+
+## Step 3: Run detailed request checks
+

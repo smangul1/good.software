@@ -15,7 +15,7 @@ journal = sys.argv[1]
 dir_location = journal + '/'
 all_xml = os.listdir(dir_location)
 output_abstract = open("abstractLinks.prepared.tsv","a")
-output_body = open(dir_location + "bodyLinks.prepared.tsv","a")
+output_body = open("bodyLinks.prepared.tsv","a")
 for paperName in all_xml:
   paperName = dir_location + paperName
   output_abstract.write( getHttpStatus(paperName,'abstract',journal) + "\n" )

@@ -33,32 +33,11 @@ def classify_link(n):
 ap = argparse.ArgumentParser()
 ap.add_argument('input_abstract', help='input')
 ap.add_argument('input_body', help='input')
-ap.add_argument('manual', help='list of manually checked links which were time out')
 ap.add_argument('output', help='output')
 args = ap.parse_args()
 
 
-
-
-
-
-
-#List of links checked manually
-#Journal,ID,Year,Keyword,Link,Status,manual.flag
-#Bioinformatics,18940825,2008,available,http://sitepredict.org/,-1,0
-
-#0 means is it really -1 status
-
 goodLinks=set()
-file=open(args.manual)
-reader=csv.reader(file)
-next(reader,None)
-for line in reader:
-    if line[6]=='1':
-        goodLinks.add(line[4])
-
-
-print ("Number of manually identified good links",len(goodLinks))
 
 
 #-----------------------------------------
