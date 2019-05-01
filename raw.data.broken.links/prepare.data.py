@@ -225,7 +225,7 @@ for line in reader:
 file.close()
 
 
-print ("Number of links in the body exluding the one from the abstract",len(linksSet))
+print ("Number of links in the body excluding the one from the abstract",len(linksSet))
 
 dictLinks={}
 

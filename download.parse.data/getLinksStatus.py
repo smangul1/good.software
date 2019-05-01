@@ -1,8 +1,28 @@
+from urllib2 import HTTPError
+import xml.etree.ElementTree
+import os,re,sys
+import argparse
+import httplib
+from urlparse import urlparse
 from urlXmlUtil import *
 
-paperName = "PMC2427163.nxml"
-print getHttpStatus(paperName,'abstract') ## get http links in abstract
-print getHttpStatus(paperName,'body') ## get http links in body
+## go inside the Nat_Methods folder, and get the file list
+if len(sys.argv) < 2:
+  print 'Journal directory name required as first parameter.'
+  exit(1)
+
+journal = sys.argv[1]
+dir_location = journal + '/'
+all_xml = os.listdir(dir_location)
+output_abstract = open("abstractLinks.prepared.tsv","a")
+output_body = open(dir_location + "bodyLinks.prepared.tsv","a")
+for paperName in all_xml:
+  paperName = dir_location + paperName
+  output_abstract.write( getHttpStatus(paperName,'abstract',journal) + "\n" )
+  output_body.write( getHttpStatus(paperName,'body',journal) + "\n" )
+
+output_abstract.close()
+output_body.close()
 
 ## see output in the format
 
