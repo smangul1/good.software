@@ -32,7 +32,7 @@ Nat_Biotechnol
 Nucleic_Acids_Res
 ```
 
-As an example, consider the paper `PMC2427163.nxml` (included here). This file is in XML format.
+
 
 Do the following in the terminal, to download the example XML and all python scripts and run the example. (**NOTE: This example requires Python 2.**)
 
@@ -48,5 +48,28 @@ We focus on the follow groups of HTTP status:
 200-299: working link
 300-399: redirected link
 400 and over: broken link
+```
+
+To run the code over many xml files, you can follow the code below. This is an example for the folder `Nat_Methods`. 
+
+```
+from urllib2 import HTTPError
+import xml.etree.ElementTree
+import os,re,sys
+import argparse
+import httplib
+from urlparse import urlparse
+from urlXmlUtil import * 
+
+## go inside the Nat_Methods folder, and get the file list 
+all_xml = os.listdir('your/path/to/folder/Nat_Methods')
+output_abstract = open("abstract_link_status.txt","w")
+output_body = open("body_link_status.txt","w")
+for paperName in all_xml: 
+  output_abstract.write( getHttpStatus(paperName,'abstract') + "\n" ) 
+  output_body.write( getHttpStatus(paperName,'body') + "\n" )
+ 
+output_abstract.close() 
+output_body.close() 
 ```
 
