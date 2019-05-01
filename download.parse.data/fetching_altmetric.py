@@ -2,12 +2,12 @@ from altmetric import Altmetric
 import os, os.path
 
 # importing body links
-setLinks = open('../analysis/links.bulk.csv', 'r')
+setLinks = open('links.bulk.csv', 'r')
 
 numLines2Skip = 4500
 
 # altmetric
-outputFileName = '../analysis/links.bulk.altmetric.csv'
+outputFileName = 'links.bulk.altmetric.csv'
 listpmid_alreadyDone = []
 
 s = ','  # separator

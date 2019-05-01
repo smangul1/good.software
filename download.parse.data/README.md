@@ -81,6 +81,30 @@ python recheck_timeouts.py links.unchecked.csv links.bulk.csv
 deactivate
 ```
 
-## Step 4: Analysis
+## Step 4: Collect additional data for analysis
+
+There are two additional files that need to be generated for the analysis that is performed in the "Figure1" Jupyter notebook.
+
+### Step 4a: Minor redirection information
+
+If a redirection response changes only the protocol of a request (for example, `http://google.com` to `https://google.com`), then we count that as a `200` instead. Once `links.bulk.csv` is generated, you can generate the file with this redirection information in it by running the following command within the `download.parse.data/` directory:
+
+```sh
+python redirection.py
+```
+
+This will create a file called `http2https.redirected.csv`, which is used in the Jupyter notebook analysis.
+
+### Step 4b: Altmetric data
+
+The portion of the analysis that incorporates Altmetric data requires that data first be fetched from their API. This uses the same virtual environment as step 3:
+
+```sh
+source bin/activate
+python fetching_altmetric.py
+deactivate
+```
+
+## Step 5: Analysis
 
 The final file created in step 3 (`links.bulk.csv`) is in same `links.bulk.csv` source file referred to in the Jupyter notebooks. Using this output as the source for the figures should generate results in the same way we did for our paper.
